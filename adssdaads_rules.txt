@@ -1,2 +1,1 @@
-[b]aasdasd[/b]
-aaa
+<b>aasdasd</b><br>aaa
