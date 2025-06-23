@@ -1,4 +1,4 @@
-[b]adssadads[/b]
+<b>adssadads</b>
 asdasd
 
 a
