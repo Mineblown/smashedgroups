@@ -1,1 +1,2 @@
-[b]aaaa[/b][br][b]a[/b]
+[b]aasdasd[/b]
+aaa
