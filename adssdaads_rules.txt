@@ -1,1 +1,1 @@
-<b>aaaa</b><br><b>a</b>
+[b]aaaa[/b][br][b]a[/b]
