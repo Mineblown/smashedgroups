@@ -1,14 +1,7 @@
 {
-  "rules": "<b>asdasdsadas</b><br>aasdasdasdasdasd<br>asdasdadsads",
+  "rules": "asdsadsaddas",
   "posters": false,
-  "moderators": [
-    "dassdaasd",
-    "dsaasdasd",
-    "asdsad",
-    "aaa",
-    "adsasdasd",
-    "adsasd"
-  ],
-  "discord": "http://asddasasd.com",
-  "vrchat": "http://asddassasd.com"
+  "moderators": [],
+  "discord": "",
+  "vrchat": ""
 }
