@@ -1,6 +1,6 @@
 {
-  "rules": "asdsadsaddas asdasd<br>afdsadsfefdsa<br>asdasdasdasdasdsad",
-  "posters": true,
+  "rules": "asdsadsaddas asdasd<br>afdsadsfefdsa<br>asdasdasdasdasdsadasdasd asd ",
+  "posters": false,
   "moderators": [
     "testas",
     "testars2",
@@ -9,7 +9,8 @@
     "3233",
     "asdasdgg",
     "323333333",
-    "667666"
+    "667666",
+    "asdsadsad"
   ],
   "discord": "http://asddasasd.com",
   "vrchat": "http://asddasasd.com"
