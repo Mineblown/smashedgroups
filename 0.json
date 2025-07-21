@@ -1,6 +1,6 @@
 {
-  "rules": "<p data-break=\"0\">adsasdasd<p data-break=\"1\">asd<p data-break=\"0\">ads<p data-break=\"0\">ads<br><b>dsaasddsasdaasdasdsadsad</b><p data-break=\"3\"><br><p data-break=\"1\"><br>",
-  "infoBoard": "sadasddas asdasdasdsaddas<p data-break=\"0\"><br><p data-break=\"0\"><br><p data-break=\"0\"><br><p data-break=\"1\"><br><p data-break=\"1\"><br><p data-break=\"2\"><br><p data-break=\"3\"><br><br>asdadsads222<p data-break=\"1\"><br><p data-break=\"4\"><br><p data-break=\"2\"><br><p data-break=\"5\"><br><p data-break=\"3\"><br><p data-break=\"6\"><br><p data-break=\"7\"><br><br>asddsaadssad<p data-break=\"2\"><br><p data-break=\"8\"><br><p data-break=\"4\"><br><p data-break=\"9\"><br><p data-break=\"5\"><br><p data-break=\"10\"><br><p data-break=\"11\"><br><br>asd<p data-break=\"3\"><br><p data-break=\"12\"><br><p data-break=\"6\"><br><p data-break=\"13\"><br><p data-break=\"7\"><br><p data-break=\"14\"><br><p data-break=\"15\"><br><br>ads<p data-break=\"8\"><br><p data-break=\"16\"><br>",
+  "rules": "<p data-break=\"2\"><br></p>",
+  "infoBoard": "<p data-break=\"33\"><br></p>",
   "posters": true,
   "moderators": [
     "dsasadads",
