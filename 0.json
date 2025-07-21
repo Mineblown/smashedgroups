@@ -1,5 +1,5 @@
 {
-  "rules": "<p>a</p><p>a</p><p>a</p>",
+  "rules": "<p>a<br>a<br>a</p>",
   "infoBoard": "",
   "posters": true,
   "moderators": [],
