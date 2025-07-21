@@ -1,6 +1,6 @@
 {
-  "rules": "as<br>asd<br>ads",
-  "infoBoard": "",
+  "rules": "as<br><br>asd<br><br>ads",
+  "infoBoard": "<br><br>",
   "posters": true,
   "moderators": [],
   "discord": "http://asddas1asd.com",
