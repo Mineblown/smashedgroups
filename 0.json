@@ -1,6 +1,6 @@
 {
-  "rules": "<p data-break=\"2\"><br></p>",
-  "infoBoard": "<p data-break=\"33\"><br></p>",
+  "rules": "<p data-break=\"0\"><br></p><br>",
+  "infoBoard": "<p data-break=\"0\"><br></p><br>",
   "posters": true,
   "moderators": [
     "dsasadads",
