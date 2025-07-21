@@ -2,7 +2,10 @@
   "rules": "asdsaddsa",
   "infoBoard": "dasdas",
   "posters": false,
-  "moderators": [],
+  "moderators": [
+    "adsasdasd",
+    "dassaddsa"
+  ],
   "discord": "",
   "vrchat": "",
   "groupName": ""
