@@ -3,9 +3,18 @@
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/3333331_billboard_atlas.png",
     "images": [
       {
-        "name": "gunfirefalls.png",
+        "name": "chess text.png",
         "uv": [
           0,
+          0,
+          0.25,
+          0.25
+        ]
+      },
+      {
+        "name": "gunfirefalls.png",
+        "uv": [
+          0.25,
           0,
           0.25,
           0.25
@@ -14,7 +23,7 @@
       {
         "name": "IMG_5222.jpg",
         "uv": [
-          0.25,
+          0.5,
           0,
           0.25,
           0.25
@@ -23,8 +32,17 @@
       {
         "name": "IMG_5222.png",
         "uv": [
-          0.5,
+          0.75,
           0,
+          0.25,
+          0.25
+        ]
+      },
+      {
+        "name": "rozAhai.png",
+        "uv": [
+          0,
+          0.25,
           0.25,
           0.25
         ]
