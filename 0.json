@@ -1,6 +1,6 @@
 {
-  "rules": "<p>adsasdasd</p><p><br></p><p>asd</p><p><br></p><p>ads</p><p><br></p><p><strong>dsaasddsasdaasdasdsadsad</strong></p>",
-  "infoBoard": "<p>sadasddas asdasdasdsaddas</p>",
+  "rules": "adsasdasd<br>asd<br>ads<br><b>dsaasddsasdaasdasdsadsad</b>",
+  "infoBoard": "sadasddas asdasdasdsaddas",
   "posters": true,
   "moderators": [
     "dsasadads",
