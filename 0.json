@@ -1,6 +1,6 @@
 {
-  "rules": "<p><size=200asddsaasd</size></p><p><color=#ff9900><size=200asdsadasds</size></color></p>",
-  "infoBoard": "<p><br></p>",
+  "rules": "<br><size=200asddsaasd</size><br><color=#ff9900><size=200%>asdsadasds</size></color><br>",
+  "infoBoard": "<br><br><br><br>",
   "posters": true,
   "moderators": [],
   "discord": "http://asddas1asd.com",
