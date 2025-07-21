@@ -1,6 +1,6 @@
 {
-  "rules": "<p data-break=\"0\"><br></p><br>",
-  "infoBoard": "<p data-break=\"0\"><br></p><br>",
+  "rules": "<p data-break=\"0\">sdasadasd</p><p data-break=\"0\"><br></p><p data-break=\"0\">sad</p><p data-break=\"0\"><br></p><p data-break=\"1\"><br></p>",
+  "infoBoard": "<p data-break=\"0\"><br></p><p data-break=\"0\"><br></p><p data-break=\"1\"><br></p>",
   "posters": true,
   "moderators": [
     "dsasadads",
