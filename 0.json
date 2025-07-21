@@ -1,6 +1,6 @@
 {
-  "rules": "<b>adsdsadsa</b><br><color=#e60000>das</color>",
-  "infoBoard": "<br><br>",
+  "rules": "<b>adsdsadsa</b><br><span style=\"color: #e60000;\" class=\"ql-size-huge\">das</span>",
+  "infoBoard": "<br><br><br>",
   "posters": true,
   "moderators": [
     "dsasadads",
