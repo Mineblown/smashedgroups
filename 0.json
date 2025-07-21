@@ -1,5 +1,5 @@
 {
-  "rules": "<size=150%>asddsadsa</size><br><size=200%>dasdsadas</size>",
+  "rules": "<align=\"center\"><size=150%>asddsadsa</size></align><size=200%>dasdsadas</size>",
   "infoBoard": "",
   "posters": true,
   "moderators": [],
