@@ -1,6 +1,6 @@
 {
-  "rules": "<p data-break=\"0\">adsasdasd<p data-break=\"1\">asd<p data-break=\"2\">ads<br>ads<p data-break=\"5\"><br><br><b>dsaasddsasdaasdasdsadsad</b><br>",
-  "infoBoard": "sadasddas asdasdasdsaddas<p data-break=\"0\"><br><br>asdadsads222<p data-break=\"1\"><br><br>asddsaadssad<p data-break=\"2\"><br><br>asd<p data-break=\"3\"><br><br>ads<br>",
+  "rules": "<p data-break=\"0\">adsasdasd<p data-break=\"1\">asd<p data-break=\"0\">ads<p data-break=\"2\">ads<br><b>dsaasddsasdaasdasdsadsad</b><p data-break=\"3\"><br>",
+  "infoBoard": "sadasddas asdasdasdsaddas<p data-break=\"0\"><br><p data-break=\"0\"><br><p data-break=\"1\"><br><br>asdadsads222<p data-break=\"1\"><br><p data-break=\"2\"><br><p data-break=\"3\"><br><br>asddsaadssad<p data-break=\"2\"><br><p data-break=\"4\"><br><p data-break=\"5\"><br><br>asd<p data-break=\"3\"><br><p data-break=\"6\"><br><p data-break=\"7\"><br><br>ads<p data-break=\"8\"><br>",
   "posters": true,
   "moderators": [
     "dsasadads",
