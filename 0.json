@@ -1,6 +1,6 @@
 {
-  "rules": "adsasdasd<br>asd<br>ads<br><b>dsaasddsasdaasdasdsadsad</b>",
-  "infoBoard": "sadasddas asdasdasdsaddas",
+  "rules": "adsasdasd<br>asd<br>ads<br><b>dsaasddsasdaasdasdsadsad</b><span class=\"ql-cursor\">﻿</span>",
+  "infoBoard": "sadasddas asdasdasdsaddas<br>asd<br>asd",
   "posters": true,
   "moderators": [
     "dsasadads",
