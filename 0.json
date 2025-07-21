@@ -1,6 +1,6 @@
 {
-  "rules": "adsasdasd<br>asd<br>ads<br>ads<br><br><br><b>dsaasddsasdaasdasdsadsad</b>",
-  "infoBoard": "sadasddas asdasdasdsaddas<br>asdadsads222<br>asddsaadssad<br>asd<br>ads",
+  "rules": "<p data-break=\"0\">adsasdasd<p data-break=\"1\">asd<p data-break=\"2\">ads<br>ads<p data-break=\"5\"><br><br><b>dsaasddsasdaasdasdsadsad</b><br>",
+  "infoBoard": "sadasddas asdasdasdsaddas<p data-break=\"0\"><br><br>asdadsads222<p data-break=\"1\"><br><br>asddsaadssad<p data-break=\"2\"><br><br>asd<p data-break=\"3\"><br><br>ads<br>",
   "posters": true,
   "moderators": [
     "dsasadads",
