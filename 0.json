@@ -1,5 +1,5 @@
 {
-  "rules": "<b>adsdsadsa</b><br><size=200das</size>",
+  "rules": "<b>adsdsadsa</b><br><span class=\"ql-size-huge\" style=\"color: rgb(230, 0, 0);\">das</span>",
   "infoBoard": "<br>",
   "posters": true,
   "moderators": [
