@@ -1,11 +1,10 @@
 {
   "rules": "asdsaddsa",
   "infoBoard": "dasdas",
-  "posters": true,
+  "posters": false,
   "moderators": [
     "adsasdasd",
-    "dassaddsa",
-    ".Skittles."
+    "dassaddsa"
   ],
   "discord": "",
   "vrchat": "",
