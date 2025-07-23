@@ -2,7 +2,9 @@
   "rules": "as<br>asd<br>ads",
   "infoBoard": ".",
   "posters": true,
-  "moderators": [],
+  "moderators": [
+    "test"
+  ],
   "discord": "http://asddas1asd.com",
   "vrchat": "http://asddasa1sd.com",
   "groupName": "dassss1asdsda",
