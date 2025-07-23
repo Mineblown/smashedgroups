@@ -14,7 +14,7 @@
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/0_billboard_atlas.png",
     "images": [
       {
-        "name": "chess text.png",
+        "name": "pongers-min-resized.png",
         "uv": [
           0,
           0,
@@ -23,7 +23,7 @@
         ]
       },
       {
-        "name": "gunfirefalls.png",
+        "name": "SMASH_pong_referee_white.png",
         "uv": [
           0.5,
           0,
@@ -32,28 +32,10 @@
         ]
       },
       {
-        "name": "IMG_5222.jpg",
+        "name": "SMASH_comp_admin_icon_white.png",
         "uv": [
           0,
           0.3333333333333333,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "IMG_5222.png",
-        "uv": [
-          0.5,
-          0.3333333333333333,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "rozAhai.png",
-        "uv": [
-          0,
-          0.6666666666666666,
           0.5,
           0.3333333333333333
         ]
