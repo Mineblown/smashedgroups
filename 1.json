@@ -11,7 +11,7 @@
   "discord": "",
   "vrchat": "dasasdadsasd",
   "groupName": "2222222",
-  "billboards": false,
+  "billboards": true,
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png",
     "images": [
