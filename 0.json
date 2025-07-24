@@ -1,5 +1,5 @@
 {
-  "rules": "<b><i><u>aasdadsasddsa</u></i></b><br>dsadsaasd<br><br>asddasdas<br>ads",
+  "rules": "<color=#9933ff><b><i><u>aasdadsasddsa</u></i></b></color><align=center><color=#e60000><b><u>dsadsaasd</u></b></color></align><br><br>asddasdas<br>ads",
   "infoBoard": "<br><br>",
   "posters": true,
   "moderators": [
