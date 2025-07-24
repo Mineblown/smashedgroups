@@ -1,5 +1,5 @@
 {
-  "rules": "<color=#e60000><b>as</b></color><br><br>asd<br>ads<br>ads<br>ads",
+  "rules": "<color=#e60000><b>as</b></color><br><br>asd<br>ads<br>ads<br>adsads",
   "infoBoard": ".asddsasad<br>ads<br>dsa<br><br>dsa",
   "moderators": [
     "Mͥufͣfͫin",
@@ -43,6 +43,8 @@
     ]
   },
   "atlasApprovedOn": "2025-07-24",
-  "posterEnabled": false,
-  "groupPhotosEnabled": false
+  "posters": true,
+  "billboards": false,
+  "canUsePosters": true,
+  "canUseGroupPhotos": false
 }
