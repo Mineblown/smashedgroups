@@ -1,5 +1,5 @@
 {
-  "rules": "<color=#e60000><size=150%><b>asdas</b></size></color><color=#e60000><size=150%><b></b></size></color><br><size=150%><b>ads</b></size><br><color=#9933ff><size=150%>asd</size></color>",
+  "rules": "<size=150%><b>asdas</b></size><size=150%><b></b></size><size=150%><b>ads</b></size><br><color=#9933ff><size=150%>asd</size></color>",
   "infoBoard": "<br><br>",
   "posters": true,
   "moderators": [
