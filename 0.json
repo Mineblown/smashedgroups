@@ -1,5 +1,5 @@
 {
-  "rules": "<color=#c285ff>asdasdsad</color><br><br><color=#c285ff>sda</color><br><br><color=#c285ff>asd</color><br><color=#c285ff>asdasddsa</color><br><br><color=#c285ff>ads</color><br><br><color=#c285ff>asdsad</color><br><br><color=#c285ff>dasa</color><br><br><color=#c285ff>dsa</color>",
+  "rules": "<color=#c285ff><size=200%>asdasdsad</size></color><br><br><color=#c285ff><size=200%>sda</size></color><br><br><color=#c285ff><size=200%>asd</size></color><br><color=#c285ff><size=200%>asdasddsa</size></color><br><br><color=#c285ff><size=200%>ads</size></color><br><br><color=#c285ff><size=200%>asdsad</size></color><br><br><color=#c285ff><size=200%>dasa</size></color><br><br><color=#c285ff><size=200%>dsa</size></color>",
   "infoBoard": ".sdaaasd",
   "posters": true,
   "moderators": [
