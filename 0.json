@@ -1,6 +1,6 @@
 {
-  "rules": "<strong class=\"ql-size-large\" style=\"color: rgb(230, 0, 0);\">asdas</strong><br><strong class=\"ql-size-large\">ads</strong><br><color=#9933ff><size=150%>asd</size></color>",
-  "infoBoard": "<br>",
+  "rules": "<color=#e60000><size=150%><b>asdas</b></size></color><color=#e60000><size=150%><b></b></size></color><br><size=150%><b>ads</b></size><br><color=#9933ff><size=150%>asd</size></color>",
+  "infoBoard": "<br><br>",
   "posters": true,
   "moderators": [
     "test",
