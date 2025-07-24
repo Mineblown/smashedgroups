@@ -1,5 +1,5 @@
 {
-  "rules": "<color=#9933ff><size=200%>asddasdsasad</size></color><br><br><color=#9933ff><size=200%>dsa</size></color><br><br><i>1</i><br><br><em class=\"ql-size-small\">2</em><br><br><color=#ff9900><u>3a</u></color>",
+  "rules": "<color=#9933ff><size=200%>asddasdsasad</size></color><br><br><color=#9933ff><size=200%>dsa</size></color><br><br><i>1</i><br><br><strong class=\"ql-size-small\"><i>2</i></strong><br><br><color=#ff9900><u>3a</u></color>",
   "infoBoard": ".sdaaasd",
   "posters": true,
   "moderators": [
