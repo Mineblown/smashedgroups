@@ -1,6 +1,6 @@
 {
   "rules": "<size=150%><b>asdas</b></size>",
-  "infoBoard": "<br><br>",
+  "infoBoard": "",
   "posters": true,
   "moderators": [
     "test",
