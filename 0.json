@@ -1,12 +1,10 @@
 {
-  "rules": "<color=#9933ff><b><i><u>aasdadsasddsa</u></i></b></color><align=center><color=#e60000><b><u>dsadsaasd</u></b></color></align><br><br>asddasdas<br>ads",
-  "infoBoard": "<br><br>",
-  "posters": true,
+  "rules": "as<br>asd<br>ads<br>ads",
+  "infoBoard": ".",
   "moderators": [
+    "Mͥufͣfͫin",
     "test",
-    "meeee",
-    "asdsad",
-    "Mͥufͣfͫin"
+    "meeee"
   ],
   "discord": "http://asddas1asd.com",
   "vrchat": "grp_459c3619-aec6-48fd-98d4-50ae1a51e7cf",
@@ -43,6 +41,7 @@
       }
     ]
   },
-  "billboards": true,
-  "atlasApprovedOn": "2025-07-24"
+  "atlasApprovedOn": "2025-07-24",
+  "posters": true,
+  "billboards": true
 }
