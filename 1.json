@@ -3,14 +3,16 @@
   "infoBoard": "dasdasasdsaddsa",
   "posters": false,
   "moderators": [
+    "Mͥufͣfͫin",
     "adsasdasd",
     "dassaddsa",
-    "test",
-    "Mͥufͣfͫin"
+    "test"
   ],
   "discord": "",
   "vrchat": "dasasdadsasd",
   "groupName": "2222222",
   "billboards": true,
-  "atlasApprovedOn": "2025-07-24"
+  "atlasApprovedOn": "2025-07-24",
+  "canUsePosters": true,
+  "canUseGroupPhotos": true
 }
