@@ -45,7 +45,7 @@
     ]
   },
   "atlasApprovedOn": "2025-07-24",
-  "posters": true,
+  "posters": false,
   "billboards": false,
   "canUsePosters": true,
   "canUseGroupPhotos": false
