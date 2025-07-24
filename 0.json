@@ -1,6 +1,6 @@
 {
-  "rules": "<color=#e60000><b>as</b></color><br><br>asd<br>ads<br>ads<br>adsads",
-  "infoBoard": ".asddsasad<br>ads<br>dsa<br><br>dsa",
+  "rules": "as\n\nasd\n\nads\n\nads\n\nadsads",
+  "infoBoard": ".asddsasad\n\nads\n\ndsa\n\ndsa",
   "moderators": [
     "Mͥufͣfͫin",
     "test",
