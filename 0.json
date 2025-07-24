@@ -1,6 +1,6 @@
 {
-  "rules": "aasdadsasddsa<br><br>dsadsaasd<br><br>asddasdas<br>ads",
-  "infoBoard": "<br>",
+  "rules": "aasdadsasddsa<br>dsadsaasd<br><br>asddasdas<br>ads",
+  "infoBoard": "<br><br>",
   "posters": true,
   "moderators": [
     "test",
