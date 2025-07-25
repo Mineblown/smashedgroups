@@ -16,5 +16,6 @@
   "billboards": true,
   "atlasApprovedOn": "2025-07-24",
   "canUsePosters": true,
-  "canUseGroupPhotos": true
+  "canUseGroupPhotos": true,
+  "bracketImageUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_bracket.png?1753436259435"
 }
