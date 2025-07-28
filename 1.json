@@ -17,9 +17,9 @@
   "canUseGroupPhotos": true,
   "bracketImageUrl": "https://vrclink.com/1_bracket.png?v=1753707662074",
   "bracketLogoUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_logo.png?v=1753476034476",
-  "youtube": "https://discord.gg/smashed",
-  "tiktok": "https://discord.gg/smashed",
-  "patreon": "https://discord.gg/smashed",
+  "youtube": "",
+  "tiktok": "",
+  "patreon": "",
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png",
     "images": [
@@ -43,7 +43,7 @@
       }
     ]
   },
-  "tagline": "",
+  "tagline": "asdadsadsdas",
   "posterEnabled": false,
   "groupPhotosEnabled": true
 }
