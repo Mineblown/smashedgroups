@@ -1,6 +1,6 @@
 {
   "rules": "aaa<br><b></b><br><b></b>",
-  "infoBoard": "ads<br>adsa<br>a",
+  "infoBoard": "<size=150%><b>ads</b></size><br><size=150%><b>adsa</b></size><br><size=150%><b>a</b></size>",
   "moderators": [
     "Mͥufͣfͫin",
     "adsasdasd",
