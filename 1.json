@@ -1,5 +1,5 @@
 {
-  "rules": "<align=center>.a</align><align=center>a</align>",
+  "rules": "<align=center><size=200%><color=#ff0000><b>.a</b></color></size></align><align=center><size=200%><color=#ff0000><b>a</b></color></size></align>",
   "infoBoard": "<size=150%><color=#ff0000><b>ads</b></color></size>",
   "moderators": [
     "Mͥufͣfͫin",
