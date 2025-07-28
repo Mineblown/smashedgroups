@@ -1,6 +1,6 @@
 {
   "rules": "<align=center><b><size=200asdsaddsa</size></b></align><br><br><align=center><b><size=200ads</size></b></align>",
-  "infoBoard": "dasdasasdsaddsaadsdas",
+  "infoBoard": "dasdasasdsaddsaadsdasa ",
   "moderators": [
     "Mͥufͣfͫin",
     "adsasdasd",
@@ -43,7 +43,7 @@
       }
     ]
   },
+  "tagline": "",
   "posterEnabled": false,
-  "groupPhotosEnabled": true,
-  "tagline": ""
+  "groupPhotosEnabled": true
 }
