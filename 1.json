@@ -1,6 +1,6 @@
 {
-  "rules": "<b><size=200asdasdasdas</size></b>",
-  "infoBoard": "dasdasasdsaddsaadsdasa adsads<br><br>asd",
+  "rules": "[b][/b]",
+  "infoBoard": "[size=200%]dasdasasdsaddsaadsdasa adsads[br][br]asd[/size]",
   "moderators": [
     "Mͥufͣfͫin",
     "adsasdasd",
