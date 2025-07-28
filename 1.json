@@ -1,7 +1,6 @@
 {
-  "rules": "<align=center><b><size=200asdsaddsa</size></b></align><br><align=center><b><size=200ads</size></b></align>",
+  "rules": "<align=center><b><size=200asdsaddsa</size></b></align><br><br><align=center><b><size=200ads</size></b></align>",
   "infoBoard": "dasdasasdsaddsaadsdas",
-  "posters": false,
   "moderators": [
     "Mͥufͣfͫin",
     "adsasdasd",
@@ -11,9 +10,8 @@
     "asdasdgfgf"
   ],
   "discord": "https://discord.gg/smashed",
-  "vrchat": "dasasdadsasd",
+  "vrchat": "https://discord.gg/smashed",
   "groupName": "2222222",
-  "billboards": true,
   "atlasApprovedOn": "2025-07-24",
   "canUsePosters": true,
   "canUseGroupPhotos": true,
@@ -44,5 +42,8 @@
         ]
       }
     ]
-  }
+  },
+  "posterEnabled": false,
+  "groupPhotosEnabled": true,
+  "tagline": ""
 }
