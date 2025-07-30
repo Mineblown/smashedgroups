@@ -45,6 +45,6 @@
     ]
   },
   "tagline": "asdadsadsdas",
-  "posterEnabled": true,
+  "posterEnabled": false,
   "groupPhotosEnabled": true
 }
