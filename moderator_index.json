@@ -1,16 +1,4 @@
 {
-  "adsads": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa"
-    }
-  ],
-  "adsadsdasasd": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa"
-    }
-  ],
   "ilykrona": [
     {
       "id": "10",
@@ -127,6 +115,18 @@
     {
       "id": "1",
       "name": "Test Group"
+    }
+  ],
+  "adsads": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa"
+    }
+  ],
+  "adsadsdasasd": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa"
     }
   ]
 }
