@@ -9,7 +9,7 @@
   "rules": "asddasasd",
   "infoBoard": "asddasasdasdasd",
   "posterEnabled": true,
-  "groupPhotosEnabled": false,
+  "groupPhotosEnabled": true,
   "moderators": [
     "12321r21r1er1",
     "asfasffsa"
