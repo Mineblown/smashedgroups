@@ -1,126 +1,114 @@
 {
-  "ilykrona": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "SC_BLITZKRIEGER": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "ㄥ卂乙卂尺ㄩ丂": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "DDBOJANGLES": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "Advitz": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "GreyGoose20": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "ＨＡＺＥツ": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "AlianPanda": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "Breaad․cos": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "lulussy": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "CraziestPizza": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "candybubblesVT": [
-    {
-      "id": "10",
-      "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
   "aaaa": [
     {
       "id": "0",
-      "name": "Group 0",
-      "active": true
+      "name": "Group 0"
     },
     {
       "id": "1",
-      "name": "Test Group",
-      "active": true
+      "name": "Test Group"
     }
   ],
-  "adsads": [
+  "aaaaaa": [
     {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
-    }
-  ],
-  "adsadsdasasd": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
-    }
-  ],
-  "Mͥufͣfͫin": [
-    {
-      "id": "2",
-      "name": "Group 2",
-      "active": true
+      "id": "1",
+      "name": "Test Group"
     }
   ],
   "abc": [
     {
       "id": "1",
-      "name": "Test Group",
-      "active": true
+      "name": "Test Group"
+    }
+  ],
+  "ilykrona": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "SC_BLITZKRIEGER": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "ㄥ卂乙卂尺ㄩ丂": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "DDBOJANGLES": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "Advitz": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "GreyGoose20": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "ＨＡＺＥツ": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "AlianPanda": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "Breaad․cos": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "lulussy": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "CraziestPizza": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "candybubblesVT": [
+    {
+      "id": "10",
+      "name": "BUNNYBEE"
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2"
+    }
+  ],
+  "adsads": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa"
+    }
+  ],
+  "adsadsdasasd": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa"
     }
   ]
 }
