@@ -1,11 +1,4 @@
 {
-  "aaaa": [
-    {
-      "id": "0",
-      "name": "Group 0",
-      "active": true
-    }
-  ],
   "ilykrona": [
     {
       "id": "10",
@@ -90,6 +83,20 @@
       "active": true
     }
   ],
+  "aaaa": [
+    {
+      "id": "0",
+      "name": "Group 0",
+      "active": true
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2",
+      "active": true
+    }
+  ],
   "abc": [
     {
       "id": "1",
@@ -109,13 +116,6 @@
       "id": "3333331",
       "name": "asdsadasddsa",
       "active": false
-    }
-  ],
-  "Mͥufͣfͫin": [
-    {
-      "id": "2",
-      "name": "Group 2",
-      "active": true
     }
   ]
 }
