@@ -2,27 +2,7 @@
   "rules": "<size=200%>aaaaa</size><br><size=200%>a</size><br><size=200%>a</size><br><size=200%>a</size><br><br><size=200%>aaaaa</size>",
   "infoBoard": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.\n<br>Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.<br>\n",
   "moderators": [
-    "Mͥufͣfͫin",
-    "Trollol",
-    "adsdasdsa",
-    "asddsasafgsa",
-    "2",
-    "124331231",
-    "1§§12§21§12",
-    "42343267",
-    "31212343655476",
-    "1321312132",
-    "543453453657",
-    "423423667",
-    "aaaaaa",
-    "12412442",
-    "15235121254",
-    "616423436536",
-    "2343432234",
-    "654564645",
-    "asdasd",
-    "asdasdgfgf",
-    "adssdadasasfggad"
+    "abc"
   ],
   "discord": "https://discord.gg/smashed",
   "vrchat": "grp_459c3619-aec6-48fd-98d4-50ae1a51e7cf",
@@ -61,21 +41,6 @@
   "tagline": "asdadsadsdas",
   "posterEnabled": true,
   "groupPhotosEnabled": false,
-  "owners": [
-    "Trollol",
-    "adsdasdsa",
-    "asddsasafgsa",
-    "2",
-    "124331231",
-    "1§§12§21§12",
-    "42343267",
-    "31212343655476",
-    "1321312132",
-    "543453453657",
-    "423423667",
-    "Mͥufͣfͫin"
-  ],
-  "coOwners": [
-    "aaaaaa"
-  ]
+  "owners": [],
+  "coOwners": []
 }
