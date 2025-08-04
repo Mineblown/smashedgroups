@@ -1,18 +1,4 @@
 {
-  "aaaa": [
-    {
-      "id": "0",
-      "name": "Group 0",
-      "active": true
-    }
-  ],
-  "abc": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": true
-    }
-  ],
   "ilykrona": [
     {
       "id": "10",
@@ -94,6 +80,20 @@
     {
       "id": "10",
       "name": "BUNNYBEE",
+      "active": true
+    }
+  ],
+  "aaaa": [
+    {
+      "id": "0",
+      "name": "Group 0",
+      "active": true
+    }
+  ],
+  "abc": [
+    {
+      "id": "1",
+      "name": "Test Group",
       "active": true
     }
   ],
