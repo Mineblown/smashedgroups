@@ -1,7 +1,9 @@
 {
   "rules": "asdasdasddsa<align=center>asddsadasasdads</align><br><br><align=center><b>adsdsaasd</b></align><br><br><b>dsa</b><br><br>dasdasasd<br><b><align=right><b>asd</b></align></b><br><br><b>asd</b>",
   "infoBoard": "",
-  "moderators": [],
+  "moderators": [
+    "aaaa"
+  ],
   "discord": "",
   "vrchat": "",
   "groupName": "",
@@ -47,5 +49,9 @@
   "tagline": "",
   "youtube": "",
   "tiktok": "",
-  "patreon": ""
+  "patreon": "",
+  "owners": [
+    "aaaa"
+  ],
+  "coOwners": []
 }
