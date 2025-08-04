@@ -39,5 +39,22 @@
         ]
       }
     ]
-  }
+  },
+  "groupName": "partner1",
+  "tagline": "",
+  "discord": "",
+  "vrchat": "",
+  "youtube": "",
+  "tiktok": "",
+  "patreon": "",
+  "rules": "",
+  "infoBoard": "",
+  "posterEnabled": false,
+  "groupPhotosEnabled": false,
+  "moderators": [
+    "fsafsa",
+    "dasas",
+    "12111"
+  ],
+  "active": true
 }
