@@ -47,88 +47,6 @@
       "name": "Test Group"
     }
   ],
-  "Trollol": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "adsdasdsa": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "asddsasafgsa": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "15235121254": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "616423436536": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "1§§12§21§12": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "31212343655476": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "543453453657": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "Mͥufͣfͫin": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    },
-    {
-      "id": "2",
-      "name": "Group 2"
-    }
-  ],
-  "aaaaaa": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "asdasd": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "asdasdgfgf": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "adssdadasasfggad": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
   "ilykrona": [
     {
       "id": "10",
@@ -201,6 +119,12 @@
       "name": "BUNNYBEE"
     }
   ],
+  "aaaa": [
+    {
+      "id": "0",
+      "name": "Group 0"
+    }
+  ],
   "adsads": [
     {
       "id": "3333331",
@@ -211,6 +135,88 @@
     {
       "id": "3333331",
       "name": "asdsadasddsa"
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2"
+    },
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "Trollol": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "adsdasdsa": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "asddsasafgsa": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "15235121254": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "616423436536": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "1§§12§21§12": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "31212343655476": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "543453453657": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "aaaaaa": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "asdasd": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "asdasdgfgf": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "adssdadasasfggad": [
+    {
+      "id": "1",
+      "name": "Test Group"
     }
   ]
 }
