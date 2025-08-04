@@ -5,14 +5,22 @@
       "name": "Test Group"
     }
   ],
-  "aaaa": [
+  "adsads": [
     {
-      "id": "0",
-      "name": "Group 0"
-    },
+      "id": "3333331",
+      "name": "asdsadasddsa"
+    }
+  ],
+  "adsadsdasasd": [
     {
-      "id": "1",
-      "name": "Test Group"
+      "id": "3333331",
+      "name": "asdsadasddsa"
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2"
     }
   ],
   "aaaaaa": [
@@ -27,10 +35,10 @@
       "name": "Test Group"
     }
   ],
-  "Mͥufͣfͫin": [
+  "aaaa": [
     {
-      "id": "2",
-      "name": "Group 2"
+      "id": "1",
+      "name": "Test Group"
     }
   ],
   "ilykrona": [
@@ -103,18 +111,6 @@
     {
       "id": "10",
       "name": "BUNNYBEE"
-    }
-  ],
-  "adsads": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa"
-    }
-  ],
-  "adsadsdasasd": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa"
     }
   ]
 }
