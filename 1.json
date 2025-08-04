@@ -10,7 +10,9 @@
   "infoBoard": "asddasasdasdasd",
   "posterEnabled": false,
   "groupPhotosEnabled": false,
-  "moderators": [],
+  "moderators": [
+    "12321r21r1er1"
+  ],
   "active": true,
   "owners": [],
   "coOwners": []
