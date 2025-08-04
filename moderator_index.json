@@ -3,68 +3,68 @@
     {
       "id": "1",
       "name": "partner1",
-      "isActive": true
+      "active": true
     },
     {
       "id": "12",
       "name": "Muffin",
-      "isActive": true
+      "active": false
     }
   ],
   "1143124124": [
     {
       "id": "12",
       "name": "Muffin",
-      "isActive": true
+      "active": false
     }
   ],
   "fsafsa": [
     {
       "id": "1",
       "name": "partner1",
-      "isActive": true
+      "active": true
     }
   ],
   "dasas": [
     {
       "id": "1",
       "name": "partner1",
-      "isActive": true
+      "active": true
     }
   ],
   "ggaaa": [
     {
       "id": "1",
       "name": "partner1",
-      "isActive": true
+      "active": true
     }
   ],
   "hhhaa": [
     {
       "id": "1",
       "name": "partner1",
-      "isActive": true
+      "active": true
     }
   ],
   "asdasas": [
     {
       "id": "12",
       "name": "Muffin",
-      "isActive": true
+      "active": false
     }
   ],
   "ggaa": [
     {
       "id": "12",
       "name": "Muffin",
-      "isActive": true
+      "active": false
     }
   ],
   "hhhhhhh": [
     {
       "id": "12",
       "name": "Muffin",
-      "isActive": true
+      "active": false
     }
   ]
 }
