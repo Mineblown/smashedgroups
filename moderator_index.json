@@ -13,13 +13,6 @@
       "active": false
     }
   ],
-  "Mͥufͣfͫin": [
-    {
-      "id": "2",
-      "name": "Group 2",
-      "active": false
-    }
-  ],
   "abc": [
     {
       "id": "1",
@@ -116,6 +109,13 @@
       "id": "0",
       "name": "Group 0",
       "active": true
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2",
+      "active": false
     }
   ]
 }
