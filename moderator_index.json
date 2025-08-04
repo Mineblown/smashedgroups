@@ -1,25 +1,4 @@
 {
-  "Mͥufͣfͫin": [
-    {
-      "id": "2",
-      "name": "Group 2",
-      "active": true
-    }
-  ],
-  "adsads": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
-    }
-  ],
-  "adsadsdasasd": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
-    }
-  ],
   "aaaa": [
     {
       "id": "0",
@@ -29,6 +8,13 @@
     {
       "id": "1",
       "name": "Test Group",
+      "active": true
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2",
       "active": true
     }
   ],
@@ -121,6 +107,20 @@
       "id": "10",
       "name": "BUNNYBEE",
       "active": true
+    }
+  ],
+  "adsads": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa",
+      "active": false
+    }
+  ],
+  "adsadsdasasd": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa",
+      "active": false
     }
   ]
 }
