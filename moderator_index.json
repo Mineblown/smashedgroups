@@ -1,66 +1,24 @@
 {
-  "aaaaaa": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
   "Mͥufͣfͫin": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    },
     {
       "id": "2",
       "name": "Group 2"
-    }
-  ],
-  "megatest": [
+    },
     {
       "id": "1",
       "name": "Test Group"
     }
   ],
-  "aaaaaaa": [
+  "adsads": [
     {
-      "id": "1",
-      "name": "Test Group"
+      "id": "3333331",
+      "name": "asdsadasddsa"
     }
   ],
-  "adsasdasd": [
+  "adsadsdasasd": [
     {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "dassaddsa": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "test": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "asdasd": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "asdasdgfgf": [
-    {
-      "id": "1",
-      "name": "Test Group"
-    }
-  ],
-  "adssdadasasfggad": [
-    {
-      "id": "1",
-      "name": "Test Group"
+      "id": "3333331",
+      "name": "asdsadasddsa"
     }
   ],
   "ilykrona": [
@@ -135,16 +93,28 @@
       "name": "BUNNYBEE"
     }
   ],
-  "adsads": [
+  "aaaaaa": [
     {
-      "id": "3333331",
-      "name": "asdsadasddsa"
+      "id": "1",
+      "name": "Test Group"
     }
   ],
-  "adsadsdasasd": [
+  "asdasd": [
     {
-      "id": "3333331",
-      "name": "asdsadasddsa"
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "asdasdgfgf": [
+    {
+      "id": "1",
+      "name": "Test Group"
+    }
+  ],
+  "adssdadasasfggad": [
+    {
+      "id": "1",
+      "name": "Test Group"
     }
   ]
 }
