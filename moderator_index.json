@@ -1,65 +1,30 @@
 {
-  "2": [
+  "adsads": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa",
+      "active": false
+    }
+  ],
+  "adsadsdasasd": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa",
+      "active": false
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2",
+      "active": false
+    }
+  ],
+  "abc": [
     {
       "id": "1",
       "name": "Test Group",
       "active": false
-    }
-  ],
-  "12412442": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "42343267": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "124331231": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "423423667": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "654564645": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "1321312132": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "2343432234": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "aaaa": [
-    {
-      "id": "0",
-      "name": "Group 0",
-      "active": true
     }
   ],
   "ilykrona": [
@@ -146,114 +111,11 @@
       "active": false
     }
   ],
-  "Mͥufͣfͫin": [
+  "aaaa": [
     {
-      "id": "2",
-      "name": "Group 2",
-      "active": false
-    },
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "Trollol": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "adsdasdsa": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "asddsasafgsa": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "1§§12§21§12": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "31212343655476": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "543453453657": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "aaaaaa": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "15235121254": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "616423436536": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "asdasd": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "asdasdgfgf": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "adssdadasasfggad": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": false
-    }
-  ],
-  "adsads": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
-    }
-  ],
-  "adsadsdasasd": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
+      "id": "0",
+      "name": "Group 0",
+      "active": true
     }
   ]
 }
