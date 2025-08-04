@@ -6,20 +6,6 @@
       "active": true
     }
   ],
-  "abc": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": true
-    }
-  ],
-  "Mͥufͣfͫin": [
-    {
-      "id": "2",
-      "name": "Group 2",
-      "active": true
-    }
-  ],
   "ilykrona": [
     {
       "id": "10",
@@ -104,6 +90,13 @@
       "active": true
     }
   ],
+  "abc": [
+    {
+      "id": "1",
+      "name": "Test Group",
+      "active": true
+    }
+  ],
   "adsads": [
     {
       "id": "3333331",
@@ -116,6 +109,13 @@
       "id": "3333331",
       "name": "asdsadasddsa",
       "active": false
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2",
+      "active": true
     }
   ]
 }
