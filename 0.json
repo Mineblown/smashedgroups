@@ -1,9 +1,7 @@
 {
-  "rules": "asdasdasddsa<align=center>asddsadasasdads</align><br><br><align=center><b>adsdsaasd</b></align><br><br><b>dsa</b><br><br>dasdasasd<br><b><align=right><b>asd</b></align></b><br><br><b>asd</b>",
-  "infoBoard": "",
-  "moderators": [
-    "aaaa"
-  ],
+  "rules": "asdasdadsd",
+  "infoBoard": "asdadsasdsad",
+  "moderators": [],
   "discord": "",
   "vrchat": "",
   "groupName": "",
@@ -42,7 +40,7 @@
   "atlasApprovedOn": "2025-07-24",
   "posters": true,
   "billboards": false,
-  "canUsePosters": false,
+  "canUsePosters": true,
   "canUseGroupPhotos": false,
   "posterEnabled": false,
   "groupPhotosEnabled": false,
@@ -50,9 +48,7 @@
   "youtube": "",
   "tiktok": "",
   "patreon": "",
-  "owners": [
-    "aaaa"
-  ],
+  "owners": [],
   "coOwners": [],
   "active": true
 }
