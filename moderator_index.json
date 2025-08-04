@@ -5,12 +5,6 @@
       "name": "Test Group"
     }
   ],
-  "Mͥufͣfͫin": [
-    {
-      "id": "2",
-      "name": "Group 2"
-    }
-  ],
   "ilykrona": [
     {
       "id": "10",
@@ -111,6 +105,12 @@
     {
       "id": "3333331",
       "name": "asdsadasddsa"
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2"
     }
   ]
 }
