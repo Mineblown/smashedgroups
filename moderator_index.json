@@ -13,12 +13,26 @@
       "active": false
     }
   ],
+  "Mͥufͣfͫin": [
+    {
+      "id": "2",
+      "name": "Group 2",
+      "active": true
+    }
+  ],
   "aaaa": [
     {
       "id": "0",
       "name": "Group 0",
       "active": true
     },
+    {
+      "id": "1",
+      "name": "Test Group",
+      "active": true
+    }
+  ],
+  "abc": [
     {
       "id": "1",
       "name": "Test Group",
@@ -106,20 +120,6 @@
     {
       "id": "10",
       "name": "BUNNYBEE",
-      "active": true
-    }
-  ],
-  "abc": [
-    {
-      "id": "1",
-      "name": "Test Group",
-      "active": true
-    }
-  ],
-  "Mͥufͣfͫin": [
-    {
-      "id": "2",
-      "name": "Group 2",
       "active": true
     }
   ]
