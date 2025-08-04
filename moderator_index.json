@@ -1,63 +1,70 @@
 {
   "12111": [
     {
-      "id": "12",
-      "name": "Muffin",
-      "active": false
-    },
-    {
       "id": "1",
       "name": "partner1",
-      "active": true
+      "isActive": true
+    },
+    {
+      "id": "12",
+      "name": "Muffin",
+      "isActive": true
     }
   ],
   "1143124124": [
     {
       "id": "12",
       "name": "Muffin",
-      "active": false
-    }
-  ],
-  "asdasas": [
-    {
-      "id": "12",
-      "name": "Muffin",
-      "active": false
-    }
-  ],
-  "ggaa": [
-    {
-      "id": "12",
-      "name": "Muffin",
-      "active": false
-    }
-  ],
-  "hhhhhhh": [
-    {
-      "id": "12",
-      "name": "Muffin",
-      "active": false
+      "isActive": true
     }
   ],
   "fsafsa": [
     {
       "id": "1",
       "name": "partner1",
-      "active": true
+      "isActive": true
     }
   ],
   "dasas": [
     {
       "id": "1",
       "name": "partner1",
-      "active": true
+      "isActive": true
     }
   ],
   "ggaaa": [
     {
       "id": "1",
       "name": "partner1",
-      "active": true
+      "isActive": true
+    }
+  ],
+  "hhhaa": [
+    {
+      "id": "1",
+      "name": "partner1",
+      "isActive": true
+    }
+  ],
+  "asdasas": [
+    {
+      "id": "12",
+      "name": "Muffin",
+      "isActive": true
+    }
+  ],
+  "ggaa": [
+    {
+      "id": "12",
+      "name": "Muffin",
+      "isActive": true
+    }
+  ],
+  "hhhhhhh": [
+    {
+      "id": "12",
+      "name": "Muffin",
+      "isActive": true
     }
   ]
 }
