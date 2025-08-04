@@ -1,35 +1,21 @@
 {
-  "abc": [
+  "Mͥufͣfͫin": [
     {
-      "id": "1",
-      "name": "Test Group",
+      "id": "2",
+      "name": "Group 2",
       "active": true
     }
   ],
   "aaaa": [
     {
-      "id": "1",
-      "name": "Test Group",
-      "active": true
-    },
-    {
       "id": "0",
       "name": "Group 0",
       "active": true
-    }
-  ],
-  "adsads": [
+    },
     {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
-    }
-  ],
-  "adsadsdasasd": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
+      "id": "1",
+      "name": "Test Group",
+      "active": true
     }
   ],
   "ilykrona": [
@@ -116,10 +102,24 @@
       "active": true
     }
   ],
-  "Mͥufͣfͫin": [
+  "adsads": [
     {
-      "id": "2",
-      "name": "Group 2",
+      "id": "3333331",
+      "name": "asdsadasddsa",
+      "active": false
+    }
+  ],
+  "adsadsdasasd": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa",
+      "active": false
+    }
+  ],
+  "abc": [
+    {
+      "id": "1",
+      "name": "Test Group",
       "active": true
     }
   ]
