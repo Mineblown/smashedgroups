@@ -1,9 +1,9 @@
 {
-  "rules": "dsaasdasd",
-  "infoBoard": "dsaads",
+  "rules": "",
+  "infoBoard": "",
   "posterEnabled": false,
   "groupPhotosEnabled": false,
-  "canUsePosters": true,
+  "canUsePosters": false,
   "canUseGroupPhotos": false,
   "owners": [],
   "coOwners": [],
