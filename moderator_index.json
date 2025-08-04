@@ -1,4 +1,18 @@
 {
+  "adsads": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa",
+      "active": false
+    }
+  ],
+  "adsadsdasasd": [
+    {
+      "id": "3333331",
+      "name": "asdsadasddsa",
+      "active": false
+    }
+  ],
   "ilykrona": [
     {
       "id": "10",
@@ -83,10 +97,10 @@
       "active": true
     }
   ],
-  "aaaa": [
+  "abc": [
     {
-      "id": "0",
-      "name": "Group 0",
+      "id": "1",
+      "name": "Test Group",
       "active": true
     }
   ],
@@ -97,25 +111,11 @@
       "active": true
     }
   ],
-  "abc": [
+  "aaaa": [
     {
-      "id": "1",
-      "name": "Test Group",
+      "id": "0",
+      "name": "Group 0",
       "active": true
-    }
-  ],
-  "adsads": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
-    }
-  ],
-  "adsadsdasasd": [
-    {
-      "id": "3333331",
-      "name": "asdsadasddsa",
-      "active": false
     }
   ]
 }
