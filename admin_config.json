@@ -1,22 +1,5 @@
 {
   "welcome_message": "Hello, admins! Edit me.",
   "test": "",
-  "djs": [
-    {
-      "id": 0,
-      "name": "asdfasddas"
-    },
-    {
-      "id": 1,
-      "name": "dassadgggg"
-    },
-    {
-      "id": 2,
-      "name": "Megaastoprm"
-    },
-    {
-      "id": 3,
-      "name": "22asdghh"
-    }
-  ]
+  "djs": []
 }
