@@ -2,5 +2,10 @@
   "welcome_message": "Hello, admins! Edit me.",
   "test": "",
   "dassaddsaads": "",
-  "djs": []
+  "djs": [
+    {
+      "id": 0,
+      "name": "AAHHHHH"
+    }
+  ]
 }
