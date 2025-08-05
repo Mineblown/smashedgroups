@@ -3,12 +3,8 @@
   "test": "",
   "djs": [
     {
-      "id": 0,
-      "name": "abc1"
-    },
-    {
-      "id": 1,
-      "name": "abc2"
+      "id": 2,
+      "name": ""
     }
   ]
 }
