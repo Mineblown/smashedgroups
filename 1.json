@@ -6,15 +6,20 @@
   "youtube": "",
   "tiktok": "",
   "patreon": "",
-  "rules": "dsadsasad",
+  "rules": "<br>",
   "infoBoard": "aa",
   "posterEnabled": true,
   "groupPhotosEnabled": true,
   "moderators": [
+    "asdsadd",
+    "asdasd",
     "231"
   ],
   "active": true,
-  "owners": [],
+  "owners": [
+    "asdsadd",
+    "asdasd"
+  ],
   "coOwners": [
     "231"
   ],
