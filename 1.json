@@ -6,17 +6,22 @@
   "youtube": "",
   "tiktok": "",
   "patreon": "",
-  "rules": "asddasasdasdasdd asd asd asdasd<br>adsadsasdadsasdsadasdadsads",
-  "infoBoard": "asddasasdasdasdsasdasdsdfaasddasdsa<br>dasdasadsdas",
+  "rules": "asddasasdasdasdd asd asd asdasdadsadsasdadsasdsadasdadsads",
+  "infoBoard": "asddasasdasdasdsasdasdsdfaasddasdsadasdasadsdas",
   "posterEnabled": true,
   "groupPhotosEnabled": true,
   "moderators": [
+    "aasdasd",
+    "hgdsfgsfggsd",
     "12321r21r1er1",
     "asfasffsa",
     "dasdsaads"
   ],
   "active": true,
-  "owners": [],
+  "owners": [
+    "aasdasd",
+    "hgdsfgsfggsd"
+  ],
   "coOwners": [],
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png",
