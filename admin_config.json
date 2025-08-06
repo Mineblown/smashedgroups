@@ -4,6 +4,10 @@
   "dassaddsaads": "asdadsa<br>asd<br>asd<br>asd<br>das<br>asd<br>",
   "djs": [
     {
+      "id": 1,
+      "name": "test"
+    },
+    {
       "id": 0,
       "name": "test"
     }
