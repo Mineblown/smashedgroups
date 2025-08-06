@@ -1,126 +1,257 @@
 {
-  "12111": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    },
-    {
-      "id": "12",
-      "name": "Muffin",
-      "active": false
-    }
-  ],
-  "113333": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "666666": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "1143124124": [
-    {
-      "id": "12",
-      "name": "Muffin",
-      "active": false
-    }
-  ],
-  "fsafsa": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "dasas": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "ggaaa": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "hhhaa": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "hhhasaa": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "hhhhhh": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "41421142412": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "hhh": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "gggg": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "gfdshfgdjfhg": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ],
-  "asdasas": [
-    {
-      "id": "12",
-      "name": "Muffin",
-      "active": false
-    }
-  ],
-  "ggaa": [
-    {
-      "id": "12",
-      "name": "Muffin",
-      "active": false
-    }
-  ],
-  "hhhhhhh": [
-    {
-      "id": "12",
-      "name": "Muffin",
-      "active": false
-    }
-  ]
+  "1": {
+    "active": true,
+    "groups": [
+      {
+        "id": 1,
+        "name": "partner1",
+        "isActive": true
+      }
+    ]
+  },
+  "2": {
+    "active": true,
+    "groups": [
+      {
+        "id": 1,
+        "name": "partner1",
+        "isActive": true
+      }
+    ]
+  },
+  "3": {
+    "active": true,
+    "groups": [
+      {
+        "id": 1,
+        "name": "partner1",
+        "isActive": true
+      }
+    ]
+  },
+  "231": {
+    "active": true,
+    "groups": [
+      {
+        "id": 1,
+        "name": "partner1",
+        "isActive": true
+      }
+    ]
+  },
+  "12111": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      },
+      {
+        "id": "12",
+        "name": "Muffin",
+        "active": false
+      }
+    ]
+  },
+  "113333": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "666666": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "1143124124": {
+    "active": false,
+    "groups": [
+      {
+        "id": "12",
+        "name": "Muffin",
+        "active": false
+      }
+    ]
+  },
+  "fsafsa": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "dasas": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "ggaaa": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "hhhaa": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "hhhasaa": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "hhhhhh": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "41421142412": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "hhh": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "gggg": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "gfdshfgdjfhg": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  "asdasas": {
+    "active": false,
+    "groups": [
+      {
+        "id": "12",
+        "name": "Muffin",
+        "active": false
+      }
+    ]
+  },
+  "ggaa": {
+    "active": false,
+    "groups": [
+      {
+        "id": "12",
+        "name": "Muffin",
+        "active": false
+      }
+    ]
+  },
+  "hhhhhhh": {
+    "active": false,
+    "groups": [
+      {
+        "id": "12",
+        "name": "Muffin",
+        "active": false
+      }
+    ]
+  },
+  "Mͥufͣfͫin": {
+    "active": true,
+    "groups": [
+      {
+        "id": 1,
+        "name": "partner1",
+        "isActive": true
+      }
+    ]
+  },
+  "dasasdsaddsaasd": {
+    "active": true,
+    "groups": [
+      {
+        "id": 1,
+        "name": "partner1",
+        "isActive": true
+      }
+    ]
+  },
+  "asdsadd": {
+    "active": true,
+    "groups": [
+      {
+        "id": 1,
+        "name": "partner1",
+        "isActive": true
+      }
+    ]
+  },
+  "asdasd": {
+    "active": true,
+    "groups": [
+      {
+        "id": 1,
+        "name": "partner1",
+        "isActive": true
+      }
+    ]
+  }
 }
