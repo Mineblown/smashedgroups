@@ -12,14 +12,17 @@
   "groupPhotosEnabled": true,
   "moderators": [
     "Mͥufͣfͫin",
-    "dasads"
+    "dasads",
+    "adsads"
   ],
   "active": true,
   "owners": [
     "Mͥufͣfͫin",
     "dasads"
   ],
-  "coOwners": [],
+  "coOwners": [
+    "adsads"
+  ],
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png",
     "images": [
