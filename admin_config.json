@@ -1,5 +1,11 @@
 {
   "welcome_message": "Hello, admins! Edit me.",
   "test": "",
-  "dassaddsaads": "asdadsa<br>asd<br>asd<br>asd<br>das<br>asd<br>"
+  "dassaddsaads": "asdadsa<br>asd<br>asd<br>asd<br>das<br>asd<br>",
+  "djs": [
+    {
+      "id": 0,
+      "name": "test"
+    }
+  ]
 }
