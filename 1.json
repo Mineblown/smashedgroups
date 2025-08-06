@@ -11,6 +11,7 @@
   "posterEnabled": true,
   "groupPhotosEnabled": true,
   "moderators": [
+    "12343",
     "231",
     "aasdasd",
     "hgdsfgsfggsd",
@@ -19,7 +20,9 @@
     "dasdsaads"
   ],
   "active": true,
-  "owners": [],
+  "owners": [
+    "12343"
+  ],
   "coOwners": [
     "231"
   ],
