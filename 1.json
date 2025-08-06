@@ -27,7 +27,7 @@
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png",
     "images": [
       {
-        "name": "Smashed_BeerPong_Weekly_Tournament_Banner3.png",
+        "name": "team1back.png",
         "uv": [
           0,
           0,
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "name": "dofms.png",
+        "name": "team2back.png",
         "uv": [
           0.5,
           0,
@@ -45,18 +45,9 @@
         ]
       },
       {
-        "name": "70a6dacc-d767-4134-87f2-813fa013cbe0.png",
+        "name": "World-Smashed-HQ-Image-2019431f1.file_27d7a012-e8a4-40f6-ad57-dde42e3e8486.7.png",
         "uv": [
           0,
-          0.3333333333333333,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "Smashed_fixed_fixed.png",
-        "uv": [
-          0.5,
           0.3333333333333333,
           0.5,
           0.3333333333333333
