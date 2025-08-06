@@ -12,18 +12,23 @@
   "groupPhotosEnabled": true,
   "moderators": [
     "Mͥufͣfͫin",
+    "1",
     "231",
     "dasasdsaddsaasd",
+    "2",
     "asdsadd",
-    "asdasd"
+    "asdasd",
+    "3"
   ],
   "active": true,
   "owners": [
-    "Mͥufͣfͫin"
+    "Mͥufͣfͫin",
+    "1"
   ],
   "coOwners": [
     "231",
-    "dasasdsaddsaasd"
+    "dasasdsaddsaasd",
+    "2"
   ],
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png",
