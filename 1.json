@@ -6,13 +6,11 @@
   "youtube": "",
   "tiktok": "",
   "patreon": "",
-  "rules": "<align=center><b><i><u><s><color=#ff0000>12345678</color></s></u></i></b></align><br><align=center><b><i><u><s><color=#ff0000>a</color></s></u></i></b></align><br><align=center><b><i><u><s><color=#ff0000>a</color></s></u></i></b></align><br><align=center><b><i><u><s><color=#ff0000>a</color></s></u></i></b></align><br><align=center><b><i><u><s><color=#ff0000>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaajdjdhd</color></s></u></i></b></align><br><align=center><b><i><u><s><color=#ff0000>asdsadasddsaaasdasds</color></s></u></i></b></align><br><align=center><b><i><u><s><color=#ff0000>aasddsaasdasdsadsadasd</color></s></u></i></b></align>",
-  "infoBoard": "asdasd asDASDASD<br>DAS<br>ADSA<br>SDASD<br>",
+  "rules": "",
+  "infoBoard": "",
   "posterEnabled": true,
   "groupPhotosEnabled": true,
-  "moderators": [
-    "a"
-  ],
+  "moderators": [],
   "active": true,
   "owners": [],
   "coOwners": [],
