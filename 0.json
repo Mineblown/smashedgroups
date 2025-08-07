@@ -1,17 +1,21 @@
 {
   "active": true,
-  "groupName": "dsfs",
+  "groupName": "",
   "tagline": "",
   "discord": "",
   "vrchat": "",
   "youtube": "",
   "tiktok": "",
   "patreon": "",
-  "rules": "adsadssadaaa asdas d",
+  "rules": "",
   "infoBoard": "",
   "posterEnabled": false,
   "groupPhotosEnabled": false,
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "Mͥufͣfͫin"
+  ],
+  "owners": [
+    "Mͥufͣfͫin"
+  ],
   "coOwners": []
 }
