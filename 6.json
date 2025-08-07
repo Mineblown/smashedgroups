@@ -11,7 +11,11 @@
   "infoBoard": "",
   "posterEnabled": false,
   "groupPhotosEnabled": false,
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "․Skittles․"
+  ],
+  "owners": [
+    "․Skittles․"
+  ],
   "coOwners": []
 }
