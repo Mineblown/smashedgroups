@@ -10,9 +10,13 @@
   "infoBoard": "",
   "posterEnabled": false,
   "groupPhotosEnabled": true,
-  "moderators": [],
+  "moderators": [
+    "Mͥufͣfͫin"
+  ],
   "active": true,
-  "owners": [],
+  "owners": [
+    "Mͥufͣfͫin"
+  ],
   "coOwners": [],
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png",
