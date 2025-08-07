@@ -1,9 +1,22 @@
 {
-  "Mͥufͣfͫin": [
-    {
-      "id": "1",
-      "name": "partner1",
-      "active": true
-    }
-  ]
+  "Mͥufͣfͫin": {
+    "active": false,
+    "groups": [
+      {
+        "id": "1",
+        "name": "partner1",
+        "active": true
+      }
+    ]
+  },
+  ".Skittles.": {
+    "active": true,
+    "groups": [
+      {
+        "id": 6,
+        "name": "Group 6",
+        "isActive": true
+      }
+    ]
+  }
 }
