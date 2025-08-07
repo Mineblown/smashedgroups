@@ -23,5 +23,15 @@
         "isActive": true
       }
     ]
+  },
+  "․Skittles․": {
+    "active": true,
+    "groups": [
+      {
+        "id": 6,
+        "name": "Certified Alcoholics",
+        "isActive": true
+      }
+    ]
   }
 }
