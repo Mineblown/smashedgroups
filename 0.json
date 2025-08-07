@@ -10,7 +10,7 @@
   "rules": "",
   "infoBoard": "",
   "posterEnabled": false,
-  "groupPhotosEnabled": false,
+  "groupPhotosEnabled": true,
   "moderators": [
     "Mͥufͣfͫin"
   ],
