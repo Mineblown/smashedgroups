@@ -1,11 +1,16 @@
 {
   "Mͥufͣfͫin": {
-    "active": false,
+    "active": true,
     "groups": [
       {
         "id": "1",
         "name": "partner1",
         "active": true
+      },
+      {
+        "id": 0,
+        "name": "dsfs",
+        "isActive": true
       }
     ]
   },
