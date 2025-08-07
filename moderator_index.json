@@ -48,5 +48,15 @@
         "isActive": true
       }
     ]
+  },
+  "adsdasads": {
+    "active": true,
+    "groups": [
+      {
+        "id": 0,
+        "name": "dsfs",
+        "isActive": true
+      }
+    ]
   }
 }
