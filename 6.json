@@ -1,3 +1,21 @@
 {
-  "active": true
+  "active": true,
+  "groupName": "",
+  "tagline": "",
+  "discord": "",
+  "vrchat": "",
+  "youtube": "",
+  "tiktok": "",
+  "patreon": "",
+  "rules": "",
+  "infoBoard": "",
+  "posterEnabled": false,
+  "groupPhotosEnabled": false,
+  "moderators": [
+    ".Skittles."
+  ],
+  "owners": [
+    ".Skittles."
+  ],
+  "coOwners": []
 }
