@@ -38,15 +38,5 @@
         "isActive": true
       }
     ]
-  },
-  "aaaaa": {
-    "active": true,
-    "groups": [
-      {
-        "id": 0,
-        "name": "dsfs",
-        "isActive": true
-      }
-    ]
   }
 }
