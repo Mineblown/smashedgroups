@@ -11,9 +11,7 @@
   "infoBoard": "",
   "posterEnabled": false,
   "groupPhotosEnabled": false,
-  "moderators": [
-    "aaaaa"
-  ],
+  "moderators": [],
   "owners": [],
   "coOwners": []
 }
