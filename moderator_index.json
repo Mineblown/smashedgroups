@@ -18,15 +18,5 @@
         "isActive": true
       }
     ]
-  },
-  "a": {
-    "active": true,
-    "groups": [
-      {
-        "id": 1,
-        "name": "Group 1",
-        "isActive": true
-      }
-    ]
   }
 }
