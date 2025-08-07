@@ -11,11 +11,13 @@
   "posterEnabled": true,
   "groupPhotosEnabled": true,
   "moderators": [
-    "aaa"
+    "aaa",
+    "asdasd"
   ],
   "active": true,
   "owners": [
-    "aaa"
+    "aaa",
+    "asdasd"
   ],
   "coOwners": [],
   "billboardData": {
