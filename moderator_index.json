@@ -18,5 +18,15 @@
         "isActive": true
       }
     ]
+  },
+  "Mͥufͣfͫin": {
+    "active": true,
+    "groups": [
+      {
+        "id": 0,
+        "name": "Group 0",
+        "isActive": true
+      }
+    ]
   }
 }
