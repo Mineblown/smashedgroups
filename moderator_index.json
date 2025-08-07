@@ -26,11 +26,6 @@
         "id": 0,
         "name": "Group 0",
         "isActive": true
-      },
-      {
-        "id": 1,
-        "name": "partner1",
-        "isActive": true
       }
     ]
   }
