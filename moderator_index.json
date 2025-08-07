@@ -23,13 +23,13 @@
     "active": true,
     "groups": [
       {
-        "id": 0,
-        "name": "Group 0",
+        "id": 1,
+        "name": "partner1",
         "isActive": true
       },
       {
-        "id": 1,
-        "name": "partner1",
+        "id": 0,
+        "name": "Group 0",
         "isActive": true
       }
     ]
