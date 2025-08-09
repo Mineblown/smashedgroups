@@ -9,7 +9,7 @@
   "rules": "No Racism<br><br>",
   "infoBoard": "Events coming up!<br><br>Stay tuned TBA",
   "posterEnabled": true,
-  "groupPhotosEnabled": false,
+  "groupPhotosEnabled": true,
   "moderators": [
     "༒ＲＥＳＯＬＶＥ༒"
   ],
