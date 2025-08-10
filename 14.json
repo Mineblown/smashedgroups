@@ -11,7 +11,11 @@
   "infoBoard": "We ar drund fag´s",
   "posterEnabled": false,
   "groupPhotosEnabled": true,
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "Kalinggo"
+  ],
+  "owners": [
+    "Kalinggo"
+  ],
   "coOwners": []
 }
