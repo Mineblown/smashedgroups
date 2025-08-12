@@ -9,7 +9,7 @@
   "rules": "<br>",
   "infoBoard": "",
   "posterEnabled": true,
-  "groupPhotosEnabled": true,
+  "groupPhotosEnabled": false,
   "moderators": [
     "Mͥufͣfͫin",
     "asdasda"
@@ -52,5 +52,8 @@
       }
     ]
   },
-  "bracketImageUrl": "https://vrclink.com/1_bracket.png?v=1754515076344"
+  "bracketImageUrl": "https://vrclink.com/1_bracket.png?v=1754515076344",
+  "instagram": "",
+  "x": "",
+  "landingPageUrl": "https://vrclink.com/p/demo"
 }
