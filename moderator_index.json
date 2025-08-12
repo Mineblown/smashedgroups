@@ -1,16 +1,4 @@
 {
-  "Mͥufͣfͫin": [
-    {
-      "id": 1,
-      "name": "partner1"
-    }
-  ],
-  "asdasda": [
-    {
-      "id": 1,
-      "name": "partner1"
-    }
-  ],
   "Areina": [
     {
       "id": 11,
@@ -27,6 +15,18 @@
     {
       "id": 14,
       "name": "Smashed fags"
+    }
+  ],
+  "Mͥufͣfͫin": [
+    {
+      "id": 1,
+      "name": "partner1"
+    }
+  ],
+  "asdasda": [
+    {
+      "id": 1,
+      "name": "partner1"
     }
   ]
 }
