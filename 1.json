@@ -24,28 +24,10 @@
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png",
     "images": [
       {
-        "name": "team1back.png",
+        "name": "31.png",
         "uv": [
           0,
           0,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "team2back.png",
-        "uv": [
-          0.5,
-          0,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "World-Smashed-HQ-Image-2019431f1.file_27d7a012-e8a4-40f6-ad57-dde42e3e8486.7.png",
-        "uv": [
-          0,
-          0.3333333333333333,
           0.5,
           0.3333333333333333
         ]
