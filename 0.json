@@ -18,7 +18,7 @@
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/0_billboard_atlas.png",
     "images": [
       {
-        "name": "chess text.png",
+        "name": "malwarews.png",
         "uv": [
           0,
           0,
@@ -27,7 +27,7 @@
         ]
       },
       {
-        "name": "gunfirefalls.png",
+        "name": "malwARE.png",
         "uv": [
           0.5,
           0,
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "name": "IMG_5222.png",
+        "name": "xsisis.png",
         "uv": [
           0,
           0.3333333333333333,
@@ -45,10 +45,28 @@
         ]
       },
       {
-        "name": "rozAhai.png",
+        "name": "xsis.png",
         "uv": [
           0.5,
           0.3333333333333333,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "Tolker_transparent_original.png",
+        "uv": [
+          0,
+          0.6666666666666666,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "tolkersmurf.png",
+        "uv": [
+          0.5,
+          0.6666666666666666,
           0.5,
           0.3333333333333333
         ]
