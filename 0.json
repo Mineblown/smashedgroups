@@ -24,7 +24,7 @@
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/0_billboard_atlas.png",
     "images": [
       {
-        "name": "dj_0.png",
+        "name": "DJGiraffesnek_logo.png",
         "uv": [
           0,
           0,
@@ -33,7 +33,7 @@
         ]
       },
       {
-        "name": "team1back.png",
+        "name": "Enigmatic_text.png",
         "uv": [
           0.5,
           0,
@@ -42,7 +42,7 @@
         ]
       },
       {
-        "name": "team2back.png",
+        "name": "Enigmatic_logo.png",
         "uv": [
           0,
           0.3333333333333333,
@@ -51,7 +51,7 @@
         ]
       },
       {
-        "name": "World-Smashed-HQ-Image-2019431f1.file_27d7a012-e8a4-40f6-ad57-dde42e3e8486.7.png",
+        "name": "dj_zax.png",
         "uv": [
           0.5,
           0.3333333333333333,
@@ -60,7 +60,7 @@
         ]
       },
       {
-        "name": "ChatGPT Image Jul 4, 2025, 09_01_02 PM.png",
+        "name": "DJ ZAX_logo.png",
         "uv": [
           0,
           0.6666666666666666,
@@ -69,7 +69,7 @@
         ]
       },
       {
-        "name": "ChatGPT Image Jul 4, 2025, 03_20_45 PM.png",
+        "name": "GIRAFFESNEK_TRANSPARENT.png",
         "uv": [
           0.5,
           0.6666666666666666,
