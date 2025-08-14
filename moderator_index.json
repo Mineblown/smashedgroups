@@ -13,19 +13,13 @@
   ],
   "Mͥufͣfͫin": [
     {
-      "id": 1,
-      "name": "partner1"
-    },
-    {
       "id": 0,
       "name": "Group 0"
     },
     {
       "id": 13,
       "name": "Resolve Entertainment"
-    }
-  ],
-  "asdasda": [
+    },
     {
       "id": 1,
       "name": "partner1"
@@ -41,6 +35,12 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    }
+  ],
+  "asdasda": [
+    {
+      "id": 1,
+      "name": "partner1"
     }
   ]
 }
