@@ -64,5 +64,11 @@
       "id": 1,
       "name": "partner1"
     }
+  ],
+  "NightmareCutie": [
+    {
+      "id": 20,
+      "name": "Group 20"
+    }
   ]
 }
