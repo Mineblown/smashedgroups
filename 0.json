@@ -1,23 +1,29 @@
 {
   "active": true,
   "groupName": "Group 0",
-  "tagline": "",
+  "tagline": "dasdasdas",
   "discord": "https://troll.com",
-  "vrchat": "",
-  "youtube": "",
-  "tiktok": "",
-  "patreon": "",
+  "vrchat": "https://troll.com",
+  "youtube": "https://troll.com",
+  "tiktok": "https://troll.com",
+  "patreon": "https://troll.com",
   "rules": "dassadsaddas<br>saDSAsa'<br>DAS<br>DSA<br>SDA<br>ADS<br>DSA",
   "infoBoard": "dsadsadasdsaDAS<br>DSA<br>DSA<br>DSA",
   "posterEnabled": false,
   "groupPhotosEnabled": true,
   "moderators": [
     "Mͥufͣfͫin",
-    "ZZZZZ"
+    "ZZZZZ",
+    "gdssdgfgds",
+    "fqewqwerqr3w",
+    "fazsdfdsdsfgg"
   ],
   "owners": [
     "Mͥufͣfͫin",
-    "ZZZZZ"
+    "ZZZZZ",
+    "gdssdgfgds",
+    "fqewqwerqr3w",
+    "fazsdfdsdsfgg"
   ],
   "coOwners": [],
   "billboardData": {
@@ -61,7 +67,7 @@
       }
     ]
   },
-  "instagram": "",
+  "instagram": "https://troll.com",
   "x": "https://troll.com",
   "landingPageUrl": "https://vrclink.com/p/dasadsdsa",
   "tos": {
