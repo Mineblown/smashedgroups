@@ -109,6 +109,18 @@
       "name": "Group 20"
     }
   ],
+  "TyphoonWes": [
+    {
+      "id": 20,
+      "name": "Group 20"
+    }
+  ],
+  "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Group 20"
+    }
+  ],
   "StrawHatStream": [
     {
       "id": 20,
@@ -116,6 +128,12 @@
     }
   ],
   "Neros03": [
+    {
+      "id": 20,
+      "name": "Group 20"
+    }
+  ],
+  "WarlordArdan": [
     {
       "id": 20,
       "name": "Group 20"
