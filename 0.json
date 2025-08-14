@@ -24,7 +24,7 @@
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/0_billboard_atlas.png",
     "images": [
       {
-        "name": "DJGiraffesnek_logo.png",
+        "name": "chess text.png",
         "uv": [
           0,
           0,
@@ -33,7 +33,7 @@
         ]
       },
       {
-        "name": "Enigmatic_text.png",
+        "name": "gunfirefalls.png",
         "uv": [
           0.5,
           0,
@@ -42,7 +42,7 @@
         ]
       },
       {
-        "name": "Enigmatic_logo.png",
+        "name": "IMG_5222.png",
         "uv": [
           0,
           0.3333333333333333,
@@ -51,28 +51,10 @@
         ]
       },
       {
-        "name": "dj_zax.png",
+        "name": "rozAhai.png",
         "uv": [
           0.5,
           0.3333333333333333,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "DJ ZAX_logo.png",
-        "uv": [
-          0,
-          0.6666666666666666,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "GIRAFFESNEK_TRANSPARENT.png",
-        "uv": [
-          0.5,
-          0.6666666666666666,
           0.5,
           0.3333333333333333
         ]
