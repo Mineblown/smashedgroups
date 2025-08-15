@@ -17,5 +17,9 @@
   "owners": [
     "Kalinggo"
   ],
-  "coOwners": []
+  "coOwners": [],
+  "tos": {
+    "version": "1.1",
+    "acceptedOn": "2025-08-15T20:24:14.590Z"
+  }
 }
