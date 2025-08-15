@@ -311,12 +311,6 @@
       "name": "Cuties Alcholics"
     }
   ],
-  "SlackerDk": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
   "rozAhai": [
     {
       "id": 20,
@@ -336,6 +330,12 @@
     }
   ],
   "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "SlackerDk": [
     {
       "id": 20,
       "name": "Cuties Alcholics"
