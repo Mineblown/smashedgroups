@@ -36,5 +36,7 @@
         ]
       }
     ]
-  }
+  },
+  "posterEnabled": false,
+  "groupPhotosEnabled": false
 }
