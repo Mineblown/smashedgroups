@@ -93,5 +93,6 @@
       }
     ]
   },
-  "groupPhotosEnabled": true
+  "groupPhotosEnabled": true,
+  "bracketLogoUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/8_logo.png?v=1755279956114"
 }
