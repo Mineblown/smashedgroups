@@ -2,5 +2,27 @@
   "tos": {
     "version": "1.1",
     "acceptedOn": "2025-08-15T02:56:42.621Z"
-  }
+  },
+  "groupName": "",
+  "tagline": "",
+  "discord": "",
+  "vrchat": "",
+  "youtube": "",
+  "tiktok": "",
+  "instagram": "",
+  "x": "",
+  "patreon": "",
+  "rules": "",
+  "infoBoard": "",
+  "moderators": [
+    "ilykrona",
+    "Bananorat"
+  ],
+  "owners": [
+    "ilykrona",
+    "Bananorat"
+  ],
+  "coOwners": [],
+  "landingPageUrl": "https://vrclink.com/u/27",
+  "active": true
 }
