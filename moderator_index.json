@@ -25,12 +25,12 @@
       "name": "partner1"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 0,
       "name": "Demo"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
@@ -39,12 +39,12 @@
       "name": "Resolve Entertainment"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 12,
       "name": "Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "asdasda": [
@@ -53,67 +53,27 @@
       "name": "partner1"
     }
   ],
-  "NightmareCutie": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
   "SlackerDK": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
     {
       "id": 12,
       "name": "Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "rozAhai": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "spycotje": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "SicParvisMagna": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
     }
   ],
   "TheWebbMD": [
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 12,
       "name": "Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "TyphoonWes": [
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 12,
       "name": "Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "OnlyMutes": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "StrawHatStream": [
+    },
     {
       "id": 20,
       "name": "Cuties Alcholics"
@@ -121,15 +81,9 @@
   ],
   "Neros03": [
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 12,
       "name": "Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "WarlordArdan": [
+    },
     {
       "id": 20,
       "name": "Cuties Alcholics"
@@ -349,6 +303,54 @@
     {
       "id": 0,
       "name": "Demo"
+    }
+  ],
+  "NightmareCutie": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "SlackerDk": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "rozAhai": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "spycotje": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "SicParvisMagna": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "StrawHatStream": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "WarlordArdan": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ]
 }
