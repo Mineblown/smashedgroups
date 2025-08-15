@@ -14,7 +14,7 @@
   "tiktok": "",
   "instagram": "",
   "x": "",
-  "patreon": "",
+  "patreon": "https://www.patreon.com/c/smashedhq",
   "rules": "🥃 1. MUST BE 18+<br>🥃 2. Do not impersonate staff.<br>🥃 3. Staff members must not be blocked.<br>🥃 4. Follow VRChat's TOS.<br>🥃 5. SFW only (no explicit nudity).<br>🥃 6.Keep the environment drama-free.<br>🥃 7.Be respectful to others.<br>🥃 8. Do not pressure anyone into doing any sort of drugs.<br>🥃 9. Drink responsibly.<br>🥃 10. When there’s a live DJ, do not play music through your microphone.<br><br>For drinking songs, go somewhere remote where others will not be disturbed. Staff will warn you. If it persists, you will be removed from the instance.<br><br>Final rule: Get SMASHED!<br><br>",
   "infoBoard": "-<b> SMASHED </b>Official -<br>This group is used for hosting official Smashed events.",
   "moderators": [
@@ -37,5 +37,6 @@
   ],
   "owners": [],
   "coOwners": [],
-  "landingPageUrl": "https://vrclink.com/u/3"
+  "landingPageUrl": "https://vrclink.com/u/3",
+  "posterEnabled": false
 }
