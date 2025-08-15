@@ -71,6 +71,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "TyphoonWes": [
@@ -205,12 +209,20 @@
     {
       "id": 12,
       "name": "Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Dukeslice": [
     {
       "id": 12,
       "name": "Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "The OG TopRamen": [
@@ -223,6 +235,10 @@
     {
       "id": 12,
       "name": "Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Hibiscus": [
@@ -319,6 +335,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "spycotje": [
@@ -349,6 +369,42 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    }
+  ],
+  "Hiiru": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "Merry Martian": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "Finguard": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "Biology~": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "de_kappatator": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "matbоt": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ]
 }
