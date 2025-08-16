@@ -62,5 +62,5 @@
     ]
   },
   "groupPhotosEnabled": true,
-  "posterEnabled": false
+  "posterEnabled": true
 }
