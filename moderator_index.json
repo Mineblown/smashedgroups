@@ -53,6 +53,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "asdasda": [
@@ -87,6 +91,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "TyphoonWes": [
@@ -111,6 +119,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Milyugen": [
@@ -247,6 +259,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "․Skittles․": [
@@ -351,6 +367,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "SicParvisMagna": [
@@ -439,6 +459,10 @@
     {
       "id": 22,
       "name": "Pixel Oasis"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "TenshiK": [
@@ -475,6 +499,10 @@
     {
       "id": 22,
       "name": "Pixel Oasis"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Spycotje": [
@@ -721,6 +749,36 @@
     {
       "id": 27,
       "name": "Waypoint Club"
+    }
+  ],
+  "slayerofmen": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "aGothLizard": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "VindiKitty": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Shots?": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Binxy~": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ]
 }
