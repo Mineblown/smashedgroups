@@ -21,10 +21,6 @@
   ],
   "Mͥufͣfͫin": [
     {
-      "id": 13,
-      "name": "Resolve Entertainment"
-    },
-    {
       "id": 1,
       "name": "partner1"
     },
@@ -38,10 +34,6 @@
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
-    {
-      "id": 13,
-      "name": "Resolve Entertainment"
-    },
     {
       "id": 6,
       "name": "Certified Alcoholics"
@@ -57,6 +49,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "asdasda": [
@@ -781,6 +777,24 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    }
+  ],
+  "ʚSproutsieɞ": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
+    }
+  ],
+  "Skip Skip": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
+    }
+  ],
+  "×͜o V 亗": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ]
 }
