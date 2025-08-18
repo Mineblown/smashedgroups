@@ -97,6 +97,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 33,
+      "name": "Zentaka"
     }
   ],
   "TyphoonWes": [
@@ -115,6 +119,10 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 33,
+      "name": "Zentaka"
     }
   ],
   "Neros03": [
@@ -323,6 +331,10 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 33,
+      "name": "Zentaka"
     }
   ],
   "༒DAX༒": [
@@ -337,6 +349,10 @@
     {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 33,
+      "name": "Zentaka"
     }
   ],
   "PrimordialAbyss": [
@@ -397,6 +413,10 @@
     {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 33,
+      "name": "Zentaka"
     }
   ],
   "Biology~": [
@@ -421,6 +441,10 @@
     {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 33,
+      "name": "Zentaka"
     }
   ],
   "ItsThatVapes": [
@@ -835,6 +859,18 @@
     {
       "id": 0,
       "name": "Demoaaaa"
+    }
+  ],
+  "Fenic": [
+    {
+      "id": 33,
+      "name": "Zentaka"
+    }
+  ],
+  "PJStan": [
+    {
+      "id": 33,
+      "name": "Zentaka"
     }
   ]
 }
