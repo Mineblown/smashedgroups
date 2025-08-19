@@ -14,8 +14,12 @@
   "patreon": "",
   "rules": "Drink<br>",
   "infoBoard": "Hi I'm hollies823. China #1",
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "hollies823"
+  ],
+  "owners": [
+    "hollies823"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/19",
   "active": true,
