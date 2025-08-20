@@ -61,7 +61,8 @@
       }
     ]
   },
-  "groupPhotosEnabled": false,
+  "groupPhotosEnabled": true,
   "posterEnabled": true,
-  "posterApprovedOn": "2025-08-20"
+  "posterApprovedOn": "2025-08-20",
+  "atlasApprovedOn": "2025-08-20"
 }
