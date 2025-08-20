@@ -38,5 +38,109 @@
   "owners": [],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/smashed-official",
-  "posterEnabled": true
+  "posterEnabled": true,
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/3_billboard_atlas.png?v=1755717173551",
+    "images": [
+      {
+        "name": "Smashed_BeerPong_Weekly_Tournament_Banner3.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "dofms.png",
+        "uv": [
+          0.5,
+          0,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "70a6dacc-d767-4134-87f2-813fa013cbe0.png",
+        "uv": [
+          0,
+          0.16666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "Smashed_fixed_fixed.png",
+        "uv": [
+          0.5,
+          0.16666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "asdggg.png",
+        "uv": [
+          0,
+          0.3333333333333333,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "watermark.png",
+        "uv": [
+          0.5,
+          0.3333333333333333,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "ffasd.png",
+        "uv": [
+          0,
+          0.5,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "ffff.png",
+        "uv": [
+          0.5,
+          0.5,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "asdd.png",
+        "uv": [
+          0,
+          0.6666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "65d85acb-3a6a-4d39-a306-1e1b9f103e59.png",
+        "uv": [
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "891a0417-0338-47b1-a0a9-b4f44e77617e.png",
+        "uv": [
+          0,
+          0.8333333333333333,
+          0.5,
+          0.16666666666666666
+        ]
+      }
+    ]
+  }
 }
