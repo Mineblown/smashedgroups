@@ -27,10 +27,10 @@
   "active": true,
   "posterEnabled": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/19_billboard_atlas.png?v=1755717360109",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/19_billboard_atlas.png?v=1755717837370",
     "images": [
       {
-        "name": "image.png",
+        "name": "undy.png",
         "uv": [
           0,
           0,
@@ -39,7 +39,7 @@
         ]
       },
       {
-        "name": "kiska.png",
+        "name": "IMG_5222.png",
         "uv": [
           0.5,
           0,
@@ -48,7 +48,7 @@
         ]
       },
       {
-        "name": "example.png",
+        "name": "aladriktext.png",
         "uv": [
           0,
           0.16666666666666666,
@@ -57,7 +57,7 @@
         ]
       },
       {
-        "name": "scrimme.png",
+        "name": "aladriklogo.png",
         "uv": [
           0.5,
           0.16666666666666666,
@@ -66,7 +66,7 @@
         ]
       },
       {
-        "name": "pongers-min-resized.png",
+        "name": "hirutext.png",
         "uv": [
           0,
           0.3333333333333333,
@@ -75,7 +75,7 @@
         ]
       },
       {
-        "name": "SMASH_pong_referee_white.png",
+        "name": "hirulogo.png",
         "uv": [
           0.5,
           0.3333333333333333,
@@ -84,7 +84,7 @@
         ]
       },
       {
-        "name": "SMASH_comp_admin_icon_white.png",
+        "name": "sansabar_logo.png",
         "uv": [
           0,
           0.5,
@@ -93,7 +93,7 @@
         ]
       },
       {
-        "name": "raw.png",
+        "name": "sansabar_txt.png",
         "uv": [
           0.5,
           0.5,
@@ -102,7 +102,7 @@
         ]
       },
       {
-        "name": "Smashed_BeerPong_Weekly_Tournament_Banner3.png",
+        "name": "AELA_txt.png",
         "uv": [
           0,
           0.6666666666666666,
@@ -111,7 +111,7 @@
         ]
       },
       {
-        "name": "dofms.png",
+        "name": "AELA_logo.png",
         "uv": [
           0.5,
           0.6666666666666666,
@@ -120,7 +120,7 @@
         ]
       },
       {
-        "name": "70a6dacc-d767-4134-87f2-813fa013cbe0.png",
+        "name": "difluxs_logo.png",
         "uv": [
           0,
           0.8333333333333333,
@@ -129,7 +129,7 @@
         ]
       },
       {
-        "name": "Smashed_fixed_fixed.png",
+        "name": "wildstar.png",
         "uv": [
           0.5,
           0.8333333333333333,
