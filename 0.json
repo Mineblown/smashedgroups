@@ -23,7 +23,7 @@
   ],
   "coOwners": [],
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/0_billboard_atlas.png",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/0_billboard_atlas.png?v=1755715877793",
     "images": [
       {
         "name": "0 (1).png",
@@ -31,7 +31,7 @@
           0,
           0,
           0.5,
-          0.3333333333333333
+          1
         ]
       },
       {
@@ -40,25 +40,7 @@
           0.5,
           0,
           0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "0_billboard_atlas.png",
-        "uv": [
-          0,
-          0.3333333333333333,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "0.png",
-        "uv": [
-          0.5,
-          0.3333333333333333,
-          0.5,
-          0.3333333333333333
+          1
         ]
       }
     ]
