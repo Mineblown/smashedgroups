@@ -25,51 +25,114 @@
   "active": true,
   "posterEnabled": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/19_billboard_atlas.png",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/19_billboard_atlas.png?v=1755717233832",
     "images": [
       {
-        "name": "VRChat_2025-01-03_23-51-36.525_1920x1080.png",
+        "name": "image.png",
         "uv": [
           0,
           0,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
         ]
       },
       {
-        "name": "VRChat_2025-01-03_23-51-37.675_1920x1080.png",
+        "name": "kiska.png",
         "uv": [
           0.5,
           0,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
         ]
       },
       {
-        "name": "VRChat_2025-01-03_23-51-38.733_1920x1080.png",
+        "name": "example.png",
+        "uv": [
+          0,
+          0.16666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "scrimme.png",
+        "uv": [
+          0.5,
+          0.16666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "pongers-min-resized.png",
         "uv": [
           0,
           0.3333333333333333,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
         ]
       },
       {
-        "name": "VRChat_2025-01-03_23-51-40.400_1920x1080.png",
+        "name": "SMASH_pong_referee_white.png",
         "uv": [
           0.5,
           0.3333333333333333,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
         ]
       },
       {
-        "name": "VRChat_2025-01-03_23-51-41.874_1920x1080.png",
+        "name": "SMASH_comp_admin_icon_white.png",
+        "uv": [
+          0,
+          0.5,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "raw.png",
+        "uv": [
+          0.5,
+          0.5,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "Smashed_BeerPong_Weekly_Tournament_Banner3.png",
         "uv": [
           0,
           0.6666666666666666,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "dofms.png",
+        "uv": [
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "70a6dacc-d767-4134-87f2-813fa013cbe0.png",
+        "uv": [
+          0,
+          0.8333333333333333,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "Smashed_fixed_fixed.png",
+        "uv": [
+          0.5,
+          0.8333333333333333,
+          0.5,
+          0.16666666666666666
         ]
       }
     ]
