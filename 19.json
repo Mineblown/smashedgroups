@@ -26,96 +26,24 @@
   "landingPageUrl": "https://vrclink.com/p/asd",
   "active": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/19_billboard_atlas.png?v=1755730446471",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/19_billboard_atlas.png?v=1755730540388",
     "images": [
       {
-        "name": "team1back.png",
+        "name": "0.png",
         "uv": [
           0,
           0,
           0.5,
-          0.2
+          1
         ]
       },
       {
-        "name": "team2back.png",
+        "name": "newsmashed.png",
         "uv": [
           0.5,
           0,
           0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "World-Smashed-HQ-Image-2019431f1.file_27d7a012-e8a4-40f6-ad57-dde42e3e8486.7.png",
-        "uv": [
-          0,
-          0.2,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "ChatGPT Image Jul 4, 2025, 09_01_02 PM.png",
-        "uv": [
-          0.5,
-          0.2,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "ChatGPT Image Jul 4, 2025, 03_20_45 PM.png",
-        "uv": [
-          0,
-          0.4,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "ChatGPT Image Jul 4, 2025, 03_20_36 PM.png",
-        "uv": [
-          0.5,
-          0.4,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "ChatGPT Image Jul 4, 2025, 03_15_15 PM.png",
-        "uv": [
-          0,
-          0.6000000000000001,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "Smashed_4thJuly_removed_rightmost_girl.png",
-        "uv": [
-          0.5,
-          0.6000000000000001,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "scrimme.png",
-        "uv": [
-          0,
-          0.8,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "dofms.png",
-        "uv": [
-          0.5,
-          0.8,
-          0.5,
-          0.2
+          1
         ]
       }
     ]
