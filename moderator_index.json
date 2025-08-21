@@ -61,12 +61,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 33,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 33,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "asdasda": [
@@ -125,12 +125,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 33,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 33,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "Neros03": [
@@ -341,12 +341,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 33,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 33,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "༒DAX༒": [
@@ -835,18 +835,6 @@
       "name": "Cuties Alcholics"
     }
   ],
-  "Fenic": [
-    {
-      "id": 33,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    }
-  ],
-  "PJStan": [
-    {
-      "id": 33,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    }
-  ],
   "adsdsaasdasd": [
     {
       "id": 0,
@@ -899,6 +887,18 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    }
+  ],
+  "Fenic": [
+    {
+      "id": 33,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    }
+  ],
+  "PJStan": [
+    {
+      "id": 33,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ]
 }
