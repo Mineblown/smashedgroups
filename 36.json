@@ -33,5 +33,19 @@
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/zentakapartner",
-  "active": true
+  "active": true,
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/36_billboard_atlas.png?v=1755813889344",
+    "images": [
+      {
+        "name": "zentaka poster.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
+  }
 }
