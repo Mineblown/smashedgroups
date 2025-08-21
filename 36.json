@@ -15,10 +15,24 @@
   "rules": "1․ Age Check<br>Must be 18＋ to join and drink․ No exceptions․ If you're caught lying‚ you're out․<br><br>2․ Drink at Your Own Pace<br> No peer pressure․ If someone doesnt wanna drink （or needs a break）‚ respect that․<br> Water counts too․ Hydration gangǃ<br><br>3․ Respect is Law<br> Keep it friendly and respectful no harassment‚ creepy behavior‚ or crossing personal boundaries․<br>Consent applies in VR too․ Dont get weird with avatars or voices․<br><br>4․ Mic Etiquette<br> No ear-shattering noises‚ mic spam‚ or screaming into the void․<br> If you're slurring too hard or being disruptive‚ take a break․<br><br>5․ Keep the Vibes Up<br> Drama‚ trolling‚ or bringing real-world fights into the party? Nah․ Youll be muted or booted․<br> We're here to relax‚ laugh‚ and vibe not argue․<br><br>6․ Avatar Limits<br> No flashing⁄strobing avatars or overly NSFW ones unless everyone agrees․<br><br>7․ Know When to Log Off<br>If you're wasted and starting to spiral‚ its okay to dip․ Rest up‚ well see you next session․<br><br>8․ Golden Rule of VRChat<br> Dont be a tool․ Treat people like people behind every avatar is a real human․",
   "infoBoard": "Zentaka is a multinational cybernetics and defense conglomerate specializing in human augmentation‚ neural interfacing‚ and advanced bio-mechanical systems․ With headquarters in the Neo-Tokyo Arcology and operations in over 80 territories‚ Zentaka remains at the forefront of post-human innovation‚ seamlessly integrating man and machine․<br><br>Founded in 2047 by visionary industrialist Epsi‚ the company rose to prominence through exclusive military contracts and rapid advancements in neural mesh technology․ Instrumental to Zentaka's cutting-edge developments is REDACTED‚ a master schematics engineer whose designs have shaped the next generation of cybernetic systems․ Today‚ Zentaka's subsidiaries span civilian prosthetics‚ surveillance AI‚ private security‚ and consciousness preservation․",
   "posterEnabled": true,
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "-Epsi-",
+    "FallZone",
+    "TyphoonWes",
+    "Fenic",
+    "Finguard",
+    "TheWebbMD",
+    "PJStan",
+    "༒DAX༒",
+    "~Kiska~",
+    "༒ＲＥＳＯＬＶＥ༒",
+    "spycotje"
+  ],
+  "owners": [
+    "-Epsi-"
+  ],
   "coOwners": [],
-  "landingPageUrl": "https://vrclink.com/u/36",
+  "landingPageUrl": "https://vrclink.com/p/zentaka",
   "active": true,
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/36_billboard_atlas.png?v=1755813889344",
