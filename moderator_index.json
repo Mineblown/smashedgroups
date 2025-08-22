@@ -41,6 +41,10 @@
     {
       "id": 19,
       "name": "China#1"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
@@ -67,6 +71,10 @@
     {
       "id": 13,
       "name": "Resolve & CGC"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "asdasda": [
@@ -131,6 +139,10 @@
     {
       "id": 13,
       "name": "Resolve & CGC"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "Neros03": [
@@ -267,6 +279,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "Dukeslice": [
@@ -299,6 +315,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "Hibiscus": [
@@ -329,6 +349,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "-Epsi-": [
@@ -347,6 +371,10 @@
     {
       "id": 13,
       "name": "Resolve & CGC"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "༒DAX༒": [
@@ -359,12 +387,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 30,
-      "name": "Heart of the king"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "PrimordialAbyss": [
@@ -375,6 +403,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "rozAhai": [
@@ -857,12 +889,20 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "PJStan": [
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "ʚSproutsieɞ": [
@@ -881,6 +921,10 @@
     {
       "id": 13,
       "name": "Resolve & CGC"
+    },
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ],
   "˙˖·Galaxy691·˖˙": [
@@ -899,6 +943,12 @@
     {
       "id": 13,
       "name": "Resolve & CGC"
+    }
+  ],
+  "Messed up": [
+    {
+      "id": 30,
+      "name": "Heart of the king"
     }
   ]
 }
