@@ -61,12 +61,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 13,
-      "name": "Resolve Entertainment"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "asdasda": [
@@ -125,12 +125,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 13,
-      "name": "Resolve Entertainment"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "Neros03": [
@@ -341,12 +341,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "Resolve Entertainment"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "༒DAX༒": [
@@ -853,6 +853,18 @@
       "name": "China#1"
     }
   ],
+  "Fenic": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    }
+  ],
+  "PJStan": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
+    }
+  ],
   "ʚSproutsieɞ": [
     {
       "id": 13,
@@ -887,18 +899,6 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
-    }
-  ],
-  "Fenic": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    }
-  ],
-  "PJStan": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ]
 }
