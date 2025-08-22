@@ -69,12 +69,12 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 13,
+      "name": "Resolve & CGC"
     }
   ],
   "asdasda": [
@@ -137,12 +137,12 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 13,
+      "name": "Resolve & CGC"
     }
   ],
   "Neros03": [
@@ -369,12 +369,12 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 13,
+      "name": "Resolve & CGC"
     }
   ],
   "༒DAX༒": [
@@ -393,6 +393,10 @@
     {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 13,
+      "name": "Resolve & CGC"
     }
   ],
   "PrimordialAbyss": [
@@ -407,6 +411,10 @@
     {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 13,
+      "name": "Resolve & CGC"
     }
   ],
   "rozAhai": [
@@ -905,6 +913,22 @@
       "name": "Heart of the king"
     }
   ],
+  "×͜o V 亗": [
+    {
+      "id": 30,
+      "name": "Heart of the king"
+    },
+    {
+      "id": 13,
+      "name": "Resolve & CGC"
+    }
+  ],
+  "Messed up": [
+    {
+      "id": 30,
+      "name": "Heart of the king"
+    }
+  ],
   "ʚSproutsieɞ": [
     {
       "id": 13,
@@ -915,16 +939,6 @@
     {
       "id": 13,
       "name": "Resolve & CGC"
-    }
-  ],
-  "×͜o V 亗": [
-    {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
-      "id": 30,
-      "name": "Heart of the king"
     }
   ],
   "˙˖·Galaxy691·˖˙": [
@@ -945,10 +959,10 @@
       "name": "Resolve & CGC"
     }
   ],
-  "Messed up": [
+  "Tinykraken": [
     {
-      "id": 30,
-      "name": "Heart of the king"
+      "id": 13,
+      "name": "Resolve & CGC"
     }
   ]
 }
