@@ -29,7 +29,7 @@
   "coOwners": [],
   "active": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/13_billboard_atlas.png",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/13_billboard_atlas.png?v=1755834726381",
     "images": [
       {
         "name": "Black_and_White_Modern_Streetwear_Sport_Logo.png",
@@ -37,52 +37,70 @@
           0,
           0,
           0.5,
-          0.3333333333333333
+          0.25
         ]
       },
       {
-        "name": "resolve_drawing.png",
+        "name": "VRChat_2024-07-28_23-24-25.614_3840x2160.png",
         "uv": [
           0.5,
           0,
           0.5,
-          0.3333333333333333
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2024-07-30_19-47-00.141_3840x2160.png",
+        "uv": [
+          0,
+          0.25,
+          0.5,
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2025-01-28_17-48-17.910_1920x1080.png",
+        "uv": [
+          0.5,
+          0.25,
+          0.5,
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2025-04-11_13-36-08.885_2560x1440.png",
+        "uv": [
+          0,
+          0.5,
+          0.5,
+          0.25
         ]
       },
       {
         "name": "VRChat_2025-07-31_16-27-27.197_1920x1080.png",
         "uv": [
-          0,
-          0.3333333333333333,
           0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "VRChat_2025-08-02_01-59-55.282_1920x1080.png",
-        "uv": [
           0.5,
-          0.3333333333333333,
           0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "VRChat_2025-08-02_06-38-42.724_1920x1080.png",
-        "uv": [
-          0,
-          0.6666666666666666,
-          0.5,
-          0.3333333333333333
+          0.25
         ]
       },
       {
         "name": "VRChat_2025-08-17_10-18-03.353_1920x1080.png",
         "uv": [
+          0,
+          0.75,
           0.5,
-          0.6666666666666666,
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2025-08-21_22-05-26.293_1920x1080.png",
+        "uv": [
           0.5,
-          0.3333333333333333
+          0.75,
+          0.5,
+          0.25
         ]
       }
     ]
