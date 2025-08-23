@@ -71,10 +71,6 @@
     {
       "id": 30,
       "name": "Heart of the king"
-    },
-    {
-      "id": 13,
-      "name": "Resolve & CGC"
     }
   ],
   "asdasda": [
@@ -945,6 +941,12 @@
       "name": "Heart of the king"
     }
   ],
+  "࿇R E S O L V E࿇": [
+    {
+      "id": 13,
+      "name": "Resolve & CGC"
+    }
+  ],
   "ʚSproutsieɞ": [
     {
       "id": 13,
@@ -976,6 +978,12 @@
     }
   ],
   "gelat0h": [
+    {
+      "id": 13,
+      "name": "Resolve & CGC"
+    }
+  ],
+  "Whats a heart": [
     {
       "id": 13,
       "name": "Resolve & CGC"
