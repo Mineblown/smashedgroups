@@ -65,12 +65,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "asdasda": [
@@ -111,12 +111,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve & CGC"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "TyphoonWes": [
@@ -133,16 +133,16 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
     },
     {
       "id": 13,
       "name": "Resolve & CGC"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "Neros03": [
@@ -277,12 +277,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "Dukeslice": [
@@ -373,16 +373,16 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
     },
     {
       "id": 13,
       "name": "Resolve & CGC"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "༒DAX༒": [
@@ -395,16 +395,16 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
     },
     {
       "id": 13,
       "name": "Resolve & CGC"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "PrimordialAbyss": [
@@ -453,12 +453,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve & CGC"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "Hiiru": [
@@ -919,22 +919,22 @@
   ],
   "Fenic": [
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "PJStan": [
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ],
   "×͜o V 亗": [
@@ -995,6 +995,12 @@
     {
       "id": 13,
       "name": "Resolve & CGC"
+    }
+  ],
+  "Verøsika": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#DE57EB>CYBERNETICS</color>"
     }
   ]
 }
