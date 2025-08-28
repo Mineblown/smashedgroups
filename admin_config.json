@@ -24,6 +24,11 @@
         "title": "Kings Cup",
         "enabled": false,
         "lines": []
+      },
+      "test": {
+        "title": "Test",
+        "enabled": false,
+        "lines": []
       }
     }
   }
