@@ -7,7 +7,7 @@
     "categories": {
       "regular": {
         "title": "Regular",
-        "enabled": false,
+        "enabled": true,
         "lines": [
           "{action} {amount} if you’ve ever been part of a book club.",
           "{action} {amount} if you think turkey is overrated.",
@@ -710,7 +710,7 @@
       },
       "expose": {
         "title": "Expose Your Friends",
-        "enabled": false,
+        "enabled": true,
         "lines": [
           "Who is most likely to black out in Smashed? <br> Let’s help them {drink} {amount}",
           "Who has ERP’d with someone in the room? <br> If you are right they {drink} {amount}",
@@ -846,7 +846,7 @@
       },
       "kings": {
         "title": "Kings Cup",
-        "enabled": false,
+        "enabled": true,
         "lines": [
           "Guys {drink} {amount}",
           "Categories and loser {drink} {amount}",
