@@ -107,12 +107,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "TyphoonWes": [
@@ -133,12 +133,12 @@
       "name": "Heart of the king"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "Neros03": [
@@ -300,7 +300,7 @@
     },
     {
       "id": 13,
-      "name": "Resolve & CGC"
+      "name": "Resolve Entertainment"
     }
   ],
   "․Skittles․": [
@@ -356,7 +356,7 @@
     },
     {
       "id": 13,
-      "name": "Resolve & CGC"
+      "name": "Resolve Entertainment"
     }
   ],
   "-Epsi-": [
@@ -373,12 +373,12 @@
       "name": "Heart of the king"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "༒DAX༒": [
@@ -395,12 +395,12 @@
       "name": "Heart of the king"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "PrimordialAbyss": [
@@ -417,12 +417,12 @@
       "name": "Heart of the king"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "rozAhai": [
@@ -440,7 +440,7 @@
     },
     {
       "id": 13,
-      "name": "Resolve & CGC"
+      "name": "Resolve Entertainment"
     }
   ],
   "spycotje": [
@@ -453,12 +453,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "Hiiru": [
@@ -541,12 +541,12 @@
       "name": "Spyco's Doofus Squad"
     },
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 22,
       "name": "Pixel Oasis"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "TwerkTaco": [
@@ -652,7 +652,7 @@
     },
     {
       "id": 13,
-      "name": "Resolve & CGC"
+      "name": "Resolve Entertainment"
     }
   ],
   "Vισʅα Lαყɳҽ": [
@@ -816,7 +816,7 @@
     },
     {
       "id": 13,
-      "name": "Resolve & CGC"
+      "name": "Resolve Entertainment"
     }
   ],
   "OnlyMutes": [
@@ -889,54 +889,12 @@
   ],
   "࿇R E S O L V E࿇": [
     {
-      "id": 13,
-      "name": "Resolve & CGC"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    }
-  ],
-  "Gelato_": [
+    },
     {
       "id": 13,
-      "name": "Resolve & CGC"
-    }
-  ],
-  "ʚSproutsieɞ": [
-    {
-      "id": 13,
-      "name": "Resolve & CGC"
-    }
-  ],
-  "˙˖·Galaxy691·˖˙": [
-    {
-      "id": 13,
-      "name": "Resolve & CGC"
-    }
-  ],
-  "~kiska~": [
-    {
-      "id": 13,
-      "name": "Resolve & CGC"
-    }
-  ],
-  "Tinykraken": [
-    {
-      "id": 13,
-      "name": "Resolve & CGC"
-    }
-  ],
-  "S I X E S": [
-    {
-      "id": 13,
-      "name": "Resolve & CGC"
-    }
-  ],
-  "Whats a heart": [
-    {
-      "id": 13,
-      "name": "Resolve & CGC"
+      "name": "Resolve Entertainment"
     }
   ],
   "Verøsika": [
@@ -1015,6 +973,48 @@
     {
       "id": 22,
       "name": "Pixel Oasis"
+    }
+  ],
+  "Gelato_": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
+    }
+  ],
+  "˙˖·Galaxy691·˖˙": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
+    }
+  ],
+  "ʚSproutsieɞ": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
+    }
+  ],
+  "~kiska~": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
+    }
+  ],
+  "Tinykraken": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
+    }
+  ],
+  "S I X E S": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
+    }
+  ],
+  "Whats a heart": [
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ]
 }
