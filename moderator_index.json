@@ -19,12 +19,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "Resolve Entertainment"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "Kalinggo": [
@@ -119,12 +119,12 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
-      "id": 13,
-      "name": "Resolve Entertainment"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "TyphoonWes": [
@@ -459,12 +459,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 13,
-      "name": "Resolve Entertainment"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "spycotje": [
@@ -843,12 +843,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 13,
-      "name": "Resolve Entertainment"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
+    },
+    {
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ],
   "OnlyMutes": [
@@ -1007,6 +1007,36 @@
       "name": "Pixel Oasis"
     }
   ],
+  "ᴸᵉˢʰᵃ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "ɆR₳₴ɆĐ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "Tуŕıán": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "chino_js": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "MissChappy": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
   "Gelato_": [
     {
       "id": 13,
@@ -1049,34 +1079,10 @@
       "name": "Resolve Entertainment"
     }
   ],
-  "ᴸᵉˢʰᵃ": [
+  "TheViagra": [
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "ɆR₳₴ɆĐ": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "Tуŕıán": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "chino_js": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "MissChappy": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
+      "id": 13,
+      "name": "Resolve Entertainment"
     }
   ]
 }
