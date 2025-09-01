@@ -57,10 +57,6 @@
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -95,10 +91,6 @@
   ],
   "TheWebbMD": [
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -125,6 +117,10 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "TyphoonWes": [
@@ -151,6 +147,10 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Neros03": [
@@ -273,10 +273,6 @@
   ],
   "~Kiska~": [
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -291,13 +287,13 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    }
-  ],
-  "Dukeslice": [
+    },
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
+    }
+  ],
+  "Dukeslice": [
     {
       "id": 3,
       "name": "Smashed Official"
@@ -313,13 +309,13 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
-    }
-  ],
-  "․Skittles․": [
+    },
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
+    }
+  ],
+  "․Skittles․": [
     {
       "id": 3,
       "name": "Smashed Official"
@@ -335,6 +331,10 @@
     {
       "id": 38,
       "name": "Card Game Connisseurs"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Hibiscus": [
@@ -447,10 +447,6 @@
   ],
   "rozAhai": [
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -465,6 +461,10 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "spycotje": [
@@ -485,27 +485,17 @@
       "name": "Resolve Entertainment"
     }
   ],
-  "Hiiru": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
   "Merry Martian": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
     {
       "id": 38,
       "name": "Card Game Connisseurs"
-    }
-  ],
-  "Finguard": [
+    },
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
+    }
+  ],
+  "Finguard": [
     {
       "id": 3,
       "name": "Smashed Official"
@@ -513,21 +503,7 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    }
-  ],
-  "Biology~": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
-  "de_kappatator": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
-  "matbоt": [
+    },
     {
       "id": 6,
       "name": "Certified Alcoholics"
@@ -849,6 +825,10 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "OnlyMutes": [
@@ -927,6 +907,10 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Verøsika": [
@@ -1083,6 +1067,30 @@
     {
       "id": 13,
       "name": "Resolve Entertainment"
+    }
+  ],
+  "Hiiru": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "Biology~": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "de_kappatator": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "matbоt": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ]
 }
