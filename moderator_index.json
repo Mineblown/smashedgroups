@@ -19,12 +19,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Kalinggo": [
@@ -111,16 +111,16 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
     },
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "TyphoonWes": [
@@ -329,12 +329,12 @@
       "name": "Heart of the king"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Hibiscus": [
@@ -455,16 +455,16 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
     },
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "spycotje": [
@@ -487,12 +487,12 @@
   ],
   "Merry Martian": [
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Finguard": [
@@ -819,16 +819,16 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
     },
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "OnlyMutes": [
@@ -991,36 +991,6 @@
       "name": "Pixel Oasis"
     }
   ],
-  "ᴸᵉˢʰᵃ": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "ɆR₳₴ɆĐ": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "Tуŕıán": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "chino_js": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "MissChappy": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
   "Gelato_": [
     {
       "id": 13,
@@ -1091,6 +1061,36 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    }
+  ],
+  "ᴸᵉˢʰᵃ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "ɆR₳₴ɆĐ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "Tуŕıán": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "chino_js": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "MissChappy": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ]
 }
