@@ -18,5 +18,19 @@
   "owners": [],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/34",
-  "active": true
+  "active": true,
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/34_billboard_atlas.png?v=1756834221420",
+    "images": [
+      {
+        "name": "ChatGPT_Image_Jun_8_2025_03_12_02_PM.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
+  }
 }
