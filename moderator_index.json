@@ -111,16 +111,16 @@
       "name": "Resolve Entertainment"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "TyphoonWes": [
@@ -145,12 +145,12 @@
       "name": "Resolve Entertainment"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Neros03": [
@@ -285,12 +285,12 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Dukeslice": [
@@ -307,12 +307,12 @@
       "name": "Resolve Entertainment"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "․Skittles․": [
@@ -325,16 +325,16 @@
       "name": "Heart of the king"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Hibiscus": [
@@ -459,16 +459,16 @@
       "name": "Resolve Entertainment"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "spycotje": [
@@ -491,12 +491,12 @@
   ],
   "Merry Martian": [
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Finguard": [
@@ -785,12 +785,12 @@
       "name": "Resolve Entertainment"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "OnlyMutes": [
@@ -1001,30 +1001,6 @@
       "name": "Resolve Entertainment"
     }
   ],
-  "Hiiru": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
-  "Biology~": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
-  "de_kappatator": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
-  "matbоt": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
   "ᴸᵉˢʰᵃ": [
     {
       "id": 38,
@@ -1101,6 +1077,30 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
+    }
+  ],
+  "Hiiru": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "Biology~": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "de_kappatator": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "matbоt": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ]
 }
