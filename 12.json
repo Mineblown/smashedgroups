@@ -49,5 +49,73 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/moxxxi",
   "posterEnabled": true,
-  "posterApprovedOn": "2025-08-20"
+  "posterApprovedOn": "2025-08-20",
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/12_billboard_atlas.png?v=1757017778878",
+    "images": [
+      {
+        "name": "MOXXXI_LOGO_White.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2025-08-09_19-06-37.908_7680x4320.png",
+        "uv": [
+          0.5,
+          0,
+          0.5,
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2025-08-23_16-26-45.067_7680x4320.png",
+        "uv": [
+          0,
+          0.25,
+          0.5,
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2025-08-23_21-49-40.153_1920x1080.png",
+        "uv": [
+          0.5,
+          0.25,
+          0.5,
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2025-08-23_21-54-06.954_1920x1080.png",
+        "uv": [
+          0,
+          0.5,
+          0.5,
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2025-08-23_21-54-25.514_1920x1080.png",
+        "uv": [
+          0.5,
+          0.5,
+          0.5,
+          0.25
+        ]
+      },
+      {
+        "name": "VRChat_2025-08-23_22-10-39.717_2560x1440.png",
+        "uv": [
+          0,
+          0.75,
+          0.5,
+          0.25
+        ]
+      }
+    ]
+  }
 }
