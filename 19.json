@@ -71,6 +71,13 @@
   "atlasApprovedOn": "2025-08-20",
   "groupPhotosEnabled": true,
   "spinbottle": {
-    "categories": []
+    "categories": [
+      {
+        "k": "dsadsa",
+        "t": "dsaDSA",
+        "e": 0,
+        "x": "DSADSADSADSA"
+      }
+    ]
   }
 }
