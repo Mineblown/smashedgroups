@@ -1108,5 +1108,11 @@
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
+  ],
+  "TidSprinkls": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
   ]
 }
