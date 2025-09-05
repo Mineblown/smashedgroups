@@ -50,5 +50,15 @@
         ]
       }
     ]
+  },
+  "spinbottle": {
+    "categories": [
+      {
+        "k": "snd",
+        "t": "Sprinks N' Drinks Special!",
+        "e": 1,
+        "x": "Drink 5 if you know TidSprinkls!\nGive a drink if you're apart of Sprinks N' Drinks!\nHey ~cYourName~, you look thirsty, take 5!\nEverybody 10 if TidSprinkls is playing!\nGive 5 to whoever is in front of you!\nUh oh! Looks like your taking 20!\nHaha, give somebody else 20!\nIf your reading this, take 5!\nEverybody take 10!\nCHEERS! Everybody gets 15!\nIf Tid's playing, everybody takes 5!\nHEY TIDDIE! Take 10 bitch! >:D"
+      }
+    ]
   }
 }
