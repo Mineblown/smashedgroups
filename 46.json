@@ -38,15 +38,42 @@
   "active": true,
   "posterEnabled": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/46_billboard_atlas.png?v=1757036084053",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/46_billboard_atlas.png?v=1757060730421",
     "images": [
       {
-        "name": "GP 4.png",
+        "name": "GP 3.png",
         "uv": [
           0,
           0,
           0.5,
-          1
+          0.5
+        ]
+      },
+      {
+        "name": "GP 2.png",
+        "uv": [
+          0.5,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "name": "GP 4.png",
+        "uv": [
+          0,
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "name": "GP 1.png",
+        "uv": [
+          0.5,
+          0.5,
+          0.5,
+          0.5
         ]
       }
     ]
