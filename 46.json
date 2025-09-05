@@ -2,5 +2,25 @@
   "tos": {
     "version": "1.1",
     "acceptedOn": "2025-09-05T00:36:23.769Z"
-  }
+  },
+  "groupName": "Sprinks N' Drinks",
+  "tagline": "",
+  "discord": "https://discord.gg/GHUuh5FtVt",
+  "vrchat": "grp_cfa16105-b1a8-482d-920d-f23c1fcd8d01",
+  "youtube": "",
+  "tiktok": "",
+  "instagram": "",
+  "x": "",
+  "patreon": "",
+  "rules": "",
+  "infoBoard": "",
+  "moderators": [
+    "TidSprinkls"
+  ],
+  "owners": [
+    "TidSprinkls"
+  ],
+  "coOwners": [],
+  "landingPageUrl": "https://vrclink.com/u/46",
+  "active": true
 }
