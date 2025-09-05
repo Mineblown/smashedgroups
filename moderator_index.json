@@ -103,10 +103,6 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
     },
@@ -121,6 +117,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "TyphoonWes": [
@@ -137,10 +137,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
     },
@@ -151,6 +147,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "Neros03": [
@@ -281,16 +281,16 @@
       "name": "Heart of the king"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "Dukeslice": [
@@ -389,16 +389,16 @@
       "name": "Heart of the king"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "༒DAX༒": [
@@ -411,16 +411,16 @@
       "name": "Heart of the king"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "PrimordialAbyss": [
@@ -433,16 +433,16 @@
       "name": "Heart of the king"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "rozAhai": [
@@ -481,12 +481,12 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "Merry Martian": [
@@ -505,12 +505,12 @@
       "name": "Smashed Official"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "FallZone": [
@@ -637,12 +637,12 @@
   ],
   "D o c": [
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "ilykrona": [
@@ -851,25 +851,13 @@
   ],
   "࿇R E S O L V E࿇": [
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 13,
       "name": "Resolve Entertainment"
     },
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    }
-  ],
-  "Verøsika": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    }
-  ],
-  "xxemotaylorxx": [
+    },
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
@@ -1101,6 +1089,24 @@
     {
       "id": 19,
       "name": "China#1"
+    }
+  ],
+  "Verøsika": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    }
+  ],
+  "xxemotaylorxx": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    }
+  ],
+  "Elysium․": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ]
 }
