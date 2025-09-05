@@ -118,5 +118,15 @@
       }
     ]
   },
-  "groupPhotosEnabled": true
+  "groupPhotosEnabled": true,
+  "spinbottle": {
+    "categories": [
+      {
+        "k": "adult",
+        "t": "Moxxxi-1",
+        "e": 0,
+        "x": ""
+      }
+    ]
+  }
 }
