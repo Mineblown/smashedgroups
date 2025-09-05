@@ -122,16 +122,22 @@
   "spinbottle": {
     "categories": [
       {
-        "k": "adult",
+        "k": "nsfw",
         "t": "Moxxxi-NSFW",
         "e": 0,
         "x": "Lights on or lights off? ~d 5\nWhat is the most daring thing you have ever done in bed? ~g 5\nHave you ever been caught in the act? ~d ~m\nWhat’s your favorite position? ~g ~m\nWhat’s the kinkiest thing you’ve ever tried? ~d ~m\nWould you ever consider a threesome? ~g ~m\nWhat’s your favorite way to set the mood? ~d ~m\nHave you ever used toys in the bedroom? ~g ~m\nWhat’s your ultimate turn-off? ~d ~m\nWhat’s your go-to move to seduce someone? ~g ~m\nHave you ever had a friends-with-benefits arrangement? ~d ~m\nWhat’s your favorite way to tease your partner? ~g ~m\nWhat’s the most daring place you’ve ever been intimate? ~d ~m\nGive the person to your right a short massage! ~g ~m\nTake 5 of your drink of choice! ~d ~m\nGive a lap dance to someone of your choice! Or ~d ~m"
       },
       {
-        "k": "normal",
+        "k": "sfw",
         "t": "Moxxxi-SFW",
         "e": 0,
         "x": "You have received a handwritten love letter. ~d 5\nYou've ever had an unforgettable adventure while traveling solo. ~g 10\nYou've ever laughed so hard you cried. ~d 5\nYou've ever received an unexpected gift from a secret admirer. ~g 10\nYou've ever participated in a costume contest and won. ~d 5\nYou've ever been part of a surprise party that went completely wrong. ~g 10\nYou had an embarrassing autocorrect fail in a text message. ~d 5\nYou've ever accidentally insulted someone without realizing it. ~g 10\nYou have participated in an escape room challenge. ~d 5\nYou have been featured in a news story or local television segment ~g 10\nYou've ever received an unexpected invitation to an exclusive event or party. ~d 5\nYou've ever taken an unplanned and spontaneous flight to a random destination. ~g 10\nYou've ever had an encounter with an animal that led to a comical or unexpected situation. ~d 5\nYou've ever accidentally photobombed a stranger's picture. ~g 10\nYou've ever used a fake accent to impress someone. ~d 5\nYou've ever had a wardrobe malfunction in a public place. ~g 10"
+      },
+      {
+        "k": "sfw",
+        "t": "Moxxxi-SFW-1",
+        "e": 0,
+        "x": "You have fallen asleep during a movie in the theater. ~g 10\nYou've ever accidentally texted your mom or dad something meant for a friend. ~d 5\nYou've ever had an embarrassing encounter with your boss outside of work. ~g 10\nYou've ever tried to imitate a famous celebrity and failed spectacularly. ~d 5\nYou've ever had an awkward encounter with an ex. ~g 10\nYou've ever worn mismatched shoes / socks in public without realizing it. ~d 5\nYou've ever had a laugh so contagious that it made everyone else start laughing too. ~g 10\nYou've ever tried to sneak into a movie theater without a ticket. ~d 5\nYou’ve ever tried a food combination that made everyone else cringe. ~g 10\nYou've ever danced like nobody's watching in a public place. ~d 5\nYou've ever stayed up all night binge-watching a TV series. ~g 10\nYou've ever had an embarrassing moment caught on video ~d 5\nYou've received a surprise party. ~g 10\nYou've ever taken a selfie in an unusual or risky location. ~d 5\nYou've ever sung karaoke in front of a crowd. ~g 10"
       }
     ]
   }
