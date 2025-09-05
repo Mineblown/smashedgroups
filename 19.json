@@ -79,5 +79,6 @@
         "x": "~a ~m if you're apart of Sprinks N' Drinks!\n~a ~m if you're apart of Sprinks N' Drinks!\n~a ~m if you're apart of Sprinks N' Drinks ~a\n{player} ~a ~m\n~d ~m aaaa"
       }
     ]
-  }
+  },
+  "posterEnabled": true
 }
