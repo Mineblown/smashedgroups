@@ -119,12 +119,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "TyphoonWes": [
@@ -153,12 +153,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "Neros03": [
@@ -297,12 +297,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "Dukeslice": [
@@ -461,12 +461,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "rozAhai": [
@@ -887,12 +887,12 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "RaptorDeity": [
@@ -1123,6 +1123,24 @@
       "name": "China#1"
     }
   ],
+  "Verøsika": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    }
+  ],
+  "xxemotaylorxx": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    }
+  ],
+  "Elysium․": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    }
+  ],
   "TidSprinkls": [
     {
       "id": 46,
@@ -1136,12 +1154,6 @@
     }
   ],
   "NaughteeNoodle": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
-  "TwilightZorb": [
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
@@ -1187,24 +1199,6 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
-    }
-  ],
-  "Verøsika": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    }
-  ],
-  "xxemotaylorxx": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    }
-  ],
-  "Elysium․": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ]
 }
