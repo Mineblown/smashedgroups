@@ -1153,24 +1153,6 @@
       "name": "Smashed Official"
     }
   ],
-  "YuiDelta": [
-    {
-      "id": 49,
-      "name": "Group 49"
-    }
-  ],
-  "Akirà": [
-    {
-      "id": 49,
-      "name": "Group 49"
-    }
-  ],
-  "Möri": [
-    {
-      "id": 49,
-      "name": "Group 49"
-    }
-  ],
   "Ｇalaxy": [
     {
       "id": 45,
@@ -1289,6 +1271,24 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    }
+  ],
+  "YuiDelta": [
+    {
+      "id": 49,
+      "name": "Yui's drunkies"
+    }
+  ],
+  "Akirà": [
+    {
+      "id": 49,
+      "name": "Yui's drunkies"
+    }
+  ],
+  "Möri": [
+    {
+      "id": 49,
+      "name": "Yui's drunkies"
     }
   ]
 }
