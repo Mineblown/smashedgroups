@@ -123,12 +123,12 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "TyphoonWes": [
@@ -157,12 +157,12 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Neros03": [
@@ -1183,30 +1183,6 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
-  "NightmareCutie": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "OnlyMutes": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "StrawHatStream": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "WarlordArdan": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
   "TidSprinkls": [
     {
       "id": 46,
@@ -1289,6 +1265,30 @@
     {
       "id": 49,
       "name": "Yui's drunkies"
+    }
+  ],
+  "NightmareCutie": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "StrawHatStream": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "WarlordArdan": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ]
 }
