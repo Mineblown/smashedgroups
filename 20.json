@@ -17,10 +17,10 @@
   "moderators": [
     "NightmareCutie",
     "SlackerDK",
+    "SicParvisMagna",
     "rozAhai",
     "spycotje",
     "Mͥufͣfͫin",
-    "SicParvisMagna",
     "TheWebbMD",
     "TyphoonWes",
     "OnlyMutes",
@@ -30,9 +30,11 @@
   ],
   "owners": [
     "NightmareCutie",
-    "SlackerDK"
+    "SlackerDK",
+    "SicParvisMagna"
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/20",
-  "active": true
+  "active": true,
+  "posterEnabled": false
 }
