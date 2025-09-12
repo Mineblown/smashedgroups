@@ -38,5 +38,21 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/52",
   "active": true,
-  "posterEnabled": true
+  "posterEnabled": true,
+  "spinbottle": {
+    "categories": [
+      {
+        "k": "heavy---sfw",
+        "t": "Shottie's Wheel ",
+        "e": 0,
+        "x": "~g out 10 if you've ever lied about your age online.\n~d 5 if your currently playing on Quest\n~d 2 shots, then all eboys take another 2!\nRULE TIME! Create a new rule for the table until a new rule is made!\n{player} must bark like a dog or take 10!\nTake ~m or Meow until your next turn!"
+      },
+      {
+        "k": "heavy---nsfw",
+        "t": "Shottie's Naughty Wheel",
+        "e": 0,
+        "x": ""
+      }
+    ]
+  }
 }
