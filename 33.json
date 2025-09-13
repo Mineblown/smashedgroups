@@ -24,7 +24,7 @@
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/33",
-  "posterEnabled": true,
+  "posterEnabled": false,
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/33_billboard_atlas.png",
     "images": [
