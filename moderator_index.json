@@ -969,12 +969,6 @@
       "name": "Card Game Connisseurs"
     }
   ],
-  "artistz93": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
   "Hiiru": [
     {
       "id": 6,
@@ -1375,6 +1369,12 @@
     {
       "id": 52,
       "name": "Shot's Before Thot's"
+    }
+  ],
+  "artistz93": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ]
 }
