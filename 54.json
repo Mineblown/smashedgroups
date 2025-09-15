@@ -76,8 +76,14 @@
   "infoBoard": "This group is almost only for the sake of making my own spin the wheel board or for me doing tournaments.",
   "posterEnabled": true,
   "groupPhotosEnabled": true,
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "SealSAURUS",
+    "nothin_",
+    "~Mika"
+  ],
+  "owners": [
+    "SealSAURUS"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/54"
 }
