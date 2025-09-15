@@ -62,5 +62,22 @@
         ]
       }
     ]
-  }
+  },
+  "groupName": "",
+  "tagline": "",
+  "discord": "",
+  "vrchat": "",
+  "youtube": "",
+  "tiktok": "",
+  "instagram": "",
+  "x": "",
+  "patreon": "",
+  "rules": "",
+  "infoBoard": "",
+  "posterEnabled": false,
+  "groupPhotosEnabled": false,
+  "moderators": [],
+  "owners": [],
+  "coOwners": [],
+  "landingPageUrl": "https://vrclink.com/u/54"
 }
