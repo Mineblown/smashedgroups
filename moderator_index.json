@@ -15,16 +15,16 @@
       "name": "Card Game Connisseurs"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Kalinggo": [
@@ -65,12 +65,12 @@
       "name": "Heart of the king"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "asdasda": [
@@ -81,12 +81,12 @@
   ],
   "SlackerDK": [
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "TheWebbMD": [
@@ -101,10 +101,6 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 13,
@@ -129,6 +125,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "TyphoonWes": [
@@ -139,10 +139,6 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 13,
@@ -167,6 +163,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Neros03": [
@@ -175,12 +175,12 @@
       "name": "Spyco's Doofus Squad"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Milyugen": [
@@ -301,10 +301,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -319,6 +315,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Dukeslice": [
@@ -331,16 +331,16 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "․Skittles․": [
@@ -357,10 +357,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -371,6 +367,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Hibiscus": [
@@ -379,32 +379,28 @@
       "name": "Card Game Connisseurs"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Cantina_Cat": [
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "WJgames": [
     {
       "id": 30,
       "name": "Heart of the king"
-    },
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 13,
@@ -421,6 +417,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "-Epsi-": [
@@ -429,10 +429,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -443,6 +439,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "༒DAX༒": [
@@ -451,10 +451,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -465,16 +461,16 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "PrimordialAbyss": [
     {
       "id": 30,
       "name": "Heart of the king"
-    },
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 13,
@@ -491,6 +487,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "rozAhai": [
@@ -503,10 +503,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -517,6 +513,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "spycotje": [
@@ -539,6 +539,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Merry Martian": [
@@ -681,26 +685,26 @@
   ],
   "TheIllusionJedi": [
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "D o c": [
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "ilykrona": [
@@ -1023,48 +1027,6 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    }
-  ],
-  "｜мοԝ｜": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "The OG TopRamen": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "Bippie": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "Maple": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "Vισʅα Lαყɳҽ": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "ღBeckyღ": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "djtrifecta": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "hollies823": [
@@ -1435,6 +1397,48 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    }
+  ],
+  "｜мοԝ｜": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "The OG TopRamen": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "Bippie": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "Maple": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "Vισʅα Lαყɳҽ": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "ღBeckyღ": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "djtrifecta": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ]
 }
