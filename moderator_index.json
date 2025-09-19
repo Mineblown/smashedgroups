@@ -119,16 +119,16 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "TyphoonWes": [
@@ -153,10 +153,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
@@ -167,6 +163,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Neros03": [
@@ -309,16 +309,16 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Dukeslice": [
@@ -361,16 +361,16 @@
       "name": "Smashed Official"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Hibiscus": [
@@ -529,10 +529,6 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
@@ -543,6 +539,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Merry Martian": [
@@ -1321,36 +1321,6 @@
       "name": "Shot's Before Thot's"
     }
   ],
-  "artistz93": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "GreyGoose20": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "Skip Skip": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "DecaySchulz": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "imSeamless": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
   "NightmareCutie": [
     {
       "id": 20,
@@ -1439,6 +1409,36 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "artistz93": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "GreyGoose20": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "Skip Skip": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "DecaySchulz": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "imSeamless": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ]
 }
