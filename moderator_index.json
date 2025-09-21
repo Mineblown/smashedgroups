@@ -11,10 +11,6 @@
       "name": "Subawu"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -29,6 +25,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Kalinggo": [
@@ -99,10 +99,6 @@
       "name": "Spyco's Doofus Squad"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -129,6 +125,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "TyphoonWes": [
@@ -365,10 +365,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -391,13 +387,13 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
-    }
-  ],
-  "Hibiscus": [
+    },
     {
       "id": 38,
       "name": "Card Game Connisseurs"
-    },
+    }
+  ],
+  "Hibiscus": [
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
@@ -405,6 +401,10 @@
     {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Cantina_Cat": [
@@ -519,10 +519,6 @@
   ],
   "rozAhai": [
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -541,6 +537,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "spycotje": [
@@ -571,16 +571,16 @@
   ],
   "Merry Martian": [
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Finguard": [
@@ -865,10 +865,6 @@
   ],
   "SicParvisMagna": [
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -879,6 +875,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "adsdsaasdasd": [
@@ -943,6 +943,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "RaptorDeity": [
@@ -1015,35 +1019,11 @@
       "name": "Pixel Oasis"
     }
   ],
-  "ᴸᵉˢʰᵃ": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "ɆR₳₴ɆĐ": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "Tуŕıán": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
   "chino_js": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "MissChappy": [
+    },
     {
       "id": 38,
       "name": "Card Game Connisseurs"
@@ -1527,6 +1507,30 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "ᴸᵉˢʰᵃ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "ɆR₳₴ɆĐ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "Tуŕıán": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "MissChappy": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ]
 }
