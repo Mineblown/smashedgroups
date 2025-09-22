@@ -1119,10 +1119,6 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "DarkPyroKing": [
@@ -1474,6 +1470,12 @@
     }
   ],
   "Gelato_": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "Platoza": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
