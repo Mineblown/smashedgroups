@@ -75,6 +75,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "asdasda": [
@@ -91,6 +95,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "TheWebbMD": [
@@ -119,16 +127,16 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "TyphoonWes": [
@@ -157,10 +165,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -171,6 +175,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Neros03": [
@@ -321,16 +329,16 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Dukeslice": [
@@ -377,10 +385,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -395,6 +399,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Hibiscus": [
@@ -409,6 +417,10 @@
     {
       "id": 38,
       "name": "Card Game Connisseurs"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Cantina_Cat": [
@@ -493,6 +505,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "PrimordialAbyss": [
@@ -519,6 +535,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "rozAhai": [
@@ -565,12 +585,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Merry Martian": [
@@ -731,6 +751,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "D o c": [
@@ -1349,6 +1373,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Bippie": [
@@ -1381,35 +1409,11 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
-  "artistz93": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "GreyGoose20": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
   "Skip Skip": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "DecaySchulz": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "imSeamless": [
+    },
     {
       "id": 10,
       "name": "BUNNYBEE"
@@ -1539,6 +1543,30 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "artistz93": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "GreyGoose20": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "DecaySchulz": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "imSeamless": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ]
 }
