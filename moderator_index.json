@@ -627,6 +627,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ],
   "FallZone": [
@@ -731,12 +735,12 @@
   ],
   "Kai2X": [
     {
-      "id": 23,
-      "name": "Kai's E-Kittens"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ],
   "TheIllusionJedi": [
