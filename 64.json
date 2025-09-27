@@ -3,5 +3,46 @@
   "tos": {
     "version": "1.1",
     "acceptedOn": "2025-09-27T22:21:34.177Z"
+  },
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/64_billboard_atlas.png?v=1759012530525",
+    "images": [
+      {
+        "name": "VRChat_2025-09-06_22-02-47.796_1920x1080.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "name": "VRChat_2025-09-06_22-03-10.521_1920x1080.png",
+        "uv": [
+          0.5,
+          0,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "name": "VRChat_2025-09-06_22-11-05.924_1920x1080.png",
+        "uv": [
+          0,
+          0.5,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "name": "VRChat_2025-09-06_23-06-13.896_1920x1080.png",
+        "uv": [
+          0.5,
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
   }
 }
