@@ -81,5 +81,7 @@
         ]
       }
     ]
-  }
+  },
+  "posterEnabled": false,
+  "groupPhotosEnabled": false
 }
