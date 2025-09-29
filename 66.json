@@ -25,12 +25,21 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/virtual-vixens",
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1759186067149",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1759186456485",
     "images": [
+      {
+        "name": "raina background.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      },
       {
         "name": "vv revamp 3.png",
         "uv": [
-          0,
+          0.5,
           0,
           0.5,
           1
