@@ -1537,12 +1537,6 @@
       "name": "BUNNYBEE"
     }
   ],
-  "Omni Kitsune": [
-    {
-      "id": 60,
-      "name": "Okita's Fox Crew"
-    }
-  ],
   "ScoopDeWoo": [
     {
       "id": 23,
@@ -1595,6 +1589,12 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "Omni Kitsune": [
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
     }
   ]
 }
