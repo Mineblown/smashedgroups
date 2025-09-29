@@ -1549,12 +1549,6 @@
       "name": "Kai's E-Kittens"
     }
   ],
-  "Raina Rosedrop": [
-    {
-      "id": 66,
-      "name": "Group 66"
-    }
-  ],
   "｜мοԝ｜": [
     {
       "id": 12,
@@ -1595,6 +1589,12 @@
     {
       "id": 60,
       "name": "Okita's Fox Crew"
+    }
+  ],
+  "Raina Rosedrop": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
     }
   ]
 }
