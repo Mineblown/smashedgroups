@@ -22,5 +22,64 @@
     "Raina Rosedrop"
   ],
   "coOwners": [],
-  "landingPageUrl": "https://vrclink.com/p/virtual-vixens"
+  "landingPageUrl": "https://vrclink.com/p/virtual-vixens",
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1759183908599",
+    "images": [
+      {
+        "name": "orb 2.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "pink one.png",
+        "uv": [
+          0.5,
+          0,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "unnamed (2).png",
+        "uv": [
+          0,
+          0.3333333333333333,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "uno 2.png",
+        "uv": [
+          0.5,
+          0.3333333333333333,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "vv revamp 2.png",
+        "uv": [
+          0,
+          0.6666666666666666,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "vv revamp 3.png",
+        "uv": [
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.3333333333333333
+        ]
+      }
+    ]
+  }
 }
