@@ -84,7 +84,7 @@
     ]
   },
   "posterEnabled": false,
-  "groupPhotosEnabled": false,
+  "groupPhotosEnabled": true,
   "spinbottle": {
     "categories": []
   }
