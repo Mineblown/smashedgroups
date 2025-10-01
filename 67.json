@@ -12,7 +12,7 @@
   "instagram": "",
   "x": "",
   "patreon": "",
-  "rules": "No Drama\n<br>21+ Only\n<br>No Snoring\n<br>No Peer Pressure\n<br>Don't Cause Problems\n<br>Have a good time and drink responsibly!<br><br><br><br><br>",
+  "rules": "No Drama<br><br>21+ Only<br><br>No Snoring<br><br>No Peer Pressure<br><br>Don't Cause Problems<br><br>Have a good time and drink responsibly!<br><br><br><br><br>",
   "infoBoard": "",
   "moderators": [
     "NightmareCutie",
@@ -26,5 +26,6 @@
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/67",
-  "active": true
+  "active": true,
+  "posterEnabled": true
 }
