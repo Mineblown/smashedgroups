@@ -189,6 +189,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 67,
+      "name": "Drunken Pirates"
     }
   ],
   "Milyugen": [
@@ -1319,6 +1323,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 67,
+      "name": "Drunken Pirates"
     }
   ],
   "OnlyMutes": [
@@ -1331,12 +1339,20 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 67,
+      "name": "Drunken Pirates"
     }
   ],
   "WarlordArdan": [
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 67,
+      "name": "Drunken Pirates"
     }
   ],
   "Verøsika": [
@@ -1601,6 +1617,12 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
+    }
+  ],
+  "BurntUrSandwich": [
+    {
+      "id": 67,
+      "name": "Drunken Pirates"
     }
   ]
 }
