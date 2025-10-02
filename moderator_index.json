@@ -1587,18 +1587,6 @@
       "name": "Okita's Fox Crew"
     }
   ],
-  "Raina Rosedrop": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "Skyla-style8854": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
   "BurntUrSandwich": [
     {
       "id": 67,
@@ -1633,6 +1621,18 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Raina Rosedrop": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "Skyla-style8854": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
     }
   ]
 }
