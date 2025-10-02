@@ -61,10 +61,6 @@
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 30,
       "name": "Heart of the king"
     },
@@ -103,10 +99,6 @@
   ],
   "TheWebbMD": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -133,6 +125,10 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "TyphoonWes": [
@@ -179,10 +175,6 @@
   ],
   "Neros03": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
@@ -193,6 +185,10 @@
     {
       "id": 67,
       "name": "Drunken Pirates"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Milyugen": [
@@ -343,10 +339,6 @@
   ],
   "Dukeslice": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -365,6 +357,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "․Skittles․": [
@@ -577,10 +573,6 @@
   ],
   "spycotje": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
@@ -599,6 +591,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Merry Martian": [
@@ -653,19 +649,15 @@
   ],
   "Shazik": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 22,
       "name": "Pixel Oasis"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "JustLex420": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
     {
       "id": 22,
       "name": "Pixel Oasis"
@@ -673,6 +665,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "TwerkTaco": [
@@ -863,35 +859,11 @@
       "name": "Waypoint Club"
     }
   ],
-  "slayerofmen": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "aGothLizard": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "VindiKitty": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
   "Shots?": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "Binxy~": [
+    },
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
@@ -987,6 +959,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "RaptorDeity": [
@@ -1633,6 +1609,30 @@
     {
       "id": 67,
       "name": "Drunken Pirates"
+    }
+  ],
+  "slayerofmen": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "aGothLizard": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "VindiKitty": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Binxy~": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ]
 }
