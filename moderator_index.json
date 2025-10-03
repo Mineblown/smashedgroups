@@ -183,12 +183,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 67,
-      "name": "Drunken Pirates"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 67,
+      "name": "Drunken Pirates"
     }
   ],
   "Milyugen": [
@@ -1587,18 +1587,6 @@
       "name": "Okita's Fox Crew"
     }
   ],
-  "BurntUrSandwich": [
-    {
-      "id": 67,
-      "name": "Drunken Pirates"
-    }
-  ],
-  "Spooky_Boo_": [
-    {
-      "id": 67,
-      "name": "Drunken Pirates"
-    }
-  ],
   "slayerofmen": [
     {
       "id": 15,
@@ -1639,6 +1627,24 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
+    }
+  ],
+  "BurntUrSandwich": [
+    {
+      "id": 67,
+      "name": "Drunken Pirates"
+    }
+  ],
+  "Spooky_Boo_": [
+    {
+      "id": 67,
+      "name": "Drunken Pirates"
+    }
+  ],
+  "___Fallen___": [
+    {
+      "id": 67,
+      "name": "Drunken Pirates"
     }
   ]
 }
