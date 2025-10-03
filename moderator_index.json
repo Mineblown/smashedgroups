@@ -1611,24 +1611,6 @@
       "name": "Spyco's Doofus Squad"
     }
   ],
-  "Raina Rosedrop": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "_Fluffles": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "Skyla-style8854": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
   "BurntUrSandwich": [
     {
       "id": 67,
@@ -1645,6 +1627,30 @@
     {
       "id": 67,
       "name": "Drunken Pirates"
+    }
+  ],
+  "Raina Rosedrop": [
+    {
+      "id": 66,
+      "name": "Blackouts & Backshots"
+    }
+  ],
+  "_Fluffles": [
+    {
+      "id": 66,
+      "name": "Blackouts & Backshots"
+    }
+  ],
+  "ItzZombaitTv": [
+    {
+      "id": 66,
+      "name": "Blackouts & Backshots"
+    }
+  ],
+  "Skyla-style8854": [
+    {
+      "id": 66,
+      "name": "Blackouts & Backshots"
     }
   ]
 }
