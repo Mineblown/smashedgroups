@@ -87,7 +87,7 @@
       }
     ]
   },
-  "posterEnabled": true,
+  "posterEnabled": false,
   "groupPhotosEnabled": true,
   "spinbottle": {
     "categories": [
