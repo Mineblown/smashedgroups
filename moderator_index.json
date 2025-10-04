@@ -183,12 +183,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 67,
       "name": "Drunken Pirates"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Milyugen": [
@@ -1587,30 +1587,6 @@
       "name": "Okita's Fox Crew"
     }
   ],
-  "slayerofmen": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "aGothLizard": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "VindiKitty": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "Binxy~": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
   "BurntUrSandwich": [
     {
       "id": 67,
@@ -1651,6 +1627,30 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
+    }
+  ],
+  "slayerofmen": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "aGothLizard": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "VindiKitty": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Binxy~": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ]
 }
