@@ -29,60 +29,15 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/virtual-vixens",
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1759532904356",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1759888318179",
     "images": [
       {
-        "name": "B&B banner 2.png",
+        "name": "vv revamp 3 halloween.png",
         "uv": [
           0,
           0,
           0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "B&B banner 3.png",
-        "uv": [
-          0.5,
-          0,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "B&B banner 4.png",
-        "uv": [
-          0,
-          0.3333333333333333,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "B&B banner 5.png",
-        "uv": [
-          0.5,
-          0.3333333333333333,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "B&B banner.png",
-        "uv": [
-          0,
-          0.6666666666666666,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "Raina Profile banner.png",
-        "uv": [
-          0.5,
-          0.6666666666666666,
-          0.5,
-          0.3333333333333333
+          1
         ]
       }
     ]
