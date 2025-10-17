@@ -30,15 +30,60 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/virtual-vixens",
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1759888318179",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1760733931380",
     "images": [
       {
-        "name": "vv revamp 3 halloween.png",
+        "name": "medal.png",
         "uv": [
           0,
           0,
           0.5,
-          1
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "orb 2.png",
+        "uv": [
+          0.5,
+          0,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "raina background.png",
+        "uv": [
+          0,
+          0.3333333333333333,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "Virtual Vixens banner.png",
+        "uv": [
+          0.5,
+          0.3333333333333333,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "vv revamp 3 halloween.png",
+        "uv": [
+          0,
+          0.6666666666666666,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "vv revamp 3.png",
+        "uv": [
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.3333333333333333
         ]
       }
     ]
