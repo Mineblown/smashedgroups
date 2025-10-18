@@ -1647,24 +1647,6 @@
       "name": "Ruesday Tuesday"
     }
   ],
-  "Biology~": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
-  "de_kappatator": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
-  "matbоt": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
   "Raina Rosedrop": [
     {
       "id": 66,
@@ -1699,6 +1681,24 @@
     {
       "id": 60,
       "name": "Okita's Fox Crew"
+    }
+  ],
+  "Biology~": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "de_kappatator": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "matbоt": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ]
 }
