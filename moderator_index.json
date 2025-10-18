@@ -1407,12 +1407,6 @@
       "name": "Kai's E-Kittens"
     }
   ],
-  "Omni Kitsune": [
-    {
-      "id": 60,
-      "name": "Okita's Fox Crew"
-    }
-  ],
   "BurntUrSandwich": [
     {
       "id": 67,
@@ -1693,6 +1687,18 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
+    }
+  ],
+  "Okita_": [
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
+    }
+  ],
+  "Omni Kitsune": [
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
     }
   ]
 }
