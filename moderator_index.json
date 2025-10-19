@@ -115,16 +115,16 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "TyphoonWes": [
@@ -179,12 +179,12 @@
       "name": "Drunken Pirates"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Milyugen": [
@@ -343,10 +343,6 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -357,6 +353,10 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "․Skittles․": [
@@ -581,16 +581,16 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Merry Martian": [
@@ -659,12 +659,12 @@
       "name": "Pixel Oasis"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "TwerkTaco": [
@@ -869,12 +869,12 @@
   ],
   "Shots?": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Ʉ₦ĐɎ": [
@@ -961,10 +961,6 @@
       "name": "Card Game Connisseurs"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -975,6 +971,10 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "RaptorDeity": [
@@ -1287,6 +1287,10 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "The OG TopRamen": [
@@ -1423,30 +1427,6 @@
     {
       "id": 67,
       "name": "Drunken Pirates"
-    }
-  ],
-  "slayerofmen": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "aGothLizard": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "VindiKitty": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "Binxy~": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
     }
   ],
   "Gelato_": [
@@ -1699,6 +1679,30 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    }
+  ],
+  "slayerofmen": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "aGothLizard": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "VindiKitty": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Binxy~": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ]
 }
