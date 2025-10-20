@@ -19,16 +19,16 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Kalinggo": [
@@ -107,10 +107,6 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
     },
@@ -125,6 +121,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "TyphoonWes": [
@@ -377,10 +377,6 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
     },
@@ -395,16 +391,16 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Hibiscus": [
     {
       "id": 3,
       "name": "Smashed Official"
-    },
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
     },
     {
       "id": 10,
@@ -547,10 +543,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 67,
       "name": "Drunken Pirates"
     },
@@ -565,6 +557,10 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "spycotje": [
@@ -591,13 +587,13 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "Merry Martian": [
+    },
     {
       "id": 38,
       "name": "Card Game Connisseurs"
-    },
+    }
+  ],
+  "Merry Martian": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
@@ -605,6 +601,10 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Finguard": [
@@ -889,16 +889,16 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "adsdsaasdasd": [
@@ -957,10 +957,6 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -975,6 +971,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "RaptorDeity": [
@@ -1045,12 +1045,6 @@
     {
       "id": 22,
       "name": "Pixel Oasis"
-    }
-  ],
-  "chino_js": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
     }
   ],
   "Hiiru": [
@@ -1349,30 +1343,6 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
-    }
-  ],
-  "ᴸᵉˢʰᵃ": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "ɆR₳₴ɆĐ": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "Tуŕıán": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "MissChappy": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
     }
   ],
   "artistz93": [
@@ -1709,6 +1679,42 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "ᴸᵉˢʰᵃ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "Esmeräy": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "ɆR₳₴ɆĐ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "Tуŕıán": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "chino_js": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "MissChappy": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ]
 }
