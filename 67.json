@@ -30,5 +30,19 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/67",
   "active": true,
-  "posterEnabled": true
+  "posterEnabled": true,
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/67_billboard_atlas.png?v=1761334554814",
+    "images": [
+      {
+        "name": "newsmashed.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
+  }
 }
