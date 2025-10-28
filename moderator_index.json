@@ -1423,18 +1423,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
-  "RuKomori": [
-    {
-      "id": 72,
-      "name": "Ruesday Tuesday"
-    }
-  ],
-  "SupremeAnubis": [
-    {
-      "id": 72,
-      "name": "Ruesday Tuesday"
-    }
-  ],
   "Raina Rosedrop": [
     {
       "id": 66,
@@ -1745,6 +1733,18 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "RuKomori": [
+    {
+      "id": 72,
+      "name": "Ruesday Tuesday"
+    }
+  ],
+  "SupremeAnubis": [
+    {
+      "id": 72,
+      "name": "Ruesday Tuesday"
     }
   ]
 }
