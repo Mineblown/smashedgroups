@@ -29,10 +29,10 @@
   },
   "posterEnabled": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/72_billboard_atlas.png?v=1761627780890",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/72_billboard_atlas.png?v=1761627810358",
     "images": [
       {
-        "name": "RusdayBlackOutline.png",
+        "name": "RusdayWhiteOutline.png",
         "uv": [
           0,
           0,
