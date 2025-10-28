@@ -26,7 +26,14 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/72",
   "spinbottle": {
-    "categories": []
+    "categories": [
+      {
+        "k": "regular",
+        "t": "RT Wheel",
+        "e": 1,
+        "x": "If you have a pet, ~a ~m ~cHost~\nEveryone who has traveled abroad must ~a ~m\nGive ~m to someone wearing red ~cYou~\nIf you’ve ever stayed up all night gaming, ~a ~m"
+      }
+    ]
   },
   "posterEnabled": true,
   "billboardData": {
