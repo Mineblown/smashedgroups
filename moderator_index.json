@@ -57,6 +57,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
@@ -141,10 +145,6 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -167,6 +167,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "Neros03": [
@@ -309,10 +313,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -331,6 +331,10 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "Dukeslice": [
@@ -365,10 +369,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -395,6 +395,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "Hibiscus": [
@@ -431,10 +435,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -449,16 +449,16 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "-Epsi-": [
     {
       "id": 30,
       "name": "Heart of the king"
-    },
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
       "id": 3,
@@ -471,16 +471,16 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "༒DAX༒": [
     {
       "id": 30,
       "name": "Heart of the king"
-    },
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
       "id": 3,
@@ -501,6 +501,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "PrimordialAbyss": [
@@ -511,10 +515,6 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
-    },
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
       "id": 3,
@@ -535,6 +535,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "rozAhai": [
@@ -573,10 +577,6 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
     },
@@ -599,6 +599,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "Merry Martian": [
@@ -616,10 +620,6 @@
     }
   ],
   "Finguard": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
     {
       "id": 3,
       "name": "Smashed Official"
@@ -651,16 +651,20 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "FallZone": [
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "Shazik": [
@@ -773,10 +777,6 @@
   ],
   "TheIllusionJedi": [
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
     },
@@ -787,16 +787,20 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "D o c": [
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "ilykrona": [
@@ -933,12 +937,12 @@
       "name": "Heart of the king"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "PJStan": [
@@ -969,10 +973,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -995,6 +995,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "RaptorDeity": [
@@ -1271,33 +1275,17 @@
       "name": "Drunken Pirates"
     }
   ],
-  "Verøsika": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    }
-  ],
-  "xxemotaylorxx": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    }
-  ],
   "Elysium․": [
-    {
-      "id": 36,
-      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
     {
       "id": 51,
       "name": "Haven't seen you in a while"
-    }
-  ],
-  "zencat__": [
+    },
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
-    },
+    }
+  ],
+  "zencat__": [
     {
       "id": 6,
       "name": "Certified Alcoholics"
@@ -1309,6 +1297,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ],
   "The OG TopRamen": [
@@ -1757,6 +1749,18 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "xxemotaylorxx": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    }
+  ],
+  "Verøsika": [
+    {
+      "id": 36,
+      "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     }
   ]
 }
