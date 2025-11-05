@@ -17,10 +17,13 @@
   "infoBoard": "",
   "posterEnabled": true,
   "moderators": [
+    "KaneKosmos",
     "Pocketnightmare",
     "KyvieVR"
   ],
-  "owners": [],
+  "owners": [
+    "KaneKosmos"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/74"
 }
