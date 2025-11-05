@@ -13,10 +13,13 @@
   "instagram": "",
   "x": "",
   "patreon": "",
-  "rules": "-Respect those in lobbies\n<br>-Don't be a dick\n<br>-Drink responsibly\n<br>-Have funǃ",
+  "rules": "-Respect those in lobbies<br><br>-Don't be a dick<br><br>-Drink responsibly<br><br>-Have funǃ",
   "infoBoard": "",
   "posterEnabled": true,
-  "moderators": [],
+  "moderators": [
+    "Pocketnightmare",
+    "KyvieVR"
+  ],
   "owners": [],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/74"
