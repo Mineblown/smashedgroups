@@ -1349,18 +1349,6 @@
       "name": "Virtual Vixens"
     }
   ],
-  "Okita_": [
-    {
-      "id": 60,
-      "name": "Okita's Fox Crew"
-    }
-  ],
-  "Omni Kitsune": [
-    {
-      "id": 60,
-      "name": "Okita's Fox Crew"
-    }
-  ],
   "xᴏʟᴜɴɪᴇ ღ": [
     {
       "id": 52,
@@ -1815,6 +1803,18 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "Okita_": [
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
+    }
+  ],
+  "Omni Kitsune": [
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
     }
   ]
 }
