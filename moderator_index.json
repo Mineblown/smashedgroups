@@ -1665,6 +1665,10 @@
     {
       "id": 74,
       "name": "Buzz Buddies"
+    },
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
     }
   ],
   "Pocketnightmare": [
@@ -1781,18 +1785,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
-  "Okita_": [
-    {
-      "id": 60,
-      "name": "Okita's Fox Crew"
-    }
-  ],
-  "Omni Kitsune": [
-    {
-      "id": 60,
-      "name": "Okita's Fox Crew"
-    }
-  ],
   "Raina Rosedrop": [
     {
       "id": 66,
@@ -1821,6 +1813,18 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
+    }
+  ],
+  "Okita_": [
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
+    }
+  ],
+  "Omni Kitsune": [
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
     }
   ]
 }
