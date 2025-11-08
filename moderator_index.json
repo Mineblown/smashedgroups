@@ -1663,21 +1663,9 @@
   ],
   "KaneKosmos": [
     {
-      "id": 74,
-      "name": "Buzz Buddies"
-    },
-    {
       "id": 60,
       "name": "Okita's Fox Crew"
-    }
-  ],
-  "Pocketnightmare": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
-  "KyvieVR": [
+    },
     {
       "id": 74,
       "name": "Buzz Buddies"
@@ -1819,12 +1807,28 @@
     {
       "id": 60,
       "name": "Okita's Fox Crew"
+    },
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
     }
   ],
   "Omni Kitsune": [
     {
       "id": 60,
       "name": "Okita's Fox Crew"
+    }
+  ],
+  "Pocketnightmare": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
+    }
+  ],
+  "KyvieVR": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
     }
   ]
 }
