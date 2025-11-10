@@ -31,7 +31,7 @@
         "k": "regular",
         "t": "RT Wheel",
         "e": 1,
-        "x": "If you have a pet, ~d {5}\nEveryone who has traveled abroad must ~g {3}\nGive {3} to someone wearing red\nIf you’ve ever stayed up all night gaming, {Drink} {5}"
+        "x": "If you have a pet, ~d {5}\nEveryone who has traveled abroad must ~g {3}\nGive {3} to someone wearing red\nIf you’ve ever stayed up all night gaming, {Drink} {5}\nDo a dare or ~d {3}\n~d {5} if you are older then 25, ~g {10} if you are younger then 25"
       }
     ]
   },
