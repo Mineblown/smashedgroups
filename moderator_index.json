@@ -899,10 +899,6 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Ʉ₦ĐɎ": [
@@ -1297,6 +1293,10 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "imSeamless": [
@@ -1782,12 +1782,6 @@
     }
   ],
   "~kiska~": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "S I X E S": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
