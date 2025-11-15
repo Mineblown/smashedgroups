@@ -32,8 +32,8 @@
       {
         "k": "buzz",
         "t": "Buzzy Buddy Wheel",
-        "e": 0,
-        "x": "~a ~m"
+        "e": 1,
+        "x": "~a ~m {player}\n1\n1\n1\n1\n1\n1\n1\n1\n1"
       }
     ]
   }
