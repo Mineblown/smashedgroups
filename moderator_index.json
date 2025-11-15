@@ -1633,18 +1633,6 @@
       "name": "Okita's Fox Crew"
     }
   ],
-  "Pocketnightmare": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
-  "KyvieVR": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
   "Gelato_": [
     {
       "id": 13,
@@ -1829,6 +1817,18 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    }
+  ],
+  "Pocketnightmare": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
+    }
+  ],
+  "KyvieVR": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
     }
   ]
 }
