@@ -28,6 +28,13 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/74",
   "spinbottle": {
-    "categories": []
+    "categories": [
+      {
+        "k": "buzz",
+        "t": "Buzzy Buddy Wheel",
+        "e": 0,
+        "x": "~a ~m"
+      }
+    ]
   }
 }
