@@ -23,12 +23,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Kalinggo": [
@@ -153,12 +153,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Neros03": [
@@ -261,10 +261,6 @@
     {
       "id": 21,
       "name": "D-Gen Club"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Annoying Bitch": [
@@ -343,12 +339,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "․Skittles․": [
@@ -381,12 +377,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Hibiscus": [
@@ -443,12 +439,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "-Epsi-": [
@@ -495,12 +491,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "PrimordialAbyss": [
@@ -597,12 +593,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Merry Martian": [
@@ -653,12 +649,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "FallZone": [
@@ -689,10 +685,6 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "TwerkTaco": [
@@ -993,12 +985,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "RaptorDeity": [
@@ -1741,6 +1733,42 @@
       "name": "Buzz Buddies"
     }
   ],
+  "Johanna․": [
+    {
+      "id": 51,
+      "name": "Haven't seen you in a while"
+    }
+  ],
+  "- Hugh -": [
+    {
+      "id": 51,
+      "name": "Haven't seen you in a while"
+    }
+  ],
+  "Heirja": [
+    {
+      "id": 51,
+      "name": "Haven't seen you in a while"
+    }
+  ],
+  "Kanditt": [
+    {
+      "id": 51,
+      "name": "Haven't seen you in a while"
+    }
+  ],
+  "Zencat__": [
+    {
+      "id": 51,
+      "name": "Haven't seen you in a while"
+    }
+  ],
+  "gametiepe": [
+    {
+      "id": 51,
+      "name": "Haven't seen you in a while"
+    }
+  ],
   "Gelato_": [
     {
       "id": 13,
@@ -1760,12 +1788,6 @@
     }
   ],
   "~kiska~": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "TheViagra": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
@@ -1807,40 +1829,10 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
-  "Johanna․": [
+  "graveygriller": [
     {
-      "id": 51,
-      "name": "Haven't seen you in a while"
-    }
-  ],
-  "- Hugh -": [
-    {
-      "id": 51,
-      "name": "Haven't seen you in a while"
-    }
-  ],
-  "Heirja": [
-    {
-      "id": 51,
-      "name": "Haven't seen you in a while"
-    }
-  ],
-  "Kanditt": [
-    {
-      "id": 51,
-      "name": "Haven't seen you in a while"
-    }
-  ],
-  "Zencat__": [
-    {
-      "id": 51,
-      "name": "Haven't seen you in a while"
-    }
-  ],
-  "gametiepe": [
-    {
-      "id": 51,
-      "name": "Haven't seen you in a while"
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ]
 }
