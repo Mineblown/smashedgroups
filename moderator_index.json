@@ -103,10 +103,6 @@
       "name": "Card Game Connisseurs"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
@@ -117,6 +113,10 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "TyphoonWes": [
@@ -167,16 +167,16 @@
       "name": "Drunken Pirates"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Milyugen": [
@@ -327,10 +327,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -345,6 +341,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "․Skittles․": [
@@ -573,10 +573,6 @@
       "name": "Card Game Connisseurs"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -599,6 +595,10 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Merry Martian": [
@@ -655,6 +655,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "FallZone": [
@@ -903,12 +907,6 @@
       "name": "Waypoint Club"
     }
   ],
-  "Shots?": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
   "Ʉ₦ĐɎ": [
     {
       "id": 31,
@@ -981,10 +979,6 @@
       "name": "Card Game Connisseurs"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -1007,6 +1001,10 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "RaptorDeity": [
@@ -1233,10 +1231,6 @@
   ],
   "zencat__": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -1251,6 +1245,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "The OG TopRamen": [
@@ -1463,42 +1461,6 @@
     {
       "id": 72,
       "name": "Ruesday Tuesday"
-    }
-  ],
-  "slayerofmen": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "aGothLizard": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "Tobi A": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "VindiKitty": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "Binxy~": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "UmbraScrolls": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
     }
   ],
   "Biology~": [
@@ -1849,6 +1811,48 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
+    }
+  ],
+  "slayerofmen": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "aGothLizard": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Tobi A": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "VindiKitty": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Shots?": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Binxy~": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "UmbraScrolls": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ]
 }
