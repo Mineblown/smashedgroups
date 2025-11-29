@@ -15,10 +15,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -33,6 +29,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Kalinggo": [
@@ -103,10 +103,6 @@
       "name": "SinsDesiresLust"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
@@ -125,6 +121,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "TyphoonWes": [
@@ -381,10 +381,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -411,6 +407,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Hibiscus": [
@@ -599,10 +599,6 @@
       "name": "Drunken Pirates"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -621,13 +617,13 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
-    }
-  ],
-  "spycotje": [
+    },
     {
       "id": 38,
       "name": "Card Game Connisseurs"
-    },
+    }
+  ],
+  "spycotje": [
     {
       "id": 20,
       "name": "Cuties Alcholics"
@@ -659,13 +655,13 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
-    }
-  ],
-  "Merry Martian": [
+    },
     {
       "id": 38,
       "name": "Card Game Connisseurs"
-    },
+    }
+  ],
+  "Merry Martian": [
     {
       "id": 6,
       "name": "Certified Alcoholics"
@@ -677,6 +673,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Finguard": [
@@ -691,10 +691,6 @@
     {
       "id": 48,
       "name": "Group 48"
-    },
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
     },
     {
       "id": 6,
@@ -727,6 +723,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "FallZone": [
@@ -983,10 +983,6 @@
   ],
   "SicParvisMagna": [
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -1001,6 +997,10 @@
     {
       "id": 23,
       "name": "Kai's E-Kittens"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "adsdsaasdasd": [
@@ -1051,10 +1051,6 @@
   ],
   "࿇R E S O L V E࿇": [
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -1085,6 +1081,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "RaptorDeity": [
@@ -1337,6 +1337,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "The OG TopRamen": [
@@ -1487,42 +1491,6 @@
     {
       "id": 67,
       "name": "Drunken Pirates"
-    }
-  ],
-  "ᴸᵉˢʰᵃ": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "Esmeräy": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "ɆR₳₴ɆĐ": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "Tуŕıán": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "chino_js": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "MissChappy": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
     }
   ],
   "RuKomori": [
@@ -1989,6 +1957,42 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    }
+  ],
+  "ᴸᵉˢʰᵃ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "Esmeräy": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "ɆR₳₴ɆĐ": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "Tуŕıán": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "chino_js": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "MissChappy": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ]
 }
