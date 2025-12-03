@@ -123,12 +123,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "TyphoonWes": [
@@ -173,12 +173,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Neros03": [
@@ -337,12 +337,12 @@
       "name": "Smashed Official"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Dukeslice": [
@@ -409,12 +409,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Hibiscus": [
@@ -435,12 +435,12 @@
       "name": "Smashed Official"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Cantina_Cat": [
@@ -547,12 +547,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "PrimordialAbyss": [
@@ -589,12 +589,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "rozAhai": [
@@ -661,12 +661,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Merry Martian": [
@@ -1969,6 +1969,36 @@
       "name": "Virtual Vixens"
     }
   ],
+  "artistz93": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "GreyGoose20": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "imSeamless": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "*YUZI*": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "ㄥ卂乙卂尺ㄩ丂": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
   "Jaameess": [
     {
       "id": 75,
@@ -2005,34 +2035,10 @@
       "name": "Zero Sobriety"
     }
   ],
-  "artistz93": [
+  "Ace NanoSpear": [
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "GreyGoose20": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "imSeamless": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "*YUZI*": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "ㄥ卂乙卂尺ㄩ丂": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ]
 }
