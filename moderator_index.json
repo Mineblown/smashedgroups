@@ -1969,36 +1969,6 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
-  "ModernDe4th": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "FairAssumption": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "ShionBlanc": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "Garthog": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "Jaameess": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
   "Raina Rosedrop": [
     {
       "id": 66,
@@ -2027,6 +1997,42 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
+    }
+  ],
+  "Jaameess": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "ModernDe4th": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "FairAssumption": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "ShionBlanc": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "Garthog": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "rileyvh": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ]
 }
