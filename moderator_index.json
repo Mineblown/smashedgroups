@@ -107,10 +107,6 @@
       "name": "Cuties Alcholics"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
     },
@@ -129,6 +125,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "TyphoonWes": [
@@ -147,10 +147,6 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
     },
     {
       "id": 23,
@@ -179,6 +175,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Neros03": [
@@ -321,10 +321,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -343,6 +339,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Dukeslice": [
@@ -389,10 +389,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -415,6 +411,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Hibiscus": [
@@ -427,10 +427,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
     },
@@ -441,6 +437,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Cantina_Cat": [
@@ -527,10 +527,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 23,
       "name": "Kai's E-Kittens"
     },
@@ -553,6 +549,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "PrimordialAbyss": [
@@ -567,10 +567,6 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
     },
     {
       "id": 23,
@@ -595,6 +591,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "rozAhai": [
@@ -641,10 +641,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
     },
@@ -667,6 +663,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "Merry Martian": [
@@ -777,12 +777,12 @@
       "name": "The Hundred"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "໒ྀིNiki ໒ྀི": [
@@ -833,12 +833,12 @@
       "name": "The Hundred"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "~Ｊｕｉｃｙ": [
@@ -869,12 +869,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "D o c": [
@@ -1239,12 +1239,12 @@
   ],
   "Ethanmeister": [
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "YuiDelta": [
@@ -1385,16 +1385,16 @@
   ],
   "DecaySchulz": [
     {
-      "id": 10,
-      "name": "BUNNYBEE"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ],
   "xᴏʟᴜɴɪᴇ ღ": [
@@ -1653,36 +1653,6 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
-    }
-  ],
-  "artistz93": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "GreyGoose20": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "imSeamless": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "*YUZI*": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
-    }
-  ],
-  "ㄥ卂乙卂尺ㄩ丂": [
-    {
-      "id": 10,
-      "name": "BUNNYBEE"
     }
   ],
   "slayerofmen": [
@@ -2033,6 +2003,36 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    }
+  ],
+  "artistz93": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "GreyGoose20": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "imSeamless": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "*YUZI*": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
+    }
+  ],
+  "ㄥ卂乙卂尺ㄩ丂": [
+    {
+      "id": 10,
+      "name": "BUNNYBEE"
     }
   ]
 }
