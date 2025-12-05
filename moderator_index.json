@@ -123,12 +123,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "TyphoonWes": [
@@ -367,12 +367,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "․Skittles․": [
@@ -661,12 +661,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Merry Martian": [
@@ -729,12 +729,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "FallZone": [
@@ -1087,12 +1087,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "RaptorDeity": [
@@ -1347,12 +1347,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "The OG TopRamen": [
@@ -1651,22 +1651,22 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "slayerofmen": [
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "ScoopDeWoo": [
@@ -1851,6 +1851,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "NoWayDude96": [
@@ -1967,6 +1971,42 @@
       "name": "BUNNYBEE"
     }
   ],
+  "Tobi A": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "VindiKitty": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "aGothLizard": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Shots?": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Binxy~": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "UmbraScrolls": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
   "Jaameess": [
     {
       "id": 75,
@@ -2007,42 +2047,6 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
-    }
-  ],
-  "Tobi A": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "VindiKitty": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "aGothLizard": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "Shots?": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "Binxy~": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "UmbraScrolls": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
     }
   ]
 }
