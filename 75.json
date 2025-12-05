@@ -66,5 +66,19 @@
       }
     ]
   },
-  "posterEnabled": true
+  "posterEnabled": true,
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/75_billboard_atlas.png?v=1764956816856",
+    "images": [
+      {
+        "name": "COLLAB_1.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
+  }
 }
