@@ -33,10 +33,6 @@
   },
   "djs": [
     {
-      "id": 5,
-      "name": "TERSTTTTT"
-    },
-    {
       "id": 2,
       "name": "PB&J"
     },
@@ -47,14 +43,6 @@
     {
       "id": 4,
       "name": "Hikari"
-    },
-    {
-      "id": 1,
-      "name": "22asdasdasd"
-    },
-    {
-      "id": 0,
-      "name": "test"
     }
   ],
   "adsasd": "",
