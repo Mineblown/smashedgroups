@@ -95,10 +95,6 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "TheWebbMD": [
@@ -1297,10 +1293,6 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "StrawHatStream": [
@@ -2064,6 +2056,12 @@
     }
   ],
   "graveygriller": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "Oh Hey Stickers": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
