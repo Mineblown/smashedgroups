@@ -1257,18 +1257,6 @@
       "name": "Yui's drunkies"
     }
   ],
-  "SealSAURUS": [
-    {
-      "id": 54,
-      "name": "Seal IS Cool"
-    }
-  ],
-  "~Mika": [
-    {
-      "id": 54,
-      "name": "Seal IS Cool"
-    }
-  ],
   "NightmareCutie": [
     {
       "id": 67,
@@ -2031,6 +2019,18 @@
     {
       "id": 38,
       "name": "Card Game Connisseurs"
+    }
+  ],
+  "SealSAURUS": [
+    {
+      "id": 54,
+      "name": "Seal IS Cool"
+    }
+  ],
+  "-Mika": [
+    {
+      "id": 54,
+      "name": "Seal IS Cool"
     }
   ]
 }
