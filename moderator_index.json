@@ -19,10 +19,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -33,6 +29,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Kalinggo": [
@@ -339,6 +339,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Dukeslice": [
@@ -607,10 +611,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -621,6 +621,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "spycotje": [
@@ -645,10 +649,6 @@
       "name": "Spyco's Doofus Squad"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -659,6 +659,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Merry Martian": [
@@ -667,12 +671,12 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Finguard": [
@@ -709,10 +713,6 @@
       "name": "Spyco's Doofus Squad"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -723,6 +723,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "FallZone": [
@@ -999,12 +1003,12 @@
       "name": "Kai's E-Kittens"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "adsdsaasdasd": [
@@ -1319,10 +1323,6 @@
       "name": "Spyco's Doofus Squad"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
@@ -1333,6 +1333,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "The OG TopRamen": [
@@ -1839,24 +1843,6 @@
       "name": "Sprinks N' Drinks"
     }
   ],
-  "Esmeräy": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "Tуŕıán": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "chino_js": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
   "SealSAURUS": [
     {
       "id": 54,
@@ -2035,6 +2021,24 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
+    }
+  ],
+  "Esmeräy": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "Tуŕıán": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "chino_js": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ]
 }
