@@ -1,10 +1,4 @@
 {
-  "2222": [
-    {
-      "id": 0,
-      "name": "Demoaaaasad"
-    }
-  ],
   "Areina": [
     {
       "id": 11,
@@ -45,10 +39,6 @@
     {
       "id": 1,
       "name": "partner1"
-    },
-    {
-      "id": 0,
-      "name": "Demoaaaasad"
     },
     {
       "id": 30,
@@ -178,6 +168,10 @@
     },
     {
       "id": 6,
+      "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
       "name": "Certified Alcoholics"
     }
   ],
@@ -347,6 +341,10 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Dukeslice": [
@@ -377,6 +375,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "․Skittles․": [
@@ -419,6 +421,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Hibiscus": [
@@ -445,6 +451,10 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Cantina_Cat": [
@@ -462,6 +472,10 @@
     },
     {
       "id": 6,
+      "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
       "name": "Certified Alcoholics"
     }
   ],
@@ -599,6 +613,10 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "rozAhai": [
@@ -632,6 +650,10 @@
     },
     {
       "id": 6,
+      "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
       "name": "Certified Alcoholics"
     }
   ],
@@ -675,6 +697,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Merry Martian": [
@@ -688,6 +714,10 @@
     },
     {
       "id": 6,
+      "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
       "name": "Certified Alcoholics"
     }
   ],
@@ -739,6 +769,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "FallZone": [
@@ -1021,12 +1055,10 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    }
-  ],
-  "adsdsaasdasd": [
+    },
     {
       "id": 0,
-      "name": "Demoaaaasad"
+      "name": "Certified Alcoholics"
     }
   ],
   "Fenic": [
@@ -1101,6 +1133,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "RaptorDeity": [
@@ -1180,6 +1216,10 @@
     },
     {
       "id": 6,
+      "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
       "name": "Certified Alcoholics"
     }
   ],
@@ -1349,6 +1389,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "The OG TopRamen": [
@@ -1385,6 +1429,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "DecaySchulz": [
@@ -2011,17 +2059,29 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "de_kappatator": [
     {
       "id": 6,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "matbоt": [
     {
       "id": 6,
+      "name": "Certified Alcoholics"
+    },
+    {
+      "id": 0,
       "name": "Certified Alcoholics"
     }
   ],
@@ -2059,6 +2119,12 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "hi": [
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ]
 }
