@@ -137,10 +137,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
@@ -179,6 +175,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Neros03": [
@@ -313,10 +313,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -347,13 +343,13 @@
     {
       "id": 38,
       "name": "Card Game Connisseurs"
-    }
-  ],
-  "Dukeslice": [
+    },
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
+    }
+  ],
+  "Dukeslice": [
     {
       "id": 51,
       "name": "Haven't seen you in a while"
@@ -377,16 +373,16 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "․Skittles․": [
     {
       "id": 30,
       "name": "Heart of the king"
-    },
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
     },
     {
       "id": 36,
@@ -415,13 +411,13 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "Hibiscus": [
+    },
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
+    }
+  ],
+  "Hibiscus": [
     {
       "id": 51,
       "name": "Haven't seen you in a while"
@@ -441,13 +437,13 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
-    }
-  ],
-  "Cantina_Cat": [
+    },
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
+    }
+  ],
+  "Cantina_Cat": [
     {
       "id": 3,
       "name": "Smashed Official"
@@ -459,6 +455,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "WJgames": [
@@ -561,10 +561,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 23,
       "name": "Kai's E-Kittens"
     },
@@ -595,16 +591,16 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "rozAhai": [
     {
       "id": 67,
       "name": "Drunken Pirates"
-    },
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
     },
     {
       "id": 20,
@@ -629,6 +625,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "spycotje": [
@@ -667,13 +667,13 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "Merry Martian": [
+    },
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
+    }
+  ],
+  "Merry Martian": [
     {
       "id": 75,
       "name": "Zero Sobriety"
@@ -681,6 +681,10 @@
     {
       "id": 38,
       "name": "Card Game Connisseurs"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "Finguard": [
@@ -691,10 +695,6 @@
     {
       "id": 48,
       "name": "Group 48"
-    },
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
     },
     {
       "id": 23,
@@ -731,6 +731,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "FallZone": [
@@ -995,10 +999,6 @@
   ],
   "SicParvisMagna": [
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
@@ -1013,6 +1013,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "adsdsaasdasd": [
@@ -1063,10 +1067,6 @@
   ],
   "࿇R E S O L V E࿇": [
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -1093,6 +1093,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "RaptorDeity": [
@@ -1167,12 +1171,12 @@
   ],
   "Hiiru": [
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "hollies823": [
@@ -1307,10 +1311,6 @@
   ],
   "zencat__": [
     {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 23,
       "name": "Kai's E-Kittens"
     },
@@ -1341,6 +1341,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "The OG TopRamen": [
@@ -1354,10 +1358,6 @@
     }
   ],
   "ItsThatVapes": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    },
     {
       "id": 3,
       "name": "Smashed Official"
@@ -1373,6 +1373,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ],
   "DecaySchulz": [
@@ -1513,24 +1517,6 @@
     {
       "id": 72,
       "name": "Ruesday Tuesday"
-    }
-  ],
-  "Biology~": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
-  "de_kappatator": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
-    }
-  ],
-  "matbоt": [
-    {
-      "id": 6,
-      "name": "Certified Alcoholics"
     }
   ],
   "KaneKosmos": [
@@ -2047,6 +2033,24 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "Biology~": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "de_kappatator": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
+    }
+  ],
+  "matbоt": [
+    {
+      "id": 6,
+      "name": "Certified Alcoholics"
     }
   ]
 }
