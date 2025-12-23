@@ -80,5 +80,6 @@
       }
     ]
   },
-  "posterEnabled": true
+  "posterEnabled": true,
+  "posterApprovedOn": "2025-12-23"
 }
