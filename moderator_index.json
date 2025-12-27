@@ -13,10 +13,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
     },
@@ -27,6 +23,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Kalinggo": [
@@ -109,10 +109,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
     },
@@ -127,6 +123,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "TyphoonWes": [
@@ -163,10 +163,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -181,6 +177,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Neros03": [
@@ -335,10 +335,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
     },
@@ -353,6 +349,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Dukeslice": [
@@ -363,10 +363,6 @@
     {
       "id": 3,
       "name": "Smashed Official"
-    },
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
     },
     {
       "id": 6,
@@ -387,6 +383,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "․Skittles․": [
@@ -411,10 +411,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -433,6 +429,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Hibiscus": [
@@ -449,10 +449,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -463,6 +459,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Cantina_Cat": [
@@ -471,10 +471,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -485,6 +481,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "WJgames": [
@@ -505,16 +505,16 @@
       "name": "Smashed Official"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "-Epsi-": [
@@ -531,16 +531,16 @@
       "name": "Smashed Official"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "༒DAX༒": [
@@ -569,16 +569,16 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "PrimordialAbyss": [
@@ -607,10 +607,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -625,6 +621,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "rozAhai": [
@@ -639,10 +639,6 @@
     {
       "id": 3,
       "name": "Smashed Official"
-    },
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
     },
     {
       "id": 38,
@@ -663,6 +659,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "spycotje": [
@@ -681,10 +681,6 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
-    },
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
     },
     {
       "id": 38,
@@ -709,13 +705,13 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "Merry Martian": [
+    },
     {
       "id": 75,
       "name": "Zero Sobriety"
-    },
+    }
+  ],
+  "Merry Martian": [
     {
       "id": 38,
       "name": "Card Game Connisseurs"
@@ -727,6 +723,10 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Finguard": [
@@ -755,10 +755,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
     },
@@ -781,6 +777,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "FallZone": [
@@ -919,16 +919,16 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "D o c": [
@@ -1123,10 +1123,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -1145,6 +1141,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "RaptorDeity": [
@@ -1375,10 +1375,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 38,
       "name": "Card Game Connisseurs"
     },
@@ -1401,6 +1397,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "The OG TopRamen": [
@@ -1417,10 +1417,6 @@
     {
       "id": 3,
       "name": "Smashed Official"
-    },
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
     },
     {
       "id": 6,
@@ -1441,6 +1437,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "DecaySchulz": [
@@ -1617,22 +1617,22 @@
   ],
   "Vισʅα Lαყɳҽ": [
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Winxie": [
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "『 иёко₴нїяо 』": [
@@ -1659,26 +1659,26 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "slayerofmen": [
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "ScoopDeWoo": [
@@ -1773,12 +1773,12 @@
   ],
   "Platoza": [
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "artistz93": [
@@ -1875,48 +1875,6 @@
     {
       "id": 54,
       "name": "Seal IS Cool"
-    }
-  ],
-  "Jaameess": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "ModernDe4th": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "FairAssumption": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "ShionBlanc": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "Garthog": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "rileyvh": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "Ace NanoSpear": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
     }
   ],
   "Raina Rosedrop": [
@@ -2141,6 +2099,54 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "MoonTwilight": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "Jaameess": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "ModernDe4th": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "FairAssumption": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "ShionBlanc": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "Garthog": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "rileyvh": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "Ace NanoSpear": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ]
 }
