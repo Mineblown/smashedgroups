@@ -29,5 +29,8 @@
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/bn",
-  "posterEnabled": false
+  "posterEnabled": false,
+  "spinbottle": {
+    "categories": []
+  }
 }
