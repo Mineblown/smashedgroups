@@ -98,5 +98,6 @@
         ]
       }
     ]
-  }
+  },
+  "groupPhotosEnabled": true
 }
