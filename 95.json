@@ -31,6 +31,13 @@
   "landingPageUrl": "https://vrclink.com/p/bn",
   "posterEnabled": false,
   "spinbottle": {
-    "categories": []
+    "categories": [
+      {
+        "k": "bn",
+        "t": "Blackout Wheel",
+        "e": 0,
+        "x": ""
+      }
+    ]
   }
 }
