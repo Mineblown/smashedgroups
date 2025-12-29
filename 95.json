@@ -35,8 +35,8 @@
       {
         "k": "bn",
         "t": "Blackout Wheel",
-        "e": 0,
-        "x": "If you have a pet, ~a ~m\nEveryone who has traveled abroad must ~a ~m\nGive ~m to someone wearing green"
+        "e": 1,
+        "x": "If you have a pet, ~a ~m\nEveryone who has traveled abroad must ~a ~m\nGive ~m to someone wearing green\nRedheads drink 5\n{player} ~d ~m\nDrink ~m if you've broken a bone, weakling\nDrink ~m if you're sitting\nEveryone points to someone; whoever is pointed at the most drinks ~m\n~d ~m if you're single\n~d ~m if you've spent a holiday on VRChat, double it if a holiday is\n~a ~m if you're drinking Vodka\nFirst person to read supercalifragilisticexpialidocious aloud gets to ~g out ~m"
       }
     ]
   }
