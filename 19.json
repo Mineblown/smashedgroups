@@ -76,7 +76,14 @@
   "atlasApprovedOn": "2025-08-20",
   "groupPhotosEnabled": false,
   "spinbottle": {
-    "categories": []
+    "categories": [
+      {
+        "k": "asda",
+        "t": "Testasa",
+        "e": 1,
+        "x": "~m~a\n~m~a\n~m~a"
+      }
+    ]
   },
   "posterEnabled": true,
   "posterApprovedOn": "2025-12-23"
