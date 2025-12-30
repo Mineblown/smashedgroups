@@ -2189,6 +2189,12 @@
       "name": "Blackout Nights"
     }
   ],
+  "chino_js": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
   "Little Aqua": [
     {
       "id": 98,
@@ -2217,12 +2223,6 @@
     {
       "id": 98,
       "name": "Little Drinking"
-    }
-  ],
-  "chino_js": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
     }
   ]
 }
