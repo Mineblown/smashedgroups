@@ -27,5 +27,64 @@
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/little-drinking-group",
-  "posterEnabled": true
+  "posterEnabled": true,
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/98_billboard_atlas.png?v=1767093269434",
+    "images": [
+      {
+        "name": "Picture-Poster-Little-Drinking-Poster-5.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "Picture-Poster-Little-Drinking-Poster-11.png",
+        "uv": [
+          0.5,
+          0,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "Picture-Poster-Little-Drinking-Poster-14.png",
+        "uv": [
+          0,
+          0.3333333333333333,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "Picture-Poster-Little-Drinking-Poster-19.png",
+        "uv": [
+          0.5,
+          0.3333333333333333,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "Picture-Poster-Little-Drinking-Poster-25.png",
+        "uv": [
+          0,
+          0.6666666666666666,
+          0.5,
+          0.3333333333333333
+        ]
+      },
+      {
+        "name": "Picture-Poster-Little-Drinking-Poster-29.png",
+        "uv": [
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.3333333333333333
+        ]
+      }
+    ]
+  }
 }
