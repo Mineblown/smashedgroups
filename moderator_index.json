@@ -9,10 +9,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -27,6 +23,10 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Kalinggo": [
@@ -109,10 +109,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
     },
@@ -127,6 +123,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "TyphoonWes": [
@@ -331,10 +331,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -353,6 +349,10 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Dukeslice": [
@@ -433,6 +433,10 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Hibiscus": [
@@ -641,10 +645,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -663,6 +663,10 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "spycotje": [
@@ -677,10 +681,6 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
-    },
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
     },
     {
       "id": 6,
@@ -709,13 +709,13 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
-    }
-  ],
-  "Merry Martian": [
+    },
     {
       "id": 38,
       "name": "Card Game Connisseurs"
-    },
+    }
+  ],
+  "Merry Martian": [
     {
       "id": 6,
       "name": "Certified Alcoholics"
@@ -727,6 +727,10 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Finguard": [
@@ -751,10 +755,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -781,6 +781,10 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "FallZone": [
@@ -1053,10 +1057,6 @@
       "name": "Kai's E-Kittens"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -1067,6 +1067,10 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Fenic": [
@@ -1375,10 +1379,6 @@
       "name": "Smashed Official"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -1401,6 +1401,10 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "The OG TopRamen": [
@@ -1847,24 +1851,6 @@
       "name": "Seal IS Cool"
     }
   ],
-  "Esmeräy": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "Tуŕıán": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "chino_js": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
   "NoWayDude96": [
     {
       "id": 12,
@@ -2231,6 +2217,12 @@
     {
       "id": 98,
       "name": "Little Drinking"
+    }
+  ],
+  "chino_js": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ]
 }
