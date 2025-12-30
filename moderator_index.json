@@ -53,11 +53,11 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
-      "id": 95,
+      "id": 19,
       "name": "Blackout Nights"
     },
     {
-      "id": 19,
+      "id": 95,
       "name": "Blackout Nights"
     }
   ],
@@ -2187,6 +2187,12 @@
       "name": "Blackout Nights"
     }
   ],
+  "Liyla": [
+    {
+      "id": 95,
+      "name": "Blackout Nights"
+    }
+  ],
   "Hentai Provider": [
     {
       "id": 95,
@@ -2206,12 +2212,6 @@
     }
   ],
   "Sooog": [
-    {
-      "id": 95,
-      "name": "Blackout Nights"
-    }
-  ],
-  "Liyla": [
     {
       "id": 95,
       "name": "Blackout Nights"
