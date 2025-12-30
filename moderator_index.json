@@ -955,10 +955,6 @@
       "name": "Waypoint Club"
     },
     {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
     }
@@ -1451,96 +1447,6 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "xᴏʟᴜɴɪᴇ ღ": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "Jolbybilson6964": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "Łĩłĩṯħ": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "-altalune-": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "_Huey": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "host_chimera": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "~S̶t̶a̶t̶i̶c̶~": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "Ntrvrtd": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "IFae": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "Shoutiel": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "_Catw": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "༒ -Zex- ༒": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "ClubViva HOST": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "Senpaiwolf24": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
-    }
-  ],
-  "LazarLui": [
-    {
-      "id": 52,
-      "name": "Shot's Before Thot's"
     }
   ],
   "BurntUrSandwich": [
@@ -2215,6 +2121,60 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
+    }
+  ],
+  "xᴏʟᴜɴɪᴇ ღ": [
+    {
+      "id": 52,
+      "name": "Shot's Before Thot's"
+    }
+  ],
+  "Jolbybilson6964": [
+    {
+      "id": 52,
+      "name": "Shot's Before Thot's"
+    }
+  ],
+  "Łĩłĩṯħ": [
+    {
+      "id": 52,
+      "name": "Shot's Before Thot's"
+    }
+  ],
+  "-altalune-": [
+    {
+      "id": 52,
+      "name": "Shot's Before Thot's"
+    }
+  ],
+  "_Huey": [
+    {
+      "id": 52,
+      "name": "Shot's Before Thot's"
+    }
+  ],
+  "~S̶t̶a̶t̶i̶c̶~": [
+    {
+      "id": 52,
+      "name": "Shot's Before Thot's"
+    }
+  ],
+  "Ntrvrtd": [
+    {
+      "id": 52,
+      "name": "Shot's Before Thot's"
+    }
+  ],
+  "IFae": [
+    {
+      "id": 52,
+      "name": "Shot's Before Thot's"
+    }
+  ],
+  "Shoutiel": [
+    {
+      "id": 52,
+      "name": "Shot's Before Thot's"
     }
   ]
 }
