@@ -34,7 +34,14 @@
   "landingPageUrl": "https://vrclink.com/p/bn",
   "posterEnabled": true,
   "spinbottle": {
-    "categories": []
+    "categories": [
+      {
+        "k": "testing",
+        "t": "Blackout Wheel",
+        "e": 0,
+        "x": "'Booktok' girlies ~d ~m\n\"fuck it, we ball\" ~d ~m"
+      }
+    ]
   },
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/95_billboard_atlas.png?v=1766982582417",
