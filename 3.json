@@ -39,7 +39,7 @@
   "owners": [],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/smashed-official",
-  "posterEnabled": false,
+  "posterEnabled": true,
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/3_billboard_atlas.png?v=1755717173551",
     "images": [
