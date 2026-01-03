@@ -1545,24 +1545,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
-  "『 иёко₴нїяо 』": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
-  "Pocketnightmare": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
-  "KyvieVR": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
   "~Fifty": [
     {
       "id": 15,
@@ -2241,6 +2223,24 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "『 иёко₴нїяо 』": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
+    }
+  ],
+  "Pocketnightmare": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
+    }
+  ],
+  "KyvieVR": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
     }
   ]
 }
