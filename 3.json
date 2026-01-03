@@ -146,5 +146,15 @@
   },
   "atlasApprovedOn": "2025-08-20",
   "groupPhotosEnabled": false,
-  "posterApprovedOn": "2025-08-20"
+  "posterApprovedOn": "2025-08-20",
+  "spinbottle": {
+    "categories": [
+      {
+        "k": "regular1",
+        "t": "Certified Alcoholics",
+        "e": 1,
+        "x": "If you have a pet, ~a ~m ~cHost~\nEveryone who has traveled abroad must ~a ~m\nGive ~m to someone wearing red ~cYou~\nIf you’ve ever stayed up all night gaming, ~a ~m"
+      }
+    ]
+  }
 }
