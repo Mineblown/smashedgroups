@@ -26,8 +26,8 @@
   "instagram": "",
   "x": "",
   "patreon": "",
-  "rules": "",
-  "infoBoard": "<color=#FF0000>❤️‍🔥 Welcome to the Hood ❤️‍🔥</color>  <b>Hosted by TwerkTaco & Neo — Party like legends.</b>  <br><br><b>📜 RULES TO KEEP THE VIBE STRONG:</b>  🔞 <color=#FF0000><b>18+ ONLY.</b></color> Security will be checking at the door.  💢 Leave the drama at home — we’re all grown-ass adults.  🤝 Respect everyone. <color=#FF0000><b>No racism, no hate — we thrive on diversity.</b></color>  🎧 If there’s a DJ playing, <b>do NOT micspam your music.</b>  🛡️ Show respect to our Mods and Staff — they’re here for your vibe & safety.<i>Let the bass hit, not your attitude.</i><br><br><br>",
+  "rules": "📜 RULES TO KEEP THE VIBE STRONG: 🔞 18+ ONLY. <br>Security will be checking at the door. 💢 <br>Leave the drama at home — we’re all grown-ass adults. <br>🤝Respect everyone. No racism, no hate — we thrive on diversity. <br>🎧 If there’s a DJ playing, do NOT micspam your music. <br>🛡️ Show respect to our Mods and Staff — they’re here for your vibe & safety.Let the bass hit, not your attitude.\n<br>",
+  "infoBoard": "<color=#FF0000>❤️‍🔥 Welcome to the Hood ❤️‍🔥</color>  <b>Hosted by TwerkTaco & Neo — Party like legends.</b>  <br><br><br><br>",
   "groupPhotosEnabled": true,
   "moderators": [
     "TwerkTaco",
@@ -40,5 +40,6 @@
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/thehood",
-  "active": true
+  "active": true,
+  "posterEnabled": false
 }
