@@ -2,5 +2,19 @@
   "tos": {
     "version": "1.1",
     "acceptedOn": "2025-08-15T16:54:39.312Z"
+  },
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/28_billboard_atlas.png?v=1767627833359",
+    "images": [
+      {
+        "name": "thehood.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
   }
 }
