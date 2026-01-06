@@ -897,10 +897,6 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "~Ｊｕｉｃｙ": [
@@ -2266,6 +2262,12 @@
     }
   ],
   "Jỏhn": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "༺ K A I D A ༻": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
