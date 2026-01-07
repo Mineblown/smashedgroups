@@ -45,10 +45,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -59,6 +55,10 @@
     {
       "id": 52,
       "name": "Shot's Before Thot's"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
@@ -67,12 +67,12 @@
       "name": "Heart of the king"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "asdasda": [
@@ -101,10 +101,6 @@
       "name": "SinsDesiresLust"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 10,
       "name": "BUNNYBEE"
     },
@@ -131,16 +127,16 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "TyphoonWes": [
     {
       "id": 30,
       "name": "Heart of the king"
-    },
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
     },
     {
       "id": 23,
@@ -185,6 +181,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Neros03": [
@@ -193,16 +193,16 @@
       "name": "Drunken Pirates"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Milyugen": [
@@ -641,10 +641,6 @@
       "name": "Drunken Pirates"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -671,13 +667,13 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "spycotje": [
+    },
     {
       "id": 20,
       "name": "Cuties Alcholics"
-    },
+    }
+  ],
+  "spycotje": [
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
@@ -717,6 +713,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Merry Martian": [
@@ -1057,10 +1057,6 @@
   ],
   "SicParvisMagna": [
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 23,
       "name": "Kai's E-Kittens"
     },
@@ -1079,6 +1075,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Fenic": [
@@ -1331,12 +1331,12 @@
       "name": "Drunken Pirates"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "StrawHatStream": [
@@ -1525,12 +1525,6 @@
     {
       "id": 60,
       "name": "Okita's Fox Crew"
-    }
-  ],
-  "OnlyMutes": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
     }
   ],
   "Vισʅα Lαყɳҽ": [
@@ -2277,6 +2271,18 @@
     {
       "id": 54,
       "name": "WiWiWi"
+    }
+  ],
+  "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "3M0tional": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ]
 }
