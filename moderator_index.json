@@ -1739,18 +1739,6 @@
       "name": "Sprinks N' Drinks"
     }
   ],
-  "SealSAURUS": [
-    {
-      "id": 54,
-      "name": "Seal IS Cool"
-    }
-  ],
-  "-Mika": [
-    {
-      "id": 54,
-      "name": "Seal IS Cool"
-    }
-  ],
   "NoWayDude96": [
     {
       "id": 12,
@@ -2277,6 +2265,18 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "SealSAURUS": [
+    {
+      "id": 54,
+      "name": "Seal IS Cool"
+    }
+  ],
+  "-Mika": [
+    {
+      "id": 54,
+      "name": "Seal IS Cool"
     }
   ]
 }
