@@ -125,12 +125,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "TyphoonWes": [
@@ -179,12 +179,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Neros03": [
@@ -665,12 +665,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "spycotje": [
@@ -711,12 +711,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Merry Martian": [
@@ -1073,12 +1073,12 @@
       "name": "Card Game Connisseurs"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Fenic": [
@@ -2183,6 +2183,30 @@
       "name": "The Hood"
     }
   ],
+  "SealSAURUS": [
+    {
+      "id": 54,
+      "name": "WiWiWi"
+    }
+  ],
+  "-Mika": [
+    {
+      "id": 54,
+      "name": "WiWiWi"
+    }
+  ],
+  "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "3M0tional": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
   "Gelato_": [
     {
       "id": 13,
@@ -2255,34 +2279,10 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
-  "GhostDeadGirl": [
+  "Ƒᴇɴᴛᴀɴʏʟ": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "SealSAURUS": [
-    {
-      "id": 54,
-      "name": "WiWiWi"
-    }
-  ],
-  "-Mika": [
-    {
-      "id": 54,
-      "name": "WiWiWi"
-    }
-  ],
-  "OnlyMutes": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "3M0tional": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
     }
   ]
 }
