@@ -125,12 +125,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "TyphoonWes": [
@@ -179,12 +179,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Neros03": [
@@ -665,12 +665,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "spycotje": [
@@ -711,12 +711,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Merry Martian": [
@@ -1073,12 +1073,12 @@
       "name": "Card Game Connisseurs"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Fenic": [
@@ -2195,18 +2195,6 @@
       "name": "WiWiWi"
     }
   ],
-  "OnlyMutes": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "3M0tional": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
   "Gelato_": [
     {
       "id": 13,
@@ -2283,6 +2271,24 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "3M0tional": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "VannySashyre": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ]
 }
