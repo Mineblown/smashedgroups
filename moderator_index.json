@@ -125,12 +125,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "TyphoonWes": [
@@ -179,12 +179,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Neros03": [
@@ -665,12 +665,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "spycotje": [
@@ -711,12 +711,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Merry Martian": [
@@ -827,6 +827,10 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "TwerkTaco": [
@@ -1073,12 +1077,12 @@
       "name": "Card Game Connisseurs"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Fenic": [
@@ -2195,6 +2199,24 @@
       "name": "WiWiWi"
     }
   ],
+  "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "3M0tional": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "VannySashyre": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
   "Gelato_": [
     {
       "id": 13,
@@ -2271,24 +2293,6 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "OnlyMutes": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "3M0tional": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "VannySashyre": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
     }
   ]
 }
