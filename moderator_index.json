@@ -811,19 +811,15 @@
   ],
   "Shazik": [
     {
-      "id": 22,
-      "name": "Pixel Oasis"
-    },
-    {
       "id": 15,
       "name": "Spyco's Doofus Squad"
+    },
+    {
+      "id": 22,
+      "name": "Pixel Oasis"
     }
   ],
   "JustLex420": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    },
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
@@ -831,6 +827,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 22,
+      "name": "Pixel Oasis"
     }
   ],
   "TwerkTaco": [
@@ -1167,74 +1167,10 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
-  "RaptorDeity": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    }
-  ],
-  "TenshiK": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    }
-  ],
-  "SleepySiren": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    }
-  ],
-  "Bear Chan": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    }
-  ],
-  "G I R": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    }
-  ],
   "nothin_": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    },
     {
       "id": 54,
       "name": "WiWiWi"
-    }
-  ],
-  "Spycotje": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    }
-  ],
-  "ŇĚPPŶ": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    }
-  ],
-  "heffie": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    }
-  ],
-  "desarooni": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
-    }
-  ],
-  "aidenˌ": [
-    {
-      "id": 22,
-      "name": "Pixel Oasis"
     }
   ],
   "Hiiru": [
@@ -2293,6 +2229,48 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "RaptorDeity": [
+    {
+      "id": 22,
+      "name": "Pixel Oasis"
+    }
+  ],
+  "TenshiK": [
+    {
+      "id": 22,
+      "name": "Pixel Oasis"
+    }
+  ],
+  "SleepySiren": [
+    {
+      "id": 22,
+      "name": "Pixel Oasis"
+    }
+  ],
+  "Bear Chan": [
+    {
+      "id": 22,
+      "name": "Pixel Oasis"
+    }
+  ],
+  "G I R": [
+    {
+      "id": 22,
+      "name": "Pixel Oasis"
+    }
+  ],
+  "Spycotje": [
+    {
+      "id": 22,
+      "name": "Pixel Oasis"
+    }
+  ],
+  "aidenˌ": [
+    {
+      "id": 22,
+      "name": "Pixel Oasis"
     }
   ]
 }
