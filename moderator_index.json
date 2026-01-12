@@ -9,10 +9,6 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -27,6 +23,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Kalinggo": [
@@ -113,10 +113,6 @@
       "name": "Spyco's Doofus Squad"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -131,6 +127,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "TyphoonWes": [
@@ -343,10 +343,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -357,6 +353,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Dukeslice": [
@@ -423,10 +423,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -441,6 +437,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Hibiscus": [
@@ -649,10 +649,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -671,6 +667,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "spycotje": [
@@ -699,10 +699,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -717,6 +713,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Merry Martian": [
@@ -729,12 +729,12 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Finguard": [
@@ -771,10 +771,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -789,6 +785,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "FallZone": [
@@ -1073,16 +1073,16 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Fenic": [
@@ -1331,10 +1331,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -1349,6 +1345,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "The OG TopRamen": [
@@ -1797,12 +1797,6 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
-    }
-  ],
-  "chino_js": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
     }
   ],
   "Little Aqua": [
@@ -2271,6 +2265,12 @@
     {
       "id": 22,
       "name": "Pixel Oasis"
+    }
+  ],
+  "chino_js": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ]
 }
