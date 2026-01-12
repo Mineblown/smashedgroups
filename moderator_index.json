@@ -843,12 +843,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 28,
-      "name": "The Hood"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 28,
+      "name": "Taco's"
     }
   ],
   "໒ྀིNiki ໒ྀི": [
@@ -916,7 +916,7 @@
     },
     {
       "id": 28,
-      "name": "The Hood"
+      "name": "Taco's"
     }
   ],
   "Kai2X": [
@@ -1159,12 +1159,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 28,
-      "name": "The Hood"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 28,
+      "name": "Taco's"
     }
   ],
   "nothin_": [
@@ -2111,12 +2111,6 @@
       "name": "Virtual Vixens"
     }
   ],
-  "-_-Nëø-_-": [
-    {
-      "id": 28,
-      "name": "The Hood"
-    }
-  ],
   "SealSAURUS": [
     {
       "id": 54,
@@ -2271,6 +2265,12 @@
     {
       "id": 38,
       "name": "Card Game Connisseurs"
+    }
+  ],
+  "-_-Nëø-_-": [
+    {
+      "id": 28,
+      "name": "Taco's"
     }
   ]
 }
