@@ -4,15 +4,96 @@
     "acceptedOn": "2025-08-15T16:54:39.312Z"
   },
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/28_billboard_atlas.png?v=1767629160782",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/28_billboard_atlas.png?v=1768254834544",
     "images": [
       {
-        "name": "thehood2.png",
+        "name": "bloodgang.png",
         "uv": [
           0,
           0,
           0.5,
-          1
+          0.2
+        ]
+      },
+      {
+        "name": "clubenigma.png",
+        "uv": [
+          0.5,
+          0,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "godtier-2.png",
+        "uv": [
+          0,
+          0.2,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "greenoutposter.png",
+        "uv": [
+          0.5,
+          0.2,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "insatiableposter.png",
+        "uv": [
+          0,
+          0.4,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "jungleposter.png",
+        "uv": [
+          0.5,
+          0.4,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "projectxero.png",
+        "uv": [
+          0,
+          0.6000000000000001,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "resolveposter.png",
+        "uv": [
+          0.5,
+          0.6000000000000001,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "tacosposter.png",
+        "uv": [
+          0,
+          0.8,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "trapgodzposter.png",
+        "uv": [
+          0.5,
+          0.8,
+          0.5,
+          0.2
         ]
       }
     ]
