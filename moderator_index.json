@@ -2197,6 +2197,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 28,
+      "name": "Taco's"
     }
   ],
   "Jỏhn": [
@@ -2265,6 +2269,18 @@
       "name": "Pixel Oasis"
     }
   ],
+  "ShinNatsume01": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "XxTechnoKoi": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
   "-_-Nëø-_-": [
     {
       "id": 28,
@@ -2287,18 +2303,6 @@
     {
       "id": 28,
       "name": "Taco's"
-    }
-  ],
-  "ShinNatsume01": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "XxTechnoKoi": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
     }
   ]
 }
