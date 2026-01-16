@@ -21,12 +21,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Kalinggo": [
@@ -351,12 +351,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Dukeslice": [
@@ -435,12 +435,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Hibiscus": [
@@ -711,12 +711,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "Merry Martian": [
@@ -783,12 +783,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "FallZone": [
@@ -1517,12 +1517,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "slayerofmen": [
@@ -2311,18 +2311,6 @@
       "name": "Taco's"
     }
   ],
-  "ShinNatsume01": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "XxTechnoKoi": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
   "Heirja": [
     {
       "id": 51,
@@ -2357,6 +2345,18 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    }
+  ],
+  "ShinNatsume01": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "XxTechnoKoi": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ]
 }
