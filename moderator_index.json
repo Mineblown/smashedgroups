@@ -1355,12 +1355,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    },
-    {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "The OG TopRamen": [
@@ -2289,22 +2289,14 @@
       "name": "Pixel Oasis"
     }
   ],
-  "ShinNatsume01": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
-  "XxTechnoKoi": [
-    {
-      "id": 38,
-      "name": "Card Game Connisseurs"
-    }
-  ],
   "TheBlitz_": [
     {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ],
   "༒Niki༒": [
@@ -2353,6 +2345,18 @@
     {
       "id": 28,
       "name": "Taco's"
+    }
+  ],
+  "ShinNatsume01": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
+    }
+  ],
+  "XxTechnoKoi": [
+    {
+      "id": 38,
+      "name": "Card Game Connisseurs"
     }
   ]
 }
