@@ -2364,5 +2364,17 @@
       "id": 3,
       "name": "Smashed Official"
     }
+  ],
+  "iSilversity": [
+    {
+      "id": 108,
+      "name": "The Goon Squad"
+    }
+  ],
+  "MightyNut": [
+    {
+      "id": 108,
+      "name": "The Goon Squad"
+    }
   ]
 }
