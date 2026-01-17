@@ -14,8 +14,13 @@
   "patreon": "https://www.patreon.com/TheGoonSquad",
   "rules": "",
   "infoBoard": "<b>Find some of the best friends you'll have in your life and party your heart out with our community! ♡ (18+ only)</b>",
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "iSilversity",
+    "MightyNut"
+  ],
+  "owners": [
+    "iSilversity"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/108",
   "active": true
