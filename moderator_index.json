@@ -1459,25 +1459,19 @@
   ],
   "KaneKosmos": [
     {
-      "id": 60,
-      "name": "Okita's Fox Crew"
-    },
-    {
       "id": 74,
       "name": "Buzz Buddies"
+    },
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
     }
   ],
   "Okita_": [
     {
-      "id": 60,
-      "name": "Okita's Fox Crew"
-    },
-    {
       "id": 74,
       "name": "Buzz Buddies"
-    }
-  ],
-  "Omni Kitsune": [
+    },
     {
       "id": 60,
       "name": "Okita's Fox Crew"
@@ -2357,6 +2351,12 @@
     {
       "id": 38,
       "name": "Card Game Connisseurs"
+    }
+  ],
+  "Omni Kitsune": [
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
     }
   ]
 }
