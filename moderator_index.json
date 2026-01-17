@@ -2353,12 +2353,6 @@
       "name": "Card Game Connisseurs"
     }
   ],
-  "Omni Kitsune": [
-    {
-      "id": 60,
-      "name": "Okita's Fox Crew"
-    }
-  ],
   "DecaySchuIz": [
     {
       "id": 3,
@@ -2375,6 +2369,12 @@
     {
       "id": 108,
       "name": "The Goon Squad"
+    }
+  ],
+  "Omni Kitsune": [
+    {
+      "id": 60,
+      "name": "Okita's Fox Crew"
     }
   ]
 }
