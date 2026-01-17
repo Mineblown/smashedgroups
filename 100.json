@@ -15,9 +15,13 @@
   "patreon": "",
   "rules": "",
   "infoBoard": "",
-  "posterEnabled": false,
-  "moderators": [],
-  "owners": [],
+  "posterEnabled": true,
+  "moderators": [
+    "- Senah -"
+  ],
+  "owners": [
+    "- Senah -"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/100"
 }
