@@ -56,7 +56,7 @@
   "coOwners": [],
   "active": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/13_billboard_atlas.png?v=1769054542915",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/13_billboard_atlas.png?v=1769054587661",
     "images": [
       {
         "name": "Black_and_White_Modern_Streetwear_Sport_Logo_2.png",
@@ -64,25 +64,7 @@
           0,
           0,
           0.5,
-          0.5
-        ]
-      },
-      {
-        "name": "content-omg.png",
-        "uv": [
-          0.5,
-          0,
-          0.5,
-          0.5
-        ]
-      },
-      {
-        "name": "meandskittles.png",
-        "uv": [
-          0,
-          0.5,
-          0.5,
-          0.5
+          1
         ]
       }
     ]
