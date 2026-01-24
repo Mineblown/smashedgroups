@@ -2015,39 +2015,9 @@
   ],
   "Raina Rosedrop": [
     {
-      "id": 66,
-      "name": "Virtual Vixens"
-    },
-    {
       "id": 100,
       "name": "Fueled by Estrogen and Alcohol"
-    }
-  ],
-  "_Fluffles": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "ItzZombaitTv": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "Skyla-style8854": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "ღWickedkittenღ": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "SexySirTaco": [
+    },
     {
       "id": 66,
       "name": "Virtual Vixens"
@@ -2055,12 +2025,12 @@
   ],
   "- Senah -": [
     {
-      "id": 66,
-      "name": "Virtual Vixens"
-    },
-    {
       "id": 100,
       "name": "Fueled by Estrogen and Alcohol"
+    },
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
     }
   ],
   "SealSAURUS": [
@@ -2369,6 +2339,36 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "_Fluffles": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "ItzZombaitTv": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "Skyla-style8854": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "ღWickedkittenღ": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "SexySirTaco": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
     }
   ]
 }
