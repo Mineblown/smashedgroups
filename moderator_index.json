@@ -109,10 +109,6 @@
       "name": "Sprinks N' Drinks"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
     },
@@ -131,6 +127,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "TyphoonWes": [
@@ -193,16 +193,16 @@
       "name": "Drunken Pirates"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Milyugen": [
@@ -365,10 +365,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 0,
       "name": "Certified Alcoholics"
     },
@@ -391,6 +387,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "․Skittles․": [
@@ -409,10 +409,6 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
     },
     {
       "id": 0,
@@ -441,6 +437,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Hibiscus": [
@@ -687,10 +687,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 0,
       "name": "Certified Alcoholics"
     },
@@ -717,6 +713,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "Merry Martian": [
@@ -759,10 +759,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 0,
       "name": "Certified Alcoholics"
     },
@@ -785,6 +781,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "FallZone": [
@@ -807,19 +807,15 @@
   ],
   "Shazik": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 22,
       "name": "Pixel Oasis"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "JustLex420": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
     {
       "id": 22,
       "name": "Pixel Oasis"
@@ -827,6 +823,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "TwerkTaco": [
@@ -1139,10 +1139,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 0,
       "name": "Certified Alcoholics"
     },
@@ -1165,6 +1161,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "nothin_": [
@@ -1327,10 +1327,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 0,
       "name": "Certified Alcoholics"
     },
@@ -1357,6 +1353,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "The OG TopRamen": [
@@ -1373,10 +1373,6 @@
     {
       "id": 6,
       "name": "Certified Alcoholics"
-    },
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
     },
     {
       "id": 0,
@@ -1397,6 +1393,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "DecaySchulz": [
@@ -1495,10 +1495,6 @@
   ],
   "~Fifty": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
     },
@@ -1513,16 +1509,20 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "slayerofmen": [
     {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ],
   "ScoopDeWoo": [
@@ -1721,42 +1721,6 @@
     {
       "id": 0,
       "name": "Certified Alcoholics"
-    }
-  ],
-  "Tobi A": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "VindiKitty": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "aGothLizard": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "Shots?": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "Binxy~": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
-    }
-  ],
-  "UmbraScrolls": [
-    {
-      "id": 15,
-      "name": "Spyco's Doofus Squad"
     }
   ],
   "Monster34027": [
@@ -2369,6 +2333,48 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "Tobi A": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "VindiKitty": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "aGothLizard": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Shots?": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "Binxy~": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "UmbraScrolls": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
+    }
+  ],
+  "areina": [
+    {
+      "id": 15,
+      "name": "Spyco's Doofus Squad"
     }
   ]
 }
