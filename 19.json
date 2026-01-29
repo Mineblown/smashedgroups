@@ -69,8 +69,8 @@
       {
         "k": "blkout",
         "t": "Blackout Wheel",
-        "e": 0,
-        "x": "Have fun. ~a~m"
+        "e": 1,
+        "x": "Have fun. ~a~m\nHave fun. ~a~m\nHave fun. ~a~m"
       }
     ]
   },
