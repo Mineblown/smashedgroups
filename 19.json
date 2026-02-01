@@ -36,7 +36,7 @@
     ]
   },
   "atlasApprovedOn": "2025-08-20",
-  "groupPhotosEnabled": false,
+  "groupPhotosEnabled": true,
   "spinbottle": {
     "categories": [
       {
