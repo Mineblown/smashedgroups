@@ -22,42 +22,15 @@
   "landingPageUrl": "https://vrclink.com/u/19",
   "active": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/19_billboard_atlas.png?v=1755730651350",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/19_billboard_atlas.png?v=1769915744573",
     "images": [
       {
-        "name": "0.png",
+        "name": "VIP+36.png",
         "uv": [
           0,
           0,
           0.5,
-          0.5
-        ]
-      },
-      {
-        "name": "newsmashed.png",
-        "uv": [
-          0.5,
-          0,
-          0.5,
-          0.5
-        ]
-      },
-      {
-        "name": "team1back.png",
-        "uv": [
-          0,
-          0.5,
-          0.5,
-          0.5
-        ]
-      },
-      {
-        "name": "team2back.png",
-        "uv": [
-          0.5,
-          0.5,
-          0.5,
-          0.5
+          1
         ]
       }
     ]
