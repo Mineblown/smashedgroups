@@ -2143,18 +2143,6 @@
       "name": "Taco's"
     }
   ],
-  "Μeda": [
-    {
-      "id": 118,
-      "name": "Stoners United"
-    }
-  ],
-  "StonersUnited": [
-    {
-      "id": 118,
-      "name": "Stoners United"
-    }
-  ],
   "Heirja": [
     {
       "id": 51,
@@ -2321,6 +2309,18 @@
     {
       "id": 27,
       "name": "Waypoint Club"
+    }
+  ],
+  "Μeda": [
+    {
+      "id": 118,
+      "name": "Stoners United"
+    }
+  ],
+  "StonersUnited": [
+    {
+      "id": 118,
+      "name": "Stoners United"
     }
   ]
 }
