@@ -39,5 +39,6 @@
         ]
       }
     ]
-  }
+  },
+  "groupPhotosEnabled": true
 }
