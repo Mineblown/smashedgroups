@@ -25,5 +25,19 @@
     "StonersUnited"
   ],
   "coOwners": [],
-  "landingPageUrl": "https://vrclink.com/u/118"
+  "landingPageUrl": "https://vrclink.com/u/118",
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/118_billboard_atlas.png?v=1769916021485",
+    "images": [
+      {
+        "name": "VRChat_2026-01-31_18-33-04.309_1920x1080.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
+  }
 }
