@@ -2295,12 +2295,6 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
-  "_Bags_": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
   "Clives": [
     {
       "id": 13,
@@ -2326,6 +2320,12 @@
     }
   ],
   "EpiPie": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "Jỏhn": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
