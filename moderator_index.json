@@ -2289,12 +2289,6 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
-  "Jỏhn": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
   "༺ K A I D A ༻": [
     {
       "id": 13,
@@ -2326,6 +2320,12 @@
     }
   ],
   "2 Frames": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "EpiPie": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
