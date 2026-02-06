@@ -1373,6 +1373,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Winxie": [
@@ -2316,12 +2320,6 @@
     }
   ],
   "2 Frames": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "EpiPie": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
