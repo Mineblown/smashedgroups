@@ -1963,6 +1963,10 @@
     {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "iSilversity": [
@@ -2290,12 +2294,6 @@
     }
   ],
   "༺ K A I D A ༻": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "Clives": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
