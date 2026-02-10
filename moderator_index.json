@@ -1399,22 +1399,22 @@
   ],
   "KaneKosmos": [
     {
-      "id": 74,
-      "name": "Buzz Buddies"
-    },
-    {
       "id": 60,
       "name": "Okita's Fox Crew"
+    },
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
     }
   ],
   "Okita_": [
     {
-      "id": 74,
-      "name": "Buzz Buddies"
-    },
-    {
       "id": 60,
       "name": "Okita's Fox Crew"
+    },
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
     }
   ],
   "Vισʅα Lαყɳҽ": [
@@ -1859,24 +1859,6 @@
     {
       "id": 95,
       "name": "Blackout Nights"
-    }
-  ],
-  "『 иёко₴нїяо 』": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
-  "Pocketnightmare": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
-  "KyvieVR": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
     }
   ],
   "MoonTwilight": [
@@ -2389,6 +2371,18 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "『 иёко₴нїяо 』": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
+    }
+  ],
+  "Pocketnightmare": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
     }
   ]
 }
