@@ -187,12 +187,12 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 53,
       "name": "Heart Of The King"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Neros03": [
@@ -443,12 +443,12 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 53,
       "name": "Heart Of The King"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Hibiscus": [
@@ -533,12 +533,12 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 53,
       "name": "Heart Of The King"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "-Epsi-": [
@@ -563,12 +563,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 53,
       "name": "Heart Of The King"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "༒DAX༒": [
@@ -605,12 +605,12 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 53,
       "name": "Heart Of The King"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "PrimordialAbyss": [
@@ -655,12 +655,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 53,
       "name": "Heart Of The King"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "rozAhai": [
@@ -1451,12 +1451,12 @@
       "name": "Spyco's Doofus Squad"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 53,
       "name": "Heart Of The King"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "slayerofmen": [
@@ -2307,6 +2307,18 @@
       "name": "Stoners United"
     }
   ],
+  "『 иёко₴нїяо 』": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
+    }
+  ],
+  "Pocketnightmare": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
+    }
+  ],
   "Gelato_": [
     {
       "id": 13,
@@ -2320,12 +2332,6 @@
     }
   ],
   "ʚSproutsieɞ": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "࿇MURD3R࿇": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
@@ -2367,22 +2373,10 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
-  "Jỏhn": [
+  "Clives": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "『 иёко₴нїяо 』": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
-  "Pocketnightmare": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
     }
   ]
 }
