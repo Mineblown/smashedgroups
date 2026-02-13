@@ -835,10 +835,6 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "TwerkTaco": [
@@ -1183,10 +1179,6 @@
     {
       "id": 28,
       "name": "Taco's"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Ethanmeister": [
@@ -2331,12 +2323,6 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
-  "ʚSproutsieɞ": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
   "ᴋ ᴇ ᴠ ɪ ᴎ": [
     {
       "id": 13,
@@ -2362,6 +2348,12 @@
     }
   ],
   "Clives": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "ᴅʀᴏᴡɴ愛": [
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
