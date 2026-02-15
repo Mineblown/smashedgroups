@@ -4,96 +4,51 @@
     "acceptedOn": "2026-02-15T04:10:09.636Z"
   },
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/28_billboard_atlas.png?v=1768254834544",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/28_billboard_atlas.png?v=1771128667538",
     "images": [
       {
-        "name": "bloodgang.png",
+        "name": "C1116467-811A-43A8-A8D9-EDB6A3F5C541.png",
         "uv": [
           0,
           0,
           0.5,
-          0.2
+          0.3333333333333333
         ]
       },
       {
-        "name": "clubenigma.png",
+        "name": "NEW_BANNER_RATED_R_sticker.png",
         "uv": [
           0.5,
           0,
           0.5,
-          0.2
+          0.3333333333333333
         ]
       },
       {
-        "name": "godtier-2.png",
+        "name": "Untitled_design_58.png",
         "uv": [
           0,
-          0.2,
+          0.3333333333333333,
           0.5,
-          0.2
+          0.3333333333333333
         ]
       },
       {
-        "name": "greenoutposter.png",
+        "name": "oeVt4Ub.png",
         "uv": [
           0.5,
-          0.2,
+          0.3333333333333333,
           0.5,
-          0.2
+          0.3333333333333333
         ]
       },
       {
-        "name": "insatiableposter.png",
-        "uv": [
-          0,
-          0.4,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "jungleposter.png",
-        "uv": [
-          0.5,
-          0.4,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "projectxero.png",
+        "name": "waypoint.png",
         "uv": [
           0,
-          0.6000000000000001,
+          0.6666666666666666,
           0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "resolveposter.png",
-        "uv": [
-          0.5,
-          0.6000000000000001,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "tacosposter.png",
-        "uv": [
-          0,
-          0.8,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "trapgodzposter.png",
-        "uv": [
-          0.5,
-          0.8,
-          0.5,
-          0.2
+          0.3333333333333333
         ]
       }
     ]
