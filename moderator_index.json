@@ -57,12 +57,12 @@
       "name": "Heart Of The King"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 1,
       "name": "partner1"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
@@ -123,12 +123,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "TyphoonWes": [
@@ -177,16 +177,16 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
     },
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Neros03": [
@@ -201,10 +201,6 @@
     {
       "id": 15,
       "name": "Spyco's Doofus Squad"
-    },
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
     }
   ],
   "Milyugen": [
@@ -687,12 +683,12 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "spycotje": [
@@ -725,16 +721,16 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
     },
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Merry Martian": [
@@ -2201,36 +2197,6 @@
       "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
-  "OnlyMutes": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "3M0tional": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "VannySashyre": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "~Kisha~": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "FizzyGlyphs": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
   "MoonTwilight": [
     {
       "id": 75,
@@ -2391,6 +2357,36 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    }
+  ],
+  "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "3M0tional": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "VannySashyre": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "~Kisha~": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "FizzyGlyphs": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ]
 }
