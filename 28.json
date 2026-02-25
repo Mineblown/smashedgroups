@@ -4,51 +4,114 @@
     "acceptedOn": "2026-02-15T04:10:09.636Z"
   },
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/28_billboard_atlas.png?v=1771128667538",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/28_billboard_atlas.png?v=1772040315285",
     "images": [
       {
-        "name": "C1116467-811A-43A8-A8D9-EDB6A3F5C541.png",
+        "name": "8P.png",
         "uv": [
           0,
           0,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
         ]
       },
       {
-        "name": "NEW_BANNER_RATED_R_sticker.png",
+        "name": "bloodgang.png",
         "uv": [
           0.5,
           0,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
         ]
       },
       {
-        "name": "Untitled_design_58.png",
+        "name": "clubenigma.png",
+        "uv": [
+          0,
+          0.16666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "godtier-2.png",
+        "uv": [
+          0.5,
+          0.16666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "gravey.png",
         "uv": [
           0,
           0.3333333333333333,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
         ]
       },
       {
-        "name": "oeVt4Ub.png",
+        "name": "insatiableposter.png",
         "uv": [
           0.5,
           0.3333333333333333,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
         ]
       },
       {
-        "name": "waypoint.png",
+        "name": "jungleposter.png",
+        "uv": [
+          0,
+          0.5,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "neon_tuti.png",
+        "uv": [
+          0.5,
+          0.5,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "projectxero.png",
         "uv": [
           0,
           0.6666666666666666,
           0.5,
-          0.3333333333333333
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "resolveposter.png",
+        "uv": [
+          0.5,
+          0.6666666666666666,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "tacosposter.png",
+        "uv": [
+          0,
+          0.8333333333333333,
+          0.5,
+          0.16666666666666666
+        ]
+      },
+      {
+        "name": "trapgodzposter.png",
+        "uv": [
+          0.5,
+          0.8333333333333333,
+          0.5,
+          0.16666666666666666
         ]
       }
     ]
