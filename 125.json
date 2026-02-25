@@ -1,3 +1,7 @@
 {
-  "active": true
+  "active": true,
+  "tos": {
+    "version": "1.2",
+    "acceptedOn": "2026-02-25T16:45:26.383Z"
+  }
 }
