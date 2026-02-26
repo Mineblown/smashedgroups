@@ -357,12 +357,12 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Dukeslice": [
@@ -477,6 +477,10 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Cantina_Cat": [
@@ -845,12 +849,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "໒ྀིNiki ໒ྀི": [
@@ -949,12 +953,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "D o c": [
@@ -1101,12 +1105,12 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "nothin_": [
@@ -1175,12 +1179,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Ethanmeister": [
@@ -1289,12 +1293,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "The OG TopRamen": [
@@ -1347,12 +1351,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "BurntUrSandwich": [
@@ -1889,12 +1893,12 @@
   ],
   "gravygriller": [
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "RaptorDeity": [
@@ -2283,42 +2287,6 @@
       "name": "Cuties Alcholics"
     }
   ],
-  "Gelato_": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "Bobby Shmurdaaa": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "-slaine-": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "2 Frames": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "Clives": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "ᴅʀᴏᴡɴ愛": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
   "-_-Nëø-_-": [
     {
       "id": 28,
@@ -2395,6 +2363,42 @@
     {
       "id": 28,
       "name": "Taco's"
+    }
+  ],
+  "Gelato_": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "Bobby Shmurdaaa": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "-slaine-": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "2 Frames": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "Clives": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "ᴅʀᴏᴡɴ愛": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ]
 }
