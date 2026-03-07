@@ -137,10 +137,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 23,
-      "name": "Kai's E-Kittens"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -187,6 +183,10 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ],
   "Neros03": [
@@ -583,10 +583,6 @@
       "name": "Heart of the king"
     },
     {
-      "id": 23,
-      "name": "Kai's E-Kittens"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -617,16 +613,16 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ],
   "PrimordialAbyss": [
     {
       "id": 30,
       "name": "Heart of the king"
-    },
-    {
-      "id": 23,
-      "name": "Kai's E-Kittens"
     },
     {
       "id": 36,
@@ -667,6 +663,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ],
   "rozAhai": [
@@ -769,10 +769,6 @@
       "name": "Group 48"
     },
     {
-      "id": 23,
-      "name": "Kai's E-Kittens"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -803,6 +799,10 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ],
   "FallZone": [
@@ -931,12 +931,12 @@
   ],
   "Kai2X": [
     {
-      "id": 23,
-      "name": "Kai's E-Kittens"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
+    },
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ],
   "TheIllusionJedi": [
@@ -1003,10 +1003,6 @@
   ],
   "SicParvisMagna": [
     {
-      "id": 23,
-      "name": "Kai's E-Kittens"
-    },
-    {
       "id": 6,
       "name": "Certified Alcoholics"
     },
@@ -1021,6 +1017,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>RESOLVE ENT</color>"
+    },
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ],
   "Fenic": [
@@ -1265,10 +1265,6 @@
   ],
   "zencat__": [
     {
-      "id": 23,
-      "name": "Kai's E-Kittens"
-    },
-    {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
@@ -1303,6 +1299,10 @@
     {
       "id": 28,
       "name": "Taco's"
+    },
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ],
   "The OG TopRamen": [
@@ -1469,18 +1469,6 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
-    }
-  ],
-  "ScoopDeWoo": [
-    {
-      "id": 23,
-      "name": "Kai's E-Kittens"
-    }
-  ],
-  "G alaxy": [
-    {
-      "id": 23,
-      "name": "Kai's E-Kittens"
     }
   ],
   "xxemotaylorxx": [
@@ -2409,6 +2397,18 @@
     {
       "id": 51,
       "name": "Haven't seen you in a while"
+    }
+  ],
+  "ScoopDeWoo": [
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
+    }
+  ],
+  "G alaxy": [
+    {
+      "id": 23,
+      "name": "Kai's E-Kittens"
     }
   ]
 }
