@@ -34,60 +34,15 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/virtual-vixens",
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1767393034153",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1773437581013",
     "images": [
       {
-        "name": "drunk raina banner.png",
+        "name": "Birthday cake 2.png",
         "uv": [
           0,
           0,
           0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "medal.png",
-        "uv": [
-          0.5,
-          0,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "orb 2.png",
-        "uv": [
-          0,
-          0.3333333333333333,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "Sky Drink banner.png",
-        "uv": [
-          0.5,
-          0.3333333333333333,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "Virtual Vixens banner.png",
-        "uv": [
-          0,
-          0.6666666666666666,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "vv revamp 3.png",
-        "uv": [
-          0.5,
-          0.6666666666666666,
-          0.5,
-          0.3333333333333333
+          1
         ]
       }
     ]
