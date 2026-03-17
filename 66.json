@@ -34,12 +34,21 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/virtual-vixens",
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1773703213075",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1773780816722",
     "images": [
       {
         "name": "Leprican.png",
         "uv": [
           0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      {
+        "name": "st patricks day.png",
+        "uv": [
+          0.5,
           0,
           0.5,
           1
