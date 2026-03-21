@@ -29,5 +29,15 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/136",
   "posterEnabled": true,
-  "groupPhotosEnabled": false
+  "groupPhotosEnabled": false,
+  "spinbottle": {
+    "categories": [
+      {
+        "k": "ptdrleg",
+        "t": "Drink",
+        "e": 0,
+        "x": "If you know Participant ~d 4."
+      }
+    ]
+  }
 }
