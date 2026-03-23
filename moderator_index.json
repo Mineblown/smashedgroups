@@ -115,16 +115,16 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "TyphoonWes": [
@@ -173,16 +173,16 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Neros03": [
@@ -357,12 +357,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Dukeslice": [
@@ -661,12 +661,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "rozAhai": [
@@ -695,12 +695,12 @@
       "name": "Smashed Official"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "spycotje": [
@@ -737,12 +737,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Merry Martian": [
@@ -957,12 +957,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "D o c": [
@@ -1015,12 +1015,12 @@
       "name": "Kai's E-Kittens"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Fenic": [
@@ -1113,12 +1113,12 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "nothin_": [
@@ -1249,6 +1249,10 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "WarlordArdan": [
@@ -2063,6 +2067,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ],
   "Jaameess": [
@@ -2279,42 +2287,6 @@
       "name": "BUNNYBEE"
     }
   ],
-  "Gelato_": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "Bobby Shmurdaaa": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "-slaine-": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "2 Frames": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "Clives": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
-  "ᴅʀᴏᴡɴ愛": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>RESOLVE ENT</color>"
-    }
-  ],
   "OnlyMutes": [
     {
       "id": 20,
@@ -2457,6 +2429,42 @@
     {
       "id": 136,
       "name": "Drinking Legends"
+    }
+  ],
+  "Gelato_": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "Bobby Shmurdaaa": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "-slaine-": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "2 Frames": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "Clives": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
+    }
+  ],
+  "ᴅʀᴏᴡɴ愛": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>RESOLVE ENT</color>"
     }
   ]
 }
