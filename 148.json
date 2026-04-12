@@ -15,8 +15,15 @@
   "patreon": "",
   "rules": "",
   "infoBoard": "",
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "_Sushiii",
+    "TwistedTeaSki",
+    "EXE®"
+  ],
+  "owners": [
+    "_Sushiii",
+    "TwistedTeaSki"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/148"
 }
