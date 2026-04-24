@@ -34,10 +34,10 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/virtual-vixens",
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1775860946505",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/66_billboard_atlas.png?v=1776992285757",
     "images": [
       {
-        "name": "Normal 6.png",
+        "name": "1.png",
         "uv": [
           0,
           0,
@@ -46,7 +46,7 @@
         ]
       },
       {
-        "name": "Normal 5.png",
+        "name": "3.png",
         "uv": [
           0.5,
           0,
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "name": "Normal 4.png",
+        "name": "4.1.png",
         "uv": [
           0,
           0.3333333333333333,
@@ -64,7 +64,7 @@
         ]
       },
       {
-        "name": "Normal 3.png",
+        "name": "4.5.png",
         "uv": [
           0.5,
           0.3333333333333333,
@@ -73,7 +73,7 @@
         ]
       },
       {
-        "name": "Normal 2.png",
+        "name": "5.png",
         "uv": [
           0,
           0.6666666666666666,
@@ -82,7 +82,7 @@
         ]
       },
       {
-        "name": "Normal 1.png",
+        "name": "14.png",
         "uv": [
           0.5,
           0.6666666666666666,
