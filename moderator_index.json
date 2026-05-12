@@ -53,16 +53,16 @@
       "name": "Heart Of The King"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 1,
       "name": "cleanup"
     },
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
@@ -107,10 +107,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
@@ -125,6 +121,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>TACOS!</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "TyphoonWes": [
@@ -151,10 +151,6 @@
     {
       "id": 10,
       "name": "BUNNYBEE"
-    },
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
     },
     {
       "id": 0,
@@ -187,6 +183,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Neros03": [
@@ -205,6 +205,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>TACOS!</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Milyugen": [
@@ -679,10 +683,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 0,
       "name": "Certified Alcoholics"
     },
@@ -701,6 +701,10 @@
     {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "spycotje": [
@@ -721,10 +725,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 0,
       "name": "Certified Alcoholics"
     },
@@ -743,6 +743,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Merry Martian": [
@@ -1011,16 +1015,16 @@
       "name": "Kai's E-Kittens"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 0,
       "name": "Certified Alcoholics"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>TACOS!</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "Fenic": [
@@ -1217,12 +1221,12 @@
       "name": "Drunken Pirates"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "StrawHatStream": [
@@ -1231,12 +1235,12 @@
       "name": "Drunken Pirates"
     },
     {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>TACOS!</color>"
+    },
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ],
   "WarlordArdan": [
@@ -2035,36 +2039,6 @@
       "name": "BUNNYBEE"
     }
   ],
-  "OnlyMutes": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "3M0tional": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "VannySashyre": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "~Kisha~": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
-  "FizzyGlyphs": [
-    {
-      "id": 20,
-      "name": "Cuties Alcholics"
-    }
-  ],
   "Participant1": [
     {
       "id": 136,
@@ -2505,6 +2479,42 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    }
+  ],
+  "OnlyMutes": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "3M0tional": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "VannySashyre": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "~Kisha~": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "FizzyGlyphs": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
+    }
+  ],
+  "SlackerDk": [
+    {
+      "id": 20,
+      "name": "Cuties Alcholics"
     }
   ]
 }
