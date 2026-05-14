@@ -14,8 +14,17 @@
   "patreon": "https://www.patreon.com/TheGoonSquad",
   "rules": "",
   "infoBoard": "",
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "iSilversity",
+    "butterrocker",
+    "chop_9",
+    "Happynotic",
+    "MightyNut",
+    "Mr Chris Hansen"
+  ],
+  "owners": [
+    "iSilversity"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/111",
   "active": true,
