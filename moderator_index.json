@@ -1827,11 +1827,19 @@
     {
       "id": 108,
       "name": "The Goon Squad"
+    },
+    {
+      "id": 111,
+      "name": "The Goon Squad"
     }
   ],
   "MightyNut": [
     {
       "id": 108,
+      "name": "The Goon Squad"
+    },
+    {
+      "id": 111,
       "name": "The Goon Squad"
     }
   ],
@@ -2499,6 +2507,30 @@
     {
       "id": 28,
       "name": "Tacos"
+    }
+  ],
+  "butterrocker": [
+    {
+      "id": 111,
+      "name": "The Goon Squad"
+    }
+  ],
+  "chop_9": [
+    {
+      "id": 111,
+      "name": "The Goon Squad"
+    }
+  ],
+  "Happynotic": [
+    {
+      "id": 111,
+      "name": "The Goon Squad"
+    }
+  ],
+  "Mr Chris Hansen": [
+    {
+      "id": 111,
+      "name": "The Goon Squad"
     }
   ]
 }
