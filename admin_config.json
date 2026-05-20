@@ -34,6 +34,11 @@
   },
   "djs": [
     {
+      "id": "53",
+      "name": "test",
+      "nickname": "test"
+    },
+    {
       "id": "52",
       "name": "OnlyMutes",
       "nickname": "OnlyMutes"
