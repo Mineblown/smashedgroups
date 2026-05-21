@@ -205,10 +205,6 @@
     {
       "id": 20,
       "name": "Cuties Alcholics"
-    },
-    {
-      "id": 13,
-      "name": "<color=#ff0000>TACOS!</color>"
     }
   ],
   "Milyugen": [
@@ -2540,6 +2536,12 @@
     }
   ],
   "Cipherlicious": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>TACOS!</color>"
+    }
+  ],
+  "ｃａｒｄｉｂｒｅｅｘｏ": [
     {
       "id": 13,
       "name": "<color=#ff0000>TACOS!</color>"
