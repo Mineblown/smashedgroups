@@ -1913,18 +1913,6 @@
       "name": "Stoners United"
     }
   ],
-  "『 иёко₴нїяо 』": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
-  "Pocketnightmare": [
-    {
-      "id": 74,
-      "name": "Buzz Buddies"
-    }
-  ],
   "Ace NanoSpear": [
     {
       "id": 3,
@@ -2609,6 +2597,18 @@
     {
       "id": 164,
       "name": "ZODIAC COMMUNITY"
+    }
+  ],
+  "『 иёко₴нїяо 』": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
+    }
+  ],
+  "Pocketnightmare": [
+    {
+      "id": 74,
+      "name": "Buzz Buddies"
     }
   ]
 }
