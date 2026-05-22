@@ -150,6 +150,14 @@
     ]
   },
   "truthordare": {
-    "categories": []
+    "categories": [
+      {
+        "k": "nsfw",
+        "t": "Adults Only!",
+        "e": 1,
+        "x": "* 'Truth: What would you secretly want someone to do with ~a?'\n* 'Truth: What's the longest you've thought about someone after one interaction?'\n* 'Truth: Have you ever gotten nervous because someone was too attractive?'\n* 'Truth: What's your biggest weakness when flirting?'\n* 'Truth: If you had to choose someone here to do ~a with for ~m minutes, who would it be?'\n* 'Truth: What's a fantasy you've never admitted out loud?'\n* 'Truth: What's the most attention you've ever wanted from someone?'\n* 'Truth: Have you ever sent a risky text and instantly regretted it?'\n* 'Truth: What's something someone could whisper that would instantly fluster you?'\n* 'Truth: What's your favorite kind of tension between two people?'\n* 'Truth: Have you ever imagined a romantic moment with someone unexpected?'\n* 'Truth: What's the boldest thing you'd do if there were zero consequences?'\n* 'Truth: What's the most attractive thing someone's done to you without trying?'\n* 'Truth: Have you ever wanted to kiss someone just from eye contact alone?'\n* 'Truth: What's your favorite kind of late-night conversation?'\n* 'Truth: What's the most dangerous 'bad idea' you'd still probably go for?'\n* 'Truth: What's one thing you'd want a partner to do more often?'\n* 'Truth: Have you ever flirted with someone just for the thrill of it?'\n* 'Truth: What's the most unforgettable compliment you've received?'\n* 'Truth: If someone offered you ~m dollars to do ~a, would you?'",
+        "y": "* 'Dare: Give your best seductive wink while doing ~a for ~m seconds.'\n* 'Dare: Send your most confident mirror selfie.'\n* 'Dare: Whisper your hottest pickup line dramatically.'\n* 'Dare: Pretend to flirt with an invisible person for ~m minutes.'\n* 'Dare: Recreate your best thirst-trap pose.'\n* 'Dare: Describe how you'd charm someone using only compliments.'\n* 'Dare: Hold intense eye contact with someone for ~m seconds.'\n* 'Dare: Say the most attractive thing about yourself out loud.'\n* 'Dare: Text someone 'you've been on my mind' and don't explain it for ~m minutes.'\n* 'Dare: Act like the main character entering a club.'\n* 'Dare: Do your smoothest 'come here' gesture.'\n* 'Dare: Describe your ideal makeout scene like a movie trailer.'\n* 'Dare: Say a flirty line while doing ~a.'\n* 'Dare: Reveal the last person who made you blush.'\n* 'Dare: Give a dramatic slow-motion hair flip or pose.'\n* 'Dare: Talk in your most seductive voice for ~m seconds.'\n* 'Dare: Compliment someone like you're trying to win them over.'\n* 'Dare: Pretend you're starring in a spicy music video while doing ~a.'\n* 'Dare: Reveal your most-used flirty emoji combination.'\n* 'Dare: Do your best attempt at sounding irresistible for ~m minutes.'"
+      }
+    ]
   }
 }
