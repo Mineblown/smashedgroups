@@ -1841,6 +1841,10 @@
     {
       "id": 111,
       "name": "The Goon Squad"
+    },
+    {
+      "id": 161,
+      "name": "The Goon Squad"
     }
   ],
   "Omni Kitsune": [
@@ -2373,6 +2377,10 @@
     {
       "id": 111,
       "name": "The Goon Squad"
+    },
+    {
+      "id": 161,
+      "name": "The Goon Squad"
     }
   ],
   "chop_9": [
@@ -2385,11 +2393,19 @@
     {
       "id": 111,
       "name": "The Goon Squad"
+    },
+    {
+      "id": 161,
+      "name": "The Goon Squad"
     }
   ],
   "Mr Chris Hansen": [
     {
       "id": 111,
+      "name": "The Goon Squad"
+    },
+    {
+      "id": 161,
       "name": "The Goon Squad"
     }
   ],
@@ -2607,6 +2623,18 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "MidnightDeebs": [
+    {
+      "id": 161,
+      "name": "The Goon Squad"
+    }
+  ],
+  "Chop_9": [
+    {
+      "id": 161,
+      "name": "The Goon Squad"
     }
   ]
 }
