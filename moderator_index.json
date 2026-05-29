@@ -157,10 +157,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
     },
@@ -191,6 +187,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Neros03": [
@@ -341,10 +341,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 1,
       "name": "cleanup"
     },
@@ -379,6 +375,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Dukeslice": [
@@ -395,10 +395,6 @@
       "name": "Haven't seen you in a while"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -413,6 +409,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "․Skittles․": [
@@ -441,10 +441,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
     },
@@ -467,6 +463,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Hibiscus": [
@@ -483,10 +483,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -501,6 +497,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Cantina_Cat": [
@@ -509,10 +509,6 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -527,6 +523,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "WJgames": [
@@ -649,10 +649,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
     },
@@ -675,6 +671,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "rozAhai": [
@@ -684,10 +684,6 @@
     },
     {
       "id": 6,
-      "name": "Certified Alcoholics"
-    },
-    {
-      "id": 0,
       "name": "Certified Alcoholics"
     },
     {
@@ -709,6 +705,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "spycotje": [
@@ -729,10 +729,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
     },
@@ -747,6 +743,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Merry Martian": [
@@ -755,12 +755,12 @@
       "name": "Certified Alcoholics"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Finguard": [
@@ -789,10 +789,6 @@
       "name": "Kai's E-Kittens"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
     },
@@ -807,6 +803,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "FallZone": [
@@ -1015,16 +1015,16 @@
       "name": "Kai's E-Kittens"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
     {
       "id": 13,
       "name": "<color=#ff0000>TACOS!</color>"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Fenic": [
@@ -1101,16 +1101,16 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 28,
       "name": "Tacos"
     },
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "nothin_": [
@@ -1277,10 +1277,6 @@
       "name": "Kai's E-Kittens"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -1303,6 +1299,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "The OG TopRamen": [
@@ -1325,10 +1325,6 @@
       "name": "Spyco's Doofus Squad"
     },
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
     },
@@ -1339,6 +1335,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "DecaySchulz": [
@@ -1515,6 +1515,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Biology~": [
@@ -2101,12 +2105,12 @@
   ],
   "TidSprinkls": [
     {
-      "id": 0,
-      "name": "Certified Alcoholics"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 0,
+      "name": "Certified Alcoholics"
     }
   ],
   "Eebu": [
