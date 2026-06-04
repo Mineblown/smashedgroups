@@ -45,10 +45,10 @@
   "active": true,
   "posterEnabled": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/46_billboard_atlas.png?v=1777071824800",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/46_billboard_atlas.png?v=1780548412313",
     "images": [
       {
-        "name": "HPD Me GFM.png",
+        "name": "HPM.png",
         "uv": [
           0,
           0,
