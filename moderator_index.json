@@ -2313,48 +2313,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
-  "Chop_9": [
-    {
-      "id": 161,
-      "name": "The Goon Squad"
-    }
-  ],
-  "MidnightDeebs": [
-    {
-      "id": 161,
-      "name": "The Goon Squad"
-    }
-  ],
-  "'REAPER'": [
-    {
-      "id": 161,
-      "name": "The Goon Squad"
-    }
-  ],
-  "slinky'": [
-    {
-      "id": 161,
-      "name": "The Goon Squad"
-    }
-  ],
-  "Bradley3": [
-    {
-      "id": 161,
-      "name": "The Goon Squad"
-    }
-  ],
-  "Sterby_": [
-    {
-      "id": 161,
-      "name": "The Goon Squad"
-    }
-  ],
-  "Nekros Skopos": [
-    {
-      "id": 161,
-      "name": "The Goon Squad"
-    }
-  ],
   "Mega_Anonymoose": [
     {
       "id": 13,
@@ -2671,6 +2629,48 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    }
+  ],
+  "MidnightDeebs": [
+    {
+      "id": 161,
+      "name": "The Goon Squad"
+    }
+  ],
+  "Chop_9": [
+    {
+      "id": 161,
+      "name": "The Goon Squad"
+    }
+  ],
+  "'REAPER'": [
+    {
+      "id": 161,
+      "name": "The Goon Squad"
+    }
+  ],
+  "slinky'": [
+    {
+      "id": 161,
+      "name": "The Goon Squad"
+    }
+  ],
+  "Bradley3": [
+    {
+      "id": 161,
+      "name": "The Goon Squad"
+    }
+  ],
+  "Sterby_": [
+    {
+      "id": 161,
+      "name": "The Goon Squad"
+    }
+  ],
+  "Nekros Skopos": [
+    {
+      "id": 161,
+      "name": "The Goon Squad"
     }
   ]
 }
