@@ -62,7 +62,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
@@ -76,7 +76,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "SlackerDK": [
@@ -190,7 +190,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "Neros03": [
@@ -378,7 +378,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "Dukeslice": [
@@ -462,7 +462,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "Hibiscus": [
@@ -548,7 +548,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "-Epsi-": [
@@ -578,7 +578,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "༒DAX༒": [
@@ -620,7 +620,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "PrimordialAbyss": [
@@ -670,7 +670,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "rozAhai": [
@@ -1046,7 +1046,7 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "PJStan": [
@@ -1064,17 +1064,13 @@
     },
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ],
   "×͜o V 亗": [
     {
       "id": 53,
       "name": "Heart Of The King"
-    },
-    {
-      "id": 30,
-      "name": "Heart of the king"
     }
   ],
   "࿇R E S O L V E࿇": [
@@ -1863,6 +1859,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 30,
+      "name": "DRUNKX"
     }
   ],
   "Μeda": [
@@ -2651,10 +2651,10 @@
       "name": "<color=#ff0000>TACOS!</color>"
     }
   ],
-  "Messed up": [
+  "pinky da duck": [
     {
       "id": 30,
-      "name": "Heart of the king"
+      "name": "DRUNKX"
     }
   ]
 }
