@@ -37,5 +37,19 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/30",
   "posterEnabled": true,
-  "posterApprovedOn": "2025-08-20"
+  "posterApprovedOn": "2025-08-20",
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/30_billboard_atlas.png?v=1781474759565",
+    "images": [
+      {
+        "name": "VRChat_2025-12-31_21-56-04.504_1920x1080.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
+  }
 }
