@@ -2639,13 +2639,19 @@
       "name": "DRUNKX"
     }
   ],
-  "bleak": [
+  "ʙʟᴇᴀᴋ": [
     {
       "id": 72,
       "name": "Nox Vitae"
     }
   ],
   "SupremeAnubis": [
+    {
+      "id": 72,
+      "name": "Nox Vitae"
+    }
+  ],
+  "bleak": [
     {
       "id": 72,
       "name": "Nox Vitae"
