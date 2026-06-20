@@ -17,12 +17,10 @@
   "infoBoard": "We are just here to drink and have fun, keep drama out.",
   "moderators": [
     "SupremeAnubis",
-    "cthulahoop",
-    "ʙʟᴇᴀᴋ"
+    "bleak"
   ],
   "owners": [
-    "cthulahoop",
-    "ʙʟᴇᴀᴋ"
+    "bleak"
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/72",
@@ -69,6 +67,6 @@
       }
     ]
   },
-  "groupPhotosEnabled": true,
+  "groupPhotosEnabled": false,
   "atlasApprovedOn": "2025-12-11"
 }
