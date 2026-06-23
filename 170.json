@@ -29,9 +29,10 @@
   "patreon": "",
   "rules": "",
   "infoBoard": "",
-  "groupPhotosEnabled": true,
+  "groupPhotosEnabled": false,
   "moderators": [],
   "owners": [],
   "coOwners": [],
-  "landingPageUrl": "https://vrclink.com/u/170"
+  "landingPageUrl": "https://vrclink.com/u/170",
+  "posterEnabled": true
 }
