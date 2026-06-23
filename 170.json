@@ -3,5 +3,19 @@
   "tos": {
     "version": "1.2",
     "acceptedOn": "2026-06-23T01:15:37.135Z"
+  },
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/170_billboard_atlas.png?v=1782177900080",
+    "images": [
+      {
+        "name": "ChatGPT_Image_Jun_22_2026_05_11_53_PM.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
   }
 }
