@@ -30,8 +30,12 @@
   "rules": "",
   "infoBoard": "",
   "groupPhotosEnabled": false,
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "KoffynQT"
+  ],
+  "owners": [
+    "KoffynQT"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/170",
   "posterEnabled": true
