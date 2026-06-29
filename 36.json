@@ -16,7 +16,6 @@
   "infoBoard": "<b><color=#981df5><u><b>Zentaka</b></u></color><color=#ffffff> is a multinational cybernetics and defense conglomerate specializing in human augmentation‚ neural interfacing‚ and advanced bio-mechanical systems․ With headquarters in the Neo-Tokyo Arcology and operations in over 80 territories‚</color><color=#981DF5> <u>Zentaka</u> </color></b><b><color=#ffffff>remains at the forefront of post-human innovation‚ seamlessly integrating man and machine․</color></b><br><br><b><color=#ffffff>Founded in <u>2047</u> by visionary industrialist </color><color=#981df5><u>Epsi</u></color><color=#ffffff>‚ the company rose to prominence through exclusive military contracts and rapid advancements in neural mesh technology․ Instrumental to</color><color=#981DF5> <b><u>Zentaka's</u></b></color><color=#ffffff> cutting-edge developments is </color><color=#ff0000><s><i><b>REDACTED</b></i></s></color><color=#ffffff>‚ </color>a master schematics engineer whose designs have shaped the next generation of cybernetic systems․ Today‚ <color=#981df5><u>Zentaka's</u> </color>subsidiaries span <color=#80ffff><u>civilian prosthetics,</u> <u>surveillance </u><u>AI</u></color>‚ <color=#80ffff><u>private</u> <u>security</u></color>‚ and <color=#80ffff><u>consciousness</u><u> preservation</u></color>․</b>",
   "posterEnabled": true,
   "moderators": [
-    "-Epsi-",
     "Fenic",
     "FallZone",
     "TyphoonWes",
@@ -27,10 +26,11 @@
     "PrimordialAbyss",
     "Mͥufͣfͫin",
     "zencat__",
-    "TheWebbMD",
     "TheIllusionJedi",
     "DecaySchulz",
     "ＧＨ０ＳＴＦＡＣＥ",
+    "EpsiAI",
+    "TheWebbMD",
     "࿇R E S O L V E࿇",
     "xxemotaylorxx",
     "WJgames",
@@ -42,9 +42,9 @@
     "࿏ᴛʜᴇᴄᴏᴘʏɴɪɴᴊᴀ࿏"
   ],
   "owners": [
-    "-Epsi-",
     "DecaySchulz",
-    "ＧＨ０ＳＴＦＡＣＥ"
+    "ＧＨ０ＳＴＦＡＣＥ",
+    "EpsiAI"
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/zentaka",
