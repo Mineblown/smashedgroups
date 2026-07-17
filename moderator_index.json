@@ -127,12 +127,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "TyphoonWes": [
@@ -193,12 +193,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "Neros03": [
@@ -381,12 +381,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "Dukeslice": [
@@ -465,12 +465,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "Hibiscus": [
@@ -673,12 +673,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "rozAhai": [
@@ -969,12 +969,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "D o c": [
@@ -1989,12 +1989,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "TidSprinkls": [
@@ -2615,6 +2615,24 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     }
   ],
+  "｜мοԝ｜": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "Bippie": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "djtrifecta": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
   "NaughteeNoodle": [
     {
       "id": 46,
@@ -2661,24 +2679,6 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
-    }
-  ],
-  "｜мοԝ｜": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "Bippie": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "djtrifecta": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ]
 }
