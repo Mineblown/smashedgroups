@@ -387,6 +387,10 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "Dukeslice": [
@@ -1301,6 +1305,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "The OG TopRamen": [
@@ -1999,6 +2007,10 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "TidSprinkls": [
@@ -2289,6 +2301,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "MidnightDeebs": [
@@ -2341,6 +2357,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "pinky da duck": [
@@ -2695,7 +2715,31 @@
       "name": "Gxy for Decay"
     }
   ],
+  "EpsiAI": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "Komɪ": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
   "Cʜᴀʀᴍʏ": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "°ʚStrawberryɞ°": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "Esmeräy": [
     {
       "id": 179,
       "name": "Gxy for Decay"
