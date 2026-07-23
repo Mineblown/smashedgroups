@@ -1351,6 +1351,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "BurntUrSandwich": [
@@ -2589,6 +2593,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "Bobby Shmurdaaa": [
@@ -2679,6 +2687,18 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
+    }
+  ],
+  "ʚSproutsieɞ": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "Cʜᴀʀᴍʏ": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ]
 }
