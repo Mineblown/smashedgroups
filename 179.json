@@ -14,9 +14,19 @@
   "patreon": "",
   "rules": "",
   "infoBoard": "",
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "Mega_Anonymoose",
+    "ʚSproutsieɞ",
+    "DecaySchulz",
+    "Cʜᴀʀᴍʏ"
+  ],
+  "owners": [
+    "Mega_Anonymoose",
+    "DecaySchulz",
+    "ʚSproutsieɞ"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/179",
-  "active": true
+  "active": true,
+  "posterEnabled": false
 }
