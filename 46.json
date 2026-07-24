@@ -43,10 +43,10 @@
   "active": true,
   "posterEnabled": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/46_billboard_atlas.png?v=1784689692963",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/46_billboard_atlas.png?v=1784923409253",
     "images": [
       {
-        "name": "TOT Rules.png",
+        "name": "FF Smashed.png",
         "uv": [
           0,
           0,
