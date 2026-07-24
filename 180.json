@@ -30,5 +30,19 @@
     "Acidkalvin"
   ],
   "coOwners": [],
-  "landingPageUrl": "https://vrclink.com/u/180"
+  "landingPageUrl": "https://vrclink.com/u/180",
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/180_billboard_atlas.png?v=1784924471908",
+    "images": [
+      {
+        "name": "sloshedd.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
+  }
 }
