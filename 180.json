@@ -16,8 +16,19 @@
   "rules": "Rules<br> SLOSHED HOUSE RULES <br><br>Pull up a stool, read the sign, respect the bar.<br><br>18+ Only<br><br>If you can't legally order a drink, you can't order a vibe. This is an adults-only establishment.<br><br>No Racism, Hate Speech, or Discrimination<br><br>Racism, sexism, homophobia, transphobia, ableism, or any other form of discrimination earns an immediate trip out the door.<br><br>No Harassment<br><br>Friendly roasting is fine. Bullying, intimidation, targeted harassment, stalking, or making others uncomfortable is not.<br><br>Respect Different Beliefs<br><br>Everyone comes from different backgrounds. Debate ideas respectfully, but don't attack people for their religion, morals, politics, culture, or personal values.<br><br>This Ain't Tinder<br><br>Don't treat the server like a dating app. Respect boundaries and take \"no\" for an answer the first time.<br><br>Respect Staff<br><br>Mods and Admins are here to keep the drinks flowing, not babysit. Follow staff instructions and use ModMail if you have concerns.<br><br>Lurkers Welcome<br><br>You don't have to chat to be part of the community. Just be verified and follow the rules.<br><br>Use the Correct Channels<br><br>Keep conversations where they belong. Off-topic discussions, media, memes, and support requests all have their own spaces.<br><br>No Doxxing, Threats, or Hacking<br><br>Sharing personal information, threatening users, account theft, hacking, or malicious activity results in an immediate permanent ban.<br><br>No Drama Farming<br><br>Keep personal disputes out of the server. We're here to socialize, not host public feuds.<br><br>Ask If You're Unsure<br><br>If you don't know whether something is allowed, ask a Moderator or Admin before doing it.<br><br>Staff Accountability<br><br>Staff members are held to a higher standard. Abuse of power may result in loss of permissions or removal from staff.<br><br>Don't Ruin the Vibe<br><br>If you're consistently disruptive, toxic, or trying to make the community worse, expect consequences.",
   "infoBoard": "",
   "posterEnabled": false,
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "Lord Bodhi",
+    "Acidkalvin",
+    "Ali is dead",
+    "9wastaken",
+    "MysticFairy",
+    "Sylvia_Drakina",
+    "ChickenBuffles"
+  ],
+  "owners": [
+    "Lord Bodhi",
+    "Acidkalvin"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/180"
 }
