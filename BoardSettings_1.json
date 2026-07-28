@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Default",
       "createdAt": 1785258375987,
-      "updatedAt": 1785258406774,
+      "updatedAt": 1785258413790,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -524,7 +524,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 3,
+            "nextNumber": 4,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -657,6 +657,39 @@
             "styleLinkId": "",
             "width": 300,
             "height": 190
+          },
+          "choice": {
+            "shape": "rect",
+            "colorMode": "tools",
+            "titleValue": "CHOOSE",
+            "textValue": "Pick one option",
+            "textSizing": "auto",
+            "titleFontSize": 40.773999999999994,
+            "bodyFontSize": 31.634999999999998,
+            "titleFontWeight": "bold",
+            "titleFontStyle": "normal",
+            "titleUnderline": false,
+            "titleLinethrough": false,
+            "bodyFontWeight": "normal",
+            "bodyFontStyle": "normal",
+            "bodyUnderline": false,
+            "bodyLinethrough": false,
+            "showNumber": true,
+            "badgePosition": "bottomRight",
+            "styleOverrides": {
+              "surface": "#8b5cf6",
+              "border": "#334155",
+              "borderWidth": 3,
+              "badge": "#4b3285",
+              "titleFill": "#ffffff",
+              "textFill": "#ffffff",
+              "numberFill": "#ffffff",
+              "surfaceOpacity": 1
+            },
+            "surfaceOpacity": 1,
+            "styleLinkId": "",
+            "width": 300,
+            "height": 190
           }
         },
         "connectorSettings": {
@@ -700,5 +733,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-28T17:06:48.291Z"
+  "updatedAt": "2026-07-28T17:06:55.272Z"
 }
