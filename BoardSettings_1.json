@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Default",
       "createdAt": 1785258375987,
-      "updatedAt": 1785258423155,
+      "updatedAt": 1785258426582,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -585,7 +585,7 @@
           }
         },
         "quickPresetDefaults": {
-          "shape": "pill",
+          "shape": "roundedRect",
           "spawnWidth": 300,
           "spawnHeight": 190,
           "colorMode": "tools",
@@ -659,7 +659,7 @@
             "height": 190
           },
           "choice": {
-            "shape": "pill",
+            "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "CHOOSE",
             "textValue": "Pick one option",
@@ -733,5 +733,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-28T17:07:04.608Z"
+  "updatedAt": "2026-07-28T17:07:08.035Z"
 }
