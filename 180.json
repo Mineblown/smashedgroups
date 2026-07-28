@@ -49,13 +49,6 @@
   },
   "groupPhotosEnabled": true,
   "spinbottle": {
-    "categories": [
-      {
-        "k": "slosh",
-        "t": "Sloshed",
-        "e": 1,
-        "x": "Take 3 drinks if you are from Canada\nTake a drink if your avatar is a type of bird\nTake 2 drinks if your avatar is wearing a suit\nTake a drink if youve been to Japan\nFinish your drink if you have a animal in your name\nGet a hoof job from Kalvin\nWhole table drinks\nFinish your drink if you are from Saskatchewan\ndrop down and give me 20 pushups\nTake a drink if your name is chickenbuffles"
-      }
-    ]
+    "categories": []
   }
 }
