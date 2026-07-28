@@ -49,10 +49,6 @@
       "name": "Heart Of The King"
     },
     {
-      "id": 1,
-      "name": "cleanup"
-    },
-    {
       "id": 20,
       "name": "Cuties Alcholics"
     },
@@ -63,6 +59,10 @@
     {
       "id": 36,
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
+    },
+    {
+      "id": 1,
+      "name": "cleanup"
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
@@ -337,10 +337,6 @@
       "name": "BUNNYBEE"
     },
     {
-      "id": 1,
-      "name": "cleanup"
-    },
-    {
       "id": 28,
       "name": "Tacos"
     },
@@ -387,6 +383,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 1,
+      "name": "cleanup"
     }
   ],
   "Dukeslice": [
@@ -1473,10 +1473,6 @@
   ],
   "NoWayDude96": [
     {
-      "id": 1,
-      "name": "cleanup"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
@@ -1487,6 +1483,10 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 1,
+      "name": "cleanup"
     }
   ],
   "Biology~": [
@@ -2005,12 +2005,6 @@
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
-    }
-  ],
-  "Eebu": [
-    {
-      "id": 1,
-      "name": "cleanup"
     }
   ],
   "﮴﮴﮴﮴E": [
@@ -2773,6 +2767,12 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "Eebu": [
+    {
+      "id": 1,
+      "name": "cleanup"
     }
   ]
 }
