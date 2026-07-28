@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "nextBoardId": 3,
+  "nextBoardId": 4,
   "freeBoardIds": [],
   "boards": [
     {
@@ -38,6 +38,24 @@
       "sourceBoardId": 0,
       "createdAt": "2026-07-28T17:14:07.829Z",
       "updatedAt": "2026-07-28T17:14:07.829Z"
+    },
+    {
+      "id": 3,
+      "name": "Official board",
+      "ownerId": "admin:superadmin",
+      "ownerName": "superadmin",
+      "official": true,
+      "shareMode": "private",
+      "shared": false,
+      "allowCopy": false,
+      "listed": true,
+      "disabled": false,
+      "image": "Board_3.png",
+      "project": "Board_3.project.json",
+      "revision": 0,
+      "sourceBoardId": 0,
+      "createdAt": "2026-07-28T17:14:08.965Z",
+      "updatedAt": "2026-07-28T17:14:08.965Z"
     }
   ]
 }
