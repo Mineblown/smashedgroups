@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Default",
       "createdAt": 1785258375987,
-      "updatedAt": 1785258444636,
+      "updatedAt": 1785258741771,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -524,7 +524,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 4,
+            "nextNumber": 5,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -585,9 +585,9 @@
           }
         },
         "quickPresetDefaults": {
-          "shape": "roundedRect",
-          "spawnWidth": 300,
-          "spawnHeight": 190,
+          "shape": "rect",
+          "spawnWidth": 350.97443231524085,
+          "spawnHeight": 314.7839355665387,
           "colorMode": "tools",
           "badgePosition": "bottomRight"
         },
@@ -598,8 +598,8 @@
             "titleValue": "",
             "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 40.773999999999994,
-            "bodyFontSize": 31.634999999999998,
+            "titleFontSize": 50,
+            "bodyFontSize": 44,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -622,8 +622,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 300,
-            "height": 190
+            "width": 350.97443231524085,
+            "height": 314.7839355665387
           },
           "action": {
             "shape": "rect",
@@ -733,5 +733,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-28T17:10:20.849Z"
+  "updatedAt": "2026-07-28T17:12:32.372Z"
 }
