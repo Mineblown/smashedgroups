@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "nextBoardId": 2,
+  "freeBoardIds": [],
+  "boards": [
+    {
+      "id": 1,
+      "name": "Untitled board",
+      "ownerId": "1",
+      "ownerName": "cleanup",
+      "official": false,
+      "shareMode": "private",
+      "shared": false,
+      "allowCopy": false,
+      "listed": true,
+      "disabled": false,
+      "image": "Board_1.png",
+      "project": "Board_1.project.json",
+      "revision": 0,
+      "sourceBoardId": 0,
+      "createdAt": "2026-07-28T17:04:52.456Z",
+      "updatedAt": "2026-07-28T17:04:52.456Z"
+    }
+  ]
+}
