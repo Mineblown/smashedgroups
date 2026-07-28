@@ -2774,11 +2774,5 @@
       "id": 1,
       "name": "cleanup"
     }
-  ],
-  "test": [
-    {
-      "id": 1,
-      "name": "cleanup"
-    }
   ]
 }
