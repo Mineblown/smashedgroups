@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Default",
       "createdAt": 1785258375987,
-      "updatedAt": 1785258426582,
+      "updatedAt": 1785258435388,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
             "badgePosition": "bottomRight",
             "styleOverrides": {
               "surface": "#8b5cf6",
-              "border": "#334155",
+              "border": "#ffffff",
               "borderWidth": 3,
               "badge": "#4b3285",
               "titleFill": "#ffffff",
@@ -733,5 +733,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-28T17:07:08.035Z"
+  "updatedAt": "2026-07-28T17:07:16.880Z"
 }
