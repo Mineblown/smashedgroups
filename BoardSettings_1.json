@@ -5,9 +5,9 @@
   "profiles": [
     {
       "id": "sp_ms4wqr03_oisshh",
-      "name": "Default",
+      "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785259066474,
+      "updatedAt": 1785259093097,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -733,5 +733,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-28T17:17:47.952Z"
+  "updatedAt": "2026-07-28T17:18:14.609Z"
 }
