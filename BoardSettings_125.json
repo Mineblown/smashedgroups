@@ -7,23 +7,23 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785365156472,
+      "updatedAt": 1785365165435,
       "settings": {
         "version": 1,
         "toolStyles": {
           "rect": {
-            "fill": "#0f172a",
+            "fill": "#18cd1e",
             "stroke": "#334155",
-            "strokeWidth": 2,
+            "strokeWidth": 8,
             "opacity": 1,
-            "fillOpacity": 0,
+            "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 2067.05,
-            "spawnHeight": 2059.81,
-            "spawnScaleX": 1,
-            "spawnScaleY": 1,
+            "spawnWidth": 292.215,
+            "spawnHeight": 209.2816,
+            "spawnScaleX": 1.21,
+            "spawnScaleY": 1.21,
             "fontFamily": "Inter",
             "fontSize": 84,
             "fontWeight": "normal",
@@ -31,9 +31,9 @@
             "underline": false,
             "linethrough": false,
             "nextNumber": 1,
-            "gradientEnabled": false,
-            "gradientColor": "#ec4899",
-            "gradientAngle": 0,
+            "gradientEnabled": true,
+            "gradientColor": "#1a1a3c",
+            "gradientAngle": 57,
             "linePattern": "solid",
             "dashSpacing": 1
           },
@@ -488,10 +488,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 223.55494938638935,
-            "spawnHeight": 60.05229984171516,
-            "spawnScaleX": 0.1042655176124672,
-            "spawnScaleY": 0.29006961327649294,
+            "spawnWidth": 92.84902061767578,
+            "spawnHeight": 95.232512,
+            "spawnScaleX": 0.22,
+            "spawnScaleY": 0.46,
             "fontFamily": "Archivo Black",
             "fontSize": 84,
             "fontWeight": "normal",
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T22:45:58.439Z"
+  "updatedAt": "2026-07-29T22:46:07.392Z"
 }
