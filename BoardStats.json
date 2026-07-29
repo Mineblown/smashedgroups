@@ -1,6 +1,9 @@
 {
   "schemaVersion": 1,
   "activeUsers": {
+    "2": [
+      "1"
+    ],
     "3": [
       "3"
     ],
