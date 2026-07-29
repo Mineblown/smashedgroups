@@ -189,12 +189,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "Neros03": [
@@ -377,16 +377,16 @@
       "name": "Gxy for Decay"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 1,
       "name": "cleanup"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "Dukeslice": [
@@ -465,12 +465,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "Hibiscus": [
@@ -669,12 +669,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "rozAhai": [
@@ -965,12 +965,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "D o c": [
@@ -1989,12 +1989,12 @@
       "name": "Gxy for Decay"
     },
     {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ],
   "TidSprinkls": [
@@ -2661,54 +2661,6 @@
       "name": "Gxy for Decay"
     }
   ],
-  "NaughteeNoodle": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
-  "DarkPyroKing": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
-  "Matrix_Tide": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
-  "_CatW": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
-  "~Monarch~": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
-  "-Mrs․Ðonut-": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
-  "-Mr․Mark-": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
-  "٠ᆺ٠Eli": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
   "Lord Bodhi": [
     {
       "id": 180,
@@ -2773,6 +2725,60 @@
     {
       "id": 1,
       "name": "cleanup"
+    }
+  ],
+  "NaughteeNoodle": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
+  ],
+  "SC_BLITZKRIEGER": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
+  ],
+  "DarkPyroKing": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
+  ],
+  "Matrix_Tide": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
+  ],
+  "_CatW": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
+  ],
+  "~Monarch~": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
+  ],
+  "-Mrs․Ðonut-": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
+  ],
+  "-Mr․Mark-": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
+  ],
+  "٠ᆺ٠Eli": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
     }
   ]
 }
