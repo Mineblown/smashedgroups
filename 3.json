@@ -148,6 +148,13 @@
   "atlasApprovedOn": "2025-08-20",
   "groupPhotosEnabled": false,
   "posterApprovedOn": "2025-08-20",
+  "boardGames": {
+    "enabled": true,
+    "defaultBoardId": 3,
+    "activeBoardIds": [
+      3
+    ]
+  },
   "spinbottle": {
     "categories": []
   },
