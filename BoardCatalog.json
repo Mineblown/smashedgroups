@@ -99,17 +99,17 @@
       "ownerId": "admin:test",
       "ownerName": "test",
       "official": true,
-      "shareMode": "use",
+      "shareMode": "copy",
       "shared": true,
-      "allowCopy": false,
+      "allowCopy": true,
       "listed": true,
       "disabled": false,
       "image": "Board_6.png",
       "project": "Board_6.project.json",
-      "revision": 1,
+      "revision": 2,
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T14:33:56.064Z",
-      "updatedAt": "2026-07-29T14:34:13.660Z"
+      "updatedAt": "2026-07-29T14:37:51.693Z"
     }
   ]
 }
