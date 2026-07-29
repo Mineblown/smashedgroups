@@ -61,96 +61,33 @@
   },
   "editorTheme": "default",
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/3_billboard_atlas.png?v=1785324341943",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/3_billboard_atlas.png?v=1785324623284",
     "images": [
-      {
-        "name": "adsdsa.png",
-        "uv": [
-          0,
-          0,
-          0.5,
-          0.2
-        ]
-      },
       {
         "name": "chess text.png",
         "uv": [
-          0.5,
+          0,
           0,
           0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "dasdasads.png",
-        "uv": [
-          0,
-          0.2,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "gunfirefalls.png",
-        "uv": [
-          0.5,
-          0.2,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "IMG_5222.jpg",
-        "uv": [
-          0,
-          0.4,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "IMG_5222.png",
-        "uv": [
-          0.5,
-          0.4,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "MOXXXI_LOGO_White.png",
-        "uv": [
-          0,
-          0.6000000000000001,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "MOXXXI_X_Black.png",
-        "uv": [
-          0.5,
-          0.6000000000000001,
-          0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "PurpleNebula2048_left.png",
-        "uv": [
-          0,
-          0.8,
-          0.5,
-          0.2
+          0.5
         ]
       },
       {
         "name": "rozAhai.png",
         "uv": [
           0.5,
-          0.8,
+          0,
           0.5,
-          0.2
+          0.5
+        ]
+      },
+      {
+        "name": "aaas.png",
+        "uv": [
+          0,
+          0.5,
+          0.5,
+          0.5
         ]
       }
     ]
