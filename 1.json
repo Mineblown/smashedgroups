@@ -140,11 +140,10 @@
   },
   "boardGames": {
     "enabled": true,
-    "defaultBoardId": 4,
+    "defaultBoardId": 1,
     "activeBoardIds": [
       1,
-      2,
-      4
+      2
     ],
     "activeBoards": [
       {
@@ -156,11 +155,6 @@
         "id": 2,
         "name": "Test 1",
         "image": "Board_2.png"
-      },
-      {
-        "id": 4,
-        "name": "Test",
-        "image": "Board_4.png"
       }
     ]
   },
