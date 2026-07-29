@@ -7,12 +7,12 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785366609366,
+      "updatedAt": 1785366614303,
       "settings": {
         "version": 1,
         "toolStyles": {
           "rect": {
-            "fill": "#18cd1e",
+            "fill": "#712395",
             "stroke": "#334155",
             "strokeWidth": 8,
             "opacity": 1,
@@ -34,7 +34,7 @@
             "linethrough": false,
             "nextNumber": 1,
             "gradientEnabled": true,
-            "gradientColor": "#1a1a3c",
+            "gradientColor": "#1d1db9",
             "gradientAngle": 57,
             "linePattern": "solid",
             "dashSpacing": 1
@@ -524,10 +524,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 197.7099609375,
-            "spawnHeight": 34.8912,
-            "spawnScaleX": 0.18,
-            "spawnScaleY": 0.36,
+            "spawnWidth": 162.05126953125,
+            "spawnHeight": 30.0452,
+            "spawnScaleX": 0.15,
+            "spawnScaleY": 0.31,
             "fontFamily": "Archivo Black",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -747,5 +747,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T23:10:11.415Z"
+  "updatedAt": "2026-07-29T23:10:16.357Z"
 }
