@@ -7,12 +7,12 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785363761182,
+      "updatedAt": 1785363777335,
       "settings": {
         "version": 1,
         "toolStyles": {
           "rect": {
-            "fill": "#2149a6",
+            "fill": "#546896",
             "stroke": "#334155",
             "strokeWidth": 8,
             "opacity": 1,
@@ -20,8 +20,8 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 241.49651178877306,
-            "spawnHeight": 172.95509807386907,
+            "spawnWidth": 241.5,
+            "spawnHeight": 172.96,
             "spawnScaleX": 1,
             "spawnScaleY": 1,
             "fontFamily": "Inter",
@@ -116,7 +116,7 @@
             "dashSpacing": 1
           },
           "triangle": {
-            "fill": "#2149a6",
+            "fill": "#712395",
             "stroke": "#334155",
             "strokeWidth": 8,
             "opacity": 1,
@@ -124,7 +124,7 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 352.68016637001693,
+            "spawnWidth": 352.58709999999996,
             "spawnHeight": 285.7735,
             "spawnScaleX": 1.67,
             "spawnScaleY": 1.79,
@@ -135,9 +135,9 @@
             "underline": false,
             "linethrough": false,
             "nextNumber": 1,
-            "gradientEnabled": false,
-            "gradientColor": "#ec4899",
-            "gradientAngle": 0,
+            "gradientEnabled": true,
+            "gradientColor": "#1d1db9",
+            "gradientAngle": 57,
             "linePattern": "solid",
             "dashSpacing": 1
           },
@@ -488,10 +488,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 157.81489218444824,
-            "spawnHeight": 21.322400000000002,
+            "spawnWidth": 130.94696404418949,
+            "spawnHeight": 114.16838399999999,
             "spawnScaleX": 0.14,
-            "spawnScaleY": 0.22,
+            "spawnScaleY": 0.36,
             "fontFamily": "Archivo Black",
             "fontSize": 84,
             "fontWeight": "normal",
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T22:22:43.375Z"
+  "updatedAt": "2026-07-29T22:22:59.283Z"
 }
