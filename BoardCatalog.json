@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "nextBoardId": 8,
+  "nextBoardId": 9,
   "freeBoardIds": [],
   "boards": [
     {
@@ -128,6 +128,24 @@
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T15:30:10.664Z",
       "updatedAt": "2026-07-29T15:30:10.664Z"
+    },
+    {
+      "id": 8,
+      "name": "Untitled board",
+      "ownerId": "13",
+      "ownerName": "<color=#ff0000>SHxTTY</color>",
+      "official": false,
+      "shareMode": "private",
+      "shared": false,
+      "allowCopy": false,
+      "listed": true,
+      "disabled": false,
+      "image": "Board_8.png",
+      "project": "Board_8.project.json",
+      "revision": 0,
+      "sourceBoardId": 0,
+      "createdAt": "2026-07-29T16:05:13.752Z",
+      "updatedAt": "2026-07-29T16:05:13.752Z"
     }
   ]
 }
