@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785358745504,
+      "updatedAt": 1785358747484,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -138,7 +138,7 @@
             "gradientEnabled": true,
             "gradientColor": "#404fbf",
             "gradientAngle": 57,
-            "linePattern": "short-dash",
+            "linePattern": "dotted",
             "dashSpacing": 1
           },
           "pentagon": {
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T20:59:07.325Z"
+  "updatedAt": "2026-07-29T20:59:09.268Z"
 }
