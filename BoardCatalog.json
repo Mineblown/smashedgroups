@@ -1,7 +1,9 @@
 {
   "schemaVersion": 2,
   "nextBoardId": 5,
-  "freeBoardIds": [],
+  "freeBoardIds": [
+    4
+  ],
   "boards": [
     {
       "id": 1,
@@ -56,24 +58,6 @@
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T07:20:42.987Z",
       "updatedAt": "2026-07-29T07:56:23.080Z"
-    },
-    {
-      "id": 4,
-      "name": "Untitled board",
-      "ownerId": "3",
-      "ownerName": "Smashed Official",
-      "official": false,
-      "shareMode": "private",
-      "shared": false,
-      "allowCopy": false,
-      "listed": true,
-      "disabled": false,
-      "image": "Board_4.png",
-      "project": "Board_4.project.json",
-      "revision": 0,
-      "sourceBoardId": 0,
-      "createdAt": "2026-07-29T08:13:41.853Z",
-      "updatedAt": "2026-07-29T08:13:41.853Z"
     }
   ]
 }
