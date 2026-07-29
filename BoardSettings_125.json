@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785358041560,
+      "updatedAt": 1785358045822,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,7 +630,7 @@
           "action": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Slowrt",
+            "titleValue": "Slow Start",
             "textValue": "Take a penalty shot",
             "textSizing": "auto",
             "titleFontSize": 36.47542522846293,
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T20:47:23.348Z"
+  "updatedAt": "2026-07-29T20:47:27.607Z"
 }
