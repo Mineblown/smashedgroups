@@ -146,6 +146,13 @@
       }
     ]
   },
+  "boardGames": {
+    "enabled": true,
+    "defaultBoardId": 4,
+    "activeBoardIds": [
+      4
+    ]
+  },
   "spinbottle": {
     "categories": [
       {
