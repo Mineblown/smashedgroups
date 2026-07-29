@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785363592887,
+      "updatedAt": 1785363596674,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -430,7 +430,7 @@
           "line": {
             "fill": "#8b5cf6",
             "stroke": "#ffffff",
-            "strokeWidth": 1,
+            "strokeWidth": 4,
             "opacity": 1,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
@@ -456,7 +456,7 @@
           "arrow": {
             "fill": "#8b5cf6",
             "stroke": "#ffffff",
-            "strokeWidth": 1,
+            "strokeWidth": 4,
             "opacity": 1,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T22:19:54.826Z"
+  "updatedAt": "2026-07-29T22:19:58.618Z"
 }
