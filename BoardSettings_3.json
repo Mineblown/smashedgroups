@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785312892812,
+      "updatedAt": 1785312897255,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -524,7 +524,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 1,
+            "nextNumber": 2,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -586,8 +586,8 @@
         },
         "quickPresetDefaults": {
           "shape": "rect",
-          "spawnWidth": 973.4668934627897,
-          "spawnHeight": 873.0884977761464,
+          "spawnWidth": 120,
+          "spawnHeight": 90,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -665,8 +665,8 @@
             "titleValue": "",
             "textValue": "Add instruction",
             "textSizing": "auto",
-            "titleFontSize": 50,
-            "bodyFontSize": 44,
+            "titleFontSize": 19.313999999999997,
+            "bodyFontSize": 14.985,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -690,8 +690,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 973.4668934627897,
-            "height": 873.0884977761464
+            "width": 120,
+            "height": 90
           }
         },
         "connectorSettings": {
@@ -735,5 +735,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T08:14:55.401Z"
+  "updatedAt": "2026-07-29T08:14:59.858Z"
 }
