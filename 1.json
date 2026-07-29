@@ -150,9 +150,15 @@
     "enabled": true,
     "defaultBoardId": 4,
     "activeBoardIds": [
+      2,
       4
     ],
     "activeBoards": [
+      {
+        "id": 2,
+        "name": "Test 1",
+        "image": "Board_2.png"
+      },
       {
         "id": 4,
         "name": "Test",
