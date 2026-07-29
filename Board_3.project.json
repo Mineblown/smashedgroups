@@ -3,8 +3,8 @@
   "schemaVersion": 1,
   "boardId": 3,
   "boardName": "Untitled board",
-  "revision": 2,
-  "savedAt": "2026-07-29T07:52:13.121Z",
+  "revision": 3,
+  "savedAt": "2026-07-29T07:52:49.876Z",
   "project": {
     "version": 19,
     "width": 2048,
@@ -253,10 +253,10 @@
         "strokeGradientEnabled": false,
         "strokeGradientColor": "#38bdf8",
         "strokeGradientAngle": 0,
-        "spawnWidth": 772.1715771858076,
-        "spawnHeight": 749.4546196501806,
-        "spawnScaleX": 7.570309580253015,
-        "spawnScaleY": 7.347594310295888,
+        "spawnWidth": 703.4118620669991,
+        "spawnHeight": 493.1154702515482,
+        "spawnScaleX": 6.89619472614705,
+        "spawnScaleY": 4.834465394623021,
         "fontFamily": "Inter",
         "fontSize": 84,
         "fontWeight": "normal",
@@ -665,6 +665,7 @@
     },
     "layerFolders": [],
     "layerRootOrder": [
+      "o:layer-ms5serhy-1jydd9w",
       "o:layer-ms5s7zlr-hfioado"
     ],
     "data": {
@@ -730,6 +731,70 @@
             },
             {
               "x": -50,
+              "y": 50
+            }
+          ]
+        },
+        {
+          "type": "polygon",
+          "version": "5.3.0",
+          "originX": "center",
+          "originY": "center",
+          "left": 608.16,
+          "top": 1568.52,
+          "width": 100,
+          "height": 100,
+          "fill": "rgba(139, 92, 246, 1)",
+          "stroke": "#334155",
+          "strokeWidth": 2,
+          "strokeDashArray": null,
+          "strokeLineCap": "butt",
+          "strokeDashOffset": 0,
+          "strokeLineJoin": "round",
+          "strokeUniform": false,
+          "strokeMiterLimit": 4,
+          "scaleX": 6.9,
+          "scaleY": 4.83,
+          "angle": 0,
+          "flipX": false,
+          "flipY": false,
+          "opacity": 1,
+          "shadow": null,
+          "visible": true,
+          "backgroundColor": "",
+          "fillRule": "nonzero",
+          "paintFirst": "fill",
+          "globalCompositeOperation": "source-over",
+          "skewX": 0,
+          "skewY": 0,
+          "customToolStyleKey": "trapezoid",
+          "customGradientEnabled": false,
+          "customGradientColor": "#ec4899",
+          "customGradientAngle": 0,
+          "customPrimaryColor": "#8b5cf6",
+          "customFillOpacity": 1,
+          "customStrokeColor": "#334155",
+          "customStrokeGradientEnabled": false,
+          "customStrokeGradientColor": "#38bdf8",
+          "customStrokeGradientAngle": 0,
+          "customLayerId": "layer-ms5serhy-1jydd9w",
+          "customLinePattern": "solid",
+          "customDashSpacing": 1,
+          "points": [
+            {
+              "x": -50,
+              "y": -50
+            },
+            {
+              "x": 50,
+              "y": -50
+            },
+            {
+              "x": 34,
+              "y": 50
+            },
+            {
+              "x": -34,
               "y": 50
             }
           ]
