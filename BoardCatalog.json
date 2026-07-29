@@ -77,7 +77,7 @@
     },
     {
       "id": 5,
-      "name": "Untitled board",
+      "name": "Test 3",
       "ownerId": "1",
       "ownerName": "cleanup",
       "official": false,
@@ -88,10 +88,10 @@
       "disabled": false,
       "image": "Board_5.png",
       "project": "Board_5.project.json",
-      "revision": 0,
+      "revision": 1,
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T14:33:23.331Z",
-      "updatedAt": "2026-07-29T14:33:23.331Z"
+      "updatedAt": "2026-07-29T14:33:37.024Z"
     }
   ]
 }
