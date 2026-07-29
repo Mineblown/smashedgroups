@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785366157084,
+      "updatedAt": 1785366162501,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -528,7 +528,7 @@
             "spawnHeight": 96.92,
             "spawnScaleX": 1,
             "spawnScaleY": 1,
-            "fontFamily": "Inter",
+            "fontFamily": "Nunito",
             "fontSize": 84,
             "lineHeight": 1.16,
             "charSpacing": 0,
@@ -745,5 +745,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T23:02:39.069Z"
+  "updatedAt": "2026-07-29T23:02:44.473Z"
 }
