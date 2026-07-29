@@ -2,6 +2,7 @@
   "schemaVersion": 2,
   "nextBoardId": 9,
   "freeBoardIds": [
+    5,
     6,
     7
   ],
@@ -77,24 +78,6 @@
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T08:27:17.918Z",
       "updatedAt": "2026-07-29T13:44:51.346Z"
-    },
-    {
-      "id": 5,
-      "name": "Test 3",
-      "ownerId": "1",
-      "ownerName": "cleanup",
-      "official": false,
-      "shareMode": "private",
-      "shared": false,
-      "allowCopy": false,
-      "listed": true,
-      "disabled": false,
-      "image": "Board_5.png",
-      "project": "Board_5.project.json",
-      "revision": 1,
-      "sourceBoardId": 0,
-      "createdAt": "2026-07-29T14:33:23.331Z",
-      "updatedAt": "2026-07-29T14:33:37.024Z"
     },
     {
       "id": 8,
