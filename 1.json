@@ -151,6 +151,13 @@
     "defaultBoardId": 4,
     "activeBoardIds": [
       4
+    ],
+    "activeBoards": [
+      {
+        "id": 4,
+        "name": "Test",
+        "image": "Board_4.png"
+      }
     ]
   },
   "spinbottle": {
