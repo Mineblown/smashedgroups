@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785358588970,
+      "updatedAt": 1785358591172,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T20:56:30.968Z"
+  "updatedAt": "2026-07-29T20:56:32.972Z"
 }
