@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785366824301,
+      "updatedAt": 1785366826447,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -564,7 +564,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 3,
+            "nextNumber": 4,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 194.6940450504061,
-          "spawnHeight": 169.96936266758124,
+          "spawnWidth": 120,
+          "spawnHeight": 90,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -742,6 +742,44 @@
             "styleLinkId": "",
             "width": 194.6940450504061,
             "height": 169.96936266758124
+          },
+          "numberText": {
+            "shape": "roundedRect",
+            "colorMode": "tools",
+            "titleValue": "",
+            "textValue": "Add instruction",
+            "textSizing": "auto",
+            "titleFontSize": 19.313999999999997,
+            "bodyFontSize": 14.985,
+            "titleFontWeight": "bold",
+            "titleFontStyle": "normal",
+            "titleUnderline": false,
+            "titleLinethrough": false,
+            "titleLineHeight": 1,
+            "titleCharSpacing": 0,
+            "bodyFontWeight": "bold",
+            "bodyFontStyle": "normal",
+            "bodyUnderline": false,
+            "bodyLinethrough": false,
+            "bodyLineHeight": 1.06,
+            "bodyCharSpacing": 0,
+            "showNumber": true,
+            "badgePosition": "bottomRight",
+            "badgeShape": "circle",
+            "styleOverrides": {
+              "surface": "#8b5cf6",
+              "border": "#334155",
+              "borderWidth": 12,
+              "badge": "#4b3285",
+              "titleFill": "#ffffff",
+              "textFill": "#ffffff",
+              "numberFill": "#ffffff",
+              "surfaceOpacity": 1
+            },
+            "surfaceOpacity": 1,
+            "styleLinkId": "",
+            "width": 120,
+            "height": 90
           }
         },
         "connectorSettings": {
@@ -785,5 +823,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T23:13:46.305Z"
+  "updatedAt": "2026-07-29T23:13:48.278Z"
 }
