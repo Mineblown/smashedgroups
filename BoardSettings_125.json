@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785358441000,
+      "updatedAt": 1785358443336,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -668,7 +668,7 @@
         },
         "grid": {
           "size": 10,
-          "opacity": 65,
+          "opacity": 90,
           "guideOpacity": 100
         },
         "panelLayout": {
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T20:54:02.763Z"
+  "updatedAt": "2026-07-29T20:54:05.101Z"
 }
