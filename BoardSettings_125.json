@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785365149563,
+      "updatedAt": 1785365156472,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -559,7 +559,7 @@
           },
           "symbol": {
             "fill": "#ffffff",
-            "stroke": "#000000",
+            "stroke": "#ffffff",
             "strokeWidth": 0,
             "opacity": 1,
             "fillOpacity": 1,
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T22:45:51.571Z"
+  "updatedAt": "2026-07-29T22:45:58.439Z"
 }
