@@ -2727,12 +2727,6 @@
       "name": "cleanup"
     }
   ],
-  "NaughteeNoodle": [
-    {
-      "id": 46,
-      "name": "Sprinks N' Drinks"
-    }
-  ],
   "SC_BLITZKRIEGER": [
     {
       "id": 46,
@@ -2740,6 +2734,12 @@
     }
   ],
   "DarkPyroKing": [
+    {
+      "id": 46,
+      "name": "Sprinks N' Drinks"
+    }
+  ],
+  "NaughteeNoodle": [
     {
       "id": 46,
       "name": "Sprinks N' Drinks"
