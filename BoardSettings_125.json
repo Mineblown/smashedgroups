@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785357263735,
+      "updatedAt": 1785357300226,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -586,13 +586,48 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 300,
-          "spawnHeight": 190,
+          "spawnWidth": 388.2270647186224,
+          "spawnHeight": 167.17566248545813,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
         },
-        "quickPresetTemplates": {},
+        "quickPresetTemplates": {
+          "start": {
+            "shape": "roundedRect",
+            "colorMode": "tools",
+            "titleValue": "START",
+            "textValue": "Begin here",
+            "textSizing": "auto",
+            "titleFontSize": 35.875897169379314,
+            "bodyFontSize": 27.83474780382878,
+            "titleFontWeight": "bold",
+            "titleFontStyle": "normal",
+            "titleUnderline": false,
+            "titleLinethrough": false,
+            "bodyFontWeight": "normal",
+            "bodyFontStyle": "normal",
+            "bodyUnderline": false,
+            "bodyLinethrough": false,
+            "showNumber": false,
+            "badgePosition": "bottomRight",
+            "badgeShape": "circle",
+            "styleOverrides": {
+              "surface": "#8b5cf6",
+              "border": "#334155",
+              "borderWidth": 12,
+              "badge": "#14532d",
+              "titleFill": "#ffffff",
+              "textFill": "#ffffff",
+              "numberFill": "#ffffff",
+              "surfaceOpacity": 1
+            },
+            "surfaceOpacity": 1,
+            "styleLinkId": "",
+            "width": 388.2270647186224,
+            "height": 167.17566248545813
+          }
+        },
         "connectorSettings": {
           "snap": true,
           "follow": true
@@ -634,5 +669,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T20:34:25.501Z"
+  "updatedAt": "2026-07-29T20:35:02.050Z"
 }
