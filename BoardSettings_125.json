@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785361057626,
+      "updatedAt": 1785361062941,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -136,7 +136,7 @@
             "linethrough": false,
             "nextNumber": 1,
             "gradientEnabled": true,
-            "gradientColor": "#6d6dee",
+            "gradientColor": "#1a1a3c",
             "gradientAngle": 57,
             "linePattern": "solid",
             "dashSpacing": 1
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T21:37:39.480Z"
+  "updatedAt": "2026-07-29T21:37:44.816Z"
 }
