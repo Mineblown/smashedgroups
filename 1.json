@@ -152,7 +152,8 @@
     "activeBoardIds": [
       1,
       2,
-      4
+      4,
+      6
     ],
     "activeBoards": [
       {
@@ -169,6 +170,11 @@
         "id": 4,
         "name": "Test",
         "image": "Board_4.png"
+      },
+      {
+        "id": 6,
+        "name": "Test 5 Official",
+        "image": "Board_6.png"
       }
     ]
   },
