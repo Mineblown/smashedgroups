@@ -41,7 +41,7 @@
   "landingPageUrl": "https://vrclink.com/p/smashed-official",
   "posterEnabled": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/3_billboard_atlas.png?v=1785323972929",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/3_billboard_atlas.png?v=1785324000990",
     "images": [
       {
         "name": "Smashed_BeerPong_Weekly_Tournament_Banner3.png",
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "name": "ffff.png",
+        "name": "rozAhai.png",
         "uv": [
           0.5,
           0.5,
@@ -116,7 +116,7 @@
         ]
       },
       {
-        "name": "65d85acb-3a6a-4d39-a306-1e1b9f103e59.png",
+        "name": "PurpleNebula2048_left.png",
         "uv": [
           0,
           0.6666666666666666,
@@ -125,7 +125,7 @@
         ]
       },
       {
-        "name": "adsdsa.png",
+        "name": "gunfirefalls.png",
         "uv": [
           0.5,
           0.6666666666666666,
@@ -134,7 +134,7 @@
         ]
       },
       {
-        "name": "rozAhai.png",
+        "name": "IMG_5222.jpg",
         "uv": [
           0,
           0.8333333333333333,
