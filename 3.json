@@ -23,16 +23,15 @@
     "Cantina_Cat",
     "FallZone",
     "Hibiscus",
-    "TyphoonWes",
     "Areina",
     "PrimordialAbyss",
     "~Kiska~",
-    "_Erika_G",
     "PJStan",
     "Gelato_",
     "NoWayDude96",
     "zencat__",
     "Ace NanoSpear",
+    "_Erika_G",
     "rozAhai",
     "gametiepe"
   ],
@@ -149,5 +148,6 @@
   "posterApprovedOn": "2025-08-20",
   "spinbottle": {
     "categories": []
-  }
+  },
+  "editorTheme": "default"
 }
