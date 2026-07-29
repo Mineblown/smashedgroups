@@ -7,12 +7,12 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785365189200,
+      "updatedAt": 1785365195148,
       "settings": {
         "version": 1,
         "toolStyles": {
           "rect": {
-            "fill": "#18cd1e",
+            "fill": "#952323",
             "stroke": "#334155",
             "strokeWidth": 8,
             "opacity": 1,
@@ -32,7 +32,7 @@
             "linethrough": false,
             "nextNumber": 1,
             "gradientEnabled": true,
-            "gradientColor": "#1a1a3c",
+            "gradientColor": "#08080d",
             "gradientAngle": 57,
             "linePattern": "solid",
             "dashSpacing": 1
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T22:46:31.197Z"
+  "updatedAt": "2026-07-29T22:46:37.120Z"
 }
