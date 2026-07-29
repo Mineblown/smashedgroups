@@ -8,7 +8,8 @@
   "boardGames": {
     "enabled": false,
     "defaultBoardId": null,
-    "activeBoardIds": []
+    "activeBoardIds": [],
+    "activeBoards": []
   },
   "spinbottle": {
     "categories": [
