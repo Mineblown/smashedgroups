@@ -95,21 +95,21 @@
     },
     {
       "id": 6,
-      "name": "Official board",
+      "name": "Test 5 Official",
       "ownerId": "admin:test",
       "ownerName": "test",
       "official": true,
-      "shareMode": "private",
-      "shared": false,
+      "shareMode": "use",
+      "shared": true,
       "allowCopy": false,
       "listed": true,
       "disabled": false,
       "image": "Board_6.png",
       "project": "Board_6.project.json",
-      "revision": 0,
+      "revision": 1,
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T14:33:56.064Z",
-      "updatedAt": "2026-07-29T14:33:56.064Z"
+      "updatedAt": "2026-07-29T14:34:13.660Z"
     }
   ]
 }
