@@ -7,23 +7,23 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785365611410,
+      "updatedAt": 1785365612862,
       "settings": {
         "version": 1,
         "toolStyles": {
           "rect": {
-            "fill": "#0f172a",
+            "fill": "#c1cd18",
             "stroke": "#334155",
-            "strokeWidth": 2,
+            "strokeWidth": 8,
             "opacity": 1,
-            "fillOpacity": 0,
+            "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 2067.05,
-            "spawnHeight": 2059.81,
-            "spawnScaleX": 1,
-            "spawnScaleY": 1,
+            "spawnWidth": 292.215,
+            "spawnHeight": 209.2816,
+            "spawnScaleX": 1.21,
+            "spawnScaleY": 1.21,
             "fontFamily": "Inter",
             "fontSize": 84,
             "fontWeight": "normal",
@@ -31,9 +31,9 @@
             "underline": false,
             "linethrough": false,
             "nextNumber": 1,
-            "gradientEnabled": false,
-            "gradientColor": "#ec4899",
-            "gradientAngle": 0,
+            "gradientEnabled": true,
+            "gradientColor": "#1a1a3c",
+            "gradientAngle": 57,
             "linePattern": "solid",
             "dashSpacing": 1
           },
@@ -488,7 +488,7 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 295.37033173370355,
+            "spawnWidth": 23.393780685424804,
             "spawnHeight": 30.0452,
             "spawnScaleX": 0.15,
             "spawnScaleY": 0.31,
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T22:53:33.425Z"
+  "updatedAt": "2026-07-29T22:53:34.812Z"
 }
