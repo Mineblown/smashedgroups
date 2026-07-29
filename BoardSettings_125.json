@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785364533791,
+      "updatedAt": 1785364535277,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -496,7 +496,7 @@
             "fontSize": 84,
             "fontWeight": "normal",
             "fontStyle": "normal",
-            "underline": true,
+            "underline": false,
             "linethrough": false,
             "nextNumber": 1,
             "gradientEnabled": false,
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T22:35:35.733Z"
+  "updatedAt": "2026-07-29T22:35:37.217Z"
 }
