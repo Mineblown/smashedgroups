@@ -63,17 +63,17 @@
       "ownerId": "1",
       "ownerName": "cleanup",
       "official": false,
-      "shareMode": "private",
-      "shared": false,
+      "shareMode": "use",
+      "shared": true,
       "allowCopy": false,
       "listed": true,
       "disabled": false,
       "image": "Board_4.png",
       "project": "Board_4.project.json",
-      "revision": 2,
+      "revision": 3,
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T08:27:17.918Z",
-      "updatedAt": "2026-07-29T10:11:58.471Z"
+      "updatedAt": "2026-07-29T10:22:44.908Z"
     }
   ]
 }
