@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785357304498,
+      "updatedAt": 1785357316858,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -586,8 +586,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 388.2270647186224,
-          "spawnHeight": 167.17566248545813,
+          "spawnWidth": 390.1426699244148,
+          "spawnHeight": 191.76031697708322,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -599,8 +599,8 @@
             "titleValue": "START",
             "textValue": "Begin here",
             "textSizing": "auto",
-            "titleFontSize": 35.875897169379314,
-            "bodyFontSize": 27.83474780382878,
+            "titleFontSize": 41.151764023282055,
+            "bodyFontSize": 31.928092776684355,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -624,8 +624,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 388.2270647186224,
-            "height": 167.17566248545813
+            "width": 390.1426699244148,
+            "height": 191.76031697708322
           }
         },
         "connectorSettings": {
@@ -669,5 +669,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T20:35:06.272Z"
+  "updatedAt": "2026-07-29T20:35:18.705Z"
 }
