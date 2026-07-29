@@ -2,7 +2,6 @@
   "schemaVersion": 2,
   "nextBoardId": 9,
   "freeBoardIds": [
-    4,
     5,
     6,
     7
@@ -79,6 +78,24 @@
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T20:31:24.512Z",
       "updatedAt": "2026-07-29T22:59:23.461Z"
+    },
+    {
+      "id": 4,
+      "name": "Untitled board",
+      "ownerId": "1",
+      "ownerName": "cleanup",
+      "official": false,
+      "shareMode": "private",
+      "shared": false,
+      "allowCopy": false,
+      "listed": true,
+      "disabled": false,
+      "image": "Board_4.png",
+      "project": "Board_4.project.json",
+      "revision": 0,
+      "sourceBoardId": 0,
+      "createdAt": "2026-07-29T23:02:29.470Z",
+      "updatedAt": "2026-07-29T23:02:29.470Z"
     }
   ]
 }
