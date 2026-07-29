@@ -157,9 +157,18 @@
   "groupPhotosEnabled": false,
   "posterApprovedOn": "2025-08-20",
   "boardGames": {
-    "enabled": false,
-    "defaultBoardId": null,
-    "activeBoardIds": []
+    "enabled": true,
+    "defaultBoardId": 3,
+    "activeBoardIds": [
+      3
+    ],
+    "activeBoards": [
+      {
+        "id": 3,
+        "name": "Untitled board",
+        "image": "Board_3.png"
+      }
+    ]
   },
   "spinbottle": {
     "categories": []
