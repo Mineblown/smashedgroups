@@ -377,16 +377,16 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 1,
-      "name": "cleanup"
-    },
-    {
       "id": 46,
       "name": "Sprinks N' Drinks"
     },
     {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 1,
+      "name": "cleanup"
     }
   ],
   "Dukeslice": [
@@ -1481,12 +1481,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 1,
-      "name": "cleanup"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
+    },
+    {
+      "id": 1,
+      "name": "cleanup"
     }
   ],
   "Biology~": [
@@ -2715,12 +2715,6 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
-  "Eebu": [
-    {
-      "id": 1,
-      "name": "cleanup"
-    }
-  ],
   "SC_BLITZKRIEGER": [
     {
       "id": 46,
@@ -2779,6 +2773,12 @@
     {
       "id": 3,
       "name": "Smashed Official"
+    }
+  ],
+  "Eebu": [
+    {
+      "id": 1,
+      "name": "cleanup"
     }
   ]
 }
