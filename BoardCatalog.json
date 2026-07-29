@@ -2,6 +2,7 @@
   "schemaVersion": 2,
   "nextBoardId": 9,
   "freeBoardIds": [
+    4,
     5,
     6,
     7
@@ -78,24 +79,6 @@
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T16:05:13.752Z",
       "updatedAt": "2026-07-29T16:05:13.752Z"
-    },
-    {
-      "id": 4,
-      "name": "Tewstaasderaqsd",
-      "ownerId": "1",
-      "ownerName": "cleanup",
-      "official": false,
-      "shareMode": "private",
-      "shared": false,
-      "allowCopy": false,
-      "listed": true,
-      "disabled": false,
-      "image": "Board_4.png",
-      "project": "Board_4.project.json",
-      "revision": 1,
-      "sourceBoardId": 0,
-      "createdAt": "2026-07-29T18:08:29.895Z",
-      "updatedAt": "2026-07-29T18:08:53.116Z"
     }
   ]
 }
