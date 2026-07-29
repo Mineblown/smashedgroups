@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785357389423,
+      "updatedAt": 1785357391537,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -597,7 +597,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "START",
-            "textValue": "Take",
+            "textValue": "Take a",
             "textSizing": "auto",
             "titleFontSize": 41.151764023282055,
             "bodyFontSize": 31.928092776684355,
@@ -669,5 +669,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T20:36:31.219Z"
+  "updatedAt": "2026-07-29T20:36:33.294Z"
 }
