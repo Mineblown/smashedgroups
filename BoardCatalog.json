@@ -2,7 +2,6 @@
   "schemaVersion": 2,
   "nextBoardId": 9,
   "freeBoardIds": [
-    1,
     4,
     5,
     6,
@@ -62,6 +61,24 @@
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T18:19:56.086Z",
       "updatedAt": "2026-07-29T18:19:56.086Z"
+    },
+    {
+      "id": 1,
+      "name": "Untitled board",
+      "ownerId": "125",
+      "ownerName": "Conner Calkins",
+      "official": false,
+      "shareMode": "private",
+      "shared": false,
+      "allowCopy": false,
+      "listed": true,
+      "disabled": false,
+      "image": "Board_1.png",
+      "project": "Board_1.project.json",
+      "revision": 0,
+      "sourceBoardId": 0,
+      "createdAt": "2026-07-29T20:31:24.512Z",
+      "updatedAt": "2026-07-29T20:31:24.512Z"
     }
   ]
 }
