@@ -23,105 +23,96 @@
   ],
   "coOwners": [],
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png?v=1785318544729",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png?v=1785340395218",
     "images": [
-      {
-        "name": "31.png",
-        "uv": [
-          0,
-          0,
-          0.5,
-          0.16666666666666666
-        ]
-      },
-      {
-        "name": "adsdsa.png",
-        "uv": [
-          0.5,
-          0,
-          0.5,
-          0.16666666666666666
-        ]
-      },
-      {
-        "name": "chess text.png",
-        "uv": [
-          0,
-          0.16666666666666666,
-          0.5,
-          0.16666666666666666
-        ]
-      },
-      {
-        "name": "dasdasads.png",
-        "uv": [
-          0.5,
-          0.16666666666666666,
-          0.5,
-          0.16666666666666666
-        ]
-      },
-      {
-        "name": "gunfirefalls.png",
-        "uv": [
-          0,
-          0.3333333333333333,
-          0.5,
-          0.16666666666666666
-        ]
-      },
-      {
-        "name": "IMG_5222.jpg",
-        "uv": [
-          0.5,
-          0.3333333333333333,
-          0.5,
-          0.16666666666666666
-        ]
-      },
-      {
-        "name": "IMG_5222.png",
-        "uv": [
-          0,
-          0.5,
-          0.5,
-          0.16666666666666666
-        ]
-      },
-      {
-        "name": "MOXXXI_LOGO_White.png",
-        "uv": [
-          0.5,
-          0.5,
-          0.5,
-          0.16666666666666666
-        ]
-      },
-      {
-        "name": "MOXXXI_X_Black.png",
-        "uv": [
-          0,
-          0.6666666666666666,
-          0.5,
-          0.16666666666666666
-        ]
-      },
-      {
-        "name": "PurpleNebula2048_left.png",
-        "uv": [
-          0.5,
-          0.6666666666666666,
-          0.5,
-          0.16666666666666666
-        ]
-      },
       {
         "name": "rozAhai.png",
         "uv": [
           0,
-          0.8333333333333333,
+          0,
           0.5,
-          0.16666666666666666
+          0.2
+        ]
+      },
+      {
+        "name": "aladriktext.png",
+        "uv": [
+          0.5,
+          0,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "aladriklogo.png",
+        "uv": [
+          0,
+          0.2,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "hirutext.png",
+        "uv": [
+          0.5,
+          0.2,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "hirulogo.png",
+        "uv": [
+          0,
+          0.4,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "sansabar_logo.png",
+        "uv": [
+          0.5,
+          0.4,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "sansabar_txt.png",
+        "uv": [
+          0,
+          0.6000000000000001,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "AELA_txt.png",
+        "uv": [
+          0.5,
+          0.6000000000000001,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "AELA_logo.png",
+        "uv": [
+          0,
+          0.8,
+          0.5,
+          0.2
+        ]
+      },
+      {
+        "name": "difluxs_logo.png",
+        "uv": [
+          0.5,
+          0.8,
+          0.5,
+          0.2
         ]
       }
     ]
