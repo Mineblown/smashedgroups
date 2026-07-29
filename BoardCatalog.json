@@ -59,7 +59,7 @@
     },
     {
       "id": 4,
-      "name": "Untitled board",
+      "name": "asdasd",
       "ownerId": "1",
       "ownerName": "cleanup",
       "official": false,
@@ -70,10 +70,10 @@
       "disabled": false,
       "image": "Board_4.png",
       "project": "Board_4.project.json",
-      "revision": 0,
+      "revision": 1,
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T08:27:17.918Z",
-      "updatedAt": "2026-07-29T08:27:17.918Z"
+      "updatedAt": "2026-07-29T08:27:30.999Z"
     }
   ]
 }
