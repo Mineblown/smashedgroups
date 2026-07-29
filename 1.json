@@ -139,18 +139,10 @@
     ]
   },
   "boardGames": {
-    "enabled": true,
-    "defaultBoardId": 1,
-    "activeBoardIds": [
-      1
-    ],
-    "activeBoards": [
-      {
-        "id": 1,
-        "name": "Test 2",
-        "image": "Board_1.png"
-      }
-    ]
+    "enabled": false,
+    "defaultBoardId": null,
+    "activeBoardIds": [],
+    "activeBoards": []
   },
   "spinbottle": {
     "categories": [
