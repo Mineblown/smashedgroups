@@ -1,9 +1,5 @@
 {
   "schemaVersion": 1,
-  "activeUsers": {
-    "3": [
-      "3"
-    ]
-  },
+  "activeUsers": {},
   "officialBoardIds": []
 }
