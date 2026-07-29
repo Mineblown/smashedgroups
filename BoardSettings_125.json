@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785359736290,
+      "updatedAt": 1785359740202,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -488,9 +488,9 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 221.23376668007694,
+            "spawnWidth": 278.7585047686728,
             "spawnHeight": 56.28775529436061,
-            "spawnScaleX": 0.21636347555551194,
+            "spawnScaleX": 0.272621850802847,
             "spawnScaleY": 0.5807651185963744,
             "fontFamily": "Archivo Black",
             "fontSize": 84,
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T21:15:38.098Z"
+  "updatedAt": "2026-07-29T21:15:42.038Z"
 }
