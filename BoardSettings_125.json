@@ -7,21 +7,21 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785363513492,
+      "updatedAt": 1785363531338,
       "settings": {
         "version": 1,
         "toolStyles": {
           "rect": {
-            "fill": "#546896",
+            "fill": "#0f172a",
             "stroke": "#334155",
-            "strokeWidth": 8,
+            "strokeWidth": 2,
             "opacity": 1,
-            "fillOpacity": 1,
+            "fillOpacity": 0,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 241.49651178877306,
-            "spawnHeight": 172.95509807386907,
+            "spawnWidth": 2067.0517189392403,
+            "spawnHeight": 2059.8148484715157,
             "spawnScaleX": 1,
             "spawnScaleY": 1,
             "fontFamily": "Inter",
@@ -124,10 +124,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 200.7952849632071,
-            "spawnHeight": 175.01703679979232,
-            "spawnScaleX": 1,
-            "spawnScaleY": 1,
+            "spawnWidth": 352.68016637001693,
+            "spawnHeight": 285.7735,
+            "spawnScaleX": 1.67,
+            "spawnScaleY": 1.79,
             "fontFamily": "Inter",
             "fontSize": 84,
             "fontWeight": "normal",
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T22:18:35.417Z"
+  "updatedAt": "2026-07-29T22:18:53.262Z"
 }
