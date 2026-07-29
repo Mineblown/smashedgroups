@@ -2,6 +2,7 @@
   "schemaVersion": 2,
   "nextBoardId": 9,
   "freeBoardIds": [
+    6,
     7
   ],
   "boards": [
@@ -94,24 +95,6 @@
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T14:33:23.331Z",
       "updatedAt": "2026-07-29T14:33:37.024Z"
-    },
-    {
-      "id": 6,
-      "name": "Test 5 Official",
-      "ownerId": "admin:test",
-      "ownerName": "test",
-      "official": true,
-      "shareMode": "copy",
-      "shared": true,
-      "allowCopy": true,
-      "listed": true,
-      "disabled": false,
-      "image": "Board_6.png",
-      "project": "Board_6.project.json",
-      "revision": 2,
-      "sourceBoardId": 0,
-      "createdAt": "2026-07-29T14:33:56.064Z",
-      "updatedAt": "2026-07-29T14:37:51.693Z"
     },
     {
       "id": 8,
