@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785366778404,
+      "updatedAt": 1785366786775,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -124,7 +124,7 @@
             "dashSpacing": 1
           },
           "triangle": {
-            "fill": "#952323",
+            "fill": "#18cd1e",
             "stroke": "#334155",
             "strokeWidth": 8,
             "opacity": 1,
@@ -132,7 +132,7 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 352.68016637001693,
+            "spawnWidth": 352.58709999999996,
             "spawnHeight": 285.7735,
             "spawnScaleX": 1.67,
             "spawnScaleY": 1.79,
@@ -146,7 +146,7 @@
             "linethrough": false,
             "nextNumber": 1,
             "gradientEnabled": true,
-            "gradientColor": "#08080d",
+            "gradientColor": "#1a1a3c",
             "gradientAngle": 57,
             "linePattern": "solid",
             "dashSpacing": 1
@@ -524,10 +524,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 277.1759923095703,
-            "spawnHeight": 34.8912,
-            "spawnScaleX": 0.24,
-            "spawnScaleY": 0.36,
+            "spawnWidth": 83.40719865417479,
+            "spawnHeight": 93.16224,
+            "spawnScaleX": 0.3,
+            "spawnScaleY": 0.45,
             "fontFamily": "Archivo Black",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -747,5 +747,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T23:13:00.360Z"
+  "updatedAt": "2026-07-29T23:13:08.795Z"
 }
