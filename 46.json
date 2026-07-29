@@ -16,6 +16,7 @@
   "infoBoard": "<align=center><color=#d37afd>Do you like to party?</color></align><br><br><align=center><color=#a45eff>Well you came to the right place!</color></align><br><br><align=center><color=#8e68f8>You have arrived into Sprinks N' Drinks!</color></align><br><br><align=center><align=center><color=#7268f8>So grab a drink, take a toke, and just have a good muhfcking time!</color></align></align><br><align=center><align=center><color=#4da3ff>Help TidSprinkls Keep her home and health secure:</color></align><align=center><color=#90c0fe>https://gofund.me/dc73f907d</color></align></align>",
   "moderators": [
     "TidSprinkls",
+    "SC_BLITZKRIEGER",
     "DarkPyroKing",
     "PrimordialAbyss",
     "~Kiska~",
@@ -36,7 +37,8 @@
   ],
   "owners": [
     "TidSprinkls",
-    "NaughteeNoodle"
+    "NaughteeNoodle",
+    "SC_BLITZKRIEGER"
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/46",
@@ -73,5 +75,6 @@
     ]
   },
   "groupPhotosEnabled": true,
-  "posterApprovedOn": "2025-12-23"
+  "posterApprovedOn": "2025-12-23",
+  "editorTheme": "default"
 }
