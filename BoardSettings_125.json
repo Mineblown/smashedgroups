@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785360582911,
+      "updatedAt": 1785360605976,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -116,7 +116,7 @@
             "dashSpacing": 1
           },
           "triangle": {
-            "fill": "#952323",
+            "fill": "#872395",
             "stroke": "#334155",
             "strokeWidth": 8,
             "opacity": 1,
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T21:29:44.819Z"
+  "updatedAt": "2026-07-29T21:30:07.867Z"
 }
