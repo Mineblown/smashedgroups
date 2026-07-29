@@ -7,23 +7,23 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785365355732,
+      "updatedAt": 1785365385679,
       "settings": {
         "version": 1,
         "toolStyles": {
           "rect": {
-            "fill": "#0f172a",
+            "fill": "#712395",
             "stroke": "#334155",
-            "strokeWidth": 2,
+            "strokeWidth": 8,
             "opacity": 1,
-            "fillOpacity": 0,
+            "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 2067.05,
-            "spawnHeight": 2059.81,
-            "spawnScaleX": 1,
-            "spawnScaleY": 1,
+            "spawnWidth": 292.215,
+            "spawnHeight": 209.2816,
+            "spawnScaleX": 1.21,
+            "spawnScaleY": 1.21,
             "fontFamily": "Inter",
             "fontSize": 84,
             "fontWeight": "normal",
@@ -31,9 +31,9 @@
             "underline": false,
             "linethrough": false,
             "nextNumber": 1,
-            "gradientEnabled": false,
-            "gradientColor": "#ec4899",
-            "gradientAngle": 0,
+            "gradientEnabled": true,
+            "gradientColor": "#1d1db9",
+            "gradientAngle": 57,
             "linePattern": "solid",
             "dashSpacing": 1
           },
@@ -488,10 +488,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 237.9006005310059,
-            "spawnHeight": 111.08281600000001,
-            "spawnScaleX": 0.12,
-            "spawnScaleY": 0.26,
+            "spawnWidth": 267.3280172302246,
+            "spawnHeight": 74.529792,
+            "spawnScaleX": 0.17,
+            "spawnScaleY": 0.36,
             "fontFamily": "Archivo Black",
             "fontSize": 84,
             "fontWeight": "normal",
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T22:49:17.699Z"
+  "updatedAt": "2026-07-29T22:49:47.753Z"
 }
