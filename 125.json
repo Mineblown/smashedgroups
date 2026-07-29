@@ -30,8 +30,12 @@
   "patreon": "",
   "rules": "",
   "infoBoard": "",
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "Cylindristic"
+  ],
+  "owners": [
+    "Cylindristic"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/125"
 }
