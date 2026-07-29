@@ -45,17 +45,17 @@
       "ownerId": "3",
       "ownerName": "Smashed Official",
       "official": false,
-      "shareMode": "use",
+      "shareMode": "copy",
       "shared": true,
-      "allowCopy": false,
+      "allowCopy": true,
       "listed": true,
       "disabled": false,
       "image": "Board_3.png",
       "project": "Board_3.project.json",
-      "revision": 4,
+      "revision": 5,
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T07:20:42.987Z",
-      "updatedAt": "2026-07-29T07:54:06.219Z"
+      "updatedAt": "2026-07-29T07:54:48.400Z"
     }
   ]
 }
