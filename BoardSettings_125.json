@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785357558278,
+      "updatedAt": 1785357560396,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -631,7 +631,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Slow Start",
-            "textValue": "Begin here",
+            "textValue": "Take",
             "textSizing": "auto",
             "titleFontSize": 36.47542522846293,
             "bodyFontSize": 28.299898884152274,
@@ -703,5 +703,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T20:39:20.051Z"
+  "updatedAt": "2026-07-29T20:39:22.145Z"
 }
