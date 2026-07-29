@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785357481768,
+      "updatedAt": 1785357485306,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -597,7 +597,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "START",
-            "textValue": "Take a drink to",
+            "textValue": "Take a drink to start",
             "textSizing": "auto",
             "titleFontSize": 41.151764023282055,
             "bodyFontSize": 31.928092776684355,
@@ -669,5 +669,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-29T20:38:03.560Z"
+  "updatedAt": "2026-07-29T20:38:07.059Z"
 }
