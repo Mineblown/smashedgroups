@@ -18,13 +18,12 @@
   "posterEnabled": true,
   "moderators": [
     "acidkalvin",
+    "TyphoonWes",
     "Lord Bodhi",
-    "Ali is dead",
     "9wastaken",
     "MysticFairy",
     "Sylvia_Drakina",
     "ChickenBuffles",
-    "TyphoonWes",
     "Monster34027"
   ],
   "owners": [
@@ -50,5 +49,6 @@
   "groupPhotosEnabled": true,
   "spinbottle": {
     "categories": []
-  }
+  },
+  "editorTheme": "default"
 }
