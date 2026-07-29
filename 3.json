@@ -40,7 +40,7 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/p/smashed-official",
   "posterEnabled": true,
-  "groupPhotosEnabled": true,
+  "groupPhotosEnabled": false,
   "posterApprovedOn": "2025-08-20",
   "boardGames": {
     "enabled": false,
@@ -51,37 +51,5 @@
   "spinbottle": {
     "categories": []
   },
-  "editorTheme": "default",
-  "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/3_billboard_atlas.png?v=1785324623284",
-    "images": [
-      {
-        "name": "chess text.png",
-        "uv": [
-          0,
-          0,
-          0.5,
-          0.5
-        ]
-      },
-      {
-        "name": "rozAhai.png",
-        "uv": [
-          0.5,
-          0,
-          0.5,
-          0.5
-        ]
-      },
-      {
-        "name": "aaas.png",
-        "uv": [
-          0,
-          0.5,
-          0.5,
-          0.5
-        ]
-      }
-    ]
-  }
+  "editorTheme": "default"
 }
