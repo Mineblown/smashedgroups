@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785411505977,
+      "updatedAt": 1785411522385,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -564,7 +564,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 7,
+            "nextNumber": 8,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -649,10 +649,14 @@
             "titleFontStyle": "normal",
             "titleUnderline": false,
             "titleLinethrough": false,
+            "titleLineHeight": 1,
+            "titleCharSpacing": 0,
             "bodyFontWeight": "normal",
             "bodyFontStyle": "normal",
             "bodyUnderline": false,
             "bodyLinethrough": false,
+            "bodyLineHeight": 1.06,
+            "bodyCharSpacing": 0,
             "showNumber": true,
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
@@ -780,5 +784,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T11:38:27.802Z"
+  "updatedAt": "2026-07-30T11:38:44.391Z"
 }
