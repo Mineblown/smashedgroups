@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785417682815,
+      "updatedAt": 1785417694914,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -532,7 +532,7 @@
             "fontSize": 84,
             "lineHeight": 1.16,
             "charSpacing": 0,
-            "fontWeight": "normal",
+            "fontWeight": "bold",
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
@@ -680,5 +680,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T13:21:24.462Z"
+  "updatedAt": "2026-07-30T13:21:36.574Z"
 }
