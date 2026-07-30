@@ -3,8 +3,8 @@
   "schemaVersion": 1,
   "boardId": 5,
   "boardName": "SMASHED - DPS",
-  "revision": 6,
-  "savedAt": "2026-07-30T13:02:43.141Z",
+  "revision": 7,
+  "savedAt": "2026-07-30T13:12:38.755Z",
   "project": {
     "version": 21,
     "width": 2048,
@@ -540,8 +540,7 @@
         "gradientColor": "#ec4899",
         "gradientAngle": 0,
         "linePattern": "solid",
-        "dashSpacing": 1,
-        "textAlign": "left"
+        "dashSpacing": 1
       },
       "number": {
         "fill": "#ffffff",
@@ -602,16 +601,16 @@
       "symbol": {
         "fill": "#f8fafc",
         "stroke": "#0f172a",
-        "strokeWidth": 0,
-        "opacity": 1,
+        "strokeWidth": 2,
+        "opacity": 0.75,
         "fillOpacity": 1,
         "strokeGradientEnabled": false,
         "strokeGradientColor": "#38bdf8",
         "strokeGradientAngle": 0,
-        "spawnWidth": 76.08852644300495,
-        "spawnHeight": 77.0396330235425,
-        "spawnScaleX": 0.9511065805375618,
-        "spawnScaleY": 0.9511065805375618,
+        "spawnWidth": 83.91684985236893,
+        "spawnHeight": 84.94022607008074,
+        "spawnScaleX": 1.0233762177118162,
+        "spawnScaleY": 1.0233762177118162,
         "fontFamily": "Inter",
         "fontSize": 84,
         "lineHeight": 1.16,
@@ -622,8 +621,8 @@
         "linethrough": false,
         "nextNumber": 1,
         "gradientEnabled": true,
-        "gradientColor": "#ff0000",
-        "gradientAngle": 200,
+        "gradientColor": "#ec4899",
+        "gradientAngle": 0,
         "linePattern": "solid",
         "dashSpacing": 1
       }
@@ -949,7 +948,7 @@
         "name": "Field copy copy",
         "expanded": true,
         "children": [
-          "layer-ms7hjcno-uog8x2j",
+          "layer-ms7j7e6v-bkt1dt6",
           "layer-ms7hjcno-cwdvnbi",
           "layer-ms7hjcnp-o37u1kx"
         ]
@@ -1059,20 +1058,13 @@
         "name": "FINAL BOSS",
         "expanded": true,
         "children": [
+          "layer-ms7ior4h-ahphdsj",
           "layer-ms7hlzrx-u7294kb",
           "layer-ms7hlzrx-cb050wo"
         ]
-      },
-      {
-        "id": "folder-ms7ij5k8-nqoovp",
-        "name": "Field copy",
-        "expanded": true,
-        "children": []
       }
     ],
     "layerRootOrder": [
-      "o:layer-ms7ior4h-ahphdsj",
-      "f:folder-ms7ij5k8-nqoovp",
       "f:folder-ms7hlzrv-z6a3oy",
       "f:folder-ms7hlw9t-yfx0jh",
       "f:folder-ms7hlrw8-3cf55l",
@@ -11260,21 +11252,21 @@
           "version": "5.3.0",
           "originX": "center",
           "originY": "center",
-          "left": 1760.32,
-          "top": 1069.24,
-          "width": 52,
-          "height": 66,
+          "left": 1758.66,
+          "top": 1067.92,
+          "width": 62,
+          "height": 72.5,
           "fill": "rgba(248, 250, 252, 1)",
           "stroke": "#0f172a",
-          "strokeWidth": 0,
+          "strokeWidth": 2,
           "strokeDashArray": null,
           "strokeLineCap": "butt",
           "strokeDashOffset": 0,
           "strokeLineJoin": "miter",
           "strokeUniform": false,
           "strokeMiterLimit": 4,
-          "scaleX": 0.79,
-          "scaleY": 0.79,
+          "scaleX": 0.91,
+          "scaleY": 0.91,
           "angle": 0,
           "flipX": false,
           "flipY": false,
@@ -11288,9 +11280,9 @@
           "skewX": 0,
           "skewY": 0,
           "customType": "symbol",
-          "customName": "Party cup",
+          "customName": "Skull",
           "customToolStyleKey": "symbol",
-          "customGradientEnabled": false,
+          "customGradientEnabled": true,
           "customGradientColor": "#ec4899",
           "customGradientAngle": 0,
           "customPrimaryColor": "#f8fafc",
@@ -11300,22 +11292,45 @@
           "customStrokeGradientColor": "#38bdf8",
           "customStrokeGradientAngle": 0,
           "customFolderId": "folder-ms7hjcnn-3jongl",
-          "customLayerId": "layer-ms7hjcno-uog8x2j",
-          "customSymbolKind": "plasticCup",
+          "customLayerId": "layer-ms7j7e6v-bkt1dt6",
+          "customSymbolKind": "skull",
           "customSymbolVersion": 2,
+          "customStyleLinkId": "Skull",
           "objects": [
             {
-              "type": "polygon",
+              "type": "ellipse",
               "version": "5.3.0",
               "originX": "center",
               "originY": "center",
               "left": 0,
-              "top": 0,
-              "width": 52,
-              "height": 66,
-              "fill": "rgba(248, 250, 252, 1)",
-              "stroke": null,
-              "strokeWidth": 0,
+              "top": -5.25,
+              "width": 62,
+              "height": 62,
+              "fill": {
+                "type": "linear",
+                "coords": {
+                  "x1": 0,
+                  "y1": 31,
+                  "x2": 62,
+                  "y2": 31
+                },
+                "colorStops": [
+                  {
+                    "offset": 0,
+                    "color": "rgba(248, 250, 252, 1)"
+                  },
+                  {
+                    "offset": 1,
+                    "color": "rgba(236, 72, 153, 1)"
+                  }
+                ],
+                "offsetX": 0,
+                "offsetY": 0,
+                "gradientUnits": "pixels",
+                "gradientTransform": null
+              },
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
               "strokeDashArray": null,
               "strokeLineCap": "butt",
               "strokeDashOffset": 0,
@@ -11336,26 +11351,10 @@
               "globalCompositeOperation": "source-over",
               "skewX": 0,
               "skewY": 0,
+              "rx": 31,
+              "ry": 31,
               "customRole": "symbolPrimary",
-              "customSymbolBaseStroke": 0,
-              "points": [
-                {
-                  "x": 24,
-                  "y": 18
-                },
-                {
-                  "x": 76,
-                  "y": 18
-                },
-                {
-                  "x": 68,
-                  "y": 84
-                },
-                {
-                  "x": 32,
-                  "y": 84
-                }
-              ]
+              "customSymbolBaseStroke": 0
             },
             {
               "type": "rect",
@@ -11363,9 +11362,68 @@
               "originX": "center",
               "originY": "center",
               "left": 0,
-              "top": -9,
-              "width": 44,
-              "height": 6,
+              "top": 22.75,
+              "width": 40,
+              "height": 27,
+              "fill": {
+                "type": "linear",
+                "coords": {
+                  "x1": 0,
+                  "y1": 13.5,
+                  "x2": 40,
+                  "y2": 13.5
+                },
+                "colorStops": [
+                  {
+                    "offset": 0,
+                    "color": "rgba(248, 250, 252, 1)"
+                  },
+                  {
+                    "offset": 1,
+                    "color": "rgba(236, 72, 153, 1)"
+                  }
+                ],
+                "offsetX": 0,
+                "offsetY": 0,
+                "gradientUnits": "pixels",
+                "gradientTransform": null
+              },
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
+              "strokeDashArray": null,
+              "strokeLineCap": "butt",
+              "strokeDashOffset": 0,
+              "strokeLineJoin": "round",
+              "strokeUniform": false,
+              "strokeMiterLimit": 4,
+              "scaleX": 1,
+              "scaleY": 1,
+              "angle": 0,
+              "flipX": false,
+              "flipY": false,
+              "opacity": 1,
+              "shadow": null,
+              "visible": true,
+              "backgroundColor": "",
+              "fillRule": "nonzero",
+              "paintFirst": "fill",
+              "globalCompositeOperation": "source-over",
+              "skewX": 0,
+              "skewY": 0,
+              "rx": 7,
+              "ry": 7,
+              "customRole": "symbolPrimary",
+              "customSymbolBaseStroke": 0
+            },
+            {
+              "type": "ellipse",
+              "version": "5.3.0",
+              "originX": "center",
+              "originY": "center",
+              "left": -11,
+              "top": -4.25,
+              "width": 16,
+              "height": 20,
               "fill": "#0f172a",
               "stroke": null,
               "strokeWidth": 0,
@@ -11389,8 +11447,131 @@
               "globalCompositeOperation": "source-over",
               "skewX": 0,
               "skewY": 0,
-              "rx": 3,
-              "ry": 3,
+              "rx": 8,
+              "ry": 10,
+              "customRole": "symbolAccent",
+              "customSymbolBaseStroke": 0
+            },
+            {
+              "type": "ellipse",
+              "version": "5.3.0",
+              "originX": "center",
+              "originY": "center",
+              "left": 11,
+              "top": -4.25,
+              "width": 16,
+              "height": 20,
+              "fill": "#0f172a",
+              "stroke": null,
+              "strokeWidth": 0,
+              "strokeDashArray": null,
+              "strokeLineCap": "butt",
+              "strokeDashOffset": 0,
+              "strokeLineJoin": "round",
+              "strokeUniform": false,
+              "strokeMiterLimit": 4,
+              "scaleX": 1,
+              "scaleY": 1,
+              "angle": 0,
+              "flipX": false,
+              "flipY": false,
+              "opacity": 1,
+              "shadow": null,
+              "visible": true,
+              "backgroundColor": "",
+              "fillRule": "nonzero",
+              "paintFirst": "fill",
+              "globalCompositeOperation": "source-over",
+              "skewX": 0,
+              "skewY": 0,
+              "rx": 8,
+              "ry": 10,
+              "customRole": "symbolAccent",
+              "customSymbolBaseStroke": 0
+            },
+            {
+              "type": "polygon",
+              "version": "5.3.0",
+              "originX": "center",
+              "originY": "center",
+              "left": 0,
+              "top": 11.25,
+              "width": 12,
+              "height": 11,
+              "fill": "#0f172a",
+              "stroke": null,
+              "strokeWidth": 0,
+              "strokeDashArray": null,
+              "strokeLineCap": "butt",
+              "strokeDashOffset": 0,
+              "strokeLineJoin": "round",
+              "strokeUniform": false,
+              "strokeMiterLimit": 4,
+              "scaleX": 1,
+              "scaleY": 1,
+              "angle": 0,
+              "flipX": false,
+              "flipY": false,
+              "opacity": 1,
+              "shadow": null,
+              "visible": true,
+              "backgroundColor": "",
+              "fillRule": "nonzero",
+              "paintFirst": "fill",
+              "globalCompositeOperation": "source-over",
+              "skewX": 0,
+              "skewY": 0,
+              "customRole": "symbolAccent",
+              "customSymbolBaseStroke": 0,
+              "points": [
+                {
+                  "x": 50,
+                  "y": 51
+                },
+                {
+                  "x": 44,
+                  "y": 62
+                },
+                {
+                  "x": 56,
+                  "y": 62
+                }
+              ]
+            },
+            {
+              "type": "rect",
+              "version": "5.3.0",
+              "originX": "center",
+              "originY": "center",
+              "left": -11,
+              "top": 29.75,
+              "width": 13,
+              "height": 4,
+              "fill": "#0f172a",
+              "stroke": null,
+              "strokeWidth": 0,
+              "strokeDashArray": null,
+              "strokeLineCap": "butt",
+              "strokeDashOffset": 0,
+              "strokeLineJoin": "round",
+              "strokeUniform": false,
+              "strokeMiterLimit": 4,
+              "scaleX": 1,
+              "scaleY": 1,
+              "angle": 90,
+              "flipX": false,
+              "flipY": false,
+              "opacity": 1,
+              "shadow": null,
+              "visible": true,
+              "backgroundColor": "",
+              "fillRule": "nonzero",
+              "paintFirst": "fill",
+              "globalCompositeOperation": "source-over",
+              "skewX": 0,
+              "skewY": 0,
+              "rx": 2,
+              "ry": 2,
               "customRole": "symbolAccent",
               "customSymbolBaseStroke": 0
             },
@@ -11400,9 +11581,9 @@
               "originX": "center",
               "originY": "center",
               "left": 0,
-              "top": 12,
-              "width": 38,
-              "height": 6,
+              "top": 29.75,
+              "width": 13,
+              "height": 4,
               "fill": "#0f172a",
               "stroke": null,
               "strokeWidth": 0,
@@ -11414,7 +11595,7 @@
               "strokeMiterLimit": 4,
               "scaleX": 1,
               "scaleY": 1,
-              "angle": 0,
+              "angle": 90,
               "flipX": false,
               "flipY": false,
               "opacity": 1,
@@ -11426,8 +11607,45 @@
               "globalCompositeOperation": "source-over",
               "skewX": 0,
               "skewY": 0,
-              "rx": 3,
-              "ry": 3,
+              "rx": 2,
+              "ry": 2,
+              "customRole": "symbolAccent",
+              "customSymbolBaseStroke": 0
+            },
+            {
+              "type": "rect",
+              "version": "5.3.0",
+              "originX": "center",
+              "originY": "center",
+              "left": 11,
+              "top": 29.75,
+              "width": 13,
+              "height": 4,
+              "fill": "#0f172a",
+              "stroke": null,
+              "strokeWidth": 0,
+              "strokeDashArray": null,
+              "strokeLineCap": "butt",
+              "strokeDashOffset": 0,
+              "strokeLineJoin": "round",
+              "strokeUniform": false,
+              "strokeMiterLimit": 4,
+              "scaleX": 1,
+              "scaleY": 1,
+              "angle": 90,
+              "flipX": false,
+              "flipY": false,
+              "opacity": 1,
+              "shadow": null,
+              "visible": true,
+              "backgroundColor": "",
+              "fillRule": "nonzero",
+              "paintFirst": "fill",
+              "globalCompositeOperation": "source-over",
+              "skewX": 0,
+              "skewY": 0,
+              "rx": 2,
+              "ry": 2,
               "customRole": "symbolAccent",
               "customSymbolBaseStroke": 0
             }
@@ -15011,25 +15229,25 @@
           "version": "5.3.0",
           "originX": "center",
           "originY": "center",
-          "left": 1178.46,
-          "top": 1673.48,
+          "left": 1175.8,
+          "top": 1672.34,
           "width": 80,
           "height": 81,
           "fill": "rgba(248, 250, 252, 1)",
           "stroke": "#0f172a",
-          "strokeWidth": 0,
+          "strokeWidth": 2,
           "strokeDashArray": null,
           "strokeLineCap": "butt",
           "strokeDashOffset": 0,
           "strokeLineJoin": "miter",
           "strokeUniform": false,
           "strokeMiterLimit": 4,
-          "scaleX": 0.95,
-          "scaleY": 0.95,
+          "scaleX": 1.02,
+          "scaleY": 1.02,
           "angle": 0,
           "flipX": false,
           "flipY": false,
-          "opacity": 1,
+          "opacity": 0.75,
           "shadow": null,
           "visible": true,
           "backgroundColor": "",
@@ -15042,17 +15260,21 @@
           "customName": "Skull and crossbones",
           "customToolStyleKey": "symbol",
           "customGradientEnabled": true,
-          "customGradientColor": "#ff0000",
-          "customGradientAngle": 200,
+          "customGradientColor": "#ec4899",
+          "customGradientAngle": 0,
           "customPrimaryColor": "#f8fafc",
           "customFillOpacity": 1,
           "customStrokeColor": "#0f172a",
           "customStrokeGradientEnabled": false,
           "customStrokeGradientColor": "#38bdf8",
           "customStrokeGradientAngle": 0,
+          "customFolderId": "folder-ms7hlzrv-z6a3oy",
           "customLayerId": "layer-ms7ior4h-ahphdsj",
+          "customLinePattern": "solid",
+          "customDashSpacing": 1,
           "customSymbolKind": "skullCrossbones",
           "customSymbolVersion": 2,
+          "customStyleLinkId": "Skull",
           "objects": [
             {
               "type": "rect",
@@ -15066,10 +15288,10 @@
               "fill": {
                 "type": "linear",
                 "coords": {
-                  "x1": 78.8108801081554,
-                  "y1": 18.76203489077661,
-                  "x2": 3.189119891844598,
-                  "y2": -8.76203489077661
+                  "x1": 0,
+                  "y1": 5,
+                  "x2": 82,
+                  "y2": 5
                 },
                 "colorStops": [
                   {
@@ -15078,7 +15300,7 @@
                   },
                   {
                     "offset": 1,
-                    "color": "rgba(255, 0, 0, 1)"
+                    "color": "rgba(236, 72, 153, 1)"
                   }
                 ],
                 "offsetX": 0,
@@ -15086,8 +15308,8 @@
                 "gradientUnits": "pixels",
                 "gradientTransform": null
               },
-              "stroke": null,
-              "strokeWidth": 0,
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
               "strokeDashArray": null,
               "strokeLineCap": "butt",
               "strokeDashOffset": 0,
@@ -15125,10 +15347,10 @@
               "fill": {
                 "type": "linear",
                 "coords": {
-                  "x1": 78.8108801081554,
-                  "y1": 18.76203489077661,
-                  "x2": 3.189119891844598,
-                  "y2": -8.76203489077661
+                  "x1": 0,
+                  "y1": 5,
+                  "x2": 82,
+                  "y2": 5
                 },
                 "colorStops": [
                   {
@@ -15137,7 +15359,7 @@
                   },
                   {
                     "offset": 1,
-                    "color": "rgba(255, 0, 0, 1)"
+                    "color": "rgba(236, 72, 153, 1)"
                   }
                 ],
                 "offsetX": 0,
@@ -15145,8 +15367,8 @@
                 "gradientUnits": "pixels",
                 "gradientTransform": null
               },
-              "stroke": null,
-              "strokeWidth": 0,
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
               "strokeDashArray": null,
               "strokeLineCap": "butt",
               "strokeDashOffset": 0,
@@ -15184,10 +15406,10 @@
               "fill": {
                 "type": "linear",
                 "coords": {
-                  "x1": 17.63532821122207,
-                  "y1": 11.506972666270244,
-                  "x2": -1.6353282112220704,
-                  "y2": 4.4930273337297555
+                  "x1": 0,
+                  "y1": 8,
+                  "x2": 16,
+                  "y2": 8
                 },
                 "colorStops": [
                   {
@@ -15196,7 +15418,7 @@
                   },
                   {
                     "offset": 1,
-                    "color": "rgba(255, 0, 0, 1)"
+                    "color": "rgba(236, 72, 153, 1)"
                   }
                 ],
                 "offsetX": 0,
@@ -15204,8 +15426,8 @@
                 "gradientUnits": "pixels",
                 "gradientTransform": null
               },
-              "stroke": null,
-              "strokeWidth": 0,
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
               "strokeDashArray": null,
               "strokeLineCap": "butt",
               "strokeDashOffset": 0,
@@ -15243,10 +15465,10 @@
               "fill": {
                 "type": "linear",
                 "coords": {
-                  "x1": 17.63532821122207,
-                  "y1": 11.506972666270244,
-                  "x2": -1.6353282112220704,
-                  "y2": 4.4930273337297555
+                  "x1": 0,
+                  "y1": 8,
+                  "x2": 16,
+                  "y2": 8
                 },
                 "colorStops": [
                   {
@@ -15255,7 +15477,7 @@
                   },
                   {
                     "offset": 1,
-                    "color": "rgba(255, 0, 0, 1)"
+                    "color": "rgba(236, 72, 153, 1)"
                   }
                 ],
                 "offsetX": 0,
@@ -15263,8 +15485,8 @@
                 "gradientUnits": "pixels",
                 "gradientTransform": null
               },
-              "stroke": null,
-              "strokeWidth": 0,
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
               "strokeDashArray": null,
               "strokeLineCap": "butt",
               "strokeDashOffset": 0,
@@ -15302,10 +15524,10 @@
               "fill": {
                 "type": "linear",
                 "coords": {
-                  "x1": 17.63532821122207,
-                  "y1": 11.506972666270244,
-                  "x2": -1.6353282112220704,
-                  "y2": 4.4930273337297555
+                  "x1": 0,
+                  "y1": 8,
+                  "x2": 16,
+                  "y2": 8
                 },
                 "colorStops": [
                   {
@@ -15314,7 +15536,7 @@
                   },
                   {
                     "offset": 1,
-                    "color": "rgba(255, 0, 0, 1)"
+                    "color": "rgba(236, 72, 153, 1)"
                   }
                 ],
                 "offsetX": 0,
@@ -15322,8 +15544,8 @@
                 "gradientUnits": "pixels",
                 "gradientTransform": null
               },
-              "stroke": null,
-              "strokeWidth": 0,
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
               "strokeDashArray": null,
               "strokeLineCap": "butt",
               "strokeDashOffset": 0,
@@ -15361,10 +15583,10 @@
               "fill": {
                 "type": "linear",
                 "coords": {
-                  "x1": 17.63532821122207,
-                  "y1": 11.506972666270244,
-                  "x2": -1.6353282112220704,
-                  "y2": 4.4930273337297555
+                  "x1": 0,
+                  "y1": 8,
+                  "x2": 16,
+                  "y2": 8
                 },
                 "colorStops": [
                   {
@@ -15373,7 +15595,7 @@
                   },
                   {
                     "offset": 1,
-                    "color": "rgba(255, 0, 0, 1)"
+                    "color": "rgba(236, 72, 153, 1)"
                   }
                 ],
                 "offsetX": 0,
@@ -15381,8 +15603,8 @@
                 "gradientUnits": "pixels",
                 "gradientTransform": null
               },
-              "stroke": null,
-              "strokeWidth": 0,
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
               "strokeDashArray": null,
               "strokeLineCap": "butt",
               "strokeDashOffset": 0,
@@ -15420,10 +15642,10 @@
               "fill": {
                 "type": "linear",
                 "coords": {
-                  "x1": 68.33689681848551,
-                  "y1": 44.58951908179719,
-                  "x2": -6.3368968184855134,
-                  "y2": 17.410480918202804
+                  "x1": 0,
+                  "y1": 31,
+                  "x2": 62,
+                  "y2": 31
                 },
                 "colorStops": [
                   {
@@ -15432,7 +15654,7 @@
                   },
                   {
                     "offset": 1,
-                    "color": "rgba(255, 0, 0, 1)"
+                    "color": "rgba(236, 72, 153, 1)"
                   }
                 ],
                 "offsetX": 0,
@@ -15440,8 +15662,8 @@
                 "gradientUnits": "pixels",
                 "gradientTransform": null
               },
-              "stroke": null,
-              "strokeWidth": 0,
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
               "strokeDashArray": null,
               "strokeLineCap": "butt",
               "strokeDashOffset": 0,
@@ -15479,10 +15701,10 @@
               "fill": {
                 "type": "linear",
                 "coords": {
-                  "x1": 41.99926079657392,
-                  "y1": 21.50707610581229,
-                  "x2": -1.9992607965739246,
-                  "y2": 5.49292389418771
+                  "x1": 0,
+                  "y1": 13.5,
+                  "x2": 40,
+                  "y2": 13.5
                 },
                 "colorStops": [
                   {
@@ -15491,7 +15713,7 @@
                   },
                   {
                     "offset": 1,
-                    "color": "rgba(255, 0, 0, 1)"
+                    "color": "rgba(236, 72, 153, 1)"
                   }
                 ],
                 "offsetX": 0,
@@ -15499,8 +15721,8 @@
                 "gradientUnits": "pixels",
                 "gradientTransform": null
               },
-              "stroke": null,
-              "strokeWidth": 0,
+              "stroke": "#0f172a",
+              "strokeWidth": 2,
               "strokeDashArray": null,
               "strokeLineCap": "butt",
               "strokeDashOffset": 0,
