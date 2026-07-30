@@ -7,7 +7,7 @@
       "id": "sp_ms69za5w_p49alq",
       "name": "Default",
       "createdAt": 1785341075252,
-      "updatedAt": 1785439868307,
+      "updatedAt": 1785439873092,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -580,10 +580,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 1600,
-            "spawnHeight": 1600,
-            "spawnScaleX": 1.2759170653907497,
-            "spawnScaleY": 1.2759170653907497,
+            "spawnWidth": 1900,
+            "spawnHeight": 1900,
+            "spawnScaleX": 1.5151515151515151,
+            "spawnScaleY": 1.5151515151515151,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -679,5 +679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T19:31:49.935Z"
+  "updatedAt": "2026-07-30T19:31:54.702Z"
 }
