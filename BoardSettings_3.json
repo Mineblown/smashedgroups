@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785415927094,
+      "updatedAt": 1785415933548,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -180,7 +180,7 @@
             "dashSpacing": 1
           },
           "hexagon": {
-            "fill": "#f6bf1e",
+            "fill": "#cc0000",
             "stroke": "#ffffff",
             "strokeWidth": 1,
             "opacity": 1,
@@ -679,5 +679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T12:52:08.754Z"
+  "updatedAt": "2026-07-30T12:52:15.248Z"
 }
