@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785419617913,
+      "updatedAt": 1785419619670,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -461,7 +461,7 @@
           },
           "line": {
             "fill": "#8b5cf6",
-            "stroke": "#ffffff",
+            "stroke": "#868788",
             "strokeWidth": 22,
             "opacity": 1,
             "fillOpacity": 1,
@@ -489,7 +489,7 @@
           },
           "arrow": {
             "fill": "#8b5cf6",
-            "stroke": "#ffffff",
+            "stroke": "#868788",
             "strokeWidth": 22,
             "opacity": 1,
             "fillOpacity": 1,
@@ -680,5 +680,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T13:53:39.706Z"
+  "updatedAt": "2026-07-30T13:53:41.298Z"
 }
