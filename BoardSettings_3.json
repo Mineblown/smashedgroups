@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785419493457,
+      "updatedAt": 1785419497208,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -606,7 +606,7 @@
             "strokeWidth": 0,
             "opacity": 0.75,
             "fillOpacity": 1,
-            "strokeGradientEnabled": true,
+            "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
             "spawnWidth": 50.99364639694394,
@@ -680,5 +680,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T13:51:35.087Z"
+  "updatedAt": "2026-07-30T13:51:38.892Z"
 }
