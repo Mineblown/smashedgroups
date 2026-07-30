@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785412206210,
+      "updatedAt": 1785412213213,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -641,7 +641,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "",
+            "textValue": "D",
             "textSizing": "auto",
             "titleFontSize": 40.773999999999994,
             "bodyFontSize": 31.634999999999998,
@@ -717,5 +717,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T11:50:07.984Z"
+  "updatedAt": "2026-07-30T11:50:14.903Z"
 }
