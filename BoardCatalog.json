@@ -98,7 +98,7 @@
     },
     {
       "id": 5,
-      "name": "Untitled board",
+      "name": "SMASHED - For the BOIS",
       "ownerId": "3",
       "ownerName": "Smashed Official",
       "official": false,
@@ -109,10 +109,10 @@
       "disabled": false,
       "image": "Board_5.png",
       "project": "Board_5.project.json",
-      "revision": 0,
+      "revision": 1,
       "sourceBoardId": 0,
       "createdAt": "2026-07-30T08:37:31.219Z",
-      "updatedAt": "2026-07-30T08:37:31.219Z"
+      "updatedAt": "2026-07-30T11:10:55.831Z"
     }
   ]
 }
