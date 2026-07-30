@@ -27,21 +27,21 @@
     },
     {
       "id": 8,
-      "name": "Untitled board",
+      "name": "LuckyBastard",
       "ownerId": "13",
       "ownerName": "<color=#ff0000>SHxTTY</color>",
       "official": false,
-      "shareMode": "private",
-      "shared": false,
-      "allowCopy": false,
+      "shareMode": "copy",
+      "shared": true,
+      "allowCopy": true,
       "listed": true,
       "disabled": false,
       "image": "Board_8.png",
       "project": "Board_8.project.json",
-      "revision": 0,
+      "revision": 1,
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T16:05:13.752Z",
-      "updatedAt": "2026-07-29T16:05:13.752Z"
+      "updatedAt": "2026-07-30T04:56:28.962Z"
     },
     {
       "id": 2,
