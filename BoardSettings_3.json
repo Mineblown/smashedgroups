@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785418733789,
+      "updatedAt": 1785418737339,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -644,7 +644,7 @@
         },
         "grid": {
           "size": 18,
-          "snapObjectsTogether": true,
+          "snapObjectsTogether": false,
           "opacity": 5,
           "guideOpacity": 100
         },
@@ -680,5 +680,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T13:38:55.442Z"
+  "updatedAt": "2026-07-30T13:38:58.989Z"
 }
