@@ -7,7 +7,7 @@
       "id": "sp_ms6jigmf_m57e2b",
       "name": "Default",
       "createdAt": 1785357086631,
-      "updatedAt": 1785447400725,
+      "updatedAt": 1785447406765,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -712,7 +712,7 @@
         },
         "grid": {
           "size": 8,
-          "snapObjectsTogether": false,
+          "snapObjectsTogether": true,
           "opacity": 15,
           "guideOpacity": 80
         },
@@ -748,5 +748,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T21:36:42.533Z"
+  "updatedAt": "2026-07-30T21:36:48.590Z"
 }
