@@ -10,7 +10,7 @@
       "id": 3,
       "name": "Untitled board",
       "ownerId": "3",
-      "ownerName": "Smashed Official",
+      "ownerName": "superadmin",
       "official": false,
       "shareMode": "private",
       "shared": false,
@@ -19,10 +19,10 @@
       "disabled": false,
       "image": "Board_3.png",
       "project": "Board_3.project.json",
-      "revision": 8,
+      "revision": 9,
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T07:20:42.987Z",
-      "updatedAt": "2026-07-29T18:23:09.770Z"
+      "updatedAt": "2026-07-30T11:37:27.526Z"
     },
     {
       "id": 8,
