@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785409499078,
+      "updatedAt": 1785409502362,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -580,10 +580,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 1933.9845295689995,
-            "spawnHeight": 1933.9845295689995,
-            "spawnScaleX": 1.5422524159242421,
-            "spawnScaleY": 1.5422524159242421,
+            "spawnWidth": 1964.3498588680593,
+            "spawnHeight": 1964.3498588680593,
+            "spawnScaleX": 1.5664671920797921,
+            "spawnScaleY": 1.5664671920797921,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -678,5 +678,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T11:05:00.676Z"
+  "updatedAt": "2026-07-30T11:05:03.960Z"
 }
