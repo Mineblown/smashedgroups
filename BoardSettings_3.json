@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785411464089,
+      "updatedAt": 1785411467416,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,5 +678,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T11:37:45.684Z"
+  "updatedAt": "2026-07-30T11:37:49.041Z"
 }
