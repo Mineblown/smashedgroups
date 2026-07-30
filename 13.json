@@ -150,6 +150,20 @@
     "acceptedOn": "2026-01-31T06:54:51.371Z"
   },
   "atlasApprovedOn": "2025-08-20",
+  "boardGames": {
+    "enabled": true,
+    "defaultBoardId": 8,
+    "activeBoardIds": [
+      8
+    ],
+    "activeBoards": [
+      {
+        "id": 8,
+        "name": "LuckyBastard",
+        "image": "Board_8.png"
+      }
+    ]
+  },
   "spinbottle": {
     "categories": [
       {
