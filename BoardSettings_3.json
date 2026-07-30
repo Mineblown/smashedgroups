@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785412246968,
+      "updatedAt": 1785412280513,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -564,7 +564,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 5,
+            "nextNumber": 1,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -636,46 +636,7 @@
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
         },
-        "quickPresetTemplates": {
-          "number": {
-            "shape": "roundedRect",
-            "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "",
-            "textSizing": "auto",
-            "titleFontSize": 40.773999999999994,
-            "bodyFontSize": 31.634999999999998,
-            "titleFontWeight": "bold",
-            "titleFontStyle": "normal",
-            "titleUnderline": false,
-            "titleLinethrough": false,
-            "titleLineHeight": 1,
-            "titleCharSpacing": 0,
-            "bodyFontWeight": "bold",
-            "bodyFontStyle": "normal",
-            "bodyUnderline": false,
-            "bodyLinethrough": false,
-            "bodyLineHeight": 1.06,
-            "bodyCharSpacing": 0,
-            "showNumber": true,
-            "badgePosition": "bottomRight",
-            "badgeShape": "circle",
-            "styleOverrides": {
-              "surface": "#cc0003",
-              "border": "#ffffff",
-              "borderWidth": 3,
-              "badge": "#312e81",
-              "titleFill": "#ffffff",
-              "textFill": "#ffffff",
-              "numberFill": "#ffffff",
-              "surfaceOpacity": 1
-            },
-            "surfaceOpacity": 1,
-            "styleLinkId": "",
-            "width": 300,
-            "height": 190
-          }
-        },
+        "quickPresetTemplates": {},
         "connectorSettings": {
           "snap": true,
           "follow": true
@@ -717,5 +678,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T11:50:48.653Z"
+  "updatedAt": "2026-07-30T11:51:22.205Z"
 }
