@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785412393230,
+      "updatedAt": 1785412395285,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -484,7 +484,7 @@
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
-            "linePattern": "walkway",
+            "linePattern": "dash-dot",
             "dashSpacing": 1
           },
           "arrow": {
@@ -512,7 +512,7 @@
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
-            "linePattern": "walkway",
+            "linePattern": "dash-dot",
             "dashSpacing": 1
           },
           "text": {
@@ -678,5 +678,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T11:53:14.888Z"
+  "updatedAt": "2026-07-30T11:53:16.927Z"
 }
