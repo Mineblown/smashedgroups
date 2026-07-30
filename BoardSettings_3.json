@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785410894691,
+      "updatedAt": 1785410897391,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -202,7 +202,7 @@
             "linethrough": false,
             "nextNumber": 1,
             "gradientEnabled": true,
-            "gradientColor": "#953766",
+            "gradientColor": "#000000",
             "gradientAngle": 0,
             "linePattern": "solid",
             "dashSpacing": 1
@@ -678,5 +678,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T11:28:16.355Z"
+  "updatedAt": "2026-07-30T11:28:19.015Z"
 }
