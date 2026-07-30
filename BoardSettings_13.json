@@ -7,7 +7,7 @@
       "id": "sp_ms69za5w_p49alq",
       "name": "Default",
       "createdAt": 1785341075252,
-      "updatedAt": 1785387982331,
+      "updatedAt": 1785439861094,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -643,6 +643,7 @@
         },
         "grid": {
           "size": 24,
+          "snapObjectsTogether": false,
           "opacity": 65,
           "guideOpacity": 100
         },
@@ -678,5 +679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-07-30T05:07:04.315Z"
+  "updatedAt": "2026-07-30T19:31:42.705Z"
 }
