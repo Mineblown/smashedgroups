@@ -75,5 +75,6 @@
   },
   "groupPhotosEnabled": true,
   "posterApprovedOn": "2025-12-23",
-  "editorTheme": "default"
+  "editorTheme": "default",
+  "bracketLogoUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/46_logo.png?v=1785490643766"
 }
