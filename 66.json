@@ -95,6 +95,20 @@
   },
   "posterEnabled": true,
   "groupPhotosEnabled": true,
+  "boardGames": {
+    "enabled": true,
+    "defaultBoardId": 2,
+    "activeBoardIds": [
+      2
+    ],
+    "activeBoards": [
+      {
+        "id": 2,
+        "name": "Untitled board",
+        "image": "Board_2.png"
+      }
+    ]
+  },
   "spinbottle": {
     "categories": [
       {
