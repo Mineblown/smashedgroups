@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1785883106150,
+      "updatedAt": 1785883108204,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -496,9 +496,9 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 274.11956790209956,
+            "spawnWidth": 316.8133525187932,
             "spawnHeight": 57,
-            "spawnScaleX": 1.2259920743418737,
+            "spawnScaleX": 1.4169388278491577,
             "spawnScaleY": 1,
             "fontFamily": "Inter",
             "fontSize": 84,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-04T22:38:26.953Z"
+  "updatedAt": "2026-08-04T22:38:28.988Z"
 }
