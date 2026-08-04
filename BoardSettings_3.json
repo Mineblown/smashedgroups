@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1785871758898,
+      "updatedAt": 1785871817173,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -600,18 +600,18 @@
             "dashSpacing": 1
           },
           "symbol": {
-            "fill": "#ffc800",
-            "stroke": "#ff0000",
+            "fill": "#f8fafc",
+            "stroke": "#0f172a",
             "strokeWidth": 0,
             "opacity": 0.75,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 67.47752243201008,
-            "spawnHeight": 57.52891335549577,
-            "spawnScaleX": 0.8650964414360266,
-            "spawnScaleY": 0.8650964414360266,
+            "spawnWidth": 41.08,
+            "spawnHeight": 52.14,
+            "spawnScaleX": 0.79,
+            "spawnScaleY": 0.79,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -621,8 +621,8 @@
             "underline": false,
             "linethrough": false,
             "nextNumber": 1,
-            "gradientEnabled": true,
-            "gradientColor": "#ff0000",
+            "gradientEnabled": false,
+            "gradientColor": "#ec4899",
             "gradientAngle": 0,
             "linePattern": "solid",
             "dashSpacing": 1
@@ -679,5 +679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-04T19:29:20.596Z"
+  "updatedAt": "2026-08-04T19:30:18.902Z"
 }
