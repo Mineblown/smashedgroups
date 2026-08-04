@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1785876747252,
+      "updatedAt": 1785876770881,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -564,7 +564,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 1,
+            "nextNumber": 2,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -636,7 +636,46 @@
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
         },
-        "quickPresetTemplates": {},
+        "quickPresetTemplates": {
+          "numberText": {
+            "shape": "roundedRect",
+            "colorMode": "tools",
+            "titleValue": "",
+            "textValue": "Add instruction",
+            "textSizing": "auto",
+            "titleFontSize": 40.773999999999994,
+            "bodyFontSize": 31.634999999999998,
+            "titleFontWeight": "bold",
+            "titleFontStyle": "normal",
+            "titleUnderline": false,
+            "titleLinethrough": false,
+            "titleLineHeight": 1,
+            "titleCharSpacing": 0,
+            "bodyFontWeight": "bold",
+            "bodyFontStyle": "normal",
+            "bodyUnderline": false,
+            "bodyLinethrough": false,
+            "bodyLineHeight": 1.06,
+            "bodyCharSpacing": 0,
+            "showNumber": true,
+            "badgePosition": "bottomRight",
+            "badgeShape": "circle",
+            "styleOverrides": {
+              "surface": "#8b5cf6",
+              "border": "#334155",
+              "borderWidth": 3,
+              "badge": "#4b3285",
+              "titleFill": "#ffffff",
+              "textFill": "#ffffff",
+              "numberFill": "#ffffff",
+              "surfaceOpacity": 1
+            },
+            "surfaceOpacity": 1,
+            "styleLinkId": "",
+            "width": 300,
+            "height": 190
+          }
+        },
         "connectorSettings": {
           "snap": true,
           "follow": true
@@ -679,5 +718,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-04T20:52:28.130Z"
+  "updatedAt": "2026-08-04T20:52:51.753Z"
 }
