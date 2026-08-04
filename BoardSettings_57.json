@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1785879856958,
+      "updatedAt": 1785880001983,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -674,6 +674,44 @@
             "styleLinkId": "",
             "width": 300,
             "height": 190
+          },
+          "finish": {
+            "shape": "roundedRect",
+            "colorMode": "tools",
+            "titleValue": "FINISH",
+            "textValue": "Reach this space to win",
+            "textSizing": "auto",
+            "titleFontSize": 40.773999999999994,
+            "bodyFontSize": 31.634999999999998,
+            "titleFontWeight": "bold",
+            "titleFontStyle": "normal",
+            "titleUnderline": false,
+            "titleLinethrough": false,
+            "titleLineHeight": 1,
+            "titleCharSpacing": 0,
+            "bodyFontWeight": "normal",
+            "bodyFontStyle": "normal",
+            "bodyUnderline": false,
+            "bodyLinethrough": false,
+            "bodyLineHeight": 1.06,
+            "bodyCharSpacing": 0,
+            "showNumber": false,
+            "badgePosition": "bottomRight",
+            "badgeShape": "circle",
+            "styleOverrides": {
+              "surface": "#8b5cf6",
+              "border": "#334155",
+              "borderWidth": 3,
+              "badge": "#881337",
+              "titleFill": "#ffffff",
+              "textFill": "#ffffff",
+              "numberFill": "#ffffff",
+              "surfaceOpacity": 1
+            },
+            "surfaceOpacity": 1,
+            "styleLinkId": "",
+            "width": 300,
+            "height": 190
           }
         },
         "connectorSettings": {
@@ -718,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-04T21:44:17.806Z"
+  "updatedAt": "2026-08-04T21:46:42.840Z"
 }
