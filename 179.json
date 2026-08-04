@@ -52,5 +52,6 @@
       }
     ]
   },
-  "groupPhotosEnabled": false
+  "groupPhotosEnabled": true,
+  "atlasApprovedOn": "2026-08-04"
 }
