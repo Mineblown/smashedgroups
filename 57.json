@@ -27,17 +27,9 @@
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/57",
   "boardGames": {
-    "enabled": true,
-    "defaultBoardId": 8,
-    "activeBoardIds": [
-      8
-    ],
-    "activeBoards": [
-      {
-        "id": 8,
-        "name": "LuckyBastard",
-        "image": "Board_8.png"
-      }
-    ]
+    "enabled": false,
+    "defaultBoardId": null,
+    "activeBoardIds": [],
+    "activeBoards": []
   }
 }
