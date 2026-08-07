@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1786125997069,
+      "updatedAt": 1786126186661,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -496,10 +496,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 164.67665250708265,
-            "spawnHeight": 105.38836302214047,
-            "spawnScaleX": 1.2819275171272773,
-            "spawnScaleY": 1.0801296786611383,
+            "spawnWidth": 164.42880000000002,
+            "spawnHeight": 105.3756,
+            "spawnScaleX": 1.28,
+            "spawnScaleY": 1.08,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -600,18 +600,18 @@
             "dashSpacing": 1
           },
           "symbol": {
-            "fill": "#8c00ff",
-            "stroke": "#000000",
-            "strokeWidth": 2,
+            "fill": "#f8fafc",
+            "stroke": "#0f172a",
+            "strokeWidth": 0,
             "opacity": 0.75,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 80.2854,
-            "spawnHeight": 57.8288,
-            "spawnScaleX": 0.94,
-            "spawnScaleY": 0.94,
+            "spawnWidth": 41.08,
+            "spawnHeight": 52.14,
+            "spawnScaleX": 0.79,
+            "spawnScaleY": 0.79,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -679,5 +679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-07T18:06:38.871Z"
+  "updatedAt": "2026-08-07T18:09:48.562Z"
 }
