@@ -7,7 +7,7 @@
       "id": "sp_msiiafez_lz2b5a",
       "name": "Default",
       "createdAt": 1786080626315,
-      "updatedAt": 1786080679936,
+      "updatedAt": 1786080698431,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -636,7 +636,46 @@
           "badgePosition": "bottomRight",
           "badgeShape": "diamond"
         },
-        "quickPresetTemplates": {},
+        "quickPresetTemplates": {
+          "start": {
+            "shape": "roundedRect",
+            "colorMode": "tools",
+            "titleValue": "START",
+            "textValue": "Begin here",
+            "textSizing": "auto",
+            "titleFontSize": 40.773999999999994,
+            "bodyFontSize": 31.634999999999998,
+            "titleFontWeight": "bold",
+            "titleFontStyle": "normal",
+            "titleUnderline": false,
+            "titleLinethrough": false,
+            "titleLineHeight": 1,
+            "titleCharSpacing": 0,
+            "bodyFontWeight": "normal",
+            "bodyFontStyle": "normal",
+            "bodyUnderline": false,
+            "bodyLinethrough": false,
+            "bodyLineHeight": 1.06,
+            "bodyCharSpacing": 0,
+            "showNumber": false,
+            "badgePosition": "bottomRight",
+            "badgeShape": "diamond",
+            "styleOverrides": {
+              "surface": "#8b5cf6",
+              "border": "#334155",
+              "borderWidth": 3,
+              "badge": "#14532d",
+              "titleFill": "#ffffff",
+              "textFill": "#ffffff",
+              "numberFill": "#ffffff",
+              "surfaceOpacity": 1
+            },
+            "surfaceOpacity": 1,
+            "styleLinkId": "",
+            "width": 300,
+            "height": 190
+          }
+        },
         "connectorSettings": {
           "snap": true,
           "follow": true
@@ -679,5 +718,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-07T05:31:20.908Z"
+  "updatedAt": "2026-08-07T05:31:39.400Z"
 }
