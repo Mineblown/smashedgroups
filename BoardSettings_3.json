@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1786133908193,
+      "updatedAt": 1786134101120,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -180,7 +180,7 @@
             "dashSpacing": 1
           },
           "hexagon": {
-            "fill": "#cc0000",
+            "fill": "#f6bf1e",
             "stroke": "#ffffff",
             "strokeWidth": 1,
             "opacity": 1,
@@ -496,10 +496,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 97.57260000000001,
-            "spawnHeight": 96.0393,
-            "spawnScaleX": 0.81,
-            "spawnScaleY": 0.83,
+            "spawnWidth": 104.88139372520884,
+            "spawnHeight": 25,
+            "spawnScaleX": 1,
+            "spawnScaleY": 1,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -524,10 +524,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 131.774,
-            "spawnHeight": 63.42688,
-            "spawnScaleX": 0.2,
-            "spawnScaleY": 0.2,
+            "spawnWidth": 130.6898,
+            "spawnHeight": 30.0452,
+            "spawnScaleX": 0.31,
+            "spawnScaleY": 0.31,
             "fontFamily": "Orbitron",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -600,18 +600,18 @@
             "dashSpacing": 1
           },
           "symbol": {
-            "fill": "#00cc18",
-            "stroke": "#000000",
-            "strokeWidth": 2,
+            "fill": "#ff0000",
+            "stroke": "#0f172a",
+            "strokeWidth": 0,
             "opacity": 0.75,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 32.76,
-            "spawnHeight": 57.72,
-            "spawnScaleX": 0.78,
-            "spawnScaleY": 0.78,
+            "spawnWidth": 52.5,
+            "spawnHeight": 52.5,
+            "spawnScaleX": 0.75,
+            "spawnScaleY": 0.75,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -621,9 +621,9 @@
             "underline": false,
             "linethrough": false,
             "nextNumber": 1,
-            "gradientEnabled": false,
-            "gradientColor": "#ec4899",
-            "gradientAngle": 0,
+            "gradientEnabled": true,
+            "gradientColor": "#ffffff",
+            "gradientAngle": 183,
             "linePattern": "solid",
             "dashSpacing": 1
           }
@@ -679,5 +679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-07T20:18:29.770Z"
+  "updatedAt": "2026-08-07T20:21:43.122Z"
 }
