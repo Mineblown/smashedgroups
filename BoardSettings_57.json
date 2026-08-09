@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1786251482500,
+      "updatedAt": 1786251485910,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -124,7 +124,7 @@
             "dashSpacing": 1
           },
           "triangle": {
-            "fill": "#ff0000",
+            "fill": "#008080",
             "stroke": "#334155",
             "strokeWidth": 2,
             "opacity": 1,
@@ -132,10 +132,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 14.81547957476289,
-            "spawnHeight": 326.25235834334916,
-            "spawnScaleX": 0.11913380166261571,
-            "spawnScaleY": 2.3313731480873887,
+            "spawnWidth": 122.35999999999999,
+            "spawnHeight": 94.37999999999998,
+            "spawnScaleX": 0.37999999999999995,
+            "spawnScaleY": 0.3899999999999999,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -524,15 +524,15 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 112.70490000000001,
-            "spawnHeight": 76.11225599999999,
-            "spawnScaleX": 0.17,
-            "spawnScaleY": 0.24,
-            "fontFamily": "Rubik",
+            "spawnWidth": 179.57999999999998,
+            "spawnHeight": 138.708224,
+            "spawnScaleX": 0.41,
+            "spawnScaleY": 0.67,
+            "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
             "charSpacing": 0,
-            "fontWeight": "bold",
+            "fontWeight": "normal",
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-09T04:58:04.610Z"
+  "updatedAt": "2026-08-09T04:58:08.033Z"
 }
