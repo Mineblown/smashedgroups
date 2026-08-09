@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1786250741995,
+      "updatedAt": 1786250762590,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -124,18 +124,18 @@
             "dashSpacing": 1
           },
           "triangle": {
-            "fill": "#ff0000",
-            "stroke": "#334155",
+            "fill": "#80ff00",
+            "stroke": "#00ff00",
             "strokeWidth": 2,
             "opacity": 1,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 12.587960533491925,
-            "spawnHeight": 539.0036797383406,
-            "spawnScaleX": 0.101221940603827,
-            "spawnScaleY": 3.8516770025606726,
+            "spawnWidth": 15.4812,
+            "spawnHeight": 153.0858,
+            "spawnScaleX": 0.42,
+            "spawnScaleY": 2.94,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -461,7 +461,7 @@
           },
           "line": {
             "fill": "#8b5cf6",
-            "stroke": "#ff0000",
+            "stroke": "#00ff00",
             "strokeWidth": 12,
             "opacity": 1,
             "fillOpacity": 1,
@@ -489,17 +489,17 @@
           },
           "arrow": {
             "fill": "#8b5cf6",
-            "stroke": "#ff0000",
+            "stroke": "#00ff00",
             "strokeWidth": 12,
             "opacity": 1,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 460.59540000000004,
-            "spawnHeight": 57.00000000000003,
-            "spawnScaleX": 2.06,
-            "spawnScaleY": 1.0000000000000004,
+            "spawnWidth": 296.499,
+            "spawnHeight": 60.42,
+            "spawnScaleX": 2.1,
+            "spawnScaleY": 1.06,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-09T04:45:44.137Z"
+  "updatedAt": "2026-08-09T04:46:04.711Z"
 }
