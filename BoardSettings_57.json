@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1786250602371,
+      "updatedAt": 1786250622542,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -124,18 +124,18 @@
             "dashSpacing": 1
           },
           "triangle": {
-            "fill": "#80ff00",
-            "stroke": "#00ff00",
+            "fill": "#ff0000",
+            "stroke": "#334155",
             "strokeWidth": 2,
             "opacity": 1,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 15.305621741889809,
-            "spawnHeight": 152.8814220929762,
-            "spawnScaleX": 0.41519948080216434,
-            "spawnScaleY": 2.9363065470833014,
+            "spawnWidth": 18.302739377069592,
+            "spawnHeight": 564.76422603975,
+            "spawnScaleX": 0.14717545333764487,
+            "spawnScaleY": 4.0357597973399315,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -461,7 +461,7 @@
           },
           "line": {
             "fill": "#8b5cf6",
-            "stroke": "#00ff00",
+            "stroke": "#ff0000",
             "strokeWidth": 12,
             "opacity": 1,
             "fillOpacity": 1,
@@ -489,17 +489,17 @@
           },
           "arrow": {
             "fill": "#8b5cf6",
-            "stroke": "#00ff00",
+            "stroke": "#ff0000",
             "strokeWidth": 12,
             "opacity": 1,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 220.25640000000004,
-            "spawnHeight": 53.58,
-            "spawnScaleX": 1.5600000000000003,
-            "spawnScaleY": 0.94,
+            "spawnWidth": 242.8342,
+            "spawnHeight": 56.99999999999999,
+            "spawnScaleX": 0.49000000000000005,
+            "spawnScaleY": 0.9999999999999999,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-09T04:43:24.499Z"
+  "updatedAt": "2026-08-09T04:43:44.633Z"
 }
