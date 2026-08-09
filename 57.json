@@ -89,5 +89,15 @@
       }
     ]
   },
-  "groupPhotosEnabled": true
+  "groupPhotosEnabled": true,
+  "spinbottle": {
+    "categories": [
+      {
+        "k": "m",
+        "t": "Mischief",
+        "e": 0,
+        "x": "Take 3 Drinks\nGive 3 Drinks\nGive 6 Drinks\nTake 6 Drinks\nEveryone Drinks\nWaterfall\nlast person to jump Drinks 5\nBuddyshot\nTake 2 with your friends\nTake 1 Drink\nDrink and spin again"
+      }
+    ]
+  }
 }
