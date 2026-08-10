@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786375936077,
+      "updatedAt": 1786375938825,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Start",
-            "textValue": "\nA group shot/Puff before you begin.",
+            "textValue": "A group shot/Puff before you begin.",
             "textSizing": "auto",
             "titleFontSize": 31.745005439999996,
             "bodyFontSize": 24.6297456,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:32:16.268Z"
+  "updatedAt": "2026-08-10T15:32:19.007Z"
 }
