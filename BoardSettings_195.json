@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786386575974,
+      "updatedAt": 1786386611980,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "DIVORCE",
-            "textValue": "Any married pair may divorce. Both drink. No married pair? Pick 2 opponents to become exes. (IF ONE EX GIVE DRINKS THE OTHER DRINKS THAT AMOUNT AND VICE-VERSA)",
+            "titleValue": "HANGOVER FROM HELL",
+            "textValue": "For 2 turns, your team drinks whenever another team moves ahead of you",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ff66c7",
+              "surface": "#951818",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:29:35.956Z"
+  "updatedAt": "2026-08-10T18:30:12.108Z"
 }
