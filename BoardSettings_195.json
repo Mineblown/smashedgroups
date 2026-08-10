@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786380228339,
+      "updatedAt": 1786380231572,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Challenge",
-            "textValue": "Pick an opponent. Rock Paper Scissor, best of 3. Loser's team drinks 3.",
+            "textValue": "Pick an opponent. RockPaper Scissor, best of 3. Loser's team drinks 3.",
             "textSizing": "auto",
             "titleFontSize": 34.66425215999999,
             "bodyFontSize": 26.894678399999997,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:43:48.395Z"
+  "updatedAt": "2026-08-10T16:43:51.713Z"
 }
