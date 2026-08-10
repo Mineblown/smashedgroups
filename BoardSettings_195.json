@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786388239998,
+      "updatedAt": 1786388245858,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "DIVORCE",
-            "textValue": "Any married pair may divorce. Both drink. No married pair? Pick 2 opponents to become exes. (IF ONE EX GIVE DRINKS THE OTHER DRINKS THAT AMOUNT AND VICE-VERSA)",
+            "titleValue": "SURVIVIAL",
+            "textValue": "You Can Skip Your Next 2 Turns or Pick 2 Oppents Behind. YOU GOTTA WIN AGAINST BOTH THEM. AT RPS IF YOU LOSE TO ANY OF THEM YOU SWAP PLACE WITH THE WINNER. IF YOU WIN NO SKIP TURN.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ff66c7",
+              "surface": "#951818",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:57:20.021Z"
+  "updatedAt": "2026-08-10T18:57:25.821Z"
 }
