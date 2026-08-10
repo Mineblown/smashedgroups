@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381119480,
+      "updatedAt": 1786381140262,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "COLOR CHAOS",
-            "textValue": "Roll for a color: 1 Black, 2 White, 3 Purple, 4 Red, 5 Green, 6 Pink. Everyone wearing that color drinks 1. (Max 1 if sharing drinks)",
-            "textSizing": "custom",
-            "titleFontSize": 34,
-            "bodyFontSize": 16,
+            "titleValue": "Unlucky Spot",
+            "textValue": "Roll a dice.\nEven number: you and your team drinks are triple for 3 turns\nOdds: You and your teammate are curse your dice rolls can't go higher then 3 \n(so 4=1,5=2,6=3) for 3 turns",
+            "textSizing": "auto",
+            "titleFontSize": 34.09770815999999,
+            "bodyFontSize": 26.455118399999996,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#0008ff",
+              "surface": "#951818",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:58:39.538Z"
+  "updatedAt": "2026-08-10T16:59:00.959Z"
 }
