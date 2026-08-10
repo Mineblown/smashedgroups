@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369902547,
+      "updatedAt": 1786369904671,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Sib",
+            "titleValue": "Siblings",
             "textValue": "You and one Opponent from each team now share one drink till one sibling pass graduation spot.",
             "textSizing": "auto",
             "titleFontSize": 34.51386048,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:51:42.780Z"
+  "updatedAt": "2026-08-10T13:51:44.876Z"
 }
