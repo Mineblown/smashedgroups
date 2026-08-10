@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786374235555,
+      "updatedAt": 1786374240594,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Unlucky Spot",
-            "textValue": "Roll a dice.\n\nEven number: you and your team drinks are triple for 4\n\nOdds: You choose a opponent to take your drinks for you for 3 turns",
+            "textValue": "Roll a dice.\n\nEven number: you and your team drinks are triple for 3 turns\n\nOdds: You choose a opponent to take your drinks for you for 3 turns",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:03:55.775Z"
+  "updatedAt": "2026-08-10T15:04:00.789Z"
 }
