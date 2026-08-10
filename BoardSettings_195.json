@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786387553880,
+      "updatedAt": 1786387558428,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Armageddon",
+            "titleValue": "AR",
             "textValue": "roll the dice for even or odd.\nEven - if there a player within 45-50 racket they go back to 41\nOdds - You go back to 41 (if no other player near roll dice again to move)",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:45:53.865Z"
+  "updatedAt": "2026-08-10T18:45:58.409Z"
 }
