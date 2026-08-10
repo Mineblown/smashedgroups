@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382944760,
+      "updatedAt": 1786382946575,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "RISK IT GRADUTAION",
+            "titleValue": "RISK IT / GRADUTAION",
             "textValue": "ROLL THE DICE\n1: End your Valentine relationship\n2: Move back 5\n3–4: Move forward 5\n5: Proposal 💍\n6: Move forward 10\nActivate the spot you land on.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:29:04.779Z"
+  "updatedAt": "2026-08-10T17:29:06.609Z"
 }
