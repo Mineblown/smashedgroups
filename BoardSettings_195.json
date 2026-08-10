@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786372422171,
+      "updatedAt": 1786372424266,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Challenge",
+            "titleValue": "3Challenge",
             "textValue": "You and one opponent go head to head rock paper scissors. Loser team drinks.\n\nBest outta 3 rounds",
             "textSizing": "auto",
             "titleFontSize": 34.66425215999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:33:42.377Z"
+  "updatedAt": "2026-08-10T14:33:44.458Z"
 }
