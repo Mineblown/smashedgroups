@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786370265927,
+      "updatedAt": 1786370278167,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Challenge",
-            "textValue": "You and one opponent go head to head rock paper scissors. Losing team drinks.",
+            "textValue": "You and one opponent go head to head rock paper scissors. Loser team drinks.",
             "textSizing": "auto",
             "titleFontSize": 34.66425215999999,
             "bodyFontSize": 26.894678399999997,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:57:46.178Z"
+  "updatedAt": "2026-08-10T13:57:58.380Z"
 }
