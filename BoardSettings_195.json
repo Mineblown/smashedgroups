@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378527867,
+      "updatedAt": 1786378542509,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 394.96884229447244,
-          "spawnHeight": 158.88959999999997,
+          "spawnWidth": 173.91129999999998,
+          "spawnHeight": 160.1568,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Graduation ",
-            "textValue": "",
+            "titleValue": "Risk It all",
+            "textValue": "You can move forward normally next turn or roll a dice and let fate choose.\n\nodds number: you got back to spot 1 and do the prompt.\n\nEven: You move to spot 20 and do the prompt.",
             "textSizing": "auto",
-            "titleFontSize": 34.09770815999999,
-            "bodyFontSize": 26.455118399999996,
+            "titleFontSize": 34.36964928,
+            "bodyFontSize": 26.6661072,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#39fef1",
+              "surface": "#000000",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 394.96884229447244,
-            "height": 158.88959999999997
+            "width": 173.91129999999998,
+            "height": 160.1568
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:15:27.953Z"
+  "updatedAt": "2026-08-10T16:15:42.589Z"
 }
