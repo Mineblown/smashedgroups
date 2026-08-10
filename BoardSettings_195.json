@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786386900428,
+      "updatedAt": 1786386906157,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Armageddon",
-            "textValue": "roll the dice for even or odd.\nEven - the nears",
+            "textValue": "roll the dice for even or odd.\nEven - the neaest ",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:35:00.510Z"
+  "updatedAt": "2026-08-10T18:35:06.153Z"
 }
