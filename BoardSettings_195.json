@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786387735658,
+      "updatedAt": 1786387748594,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "YOU WAS SO CLOSE",
-            "textValue": "YOU SKIP YOUR NEXT 2 TURNS OR PICK TWO OPPENTS TWO FACE ROCK PAPER SCISSOR YOU LOSE TO ANY OF THEM YOU SWAP PLACE WITH THE WINNER.",
+            "textValue": "YOU SKIP YOUR NEXT 2 TURNS OR PICK TWO OPPENTS BEHIND YOU TWO FACE ROCK PAPER SCISSOR YOU LOSE TO ANY OF THEM YOU SWAP PLACE WITH THE WINNER.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:48:55.614Z"
+  "updatedAt": "2026-08-10T18:49:08.612Z"
 }
