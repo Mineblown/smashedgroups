@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369980222,
+      "updatedAt": 1786369981720,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -682,7 +682,7 @@
             "textValue": "You and 2 people from opponents to drink.\n\n",
             "textSizing": "custom",
             "titleFontSize": 35,
-            "bodyFontSize": 8,
+            "bodyFontSize": 18,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:53:00.446Z"
+  "updatedAt": "2026-08-10T13:53:01.956Z"
 }
