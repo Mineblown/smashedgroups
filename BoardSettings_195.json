@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381242226,
+      "updatedAt": 1786381246835,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 170.61329999999998,
-          "spawnHeight": 163.81439999999998,
+          "spawnWidth": 173.91129999999998,
+          "spawnHeight": 160.1568,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "THREE! SIX! NINE!",
-            "textValue": "You and 2 opponents roll. 1st place: move forward by your roll. 2nd place: swap with a teammate. 3rd place: move back 5.",
+            "titleValue": "Eight that bad.",
+            "textValue": "Roll against a teammate. Highest wins. Loser moves back their roll and drinks that amount.",
             "textSizing": "custom",
-            "titleFontSize": 35,
-            "bodyFontSize": 16,
+            "titleFontSize": 34,
+            "bodyFontSize": 15,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#8c00ff",
+              "surface": "#951818",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 170.61329999999998,
-            "height": 163.81439999999998
+            "width": 173.91129999999998,
+            "height": 160.1568
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:00:42.298Z"
+  "updatedAt": "2026-08-10T17:00:46.943Z"
 }
