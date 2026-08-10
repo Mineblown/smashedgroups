@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786376832132,
+      "updatedAt": 1786376836942,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "1. Rough Start",
-            "textValue": "Skip your next turn and tour team drink now and next turn.",
+            "textValue": "Skip your next turn and your team drink now and next turn.",
             "textSizing": "auto",
             "titleFontSize": 34.87919601973847,
             "bodyFontSize": 27.061445187728125,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:47:12.289Z"
+  "updatedAt": "2026-08-10T15:47:17.099Z"
 }
