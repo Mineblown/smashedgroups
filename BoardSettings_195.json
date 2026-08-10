@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786373557676,
+      "updatedAt": 1786373563604,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "12. Avatar",
+            "titleValue": "12. Avatar ",
             "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:52:37.887Z"
+  "updatedAt": "2026-08-10T14:52:43.819Z"
 }
