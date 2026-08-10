@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378298327,
+      "updatedAt": 1786378302306,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 175.0947,
-          "spawnHeight": 158.88959999999997,
+          "spawnWidth": 174.5127,
+          "spawnHeight": 159.5136,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "12. Group Action Avatar edition",
-            "textValue": "Roll dice see what number roll. If anyone avatar have that color on. you and your team drinks for each person having that color on. \n1.Black 2.White 3.Purple 4.Red 5.Green 6.Pink",
-            "textSizing": "custom",
-            "titleFontSize": 34,
-            "bodyFontSize": 16,
+            "titleValue": "11. Cheers",
+            "textValue": "Take a two drink and send two drink to a opponent.  ",
+            "textSizing": "auto",
+            "titleFontSize": 34.23161856,
+            "bodyFontSize": 26.559014400000002,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#4c00ff",
+              "surface": "#d166c3",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 175.0947,
-            "height": 158.88959999999997
+            "width": 174.5127,
+            "height": 159.5136
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:11:38.413Z"
+  "updatedAt": "2026-08-10T16:11:42.384Z"
 }
