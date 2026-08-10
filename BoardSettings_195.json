@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786368108457,
+      "updatedAt": 1786368113493,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:21:48.723Z"
+  "updatedAt": "2026-08-10T13:21:53.754Z"
 }
