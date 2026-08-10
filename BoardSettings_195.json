@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382801883,
+      "updatedAt": 1786382804011,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -681,8 +681,8 @@
             "titleValue": "",
             "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 33.96997823999999,
-            "bodyFontSize": 26.356017599999994,
+            "titleFontSize": 34.09770815999999,
+            "bodyFontSize": 26.455118399999996,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:26:41.932Z"
+  "updatedAt": "2026-08-10T17:26:44.099Z"
 }
