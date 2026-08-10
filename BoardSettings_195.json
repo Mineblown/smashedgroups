@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378286015,
+      "updatedAt": 1786378298327,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "",
-            "textSizing": "auto",
-            "titleFontSize": 34.09770815999999,
-            "bodyFontSize": 26.455118399999996,
+            "titleValue": "12. Group Action Avatar edition",
+            "textValue": "Roll dice see what number roll. If anyone avatar have that color on. you and your team drinks for each person having that color on. \n1.Black 2.White 3.Purple 4.Red 5.Green 6.Pink",
+            "textSizing": "custom",
+            "titleFontSize": 34,
+            "bodyFontSize": 16,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#d166c3",
+              "surface": "#4c00ff",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:11:26.118Z"
+  "updatedAt": "2026-08-10T16:11:38.413Z"
 }
