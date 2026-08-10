@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786368378343,
+      "updatedAt": 1786368380805,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,7 +630,7 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 172.5992507849961,
+          "spawnWidth": 199.46359162944916,
           "spawnHeight": 193.29488811443298,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
@@ -710,7 +710,7 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 172.5992507849961,
+            "width": 199.46359162944916,
             "height": 193.29488811443298
           }
         },
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:26:18.567Z"
+  "updatedAt": "2026-08-10T13:26:21.029Z"
 }
