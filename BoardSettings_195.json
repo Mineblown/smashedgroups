@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378331268,
+      "updatedAt": 1786378334692,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 172.65030000000002,
-          "spawnHeight": 161.5296,
+          "spawnWidth": 171.9907,
+          "spawnHeight": 162.2592,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "4. Challenge",
-            "textValue": "You and one opponent go head to head rock paper scissors. Loser team drinks.\n\nBest outta 3 rounds",
-            "textSizing": "auto",
-            "titleFontSize": 34.66425215999999,
-            "bodyFontSize": 26.894678399999997,
+            "titleValue": "3. Three Six Nine",
+            "textValue": "You and 2 people from different opponents team drink.\n\n\n\n",
+            "textSizing": "custom",
+            "titleFontSize": 35,
+            "bodyFontSize": 18,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ff9c66",
+              "surface": "#57c773",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 172.65030000000002,
-            "height": 161.5296
+            "width": 171.9907,
+            "height": 162.2592
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:12:11.486Z"
+  "updatedAt": "2026-08-10T16:12:14.823Z"
 }
