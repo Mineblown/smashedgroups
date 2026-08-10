@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786380603292,
+      "updatedAt": 1786380619633,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,7 +630,7 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 173.91129999999998,
+          "spawnWidth": 285.0826976766153,
           "spawnHeight": 160.1568,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Three Six Nine",
-            "textValue": "Group shot\n\nIf players occupy 3, 6 or 9, the team with the most players there gives out 12 drinks. Tie: roll highest win.",
+            "titleValue": "Risk It all",
+            "textValue": "ROLL THE DICE\n1: Move to 1\n2: Move back 5\n3–4: Move forward 5\n5: Move forward 10\n6: Move to 20\nActivate the spot you land on.",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#8c00ff",
+              "surface": "#000000",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,7 +710,7 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 173.91129999999998,
+            "width": 285.0826976766153,
             "height": 160.1568
           },
           "action": {
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:50:04.032Z"
+  "updatedAt": "2026-08-10T16:50:19.704Z"
 }
