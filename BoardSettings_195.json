@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381504295,
+      "updatedAt": 1786381512798,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,7 +630,7 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 175.09470000000007,
+          "spawnWidth": 175.0947,
           "spawnHeight": 158.88959999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "RIVALRY",
-            "textValue": "Choose an opponent. You are Rivals until one passes 20. Whenever one passes the other, their team drinks 2.",
+            "titleValue": "Team Boost",
+            "textValue": "Roll a dice. Pick a teammate to move forward that many spaces. You both drink.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#8c00ff",
+              "surface": "#00aaff",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,7 +710,7 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 175.09470000000007,
+            "width": 175.0947,
             "height": 158.88959999999997
           },
           "action": {
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:05:04.940Z"
+  "updatedAt": "2026-08-10T17:05:12.852Z"
 }
