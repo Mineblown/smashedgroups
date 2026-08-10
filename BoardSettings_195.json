@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378309726,
+      "updatedAt": 1786378314052,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "9. Three Six Nine",
+            "titleValue": "Three Six Nine",
             "textValue": "Group shot\n\n(if there a person on spot 3 and 6 then the team with most member on spots give out 12 drinks) (If tied roll dice for winner)",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:11:49.803Z"
+  "updatedAt": "2026-08-10T16:11:54.160Z"
 }
