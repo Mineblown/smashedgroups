@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381108839,
+      "updatedAt": 1786381119480,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "COLOR CHAOS",
-            "textValue": "Roll for a color: 1 Black, 2 White, 3 Purple, 4 Red, 5 Green, 6 Pink. Everyone wearing that color drinks 1. ",
+            "textValue": "Roll for a color: 1 Black, 2 White, 3 Purple, 4 Red, 5 Green, 6 Pink. Everyone wearing that color drinks 1. (Max 1 if sharing drinks)",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 16,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:58:28.925Z"
+  "updatedAt": "2026-08-10T16:58:39.538Z"
 }
