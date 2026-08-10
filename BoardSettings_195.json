@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786371453270,
+      "updatedAt": 1786371460857,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Eight that bad.",
-            "textValue": "You roll a dice against your own teammate loser move back and drink that amount ",
+            "textValue": "You roll a dice against your own teammate loser roll dice move back and drink that amount ",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:17:33.644Z"
+  "updatedAt": "2026-08-10T14:17:41.097Z"
 }
