@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786384309148,
+      "updatedAt": 1786384320013,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "PROPOSAL",
-            "textValue": "Have a Valentine? you both now Propose! . \nNo Valentine? Pick an opponent and propose. \n(NOW YOU SHARE GREEN PROMPTS EFFECT )",
+            "textValue": "Have a Valentine? you both now Propose! . \nNo Valentine? Pick an opponent and propose. \n(NOW YOU BOTH RECIEVE )",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:51:49.172Z"
+  "updatedAt": "2026-08-10T17:52:00.059Z"
 }
