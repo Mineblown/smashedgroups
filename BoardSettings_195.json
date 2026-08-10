@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786368021328,
+      "updatedAt": 1786368027485,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "Add instruction",
+            "textValue": "START",
             "textSizing": "auto",
             "titleFontSize": 31.81683736157712,
             "bodyFontSize": 24.685477263292594,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:20:21.608Z"
+  "updatedAt": "2026-08-10T13:20:27.756Z"
 }
