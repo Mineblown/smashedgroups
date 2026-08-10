@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786385801688,
+      "updatedAt": 1786385806914,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "t",
+            "titleValue": "TEAM HERO",
             "textValue": "Choose your teammate farthest behind. Move them forward 6 spaces.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:16:41.685Z"
+  "updatedAt": "2026-08-10T18:16:46.972Z"
 }
