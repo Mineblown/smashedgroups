@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786374812857,
+      "updatedAt": 1786374845004,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 173.91129999999998,
-          "spawnHeight": 160.1568,
+          "spawnWidth": 175.0947,
+          "spawnHeight": 158.88959999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "8. Eight that bad.",
-            "textValue": "You roll a dice against your own teammate highest win. Loser roll dice and move back and drink for that amount on the dice. (if sent back to start group drink)",
-            "textSizing": "custom",
-            "titleFontSize": 34,
-            "bodyFontSize": 15,
+            "titleValue": "Unlucky Spot",
+            "textValue": "Roll a dice.\n\nEven number: you and your team drinks are triple for 3 turns\n\nOdds: You can choose yourself or teammate to move back to last red spot (don't activate prompt)",
+            "textSizing": "auto",
+            "titleFontSize": 34.09770815999999,
+            "bodyFontSize": 26.455118399999996,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#951818",
+              "surface": "#d166c3",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 173.91129999999998,
-            "height": 160.1568
+            "width": 175.0947,
+            "height": 158.88959999999997
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:13:33.019Z"
+  "updatedAt": "2026-08-10T15:14:05.311Z"
 }
