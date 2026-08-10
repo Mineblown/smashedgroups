@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786384936588,
+      "updatedAt": 1786384953763,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "",
+            "titleValue": "BACKSTAB",
+            "textValue": "Choose 1 opponent. Move them back 5. Their team drinks 3.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:02:16.603Z"
+  "updatedAt": "2026-08-10T18:02:33.794Z"
 }
