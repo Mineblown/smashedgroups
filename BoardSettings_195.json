@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786371057760,
+      "updatedAt": 1786371064570,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -680,9 +680,9 @@
             "colorMode": "tools",
             "titleValue": "Lucky Spot",
             "textValue": "Roll a dice even to see you got even or odd number.\n\nEven number: You can choose 1 member of your team member move half the space you roll for 3 turns.\n\nOdds: ",
-            "textSizing": "auto",
-            "titleFontSize": 34.36964928,
-            "bodyFontSize": 26.6661072,
+            "textSizing": "custom",
+            "titleFontSize": 34,
+            "bodyFontSize": 16,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:10:58.035Z"
+  "updatedAt": "2026-08-10T14:11:04.838Z"
 }
