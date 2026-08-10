@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786387595888,
+      "updatedAt": 1786387601081,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "YOU WAS SO CLOSE",
-            "textValue": "YOU SKIP YOUR NEXT 2 TURNS AND DRINK FOR EACH PERSON THAT PASS YOU.(IF YOU WAS MOVE BY ARMAGGEDON TH",
+            "textValue": "YOU SKIP YOUR NEXT 2 TURNS AND DRINK FOR EACH PERSON THAT PASS YOU.(IF YOU WAS MOVE BY ARMAGGEDON THIS IS CANCEL)",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:46:35.885Z"
+  "updatedAt": "2026-08-10T18:46:41.087Z"
 }
