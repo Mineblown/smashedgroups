@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786380425732,
+      "updatedAt": 1786380431779,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Lucky Spot",
-            "textValue": "Roll. Even: choose a teammate to move half your roll for 3 turns. Odd: choose an opponent to take your drink penalties for 3 turns.",
+            "textValue": "Roll. \nEven: choose a teammate to move half your roll for 3 turns. Odd: choose an opponent to take your drink penalties for 3 turns.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 16,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:47:05.805Z"
+  "updatedAt": "2026-08-10T16:47:11.877Z"
 }
