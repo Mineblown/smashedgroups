@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786388121966,
+      "updatedAt": 1786388143458,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "ARMAGGEDON",
-            "textValue": "roll the dice for even or odd.\nEven - take a chance to roll again and move or give out 5 drinks\nOdds - You go back to 41",
+            "textValue": "roll the dice for even or odd.\nEven - take a chance to roll again move and move or give out 5 drinks\nOdds - You go back to 41",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:55:22.009Z"
+  "updatedAt": "2026-08-10T18:55:43.423Z"
 }
