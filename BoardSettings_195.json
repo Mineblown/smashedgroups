@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786384738180,
+      "updatedAt": 1786384742114,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "LUCKY TEAM",
-            "textValue": "Choose 1 teammate. Roll for them. They move that roll. activate spot, (ONCE PER TEAM SPOT.",
+            "textValue": "Choose 1 teammate. Roll for them. They move that roll. activate spot, (ONCE PER TEAM SPOT. ",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:58:58.208Z"
+  "updatedAt": "2026-08-10T17:59:02.132Z"
 }
