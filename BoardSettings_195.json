@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786371595232,
+      "updatedAt": 1786371598231,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Three Six Nine",
-            "textValue": "Group shot\n(if there a people on spot 3 and 6 then the tean with most member ",
+            "textValue": "Group shot\n(if there a people on spot 3 and 6 then the team with most member ",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:19:55.514Z"
+  "updatedAt": "2026-08-10T14:19:58.435Z"
 }
