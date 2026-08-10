@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382899140,
+      "updatedAt": 1786382901691,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "",
+            "textValue": "ROLL THE DICE\n1: Move to 1\n2: Back 10\n3–4: Forward 5\n5: Forward 10\n6: Move to 40\nActivate the spot you land on.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:28:19.180Z"
+  "updatedAt": "2026-08-10T17:28:21.744Z"
 }
