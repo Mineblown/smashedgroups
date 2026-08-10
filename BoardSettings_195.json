@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382304656,
+      "updatedAt": 1786382310717,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "CURSE DICE",
-            "textValue": "For 3 turns, your rolls of 4–6 count as 1–3",
+            "titleValue": "TEAM SWAP",
+            "textValue": "Swap positions with a teammate. If the teammate is on Green, both move forward 2 after swapping.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#0008ff",
+              "surface": "#2bff00",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:18:24.684Z"
+  "updatedAt": "2026-08-10T17:18:30.782Z"
 }
