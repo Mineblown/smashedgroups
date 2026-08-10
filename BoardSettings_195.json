@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381632123,
+      "updatedAt": 1786381635195,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "LUCKY BREAK",
-            "textValue": "Pick an opponent. Both roll. Higher roll moves forward that amount. Loser moves back that amount.",
+            "textValue": "Roll. 1–2: back 2. 3–4: stay. 5–6: forward 5.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:07:12.200Z"
+  "updatedAt": "2026-08-10T17:07:15.289Z"
 }
