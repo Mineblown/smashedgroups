@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369288212,
+      "updatedAt": 1786369314623,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 173.91129999999998,
-          "spawnHeight": 160.1568,
+          "spawnWidth": 171.3117,
+          "spawnHeight": 163.0176,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "Cheers",
             "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 34.51386048,
-            "bodyFontSize": 26.7779952,
+            "titleFontSize": 34.98357695999999,
+            "bodyFontSize": 27.1424304,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 173.91129999999998,
-            "height": 160.1568
+            "width": 171.3117,
+            "height": 163.0176
           }
         },
         "connectorSettings": {
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:41:28.435Z"
+  "updatedAt": "2026-08-10T13:41:54.887Z"
 }
