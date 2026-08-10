@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369835956,
+      "updatedAt": 1786369838856,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Challenge",
-            "textValue": "You and one opponents ",
+            "textValue": "You and one opponent ",
             "textSizing": "auto",
             "titleFontSize": 34.66425215999999,
             "bodyFontSize": 26.894678399999997,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:50:36.171Z"
+  "updatedAt": "2026-08-10T13:50:39.074Z"
 }
