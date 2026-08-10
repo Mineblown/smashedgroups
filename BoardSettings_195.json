@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369690435,
+      "updatedAt": 1786369698718,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 171.9907,
-          "spawnHeight": 162.53120232869745,
+          "spawnWidth": 283.0828767136789,
+          "spawnHeight": 148.0896,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Rough Start",
-            "textValue": "Skip your next turn and drink for every team member on a red spot.",
+            "titleValue": "",
+            "textValue": "START\nA group shot/Puff before you begin.",
             "textSizing": "auto",
-            "titleFontSize": 34.87919601973847,
-            "bodyFontSize": 27.061445187728125,
+            "titleFontSize": 31.780028159999997,
+            "bodyFontSize": 24.6569184,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#951818",
+              "surface": "#000000",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 171.9907,
-            "height": 162.53120232869745
+            "width": 283.0828767136789,
+            "height": 148.0896
           }
         },
         "connectorSettings": {
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:48:10.633Z"
+  "updatedAt": "2026-08-10T13:48:19.017Z"
 }
