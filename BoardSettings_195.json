@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786368102174,
+      "updatedAt": 1786368108457,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -461,7 +461,7 @@
           },
           "line": {
             "fill": "#8b5cf6",
-            "stroke": "#334155",
+            "stroke": "#ffffff",
             "strokeWidth": 12,
             "opacity": 1,
             "fillOpacity": 1,
@@ -489,7 +489,7 @@
           },
           "arrow": {
             "fill": "#8b5cf6",
-            "stroke": "#334155",
+            "stroke": "#ffffff",
             "strokeWidth": 12,
             "opacity": 1,
             "fillOpacity": 1,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:21:42.453Z"
+  "updatedAt": "2026-08-10T13:21:48.723Z"
 }
