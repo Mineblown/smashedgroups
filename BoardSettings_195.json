@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786380701283,
+      "updatedAt": 1786380754571,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Risk It all",
-            "textValue": "ROLL THE DICE\n1: Move to 1\n2: Move back 4\n3–4: Move forward 1\n5: Move forward 10\n6: Move to 20\nActivate the spot you land on.",
+            "textValue": "ROLL THE DICE\n1: Move to 1\n2: Move back 4\n3–4: Move forward 1\n5: Move forward 2\n6: Move to 20\nActivate the spot you land on.",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:51:41.966Z"
+  "updatedAt": "2026-08-10T16:52:34.860Z"
 }
