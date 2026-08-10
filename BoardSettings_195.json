@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369483045,
+      "updatedAt": 1786369492705,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Three Six Nine",
-            "textValue": "You ",
+            "textValue": "You pick 2 people from ",
             "textSizing": "auto",
             "titleFontSize": 34.82082431999999,
             "bodyFontSize": 27.016156799999997,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:44:43.303Z"
+  "updatedAt": "2026-08-10T13:44:52.934Z"
 }
