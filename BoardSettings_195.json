@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381337284,
+      "updatedAt": 1786381344487,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "ROUGH START",
             "textValue": "Skip your next turn. Your team drinks 1 now and 1 next turn. Add 1 drink for each teammate standing on a Red Spot. Max +3.",
             "textSizing": "auto",
             "titleFontSize": 34.87919601973847,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:02:17.933Z"
+  "updatedAt": "2026-08-10T17:02:24.563Z"
 }
