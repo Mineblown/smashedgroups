@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378265634,
+      "updatedAt": 1786378273305,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,7 +630,7 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 175.09470000000007,
+          "spawnWidth": 175.0947,
           "spawnHeight": 158.88959999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Bad Luck",
-            "textValue": "Roll a dice. 1–3: move back 3. 4–5: move back 2. 6: move back 1 and your team drinks.",
+            "titleValue": "Unlucky Spot",
+            "textValue": "Roll a dice.\nEven number: you and your team drinks are triple for 3 turns\nOdds: You and your teammate are curse your dice rolls can't go higher then 3 \n(so 4=1,5=2,6=3) for 3 turns",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -710,7 +710,7 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 175.09470000000007,
+            "width": 175.0947,
             "height": 158.88959999999997
           },
           "action": {
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:11:05.760Z"
+  "updatedAt": "2026-08-10T16:11:13.394Z"
 }
