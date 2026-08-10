@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378461078,
+      "updatedAt": 1786378462929,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Team Boost",
-            "textValue": "Roll a dice. Pick a teammate to move forward that many spaces. You both drink.",
+            "titleValue": "",
+            "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 34.09770815999999,
-            "bodyFontSize": 26.455118399999996,
+            "titleFontSize": 34.23161856,
+            "bodyFontSize": 26.559014400000002,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#00aaff",
+              "surface": "#d166c3",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:14:21.212Z"
+  "updatedAt": "2026-08-10T16:14:23.091Z"
 }
