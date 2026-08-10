@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382387291,
+      "updatedAt": 1786382393846,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "TEAM JACKPOT",
-            "textValue": "Roll. Choose 1 teammate to move forward that many spaces.",
+            "titleValue": "",
+            "textValue": "Have a Valentine? Propose! Both roll. Higher roll accepts. No Valentine? Pick an opponent and propose.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#2bff00",
+              "surface": "#616161",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:19:47.970Z"
+  "updatedAt": "2026-08-10T17:19:53.928Z"
 }
