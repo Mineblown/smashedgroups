@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786383078799,
+      "updatedAt": 1786383098462,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "TEAM JACKPOT",
-            "textValue": "Roll. Choose 1 teammate to move forward that many spaces.",
+            "titleValue": "RISK IT OR REGRET IT",
+            "textValue": "ROLL THE DICE\n1: Move to 1\n2: Back 10\n3–4: Forward 5\n5: Forward 10\n6: Move to 40\nActivate the spot you land on.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#2bff00",
+              "surface": "#000000",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:31:18.820Z"
+  "updatedAt": "2026-08-10T17:31:38.479Z"
 }
