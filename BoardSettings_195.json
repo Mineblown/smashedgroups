@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369374246,
+      "updatedAt": 1786369378917,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Cheers",
-            "textValue": "Take ",
+            "textValue": "Take a drink ",
             "textSizing": "auto",
             "titleFontSize": 34.98357695999999,
             "bodyFontSize": 27.1424304,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:42:54.520Z"
+  "updatedAt": "2026-08-10T13:42:59.178Z"
 }
