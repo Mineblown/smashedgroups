@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369099607,
+      "updatedAt": 1786369104502,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Rough Start",
-            "textValue": "Skip your next turn and drink",
+            "textValue": "Skip your next turn and drink ",
             "textSizing": "auto",
             "titleFontSize": 34.82082431999999,
             "bodyFontSize": 27.016156799999997,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:38:19.827Z"
+  "updatedAt": "2026-08-10T13:38:24.842Z"
 }
