@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786386326296,
+      "updatedAt": 1786386335285,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "PANIC BUTTON",
             "textValue": "Your next roll cannot be rerolled, modified or boosted. Whatever you roll, you take it.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:25:26.891Z"
+  "updatedAt": "2026-08-10T18:25:35.834Z"
 }
