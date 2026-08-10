@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786384355615,
+      "updatedAt": 1786384357213,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "PROPOSAL",
-            "textValue": "Have a Valentine? you both now Propose! . \nNo Valentine? Pick an opponent and propose. \n(WHEN YOU OR MATE LAND ON GREEN YOU BOTH RECIEVE BENIFITS )",
+            "textValue": "Have a Valentine? you both now Propose! . \nNo Valentine? Pick an opponent and propose. \n(WHEN YOU OR MATE LAND ON GREEN YOU BOTH RECIEVE BENIFITS)",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:52:35.648Z"
+  "updatedAt": "2026-08-10T17:52:37.247Z"
 }
