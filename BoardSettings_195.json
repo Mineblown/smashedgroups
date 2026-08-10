@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786388311890,
+      "updatedAt": 1786388316094,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "SURVIVIAL",
-            "textValue": "You can skip your next 2 turns or pick 2 opponent behind you you g WIN AGAINST BOTH THEM. AT RPS IF YOU LOSE TO ANY OF THEM YOU SWAP PLACE WITH THE WINNER. IF YOU WIN NO SKIP TURN.",
+            "textValue": "You can skip your next 2 turns or pick 2 opponent behind you and WIN AGAINST BOTH THEM. AT RPS IF YOU LOSE TO ANY OF THEM YOU SWAP PLACE WITH THE WINNER. IF YOU WIN NO SKIP TURN.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:58:31.870Z"
+  "updatedAt": "2026-08-10T18:58:36.078Z"
 }
