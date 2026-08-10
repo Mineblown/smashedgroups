@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786372347978,
+      "updatedAt": 1786372351115,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Cheers",
-            "textValue": "Take a drink and send one drink to a opponents.  ",
+            "textValue": "Take a drink and send one drink to a opponent.  ",
             "textSizing": "auto",
             "titleFontSize": 34.98357695999999,
             "bodyFontSize": 27.1424304,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:32:28.154Z"
+  "updatedAt": "2026-08-10T14:32:31.281Z"
 }
