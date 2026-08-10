@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786380361775,
+      "updatedAt": 1786380364146,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 172.65030000000002,
-          "spawnHeight": 161.5296,
+          "spawnWidth": 173.2905,
+          "spawnHeight": 160.8288,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Challenge",
-            "textValue": "Pick an opponent. Rock, Paper, Scissor, best of 3. Loser's team drinks 3.",
+            "titleValue": "Siblings",
+            "textValue": "Pick 1 opponent from each team. You are siblings until one passes Graduation. Share 1 drink whenever either takes a turn.",
             "textSizing": "auto",
-            "titleFontSize": 34.66425215999999,
-            "bodyFontSize": 26.894678399999997,
+            "titleFontSize": 34.51386048,
+            "bodyFontSize": 26.7779952,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#0008ff",
+              "surface": "#39fef1",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 172.65030000000002,
-            "height": 161.5296
+            "width": 173.2905,
+            "height": 160.8288
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:46:01.911Z"
+  "updatedAt": "2026-08-10T16:46:04.215Z"
 }
