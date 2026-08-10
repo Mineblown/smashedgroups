@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381647285,
+      "updatedAt": 1786381711319,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "LUCKY BREAK",
-            "textValue": "Roll. 1–2: back 2. 3–4: stay. 5–6: forward 5.",
+            "titleValue": "",
+            "textValue": "Choose a teammate. Roll. Decide whether they move forward or backward that amount.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ff9c66",
+              "surface": "#d166c3",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:07:28.214Z"
+  "updatedAt": "2026-08-10T17:08:32.130Z"
 }
