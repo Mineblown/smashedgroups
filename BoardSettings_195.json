@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382062519,
+      "updatedAt": 1786382070208,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "GRADUTAION",
+            "titleValue": "SIBLINGS",
             "textValue": "Pick 1 opponent from each team. You are siblings until one passes Graduation. Share 1 drink whenever either takes a turn.",
             "textSizing": "auto",
             "titleFontSize": 34.51386048,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:14:22.572Z"
+  "updatedAt": "2026-08-10T17:14:30.285Z"
 }
