@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786376253293,
+      "updatedAt": 1786376265202,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Valentine days",
-            "textValue": "You pick two opponents ",
+            "textValue": "You pick two opponents now they are  ",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:37:33.405Z"
+  "updatedAt": "2026-08-10T15:37:45.336Z"
 }
