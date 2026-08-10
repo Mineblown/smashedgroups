@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786376887284,
+      "updatedAt": 1786377049730,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 175.0947,
-          "spawnHeight": 158.88959999999997,
+          "spawnWidth": 170.61329999999998,
+          "spawnHeight": 163.81439999999998,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,10 +678,10 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "12. Group Action Avatar edition",
-            "textValue": "Roll dice see what number roll. If anyone avatar have that color on. you and your team drinks for each person having that color on. \n1.Black 2.White 3.Purple 4.Red 5.Green 6.Pink",
+            "titleValue": "6. Three Six Nine",
+            "textValue": "You and 2 opponents roll a dice. (New spot prompts active only once)\n1st place: roll dice and move forward\n2nd place: you can swap with a teammate.\n3rd place: move back 5 spaces.ff",
             "textSizing": "custom",
-            "titleFontSize": 34,
+            "titleFontSize": 35,
             "bodyFontSize": 16,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#4c00ff",
+              "surface": "#57c773",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 175.0947,
-            "height": 158.88959999999997
+            "width": 170.61329999999998,
+            "height": 163.81439999999998
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:48:07.406Z"
+  "updatedAt": "2026-08-10T15:50:50.054Z"
 }
