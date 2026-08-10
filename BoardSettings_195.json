@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786376287903,
+      "updatedAt": 1786376290041,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Valentine days",
-            "textValue": "You are cupid and pick two opponents from oppisite teams now they are partners for ",
+            "textValue": "You are cupid and pick two opponents from opposite teams now they are partners for ",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:38:07.996Z"
+  "updatedAt": "2026-08-10T15:38:10.152Z"
 }
