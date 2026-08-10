@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786383190250,
+      "updatedAt": 1786383196998,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 175.6573,
-          "spawnHeight": 158.29439999999997,
+          "spawnWidth": 394.96884229447244,
+          "spawnHeight": 158.88959999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "RISK IT OR REGRET IT",
-            "textValue": "ROLL THE DICE\n1: Move to 1\n2: Back 10\n3–4: Forward 3\n5: Forward 5\n6: Move to 40\nActivate the spot you land on.",
+            "titleValue": "RISK IT / GRADUTAION",
+            "textValue": "ROLL THE DICE\n1: End your Valentine relationship\n2: Move back 5\n3–4: Move forward 2\n5: Proposal 💍\n6: Move forward 5\nActivate the spot you land on.",
             "textSizing": "auto",
-            "titleFontSize": 33.96997823999999,
-            "bodyFontSize": 26.356017599999994,
+            "titleFontSize": 34.09770815999999,
+            "bodyFontSize": 26.455118399999996,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 175.6573,
-            "height": 158.29439999999997
+            "width": 394.96884229447244,
+            "height": 158.88959999999997
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:33:10.306Z"
+  "updatedAt": "2026-08-10T17:33:17.142Z"
 }
