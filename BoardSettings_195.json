@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786387023509,
+      "updatedAt": 1786387064836,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "FINAL RESCUE",
-            "textValue": "Choose your teammate farthest behind. Move them forward 6 spaces.",
+            "titleValue": "Armageddon",
+            "textValue": "roll the dice for even or odd.\nEven - if there a player within 45-50 racket they go back to 41\nOdds ",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#2bff00",
+              "surface": "#616161",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:37:03.523Z"
+  "updatedAt": "2026-08-10T18:37:45.056Z"
 }
