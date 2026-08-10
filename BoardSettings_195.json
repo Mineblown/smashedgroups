@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786388728349,
+      "updatedAt": 1786388730445,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Finish!",
-            "textValue": "Roll the exact number needed to reach the Finish Spot.\nExact roll = YOUR TEAM WINS! 🏆\nToo high? Move backward the difference and activate the spot you land on.",
+            "textValue": "Roll the exact number needed to reach the Finish Spot.\nExact roll = YOUR TEAM WINS! \nToo high? Move backward the difference and activate the spot you land on.",
             "textSizing": "auto",
             "titleFontSize": 31.745005439999996,
             "bodyFontSize": 24.6297456,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T19:05:28.470Z"
+  "updatedAt": "2026-08-10T19:05:30.428Z"
 }
