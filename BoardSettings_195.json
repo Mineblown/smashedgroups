@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786386381103,
+      "updatedAt": 1786386383824,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "LAST STAND",
-            "textValue": "Challenge an opponent to RPS, best of 3. Winner moves forward 5. Loser moves back 5.",
+            "textValue": "Challenge an opponent to Rock.PS, best of 3. Winner moves forward 5. Loser moves back 5.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:26:21.105Z"
+  "updatedAt": "2026-08-10T18:26:23.839Z"
 }
