@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382736403,
+      "updatedAt": 1786382739527,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -694,7 +694,7 @@
             "bodyUnderline": false,
             "bodyLinethrough": false,
             "bodyLineHeight": 1.06,
-            "bodyCharSpacing": -20,
+            "bodyCharSpacing": 34,
             "showNumber": true,
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:25:36.423Z"
+  "updatedAt": "2026-08-10T17:25:39.522Z"
 }
