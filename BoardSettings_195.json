@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381925083,
+      "updatedAt": 1786381928711,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "TEAM RESCUE",
             "textValue": "Choose your teammate farthest behind. Move them forward 5 spaces.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:12:05.153Z"
+  "updatedAt": "2026-08-10T17:12:08.802Z"
 }
