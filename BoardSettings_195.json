@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369671359,
+      "updatedAt": 1786369674255,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 171.9907,
-          "spawnHeight": 193.79467111175828,
+          "spawnWidth": 171.3117,
+          "spawnHeight": 163.0176,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Rough Start",
-            "textValue": "Skip your next turn and drink for every team member on a red spot.",
+            "titleValue": "Cheers",
+            "textValue": "Take a drink and send one drink to a opponents.  ",
             "textSizing": "auto",
-            "titleFontSize": 41.58833642058332,
-            "bodyFontSize": 32.26681274010775,
+            "titleFontSize": 34.98357695999999,
+            "bodyFontSize": 27.1424304,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#951818",
+              "surface": "#8b5cf6",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 171.9907,
-            "height": 193.79467111175828
+            "width": 171.3117,
+            "height": 163.0176
           }
         },
         "connectorSettings": {
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:47:51.597Z"
+  "updatedAt": "2026-08-10T13:47:54.483Z"
 }
