@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786368780420,
+      "updatedAt": 1786368785788,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 120,
-          "spawnHeight": 99.20214664047951,
+          "spawnWidth": 139.53461567051852,
+          "spawnHeight": 135.21930345177432,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -681,8 +681,8 @@
             "titleValue": "Sibling",
             "textValue": "You and one Opponent from each team now share one drink till one sibling pass graduation spot.",
             "textSizing": "auto",
-            "titleFontSize": 21.288780669046904,
-            "bodyFontSize": 16.51715741563984,
+            "titleFontSize": 29.018062520750767,
+            "bodyFontSize": 22.514014024720424,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 120,
-            "height": 99.20214664047951
+            "width": 139.53461567051852,
+            "height": 135.21930345177432
           }
         },
         "connectorSettings": {
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:33:00.709Z"
+  "updatedAt": "2026-08-10T13:33:06.007Z"
 }
