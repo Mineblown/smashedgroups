@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786383077151,
+      "updatedAt": 1786383078799,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 394.96884229447244,
-          "spawnHeight": 158.88959999999997,
+          "spawnWidth": 175.6573,
+          "spawnHeight": 158.29439999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "RISK IT / GRADUTAION",
-            "textValue": "ROLL THE DICE\n1: End your Valentine relationship\n2: Move back 5\n3–4: Move forward 2\n5: Proposal 💍\n6: Move forward 5\nActivate the spot you land on.",
+            "titleValue": "TEAM JACKPOT",
+            "textValue": "Roll. Choose 1 teammate to move forward that many spaces.",
             "textSizing": "auto",
-            "titleFontSize": 34.09770815999999,
-            "bodyFontSize": 26.455118399999996,
+            "titleFontSize": 33.96997823999999,
+            "bodyFontSize": 26.356017599999994,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#39fef1",
+              "surface": "#2bff00",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 394.96884229447244,
-            "height": 158.88959999999997
+            "width": 175.6573,
+            "height": 158.29439999999997
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:31:17.194Z"
+  "updatedAt": "2026-08-10T17:31:18.820Z"
 }
