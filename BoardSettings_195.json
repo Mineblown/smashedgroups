@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786371519346,
+      "updatedAt": 1786371539725,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Eight that bad.",
-            "textValue": "You roll a dice against your own teammate loser roll dice move back and drink that amount of the dice. (if back to start whole team drinks the amount)",
+            "titleValue": "Three Six ",
+            "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#951818",
+              "surface": "#57c773",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:18:39.536Z"
+  "updatedAt": "2026-08-10T14:18:59.928Z"
 }
