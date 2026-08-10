@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381928711,
+      "updatedAt": 1786381937262,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,7 +630,7 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 175.0947,
+          "spawnWidth": 394.96884229447244,
           "spawnHeight": 158.88959999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "TEAM RESCUE",
-            "textValue": "Choose your teammate farthest behind. Move them forward 5 spaces.",
+            "titleValue": "Graduation ",
+            "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#2bff00",
+              "surface": "#39fef1",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,7 +710,7 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 175.0947,
+            "width": 394.96884229447244,
             "height": 158.88959999999997
           },
           "action": {
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:12:08.802Z"
+  "updatedAt": "2026-08-10T17:12:18.010Z"
 }
