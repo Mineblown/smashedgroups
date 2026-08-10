@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381222701,
+      "updatedAt": 1786381234155,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "THREE ",
+            "titleValue": "THREE! SIX! NINE!",
             "textValue": "Group shot\n\nIf players occupy 3, 6 or 9, the team with the most players there gives out 12 drinks. Tie: roll highest win.",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:00:22.789Z"
+  "updatedAt": "2026-08-10T17:00:34.294Z"
 }
