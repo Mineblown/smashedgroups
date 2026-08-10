@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786383767146,
+      "updatedAt": 1786383783525,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 175.6573,
-          "spawnHeight": 158.29439999999997,
+          "spawnWidth": 175.0947,
+          "spawnHeight": 158.88959999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "PROPOSAL",
-            "textValue": "Have a Valentine? you both now Propose! Both roll. lowest roll accepts drink total of winner roll. No Valentine? Pick an opponent and propose. Roll dice. Both drink dice roll.",
+            "titleValue": "MATCH MADE IN HELL",
+            "textValue": "ROLL\nEVEN - Pick 2 opponents from different teams. They're Valentines until land on Divorce spot. Both drink 1.\nODDS - You pick a valentine from a different team. Both drink 1.",
             "textSizing": "auto",
-            "titleFontSize": 33.96997823999999,
-            "bodyFontSize": 26.356017599999994,
+            "titleFontSize": 34.09770815999999,
+            "bodyFontSize": 26.455118399999996,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 175.6573,
-            "height": 158.29439999999997
+            "width": 175.0947,
+            "height": 158.88959999999997
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:42:47.258Z"
+  "updatedAt": "2026-08-10T17:43:03.585Z"
 }
