@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786370237638,
+      "updatedAt": 1786370257146,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Three Six Nine",
-            "textValue": "You and 2 people from different opponents team drink.\n\n\n\n\n\n",
+            "textValue": "You and 2 people from different opponents team drink.\n\n(if there less then 3 players then just drink\n\n\n\n",
             "textSizing": "custom",
             "titleFontSize": 35,
             "bodyFontSize": 18,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:57:17.879Z"
+  "updatedAt": "2026-08-10T13:57:37.410Z"
 }
