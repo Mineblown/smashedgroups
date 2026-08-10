@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786372448630,
+      "updatedAt": 1786372451826,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "8. Eight that bad.",
-            "textValue": "You roll a dice against your own teammate loser roll dice move back and drink that amount of the dice. (if back to start whole team drinks the amount)",
+            "titleValue": "Three Six Nine",
+            "textValue": "Group shot\n\n(if there a person on spot 3 and 6 then the team with most member on spots give out 12 drinks) (If tied roll dice for winner)",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#951818",
+              "surface": "#57c773",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:34:08.844Z"
+  "updatedAt": "2026-08-10T14:34:12.059Z"
 }
