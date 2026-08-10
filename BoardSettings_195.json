@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786368609678,
+      "updatedAt": 1786368619350,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Sibling",
-            "textValue": "You and one Opponent from each team now share drinks till one sibling pass 20 spot",
+            "textValue": "You and one Opponent from each team now share drinks till one sibling pass spot 18.",
             "textSizing": "auto",
             "titleFontSize": 21.288780669046904,
             "bodyFontSize": 16.51715741563984,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:30:09.953Z"
+  "updatedAt": "2026-08-10T13:30:19.586Z"
 }
