@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786385210912,
+      "updatedAt": 1786385218093,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "MARRIAGE",
-            "textValue": "If you have a Valentine, you're officially married! (NOW MATE SHARE GREEN AND RED SPOT EFFECT)",
+            "titleValue": "CURSE",
+            "textValue": "For 3 turns, when you receive a penalty, choose 1 teammate to receive it too.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#616161",
+              "surface": "#951818",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:06:50.939Z"
+  "updatedAt": "2026-08-10T18:06:58.095Z"
 }
