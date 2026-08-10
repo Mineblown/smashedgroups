@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786385502587,
+      "updatedAt": 1786385532363,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 175.0947,
-          "spawnHeight": 158.88959999999997,
+          "spawnWidth": 175.6573,
+          "spawnHeight": 158.29439999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "BREAKUP",
-            "textValue": "IF HAVE A MATE YOU ARE NOW SPLIT. BOTH DRINK 5.\nIF YOU DON'T HAVE A MATE YOUR A LONER DRINK ONE 1 WITH OTHER LONER AHEAD OF YOU.",
+            "titleValue": "PROPOSAL",
+            "textValue": "Have a Valentine? you both now Propose! Both give out 1 drink\nNo Valentine? Pick an opponent and propose. you both drink 1.\nWHEN YOU OR MATE LAND ON GREEN YOU BOTH RECIEVE BENIFITS",
             "textSizing": "auto",
-            "titleFontSize": 34.09770815999999,
-            "bodyFontSize": 26.455118399999996,
+            "titleFontSize": 33.96997823999999,
+            "bodyFontSize": 26.356017599999994,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#8c00ff",
+              "surface": "#ff66c7",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 175.0947,
-            "height": 158.88959999999997
+            "width": 175.6573,
+            "height": 158.29439999999997
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:11:42.608Z"
+  "updatedAt": "2026-08-10T18:12:12.420Z"
 }
