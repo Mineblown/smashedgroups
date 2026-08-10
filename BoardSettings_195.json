@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381034422,
+      "updatedAt": 1786381047855,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Group Action Avatar edition",
+            "titleValue": "COLOR CHAOS",
             "textValue": "Roll for a color: 1 Black, 2 White, 3 Purple, 4 Red, 5 Green, 6 Pink. Everyone standing on that color drinks 1.",
             "textSizing": "custom",
             "titleFontSize": 34,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:57:14.479Z"
+  "updatedAt": "2026-08-10T16:57:27.893Z"
 }
