@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382537286,
+      "updatedAt": 1786382545114,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "",
+            "textValue": "Challenge an opponent. Both roll. Winner moves forward 3. Loser moves back 3.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:22:17.909Z"
+  "updatedAt": "2026-08-10T17:22:25.149Z"
 }
