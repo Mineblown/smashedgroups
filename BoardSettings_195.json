@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786372515414,
+      "updatedAt": 1786372530376,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 173.91129999999998,
-          "spawnHeight": 160.1568,
+          "spawnWidth": 174.5127,
+          "spawnHeight": 159.5136,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "10. Risk It all",
-            "textValue": "You can move forward normally next turn or roll a dice and let fate choose.\n\nodds number: you got back to spot 1 and do the prompt.\n\nEven: You move to spot 20 and do the prompt.",
+            "titleValue": "Cheers",
+            "textValue": "Take a two drink and send two drink to a opponent.  ",
             "textSizing": "auto",
-            "titleFontSize": 34.36964928,
-            "bodyFontSize": 26.6661072,
+            "titleFontSize": 34.23161856,
+            "bodyFontSize": 26.559014400000002,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#8b5cf6",
+              "surface": "#d166c3",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 173.91129999999998,
-            "height": 160.1568
+            "width": 174.5127,
+            "height": 159.5136
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:35:15.599Z"
+  "updatedAt": "2026-08-10T14:35:30.945Z"
 }
