@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786388146575,
+      "updatedAt": 1786388151509,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 335.0173264759728,
-          "spawnHeight": 158.29439999999997,
+          "spawnWidth": 283.29839999999996,
+          "spawnHeight": 147.9264,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "ARMAGGEDON",
-            "textValue": "roll the dice for even or odd.\nEven - take a chance to roll again and move or give out 5 drinks\nOdds - You go back to 41",
+            "titleValue": "Finish!",
+            "textValue": "A group shot before you begin.",
             "textSizing": "auto",
-            "titleFontSize": 33.96997823999999,
-            "bodyFontSize": 26.356017599999994,
+            "titleFontSize": 31.745005439999996,
+            "bodyFontSize": 24.6297456,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 335.0173264759728,
-            "height": 158.29439999999997
+            "width": 283.29839999999996,
+            "height": 147.9264
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:55:46.544Z"
+  "updatedAt": "2026-08-10T18:55:51.486Z"
 }
