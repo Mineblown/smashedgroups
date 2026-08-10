@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786372556813,
+      "updatedAt": 1786372558577,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 174.5127,
-          "spawnHeight": 159.5136,
+          "spawnWidth": 175.0947,
+          "spawnHeight": 158.88959999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "11. Cheers",
-            "textValue": "Take a two drink and send two drink to a opponent.  ",
+            "titleValue": "",
+            "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 34.23161856,
             "bodyFontSize": 26.559014400000002,
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 174.5127,
-            "height": 159.5136
+            "width": 175.0947,
+            "height": 158.88959999999997
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:35:57.006Z"
+  "updatedAt": "2026-08-10T14:35:58.826Z"
 }
