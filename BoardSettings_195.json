@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786383601980,
+      "updatedAt": 1786383628088,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "MATCH MADE IN HELL",
-            "textValue": "ROLL\nEVEN - Pick 2 opponents from different teams. They're Valentines until land on Divorce spot. Both drink 1.\nODDS - You pick a valentine from a different team.",
+            "textValue": "ROLL\nEVEN - Pick 2 opponents from different teams. They're Valentines until land on Divorce spot. Both drink 1.\nODDS - You pick a valentine from a different team. Both drink 1",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:40:02.030Z"
+  "updatedAt": "2026-08-10T17:40:28.114Z"
 }
