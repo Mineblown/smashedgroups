@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786385532363,
+      "updatedAt": 1786385572818,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "PROPOSAL",
-            "textValue": "Have a Valentine? you both now Propose! Both give out 1 drink\nNo Valentine? Pick an opponent and propose. you both drink 1.\nWHEN YOU OR MATE LAND ON GREEN YOU BOTH RECIEVE BENIFITS",
+            "titleValue": "MARRIAGE",
+            "textValue": "If you have a Valentine, you're officially married! (NOW MATE SHARE GREEN AND RED SPOT EFFECT) ",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:12:12.420Z"
+  "updatedAt": "2026-08-10T18:12:52.983Z"
 }
