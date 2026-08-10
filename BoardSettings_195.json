@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786385860296,
+      "updatedAt": 1786385868549,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "RIVAL'S REVENGE",
-            "textValue": "Pick an opponent. They choose RPS or move back 4. If they choose RPS, winner decides who drinks 3.",
+            "titleValue": "",
+            "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:17:40.344Z"
+  "updatedAt": "2026-08-10T18:17:48.898Z"
 }
