@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786368458367,
+      "updatedAt": 1786368464671,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Share",
-            "textValue": "You and one person of choosing share the first ",
+            "textValue": "You and one ",
             "textSizing": "auto",
             "titleFontSize": 21.288780669046904,
             "bodyFontSize": 16.51715741563984,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:27:38.645Z"
+  "updatedAt": "2026-08-10T13:27:44.876Z"
 }
