@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378315942,
+      "updatedAt": 1786378319811,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -631,7 +631,7 @@
         "quickPresetDefaults": {
           "shape": "roundedRect",
           "spawnWidth": 173.91129999999998,
-          "spawnHeight": 160.1568,
+          "spawnHeight": 179.82276499520094,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "8. Eight that bad.",
-            "textValue": "You roll a dice against your own teammate highest win. Loser roll dice and move back and drink for that amount on the dice. (if sent back to start group drink)",
+            "titleValue": "7. Lucky Spot",
+            "textValue": "Roll a dice.\n\nEven number: You can choose 1 member of your team member move half the space you roll for 3 turns\n\nOdds: You choose a opponent to take your drinks for you for 3 turns",
             "textSizing": "custom",
             "titleFontSize": 34,
-            "bodyFontSize": 15,
+            "bodyFontSize": 16,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#951818",
+              "surface": "#ffeb0a",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -711,7 +711,7 @@
             "surfaceOpacity": 1,
             "styleLinkId": "",
             "width": 173.91129999999998,
-            "height": 160.1568
+            "height": 179.82276499520094
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:11:56.016Z"
+  "updatedAt": "2026-08-10T16:11:59.863Z"
 }
