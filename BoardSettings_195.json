@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786370260126,
+      "updatedAt": 1786370265927,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 171.9907,
-          "spawnHeight": 162.2592,
+          "spawnWidth": 172.65030000000002,
+          "spawnHeight": 161.5296,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Three Six Nine",
-            "textValue": "You and 2 people from different opponents team drink.\n\n(if there less then 3 players then just drink)\n\n\n\n",
-            "textSizing": "custom",
-            "titleFontSize": 35,
-            "bodyFontSize": 18,
+            "titleValue": "Challenge",
+            "textValue": "You and one opponent go head to head rock paper scissors. Losing team drinks.",
+            "textSizing": "auto",
+            "titleFontSize": 34.66425215999999,
+            "bodyFontSize": 26.894678399999997,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 171.9907,
-            "height": 162.2592
+            "width": 172.65030000000002,
+            "height": 161.5296
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:57:40.353Z"
+  "updatedAt": "2026-08-10T13:57:46.178Z"
 }
