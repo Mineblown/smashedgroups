@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786380331014,
+      "updatedAt": 1786380333450,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Three Six Nine",
-            "textValue": "You and 2 opponents roll. 1st place: move forward by your roll. 2nd: swap with a teammate. 3rd: move back 5.",
+            "textValue": "You and 2 opponents roll. 1st place: move forward by your roll. 2nd place: swap with a teammate. 3rd: move back 5.",
             "textSizing": "custom",
             "titleFontSize": 35,
             "bodyFontSize": 16,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:45:31.104Z"
+  "updatedAt": "2026-08-10T16:45:33.544Z"
 }
