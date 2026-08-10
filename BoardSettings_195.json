@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786384226355,
+      "updatedAt": 1786384261635,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "TEAM SABOTAGE",
-            "textValue": "Choose 1 opponent. Move them back 5 spaces. Their team drinks 3.",
+            "titleValue": "PROPOSAL",
+            "textValue": "Have a Valentine? you both now Propose! . \nNo Valentine? Pick an opponent and propose. \n(NOW YOU SHARE PROMPTS EFFECT WITH EACH OTHER AND NO ONE ELSE)",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#951818",
+              "surface": "#ff66c7",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:50:26.369Z"
+  "updatedAt": "2026-08-10T17:51:01.678Z"
 }
