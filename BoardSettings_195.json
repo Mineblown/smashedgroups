@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786385146285,
+      "updatedAt": 1786385157692,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "MARRIAGE",
             "textValue": "If you have a Valentine, you're officially married! Married pairs drink together whenever either lands on a special spot.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:05:46.901Z"
+  "updatedAt": "2026-08-10T18:05:57.737Z"
 }
