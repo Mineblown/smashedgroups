@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381517285,
+      "updatedAt": 1786381525220,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Team Boost",
+            "titleValue": "TEAM SABOTAGE",
             "textValue": "Choose 1 opponent. Move them back 4 spaces. Their team drinks 2.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:05:17.938Z"
+  "updatedAt": "2026-08-10T17:05:25.300Z"
 }
