@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786374757786,
+      "updatedAt": 1786374767174,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "8. Eight that bad.",
-            "textValue": "You roll a dice against your highest win. own teammate loser roll dice move back and drink that amount of the dice.(if sent back to start group drink)",
+            "textValue": "You roll a dice against your  own teammate loser roll dice move back and drink that amount of the dice.(if sent back to start group drink)",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 15,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:12:37.986Z"
+  "updatedAt": "2026-08-10T15:12:47.357Z"
 }
