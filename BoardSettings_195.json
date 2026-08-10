@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381488291,
+      "updatedAt": 1786381495088,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Bad Luck",
+            "titleValue": "RIVALRY",
             "textValue": "Choose an opponent. You are Rivals until one passes 20. Whenever one passes the other, their team drinks 2.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:04:48.993Z"
+  "updatedAt": "2026-08-10T17:04:55.148Z"
 }
