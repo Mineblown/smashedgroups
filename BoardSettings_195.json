@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381164284,
+      "updatedAt": 1786381180968,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Unlucky Spot",
-            "textValue": "For 3 turns, your team's rolls cannot exceed 3. 4=1, 5=2, 6=3",
+            "titleValue": "Valentine days",
+            "textValue": "Pick 2 opponents from different teams. They're Valentines until Marriage or Divorce. Both drink 1.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#951818",
+              "surface": "#eb00d7",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:59:24.941Z"
+  "updatedAt": "2026-08-10T16:59:41.033Z"
 }
