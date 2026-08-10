@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786372558577,
+      "updatedAt": 1786372619367,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "12.",
             "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 34.23161856,
-            "bodyFontSize": 26.559014400000002,
+            "titleFontSize": 34.09770815999999,
+            "bodyFontSize": 26.455118399999996,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:35:58.826Z"
+  "updatedAt": "2026-08-10T14:36:59.779Z"
 }
