@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786373863299,
+      "updatedAt": 1786373865751,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Group Action Avatar edition",
-            "textValue": "If anyone avatar have thatt color on you and your team drinks for each person having black on.",
+            "textValue": "If anyone avatar have that color on you and your team drinks for each person having black on.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:57:43.489Z"
+  "updatedAt": "2026-08-10T14:57:45.927Z"
 }
