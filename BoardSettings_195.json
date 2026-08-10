@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786385682667,
+      "updatedAt": 1786385750193,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "MARRIAGE",
-            "textValue": "If you have a Valentine, you're officially married! (NOW MATE SHARE GREEN AND RED SPOT EFFECT) IF YOU ARE LONER YOU AND NEAREST LONER SWAP PLACES AND MOVE BACK 5 SPACES.",
+            "titleValue": "",
+            "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ff66c7",
+              "surface": "#616161",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:14:42.655Z"
+  "updatedAt": "2026-08-10T18:15:50.319Z"
 }
