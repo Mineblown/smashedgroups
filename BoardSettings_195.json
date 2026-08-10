@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786370898245,
+      "updatedAt": 1786370910055,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Lucky Spot",
-            "textValue": "Roll a dice even nu",
+            "textValue": "Roll a dice even to see you got even or odd number,",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:08:18.487Z"
+  "updatedAt": "2026-08-10T14:08:30.314Z"
 }
