@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786371827330,
+      "updatedAt": 1786371832303,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Risk It all",
-            "textValue": "You can move forward normally to spot 11 or roll a dice and let fate choose)\nEven ",
+            "textValue": "You can move forward normally to spot 11 or roll a dice and let fate choose)\nEve ",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:23:47.537Z"
+  "updatedAt": "2026-08-10T14:23:52.555Z"
 }
