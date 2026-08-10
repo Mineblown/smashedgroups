@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786371917997,
+      "updatedAt": 1786371932823,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Risk It all",
-            "textValue": "You can move forward normally to spot 11 or roll a dice and let fate choose)\nodds number: you got back to spot 1 and do the prompt.\n\n\n  ",
+            "textValue": "You can move forward normally to spot 11 or roll a dice and let fate choose)\nodds number: you got back to spot 1 and do the prompt.\nEven: You move to spot 20.\n\n  ",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:25:18.260Z"
+  "updatedAt": "2026-08-10T14:25:33.070Z"
 }
