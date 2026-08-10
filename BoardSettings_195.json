@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786383342580,
+      "updatedAt": 1786383345457,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "PROPOSAL",
-            "textValue": "Have a Valentine? Propose! Both roll. Higher roll accepts drinks. No Valentine? Pick an opponent and propose.",
+            "textValue": "Have a Valentine? Propose! Both roll. Higher roll accepts . No Valentine? Pick an opponent and propose.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:35:42.592Z"
+  "updatedAt": "2026-08-10T17:35:45.517Z"
 }
