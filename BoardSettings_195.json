@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786371186090,
+      "updatedAt": 1786371187653,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Lucky Spot",
-            "textValue": "Roll a dice.\n\nEven number: You can choose 1 member of your team member move half the space you roll for 3 turns\n\nOdds: You choose a opponent to take your drinks for you for3 turns",
+            "textValue": "Roll a dice.\n\nEven number: You can choose 1 member of your team member move half the space you roll for 3 turns\n\nOdds: You choose a opponent to take your drinks for you for 3 turns",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 16,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:13:06.293Z"
+  "updatedAt": "2026-08-10T14:13:07.948Z"
 }
