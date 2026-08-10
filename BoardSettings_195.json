@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382588307,
+      "updatedAt": 1786382594415,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "RIVAL REMATCH",
-            "textValue": "Challenge an opponent. Both roll. Winner moves forward 3. Loser moves back 3.",
+            "titleValue": "",
+            "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 33.96997823999999,
-            "bodyFontSize": 26.356017599999994,
+            "titleFontSize": 34.09770815999999,
+            "bodyFontSize": 26.455118399999996,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#8c00ff",
+              "surface": "#616161",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:23:08.470Z"
+  "updatedAt": "2026-08-10T17:23:14.467Z"
 }
