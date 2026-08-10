@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786381185849,
+      "updatedAt": 1786381187339,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "A Match ",
+            "titleValue": "A Match m",
             "textValue": "Pick 2 opponents from different teams. They're Valentines until Marriage or Divorce. Both drink 1.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:59:45.927Z"
+  "updatedAt": "2026-08-10T16:59:47.958Z"
 }
