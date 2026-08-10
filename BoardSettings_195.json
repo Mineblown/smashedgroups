@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786380340740,
+      "updatedAt": 1786380345725,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 170.61329999999998,
-          "spawnHeight": 163.81439999999998,
+          "spawnWidth": 173.91129999999998,
+          "spawnHeight": 179.82276499520094,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,10 +678,10 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Three Six Nine",
-            "textValue": "You and 2 opponents roll. 1st place: move forward by your roll. 2nd place: swap with a teammate. 3rd place: move back 5.",
+            "titleValue": "Lucky Spot",
+            "textValue": "Roll a dice.\n\nEven number: You can choose 1 member of your team member move half the space you roll for 3 turns\n\nOdds: You choose a opponent to take your drinks for you for 3 turns",
             "textSizing": "custom",
-            "titleFontSize": 35,
+            "titleFontSize": 34,
             "bodyFontSize": 16,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#57c773",
+              "surface": "#ffeb0a",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 170.61329999999998,
-            "height": 163.81439999999998
+            "width": 173.91129999999998,
+            "height": 179.82276499520094
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:45:40.834Z"
+  "updatedAt": "2026-08-10T16:45:46.016Z"
 }
