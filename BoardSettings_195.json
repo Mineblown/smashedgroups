@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786385447042,
+      "updatedAt": 1786385457272,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "BREAKUP",
-            "textValue": "IF HAVE A MATE YOU ARE NOW SPLIT. BOTH DRINK 5.\nIF YOU DON'T HAVE A MATE LONER",
+            "textValue": "IF HAVE A MATE YOU ARE NOW SPLIT. BOTH DRINK 5.\nIF YOU DON'T HAVE A MATE YOUR A LONER ",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:10:47.075Z"
+  "updatedAt": "2026-08-10T18:10:57.363Z"
 }
