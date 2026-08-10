@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786369529514,
+      "updatedAt": 1786369533061,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Three Six Nine",
-            "textValue": "You pick 2 people from opponents to drink.",
+            "textValue": "You and pick 2 people from opponents to drink.",
             "textSizing": "auto",
             "titleFontSize": 34.82082431999999,
             "bodyFontSize": 27.016156799999997,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:45:29.756Z"
+  "updatedAt": "2026-08-10T13:45:33.349Z"
 }
