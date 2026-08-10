@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378305954,
+      "updatedAt": 1786378309726,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "10. Risk It all",
-            "textValue": "You can move forward normally next turn or roll a dice and let fate choose.\n\nodds number: you got back to spot 1 and do the prompt.\n\nEven: You move to spot 20 and do the prompt.",
+            "titleValue": "9. Three Six Nine",
+            "textValue": "Group shot\n\n(if there a person on spot 3 and 6 then the team with most member on spots give out 12 drinks) (If tied roll dice for winner)",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#000000",
+              "surface": "#57c773",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:11:46.028Z"
+  "updatedAt": "2026-08-10T16:11:49.803Z"
 }
