@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786388361066,
+      "updatedAt": 1786388365936,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "SURVIVIAL",
-            "textValue": "You can skip your next 2 turns or pick 2 opponent behind you and need to win both. If you lose ",
+            "textValue": "You can skip your next 2 turns or pick 2 opponent behind you and need to win both.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:59:21.082Z"
+  "updatedAt": "2026-08-10T18:59:25.898Z"
 }
