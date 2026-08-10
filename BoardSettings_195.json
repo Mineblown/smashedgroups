@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786375354347,
+      "updatedAt": 1786375371745,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Unlucky Spot",
-            "textValue": "Roll a dice.\nEven number: you and your team drinks are triple for 3 turns\nOdds: You and your teammate are curse your dice rolls can't go higher then 3 \n(so 4=1,5=2,6=3) for 3 turns",
+            "titleValue": "",
+            "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 34.09770815999999,
-            "bodyFontSize": 26.455118399999996,
+            "titleFontSize": 34.23161856,
+            "bodyFontSize": 26.559014400000002,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#951818",
+              "surface": "#d166c3",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:22:34.525Z"
+  "updatedAt": "2026-08-10T15:22:51.869Z"
 }
