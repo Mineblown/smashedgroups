@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786372430931,
+      "updatedAt": 1786372432378,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 173.2905,
-          "spawnHeight": 160.8288,
+          "spawnWidth": 170.61329999999998,
+          "spawnHeight": 163.81439999999998,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "5. Siblings",
-            "textValue": "You and one Opponent from each team now share one drink till one sibling pass graduation spot.",
-            "textSizing": "auto",
-            "titleFontSize": 34.51386048,
-            "bodyFontSize": 26.7779952,
+            "titleValue": "Three Six Nine",
+            "textValue": "You and 2 opponents roll a dice. (New spot prompts active only once)\n1st place: roll dice and move forward\n2nd place: you can swap with a teammate.\n3rd place: move back 5 spaces.",
+            "textSizing": "custom",
+            "titleFontSize": 35,
+            "bodyFontSize": 16,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#8b5cf6",
+              "surface": "#57c773",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 173.2905,
-            "height": 160.8288
+            "width": 170.61329999999998,
+            "height": 163.81439999999998
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:33:51.121Z"
+  "updatedAt": "2026-08-10T14:33:52.674Z"
 }
