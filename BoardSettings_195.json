@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786371408696,
+      "updatedAt": 1786371410333,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Eight that bad.",
-            "textValue": "You roll a dice against your own teammate loser",
+            "textValue": "You roll a dice against your own teammate loser ",
             "textSizing": "auto",
             "titleFontSize": 34.36964928,
             "bodyFontSize": 26.6661072,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:16:48.875Z"
+  "updatedAt": "2026-08-10T14:16:50.534Z"
 }
