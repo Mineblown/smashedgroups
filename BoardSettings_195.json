@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786374164274,
+      "updatedAt": 1786374169370,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Unlucky ",
+            "titleValue": "Unlucky",
             "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:02:44.417Z"
+  "updatedAt": "2026-08-10T15:02:49.577Z"
 }
