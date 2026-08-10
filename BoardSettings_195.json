@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786388151509,
+      "updatedAt": 1786388166591,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 283.29839999999996,
-          "spawnHeight": 147.9264,
+          "spawnWidth": 175.6573,
+          "spawnHeight": 158.29439999999997,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Finish!",
-            "textValue": "A group shot before you begin.",
+            "titleValue": "SURVIVIAL",
+            "textValue": "Ypu CAN SKIP YOUR NEXT 2 TURNS OR PICK 2 OPPENTS BEHIND. YOU GOTTA WIN AGAINST BOTH THEM. AT RPS IF YOU LOSE TO ANY OF THEM YOU SWAP PLACE WITH THE WINNER. IF YOU WIN NO SKIP TURN.",
             "textSizing": "auto",
-            "titleFontSize": 31.745005439999996,
-            "bodyFontSize": 24.6297456,
+            "titleFontSize": 33.96997823999999,
+            "bodyFontSize": 26.356017599999994,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#000000",
+              "surface": "#951818",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 283.29839999999996,
-            "height": 147.9264
+            "width": 175.6573,
+            "height": 158.29439999999997
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:55:51.486Z"
+  "updatedAt": "2026-08-10T18:56:06.580Z"
 }
