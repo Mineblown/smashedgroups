@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786376318093,
+      "updatedAt": 1786376322778,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Valentine days",
-            "textValue": "You are cupid and pick two opponents from opposite teams now they are partners for life or till they step on ",
+            "textValue": "You are cupid and pick two opponents from opposite teams now they are partners for life or till they step on divorce spot.",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:38:38.304Z"
+  "updatedAt": "2026-08-10T15:38:42.882Z"
 }
