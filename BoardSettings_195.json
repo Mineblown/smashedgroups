@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786375483278,
+      "updatedAt": 1786375487131,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 173.2905,
-          "spawnHeight": 160.8288,
+          "spawnWidth": 173.91129999999998,
+          "spawnHeight": 160.1568,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "5. Siblings",
-            "textValue": "You and one Opponent from each team now share one drink till one sibling pass graduation spot.",
+            "titleValue": "10. Risk It all",
+            "textValue": "You can move forward normally next turn or roll a dice and let fate choose.\n\nodds number: you got back to spot 1 and do the prompt.\n\nEven: You move to spot 20 and do the prompt.",
             "textSizing": "auto",
-            "titleFontSize": 34.51386048,
-            "bodyFontSize": 26.7779952,
+            "titleFontSize": 34.36964928,
+            "bodyFontSize": 26.6661072,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#39fef1",
+              "surface": "#8b5cf6",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 173.2905,
-            "height": 160.8288
+            "width": 173.91129999999998,
+            "height": 160.1568
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:24:43.444Z"
+  "updatedAt": "2026-08-10T15:24:47.307Z"
 }
