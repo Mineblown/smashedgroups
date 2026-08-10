@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786382313179,
+      "updatedAt": 1786382317347,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "TEAM SWAP",
-            "textValue": "Swap positions with a teammate. If the teammate is on Green, both move forward 2 after swapping.",
+            "titleValue": "RIVAL'S PROBLEM",
+            "textValue": "Pick an opponent. They roll. Odd: back 4. Even: back 2.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
             "bodyFontSize": 26.356017599999994,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#2bff00",
+              "surface": "#8c00ff",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T17:18:33.266Z"
+  "updatedAt": "2026-08-10T17:18:37.378Z"
 }
