@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786374878416,
+      "updatedAt": 1786374889320,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Unlucky Spot",
-            "textValue": "Roll a dice.\n\nEven number: you and your team drinks are triple for 3 turns\n\nOdds: You (don't activate prompt)",
+            "textValue": "Roll a dice.\n\nEven number: you and your team drinks are triple for 3 turns\n\nOdds: Your the guinea pig (don't activate prompt)",
             "textSizing": "auto",
             "titleFontSize": 34.09770815999999,
             "bodyFontSize": 26.455118399999996,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T15:14:38.555Z"
+  "updatedAt": "2026-08-10T15:14:49.487Z"
 }
