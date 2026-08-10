@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786370444951,
+      "updatedAt": 1786370449892,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "Three Six Nine",
-            "textValue": "You and 2 opponents roll a dice.\n\n1st place. roll dice and move forward (you can do the new spot prompt)\n\n2nd place. swap",
+            "textValue": "You and 2 opponents roll a dice.\n\n1st place. roll dice and move forward (you can do the new spot prompt)\n\n2nd place. you can ",
             "textSizing": "auto",
             "titleFontSize": 35.15457023999999,
             "bodyFontSize": 27.2750976,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T14:00:45.194Z"
+  "updatedAt": "2026-08-10T14:00:50.201Z"
 }
