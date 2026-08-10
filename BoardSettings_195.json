@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378546182,
+      "updatedAt": 1786379383585,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 285.0826976766153,
-          "spawnHeight": 160.1568,
+          "spawnWidth": 171.9907,
+          "spawnHeight": 162.53120232869745,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,11 +678,11 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Risk It all",
-            "textValue": "You can move forward normally next turn or roll a dice and let fate choose.\n\nodds number: you got back to spot 1 and do the prompt.\n\nEven: You move to spot 20 and do the prompt.",
+            "titleValue": "Rough Start",
+            "textValue": "Skip your next turn. Your team drinks 1 now and 1 next turn. For each teammate on a red spot, add 1 drink.",
             "textSizing": "auto",
-            "titleFontSize": 34.36964928,
-            "bodyFontSize": 26.6661072,
+            "titleFontSize": 34.87919601973847,
+            "bodyFontSize": 27.061445187728125,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#000000",
+              "surface": "#951818",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 285.0826976766153,
-            "height": 160.1568
+            "width": 171.9907,
+            "height": 162.53120232869745
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:15:46.267Z"
+  "updatedAt": "2026-08-10T16:29:43.907Z"
 }
