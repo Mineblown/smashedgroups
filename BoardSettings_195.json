@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786386041285,
+      "updatedAt": 1786386055930,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "LUCKY SEVEN",
             "textValue": "Roll. 6 = move forward 7. Otherwise move forward your roll.",
             "textSizing": "auto",
             "titleFontSize": 33.96997823999999,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T18:20:41.990Z"
+  "updatedAt": "2026-08-10T18:20:55.932Z"
 }
