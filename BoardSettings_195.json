@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786378319811,
+      "updatedAt": 1786378323636,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 173.91129999999998,
-          "spawnHeight": 179.82276499520094,
+          "spawnWidth": 170.61329999999998,
+          "spawnHeight": 163.81439999999998,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,10 +678,10 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "7. Lucky Spot",
-            "textValue": "Roll a dice.\n\nEven number: You can choose 1 member of your team member move half the space you roll for 3 turns\n\nOdds: You choose a opponent to take your drinks for you for 3 turns",
+            "titleValue": "6. Three Six Nine",
+            "textValue": "You and 2 opponents roll a dice. (New spot prompts active only once)\n1st place: roll dice and move forward\n2nd place: you can swap with a teammate.\n3rd place: move back 5 spaces.",
             "textSizing": "custom",
-            "titleFontSize": 34,
+            "titleFontSize": 35,
             "bodyFontSize": 16,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ffeb0a",
+              "surface": "#57c773",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 173.91129999999998,
-            "height": 179.82276499520094
+            "width": 170.61329999999998,
+            "height": 163.81439999999998
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T16:11:59.863Z"
+  "updatedAt": "2026-08-10T16:12:03.727Z"
 }
