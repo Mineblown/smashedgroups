@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786368479132,
+      "updatedAt": 1786368482088,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "Sib",
+            "titleValue": "Sibling",
             "textValue": "You and one from oppsite ",
             "textSizing": "auto",
             "titleFontSize": 21.288780669046904,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-10T13:27:59.354Z"
+  "updatedAt": "2026-08-10T13:28:02.354Z"
 }
