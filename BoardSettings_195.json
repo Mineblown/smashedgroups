@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786466989911,
+      "updatedAt": 1786466998053,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "OTHER SIDE PROBLEM",
             "textValue": "Pick a player on the opposite side; they drink 2, then choose someone from your side to drink 1.",
             "textSizing": "custom",
             "titleFontSize": 34,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:49:51.103Z"
+  "updatedAt": "2026-08-11T16:49:59.228Z"
 }
