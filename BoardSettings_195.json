@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786461376275,
+      "updatedAt": 1786461379496,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -688,7 +688,7 @@
             "titleUnderline": false,
             "titleLinethrough": false,
             "titleLineHeight": 1,
-            "titleCharSpacing": 10,
+            "titleCharSpacing": 0,
             "bodyFontWeight": "bold",
             "bodyFontStyle": "normal",
             "bodyUnderline": false,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T15:16:17.480Z"
+  "updatedAt": "2026-08-11T15:16:20.708Z"
 }
