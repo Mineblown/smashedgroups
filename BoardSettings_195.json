@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786468223265,
+      "updatedAt": 1786468235872,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "FINAL MIDGAME FIGHT",
-            "textValue": "Challenge anyone ahead of you; loser drinks 4, winner chooses two opponents to drink 1 each.",
+            "titleValue": "",
+            "textValue": "End every active partnership; anyone whose partner disappears drinks 2.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ffaf00",
+              "surface": "#af00ff",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T17:10:24.432Z"
+  "updatedAt": "2026-08-11T17:10:37.024Z"
 }
