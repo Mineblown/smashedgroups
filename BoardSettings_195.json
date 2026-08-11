@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786465591906,
+      "updatedAt": 1786465599341,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "LUCKY FIFTEEN",
-            "textValue": "Roll the die; odd means drink 2, even means choose two players to drink 1 each.",
+            "titleValue": "",
+            "textValue": "Challenge any player on your side to a die roll; loser drinks 3, winner chooses someone opposite to drink 2.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ffff02",
+              "surface": "#ffaf00",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:26:33.134Z"
+  "updatedAt": "2026-08-11T16:26:40.508Z"
 }
