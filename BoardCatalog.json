@@ -221,7 +221,7 @@
     },
     {
       "id": 13,
-      "name": "Untitled board",
+      "name": "Single players (No Teams) 2-10 Players",
       "ownerId": "195",
       "ownerName": "D After Party",
       "official": false,
@@ -232,10 +232,10 @@
       "disabled": false,
       "image": "Board_13.png",
       "project": "Board_13.project.json",
-      "revision": 0,
+      "revision": 1,
       "sourceBoardId": 0,
       "createdAt": "2026-08-11T13:02:52.362Z",
-      "updatedAt": "2026-08-11T13:02:52.362Z"
+      "updatedAt": "2026-08-11T14:51:44.403Z"
     }
   ]
 }
