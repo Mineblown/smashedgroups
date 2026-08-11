@@ -26,18 +26,10 @@
   "landingPageUrl": "https://vrclink.com/u/195",
   "posterEnabled": true,
   "boardGames": {
-    "enabled": true,
-    "defaultBoardId": 12,
-    "activeBoardIds": [
-      12
-    ],
-    "activeBoards": [
-      {
-        "id": 12,
-        "name": "Multiple Team (2 to 10 per team)",
-        "image": "Board_12.png"
-      }
-    ]
+    "enabled": false,
+    "defaultBoardId": null,
+    "activeBoardIds": [],
+    "activeBoards": []
   },
   "spinbottle": {
     "categories": [
