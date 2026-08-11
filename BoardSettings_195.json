@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786462159809,
+      "updatedAt": 1786462253581,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "START!",
-            "textValue": "even # of player RPS loser go opposite direction.\nodd # of players RPS still last player roll dice Even = LEFT Odd = RIGHT were they end up that side drinks 1 extra for entire game",
+            "textValue": "Even # players: RPS. Loser goes opposite.\nOdd # players: RPS. Last player rolls: Even=LEFT, Odd=RIGHT. That side drinks +1 all game.",
             "textSizing": "auto",
             "titleFontSize": 33.6630144,
             "bodyFontSize": 26.117856000000003,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T15:29:21.917Z"
+  "updatedAt": "2026-08-11T15:30:54.850Z"
 }
