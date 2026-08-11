@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786458612769,
+      "updatedAt": 1786458639390,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -40,7 +40,7 @@
             "dashSpacing": 1
           },
           "roundedRect": {
-            "fill": "#0000ff",
+            "fill": "#ffff02",
             "stroke": "#000000",
             "strokeWidth": 2,
             "opacity": 1,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T14:30:14.054Z"
+  "updatedAt": "2026-08-11T14:30:40.667Z"
 }
