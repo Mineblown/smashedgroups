@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786461401711,
+      "updatedAt": 1786461406306,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -682,7 +682,7 @@
             "textValue": "",
             "textSizing": "custom",
             "titleFontSize": 34,
-            "bodyFontSize": 12,
+            "bodyFontSize": 13,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T15:16:42.912Z"
+  "updatedAt": "2026-08-11T15:16:47.526Z"
 }
