@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786465447836,
+      "updatedAt": 1786465454958,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "CLOSEST ENEMY",
             "textValue": "Challenge the closest player on the opposite side; loser drinks 3, winner gives 2 drinks to any player.",
             "textSizing": "custom",
             "titleFontSize": 34,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:24:09.091Z"
+  "updatedAt": "2026-08-11T16:24:16.240Z"
 }
