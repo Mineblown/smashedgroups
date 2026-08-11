@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786467966967,
+      "updatedAt": 1786467998030,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "POSITION RAID",
-            "textValue": "Swap positions with the player on the opposite side who is closest to your number; if either has a partner, their partner follows them.",
+            "titleValue": "",
+            "textValue": "Everyone in spaces 25–34 drinks 2; anyone on an odd number drinks 1 extra.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#af00ff",
+              "surface": "#ff00ff",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T17:06:08.161Z"
+  "updatedAt": "2026-08-11T17:06:39.228Z"
 }
