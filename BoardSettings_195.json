@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786461628665,
+      "updatedAt": 1786461645191,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "START!",
-            "textValue": "If there even amount players RPS winner pick direction loser go opposite and take 2 drinks.\nIf there odds players still play RPS then odd player choose direction that side at extr\n",
+            "textValue": "If there even amount players RPS winner pick direction loser go opposite\nIf there odds players still play RPS then odd player choose direction that side at extr\n",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T15:20:30.165Z"
+  "updatedAt": "2026-08-11T15:20:46.444Z"
 }
