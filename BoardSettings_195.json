@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786467605317,
+      "updatedAt": 1786467616350,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "EVENING CHAOS",
             "textValue": "Everyone on an even number drinks 1; everyone on an odd number chooses one player on the opposite side to drink 1.",
             "textSizing": "custom",
             "titleFontSize": 34,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T17:00:06.472Z"
+  "updatedAt": "2026-08-11T17:00:17.659Z"
 }
