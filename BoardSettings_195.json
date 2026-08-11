@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786467962020,
+      "updatedAt": 1786467966967,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "POSITION RAID",
             "textValue": "Swap positions with the player on the opposite side who is closest to your number; if either has a partner, their partner follows them.",
             "textSizing": "custom",
             "titleFontSize": 34,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T17:06:03.167Z"
+  "updatedAt": "2026-08-11T17:06:08.161Z"
 }
