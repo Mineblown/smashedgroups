@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786466333990,
+      "updatedAt": 1786466340255,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "THREE-WAY ROLL",
             "textValue": "Pick two players; all three roll, lowest roll drinks 3, highest roll gives 2 drinks, middle roll drinks 1.",
             "textSizing": "custom",
             "titleFontSize": 34,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:38:55.140Z"
+  "updatedAt": "2026-08-11T16:39:01.504Z"
 }
