@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786466244995,
+      "updatedAt": 1786466254232,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "SIDE CHAMPION",
-            "textValue": "Challenge the player farthest behind on your side; loser drinks 3, winner moves forward 1 and gives 1 drink.",
+            "titleValue": "",
+            "textValue": "Choose two existing partner pairs and swap their partners; if there are no active partnerships, choose four players to drink 1 instead.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ffaf00",
+              "surface": "#af00ff",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:37:26.135Z"
+  "updatedAt": "2026-08-11T16:37:35.376Z"
 }
