@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786467208701,
+      "updatedAt": 1786467240029,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 198.0934,
-          "spawnHeight": 186.5601,
+          "spawnWidth": 197.9673,
+          "spawnHeight": 186.7832,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "SIDE MIRROR",
-            "textValue": "The player on 8 opposite you drinks 2; if that space is empty, choose anyone on the opposite side to drink 2.",
+            "titleValue": "",
+            "textValue": "Roll; 1–2 drink 3, 3–4 give 2 drinks, 5–6 choose one player to drink 3.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -694,12 +694,12 @@
             "bodyUnderline": false,
             "bodyLinethrough": false,
             "bodyLineHeight": 1.06,
-            "bodyCharSpacing": 0,
+            "bodyCharSpacing": 10,
             "showNumber": true,
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#2c2dff",
+              "surface": "#ffff02",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 198.0934,
-            "height": 186.5601
+            "width": 197.9673,
+            "height": 186.7832
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:53:29.835Z"
+  "updatedAt": "2026-08-11T16:54:01.244Z"
 }
