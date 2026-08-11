@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786454559533,
+      "updatedAt": 1786454564001,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -20,8 +20,8 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 880.2022268891068,
-            "spawnHeight": 140.27613786428424,
+            "spawnWidth": 842.2552170852564,
+            "spawnHeight": 166.36597519716804,
             "spawnScaleX": 1,
             "spawnScaleY": 1,
             "fontFamily": "Inter",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T13:22:40.927Z"
+  "updatedAt": "2026-08-11T13:22:45.335Z"
 }
