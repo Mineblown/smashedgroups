@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786465428110,
+      "updatedAt": 1786465445579,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "NUMBER NINE",
-            "textValue": "Everyone on a multiple of 3 drinks 1; you choose one additional player to drink 1.",
+            "titleValue": "",
+            "textValue": "Challenge the closest player on the opposite side; loser drinks 3, winner gives 2 drinks to any player.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ffff02",
+              "surface": "#ffaf00",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:23:49.299Z"
+  "updatedAt": "2026-08-11T16:24:06.826Z"
 }
