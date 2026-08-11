@@ -26,10 +26,18 @@
   "landingPageUrl": "https://vrclink.com/u/195",
   "posterEnabled": true,
   "boardGames": {
-    "enabled": false,
-    "defaultBoardId": null,
-    "activeBoardIds": [],
-    "activeBoards": []
+    "enabled": true,
+    "defaultBoardId": 13,
+    "activeBoardIds": [
+      13
+    ],
+    "activeBoards": [
+      {
+        "id": 13,
+        "name": "Single players (No Teams) 2-10 Players",
+        "image": "Board_13.png"
+      }
+    ]
   },
   "spinbottle": {
     "categories": [
