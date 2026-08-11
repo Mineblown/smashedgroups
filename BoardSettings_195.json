@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786465471781,
+      "updatedAt": 1786465476776,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "PICK A TARGET",
             "textValue": "Choose any player to drink 2; they immediately choose someone else to drink 1",
             "textSizing": "custom",
             "titleFontSize": 34,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:24:32.962Z"
+  "updatedAt": "2026-08-11T16:24:37.930Z"
 }
