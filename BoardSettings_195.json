@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786465643608,
+      "updatedAt": 1786465649713,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 199.21859999999998,
-          "spawnHeight": 184.5134,
+          "spawnWidth": 199.0634,
+          "spawnHeight": 184.79469999999998,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "TAKE THE HEAT",
-            "textValue": "Choose a player ahead of you; they drink 2, then they choose whether you or another player drinks 1.",
+            "titleValue": "MIRROR PAIN",
+            "textValue": "",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#af00ff",
+              "surface": "#ff00ff",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 199.21859999999998,
-            "height": 184.5134
+            "width": 199.0634,
+            "height": 184.79469999999998
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:27:24.778Z"
+  "updatedAt": "2026-08-11T16:27:30.955Z"
 }
