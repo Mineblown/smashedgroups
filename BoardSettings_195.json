@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786468148662,
+      "updatedAt": 1786468169691,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "WHO'S CLOSER",
-            "textValue": "Compare your position with the player closest to 32 on the opposite side; whoever is farther from FINISH drinks 3.",
+            "titleValue": "",
+            "textValue": "Roll; everyone whose number matches the roll or is a multiple of it drinks 2.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#2c2dff",
+              "surface": "#ffff02",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T17:09:09.875Z"
+  "updatedAt": "2026-08-11T17:09:30.822Z"
 }
