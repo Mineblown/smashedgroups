@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786467041075,
+      "updatedAt": 1786467106093,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 198.7627,
-          "spawnHeight": 185.3379,
+          "spawnWidth": 198.6172,
+          "spawnHeight": 185.5998,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "ROLLING FAVOR",
-            "textValue": "Roll the die; odd means give 2 drinks to one player, even means split 2 drinks between two players.",
+            "titleValue": "",
+            "textValue": "Challenge someone on your side to RPS; loser drinks 2 and winner may give 1 drink to anyone.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ffff02",
+              "surface": "#ffaf00",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -710,8 +710,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 198.7627,
-            "height": 185.3379
+            "width": 198.6172,
+            "height": 185.5998
           },
           "action": {
             "shape": "roundedRect",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:50:42.841Z"
+  "updatedAt": "2026-08-11T16:51:47.344Z"
 }
