@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786454637209,
+      "updatedAt": 1786454639941,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "START!",
-            "textValue": "EACH PLAYER ROLL A DICE BEFORE GAME START.\n2-4= LEFT 1\n3-5=RIGHT\n1-6=CENTER",
+            "textValue": "EACH PLAYER ROLL A DICE BEFORE GAME START.\n2-4= LEFT 1\n3-5=RIGHT 2\n1-6=CENTER 3",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T13:23:58.527Z"
+  "updatedAt": "2026-08-11T13:24:01.282Z"
 }
