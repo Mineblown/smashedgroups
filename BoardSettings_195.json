@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786457874938,
+      "updatedAt": 1786457880135,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#000000",
+              "surface": "#ff0000",
               "border": "#334155",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T14:17:56.190Z"
+  "updatedAt": "2026-08-11T14:18:01.570Z"
 }
