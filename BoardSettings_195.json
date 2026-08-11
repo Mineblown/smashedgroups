@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786466451079,
+      "updatedAt": 1786466468456,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "BREAK THE BONDS",
-            "textValue": "End every active partnership; anyone whose partner was removed drinks 2.",
+            "titleValue": "",
+            "textValue": "Everyone in spaces 35–44 drinks 2; you choose one opponent to drink 2 more.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#af00ff",
+              "surface": "#ff00ff",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:40:52.277Z"
+  "updatedAt": "2026-08-11T16:41:09.657Z"
 }
