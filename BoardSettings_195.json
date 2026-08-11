@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786466502736,
+      "updatedAt": 1786466508032,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "LAST GREEN GIFT",
             "textValue": "Choose any player behind you to drink 3; then choose any player ahead of you to drink 1.",
             "textSizing": "custom",
             "titleFontSize": 34,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:41:43.831Z"
+  "updatedAt": "2026-08-11T16:41:49.251Z"
 }
