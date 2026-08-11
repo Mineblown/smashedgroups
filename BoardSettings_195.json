@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786468437123,
+      "updatedAt": 1786468447723,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "THE GAUNTLET",
-            "textValue": "Everyone in spaces 35–44 drinks 3; anyone sharing a number with an opponent drinks 1 extra.",
+            "titleValue": "",
+            "textValue": "Choose any two players to drink 2 each; if one is ahead of you, they must also give 1 drink to someone else.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ff00ff",
+              "surface": "#00ff00",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T17:13:58.300Z"
+  "updatedAt": "2026-08-11T17:14:08.865Z"
 }
