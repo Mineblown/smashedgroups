@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786467998030,
+      "updatedAt": 1786468003491,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,7 +678,7 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "THIRTY'S WRATH",
             "textValue": "Everyone in spaces 25–34 drinks 2; anyone on an odd number drinks 1 extra.",
             "textSizing": "custom",
             "titleFontSize": 34,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T17:06:39.228Z"
+  "updatedAt": "2026-08-11T17:06:44.633Z"
 }
