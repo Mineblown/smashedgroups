@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786465489420,
+      "updatedAt": 1786465496323,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -679,7 +679,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "FIRST ROW COLLISION",
-            "textValue": "",
+            "textValue": "Everyone in spaces 5–14 drinks 1; you drink 2 if you are the only player from your side in that row.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:24:50.654Z"
+  "updatedAt": "2026-08-11T16:24:57.513Z"
 }
