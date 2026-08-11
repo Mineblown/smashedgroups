@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786454432829,
+      "updatedAt": 1786454437583,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "FINISH!",
-            "textValue": "Exact roll = YOUR TEAM WINS! \nToo high? Move backward the difference and activate the spot you land on.",
+            "titleValue": "",
+            "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 34.15316245898488,
             "bodyFontSize": 26.498143287143442,
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T13:20:34.205Z"
+  "updatedAt": "2026-08-11T13:20:38.873Z"
 }
