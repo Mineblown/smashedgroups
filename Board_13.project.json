@@ -3,8 +3,8 @@
   "schemaVersion": 1,
   "boardId": 13,
   "boardName": "Single players (No Teams) 2-10 Players",
-  "revision": 2,
-  "savedAt": "2026-08-11T17:15:54.940Z",
+  "revision": 3,
+  "savedAt": "2026-08-11T17:17:08.856Z",
   "project": {
     "version": 22,
     "width": 2048,
@@ -30473,9 +30473,9 @@
           "version": "5.3.0",
           "originX": "center",
           "originY": "center",
-          "left": 1769.13,
+          "left": 1769.12,
           "top": 92.04,
-          "width": 122.69,
+          "width": 122.83,
           "height": 57,
           "fill": "rgb(0,0,0)",
           "stroke": null,
@@ -30525,7 +30525,7 @@
               "originY": "center",
               "left": -11.25,
               "top": 0,
-              "width": 88.19,
+              "width": 88.33,
               "height": 0,
               "fill": "",
               "stroke": "#ffffff",
@@ -30553,14 +30553,14 @@
               "path": [
                 [
                   "M",
-                  -44.09502499999985,
+                  -44.165349999999876,
                   0
                 ],
                 [
                   "Q",
                   0,
                   0,
-                  44.09502499999985,
+                  44.165349999999876,
                   0
                 ]
               ]
@@ -30570,7 +30570,7 @@
               "version": "5.3.0",
               "originX": "center",
               "originY": "center",
-              "left": 32.85,
+              "left": 32.92,
               "top": 0,
               "width": 56,
               "height": 56,
@@ -30607,7 +30607,7 @@
           "originY": "center",
           "left": 239.07,
           "top": 92.04,
-          "width": 122.16,
+          "width": 122.32,
           "height": 57,
           "fill": "rgb(0,0,0)",
           "stroke": null,
@@ -30657,7 +30657,7 @@
               "originY": "center",
               "left": -11.25,
               "top": 0,
-              "width": 87.66,
+              "width": 87.82,
               "height": 0,
               "fill": "",
               "stroke": "#ffffff",
@@ -30685,14 +30685,14 @@
               "path": [
                 [
                   "M",
-                  -43.83070000000002,
+                  -43.9083,
                   0
                 ],
                 [
                   "Q",
                   0,
                   0,
-                  43.83070000000002,
+                  43.9083,
                   0
                 ]
               ]
@@ -30702,7 +30702,7 @@
               "version": "5.3.0",
               "originX": "center",
               "originY": "center",
-              "left": 32.58,
+              "left": 32.66,
               "top": 0,
               "width": 56,
               "height": 56,
@@ -30737,9 +30737,9 @@
           "version": "5.3.0",
           "originX": "center",
           "originY": "center",
-          "left": 812.9,
+          "left": 812.85,
           "top": 276.88,
-          "width": 122.61,
+          "width": 122.67,
           "height": 57,
           "fill": "rgb(0,0,0)",
           "stroke": null,
@@ -30789,7 +30789,7 @@
               "originY": "center",
               "left": -11.25,
               "top": 0,
-              "width": 88.11,
+              "width": 88.17,
               "height": 0,
               "fill": "",
               "stroke": "#ffffff",
@@ -30817,14 +30817,14 @@
               "path": [
                 [
                   "M",
-                  -44.05735665534634,
+                  -44.083932021280496,
                   0
                 ],
                 [
                   "Q",
                   0,
                   0,
-                  44.05735665534634,
+                  44.083932021280496,
                   0
                 ]
               ]
@@ -30834,7 +30834,7 @@
               "version": "5.3.0",
               "originX": "center",
               "originY": "center",
-              "left": 32.81,
+              "left": 32.83,
               "top": 0,
               "width": 56,
               "height": 56,
@@ -30869,9 +30869,9 @@
           "version": "5.3.0",
           "originX": "center",
           "originY": "center",
-          "left": 1174.64,
-          "top": 276.98,
-          "width": 86.25,
+          "left": 1166.21,
+          "top": 277.02,
+          "width": 69.36,
           "height": 57,
           "fill": "rgb(0,0,0)",
           "stroke": null,
@@ -30921,7 +30921,7 @@
               "originY": "center",
               "left": -11.25,
               "top": 0,
-              "width": 51.75,
+              "width": 34.86,
               "height": 0,
               "fill": "",
               "stroke": "#ffffff",
@@ -30949,14 +30949,14 @@
               "path": [
                 [
                   "M",
-                  -25.874072289009387,
+                  -17.429177509603242,
                   0
                 ],
                 [
                   "Q",
                   0,
                   0,
-                  25.874072289009387,
+                  17.429177509603242,
                   0
                 ]
               ]
@@ -30966,7 +30966,7 @@
               "version": "5.3.0",
               "originX": "center",
               "originY": "center",
-              "left": 14.62,
+              "left": 6.18,
               "top": 0,
               "width": 56,
               "height": 56,
