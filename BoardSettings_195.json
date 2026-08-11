@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786466168147,
+      "updatedAt": 1786466175011,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "GREEN MOMENTUM",
-            "textValue": "Move forward 2 spaces and give 2 drinks to any player.",
+            "titleValue": "",
+            "textValue": "Count the players ahead of you on the opposite side; each one adds 1 drink to the player closest to FINISH on your side, maximum 3.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#00ff00",
+              "surface": "#0000ff",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:36:09.289Z"
+  "updatedAt": "2026-08-11T16:36:16.196Z"
 }
