@@ -7,7 +7,7 @@
       "id": "sp_msmucwjl_f8ao2l",
       "name": "Default",
       "createdAt": 1786342761921,
-      "updatedAt": 1786466688714,
+      "updatedAt": 1786466698815,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -678,8 +678,8 @@
           "numberText": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "NO SAFE ROW",
-            "textValue": "Everyone in spaces 35–44 drinks 3; anyone sharing their number with an opponent drinks 1 extra.",
+            "titleValue": "",
+            "textValue": "Give 3 drinks to any player behind you and choose one opponent to drink 2; no movement allowed.",
             "textSizing": "custom",
             "titleFontSize": 34,
             "bodyFontSize": 13,
@@ -699,7 +699,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ff00ff",
+              "surface": "#00ff00",
               "border": "#000000",
               "borderWidth": 3,
               "badge": "#4b3285",
@@ -794,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-11T16:44:49.920Z"
+  "updatedAt": "2026-08-11T16:44:59.941Z"
 }
