@@ -3,8 +3,8 @@
   "schemaVersion": 1,
   "boardId": 4,
   "boardName": "Mischief",
-  "revision": 7,
-  "savedAt": "2026-08-15T11:08:50.665Z",
+  "revision": 8,
+  "savedAt": "2026-08-15T11:42:11.101Z",
   "project": {
     "version": 22,
     "width": 2048,
@@ -515,7 +515,7 @@
         "dashSpacing": 1
       },
       "text": {
-        "fill": "#00ff00",
+        "fill": "#ff0000",
         "stroke": "#334155",
         "strokeWidth": 2,
         "opacity": 1,
@@ -523,13 +523,13 @@
         "strokeGradientEnabled": false,
         "strokeGradientColor": "#38bdf8",
         "strokeGradientAngle": 0,
-        "spawnWidth": 173.31440000000003,
-        "spawnHeight": 162.351808,
-        "spawnScaleX": 0.28,
-        "spawnScaleY": 0.38,
+        "spawnWidth": 188.56575700627542,
+        "spawnHeight": 90.88068945130847,
+        "spawnScaleX": 0.27180128750884075,
+        "spawnScaleY": 0.3169224768144388,
         "fontFamily": "Rubik",
-        "fontSize": 84,
-        "lineHeight": 1.16,
+        "fontSize": 60,
+        "lineHeight": 1,
         "charSpacing": 0,
         "fontWeight": "bold",
         "fontStyle": "normal",
@@ -6567,7 +6567,7 @@
           "fontFamily": "Rubik",
           "fontWeight": "bold",
           "fontSize": 60,
-          "text": "1-2 move down\n3-4 move 3 back\n5-6 move 1",
+          "text": "1-2 move down\n3-5 move 3 back\n6 move 1",
           "underline": false,
           "overline": false,
           "linethrough": false,
@@ -6579,7 +6579,7 @@
           "styles": [
             {
               "start": 0,
-              "end": 38,
+              "end": 36,
               "style": {
                 "stroke": "#334155",
                 "strokeWidth": 2,
