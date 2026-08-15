@@ -101,7 +101,7 @@
       {
         "k": "t",
         "t": "Test",
-        "e": 0,
+        "e": 1,
         "x": "~a ~m\n~a ~m\n~a ~m\n~a 5s Chug\n~a 9 drinks"
       }
     ]
