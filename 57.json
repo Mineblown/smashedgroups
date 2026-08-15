@@ -40,7 +40,7 @@
     ]
   },
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/57_billboard_atlas.png?v=1786641034493",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/57_billboard_atlas.png?v=1786790005980",
     "images": [
       {
         "name": "VRChat_2024-09-22_02-40-09.041_1920x1080.png",
@@ -82,15 +82,6 @@
         "name": "VRChat_2026-01-11_00-14-49.578_1920x1080.png",
         "uv": [
           0,
-          0.6666666666666666,
-          0.5,
-          0.3333333333333333
-        ]
-      },
-      {
-        "name": "VRChat_2026-01-11_00-14-49.578_1920x1080.png",
-        "uv": [
-          0.5,
           0.6666666666666666,
           0.5,
           0.3333333333333333
