@@ -7,7 +7,7 @@
       "id": "sp_ms4wqr03_oisshh",
       "name": "Test",
       "createdAt": 1785258375987,
-      "updatedAt": 1787259997271,
+      "updatedAt": 1787260647935,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -496,10 +496,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 32.980558377214145,
-            "spawnHeight": 25,
-            "spawnScaleX": 1,
-            "spawnScaleY": 1,
+            "spawnWidth": 97.57260000000001,
+            "spawnHeight": 96.0393,
+            "spawnScaleX": 0.81,
+            "spawnScaleY": 0.83,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -600,18 +600,18 @@
             "dashSpacing": 1
           },
           "symbol": {
-            "fill": "#ff0000",
-            "stroke": "#0f172a",
+            "fill": "#0080ff",
+            "stroke": "#004cff",
             "strokeWidth": 0,
             "opacity": 0.75,
             "fillOpacity": 1,
-            "strokeGradientEnabled": false,
-            "strokeGradientColor": "#38bdf8",
-            "strokeGradientAngle": 0,
-            "spawnWidth": 52.5,
-            "spawnHeight": 52.5,
-            "spawnScaleX": 0.75,
-            "spawnScaleY": 0.75,
+            "strokeGradientEnabled": true,
+            "strokeGradientColor": "#ffffff",
+            "strokeGradientAngle": 140,
+            "spawnWidth": 70.84,
+            "spawnHeight": 70.84,
+            "spawnScaleX": 0.77,
+            "spawnScaleY": 0.77,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -621,9 +621,9 @@
             "underline": false,
             "linethrough": false,
             "nextNumber": 1,
-            "gradientEnabled": true,
-            "gradientColor": "#ffffff",
-            "gradientAngle": 183,
+            "gradientEnabled": false,
+            "gradientColor": "#ec4899",
+            "gradientAngle": 0,
             "linePattern": "solid",
             "dashSpacing": 1
           }
@@ -679,5 +679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-20T21:06:38.905Z"
+  "updatedAt": "2026-08-20T21:17:29.570Z"
 }
