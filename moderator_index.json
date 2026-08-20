@@ -203,12 +203,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 180,
       "name": "Sloshed"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Neros03": [
@@ -745,10 +745,6 @@
     {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
-    },
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Merry Martian": [
@@ -1037,12 +1033,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 180,
       "name": "Sloshed"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Fenic": [
@@ -1309,12 +1305,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 180,
       "name": "Sloshed"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "The OG TopRamen": [
@@ -1551,12 +1547,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
       "id": 180,
       "name": "Sloshed"
+    },
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
   "Little Aqua": [
@@ -2711,24 +2707,6 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     }
   ],
-  "｜мοԝ｜": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "Bippie": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
-  "djtrifecta": [
-    {
-      "id": 12,
-      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    }
-  ],
   "Lord Bodhi": [
     {
       "id": 180,
@@ -2847,6 +2825,24 @@
     {
       "id": 195,
       "name": "D After Party"
+    }
+  ],
+  "｜мοԝ｜": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "Bippie": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    }
+  ],
+  "djtrifecta": [
+    {
+      "id": 12,
+      "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ]
 }
