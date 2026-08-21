@@ -5,9 +5,9 @@
   "boards": [
     {
       "id": 3,
-      "name": "Untitled board",
+      "name": "asdasdsa",
       "ownerId": "3",
-      "ownerName": "superadmin",
+      "ownerName": "Smashed Official",
       "official": false,
       "shareMode": "private",
       "shared": false,
@@ -16,10 +16,10 @@
       "disabled": false,
       "image": "Board_3.png",
       "project": "Board_3.project.json",
-      "revision": 9,
+      "revision": 10,
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T07:20:42.987Z",
-      "updatedAt": "2026-07-30T11:37:27.526Z"
+      "updatedAt": "2026-08-21T16:49:44.232Z"
     },
     {
       "id": 8,
