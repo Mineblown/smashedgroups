@@ -2,11 +2,11 @@
   "type": "smashed-board-project",
   "schemaVersion": 1,
   "boardId": 3,
-  "boardName": "Untitled board",
-  "revision": 9,
-  "savedAt": "2026-07-30T11:37:25.636Z",
+  "boardName": "asdasdsa",
+  "revision": 10,
+  "savedAt": "2026-08-21T16:49:42.203Z",
   "project": {
-    "version": 20,
+    "version": 23,
     "width": 2048,
     "height": 2048,
     "toolStyles": {
@@ -742,6 +742,9 @@
       "snap": true,
       "follow": true
     },
+    "boardSnapSettings": {
+      "objects": false
+    },
     "layerFolders": [],
     "layerRootOrder": [
       "o:layer-ms7fvhni-0pimhut"
@@ -792,6 +795,7 @@
           "customStrokeGradientColor": "#38bdf8",
           "customStrokeGradientAngle": 0,
           "customLayerId": "layer-ms7fvhni-0pimhut",
+          "customLayerLocked": false,
           "customLinePattern": "solid",
           "customDashSpacing": 1,
           "points": [
