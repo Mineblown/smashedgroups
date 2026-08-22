@@ -5,7 +5,7 @@
     "acceptedOn": "2026-08-04T19:20:55.509Z"
   },
   "groupName": "The Mischief Makers",
-  "editorTheme": "default",
+  "editorTheme": "blue",
   "tagline": "Group for drinking with friends",
   "discord": "",
   "vrchat": "grp_837f2c15-78e6-4bea-8953-beabcd3c1db5",
@@ -96,5 +96,6 @@
         "x": "~a ~m\n~a ~m\n~a ~m\n~a 5s Chug\n~a 9 drinks"
       }
     ]
-  }
+  },
+  "posterEnabled": true
 }
