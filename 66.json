@@ -97,10 +97,18 @@
   "posterEnabled": true,
   "groupPhotosEnabled": true,
   "boardGames": {
-    "enabled": false,
-    "defaultBoardId": null,
-    "activeBoardIds": [],
-    "activeBoards": []
+    "enabled": true,
+    "defaultBoardId": 10,
+    "activeBoardIds": [
+      10
+    ],
+    "activeBoards": [
+      {
+        "id": 10,
+        "name": "Liver",
+        "image": "Board_10.png"
+      }
+    ]
   },
   "spinbottle": {
     "categories": [
