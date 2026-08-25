@@ -7,7 +7,7 @@
       "id": "sp_mt98ddzd_6b0rf3",
       "name": "Default",
       "createdAt": 1787696555017,
-      "updatedAt": 1787700262562,
+      "updatedAt": 1787700266389,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -718,5 +718,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-25T23:24:21.865Z"
+  "updatedAt": "2026-08-25T23:24:25.659Z"
 }
