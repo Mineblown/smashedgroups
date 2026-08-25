@@ -7,7 +7,7 @@
       "id": "sp_mt98ddzd_6b0rf3",
       "name": "Default",
       "createdAt": 1787696555017,
-      "updatedAt": 1787697001001,
+      "updatedAt": 1787697004105,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "roundedRect",
-          "spawnWidth": 120,
-          "spawnHeight": 95.88014981273409,
+          "spawnWidth": 412.03183046792526,
+          "spawnHeight": 329.21394694066436,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -643,8 +643,8 @@
             "titleValue": "PENALTY",
             "textValue": "Move back 2 spaces",
             "textSizing": "auto",
-            "titleFontSize": 20.575880149812733,
-            "bodyFontSize": 15.964044943820225,
+            "titleFontSize": 50,
+            "bodyFontSize": 44,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -672,8 +672,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 120,
-            "height": 95.88014981273409
+            "width": 412.03183046792526,
+            "height": 329.21394694066436
           }
         },
         "connectorSettings": {
@@ -718,5 +718,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-25T22:30:00.672Z"
+  "updatedAt": "2026-08-25T22:30:03.742Z"
 }
