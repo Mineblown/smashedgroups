@@ -7,7 +7,7 @@
       "id": "sp_ms6etdp6_2ylzrp",
       "name": "Default",
       "createdAt": 1785349197978,
-      "updatedAt": 1787632006695,
+      "updatedAt": 1787632095000,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -582,8 +582,8 @@
             "strokeGradientAngle": 0,
             "spawnWidth": 1228.8,
             "spawnHeight": 1228.8,
-            "spawnScaleX": 0.3,
-            "spawnScaleY": 0.3,
+            "spawnScaleX": 0.6,
+            "spawnScaleY": 0.6,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -679,5 +679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-25T04:26:49.011Z"
+  "updatedAt": "2026-08-25T04:28:17.093Z"
 }
