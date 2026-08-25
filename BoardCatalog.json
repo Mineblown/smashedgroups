@@ -1,9 +1,7 @@
 {
   "schemaVersion": 2,
   "nextBoardId": 14,
-  "freeBoardIds": [
-    3
-  ],
+  "freeBoardIds": [],
   "boards": [
     {
       "id": 8,
@@ -220,6 +218,24 @@
       "sourceBoardId": 0,
       "createdAt": "2026-08-11T13:02:52.362Z",
       "updatedAt": "2026-08-11T17:17:12.669Z"
+    },
+    {
+      "id": 3,
+      "name": "Untitled board",
+      "ownerId": "46",
+      "ownerName": "Sprinks N' Drinks",
+      "official": false,
+      "shareMode": "private",
+      "shared": false,
+      "allowCopy": false,
+      "listed": true,
+      "disabled": false,
+      "image": "Board_3.png",
+      "project": "Board_3.project.json",
+      "revision": 0,
+      "sourceBoardId": 0,
+      "createdAt": "2026-08-25T22:22:30.952Z",
+      "updatedAt": "2026-08-25T22:22:30.952Z"
     }
   ]
 }
