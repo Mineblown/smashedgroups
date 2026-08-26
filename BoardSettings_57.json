@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787780476350,
+      "updatedAt": 1787780485223,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -831,7 +831,7 @@
             "shape": "roundedRect",
             "colorMode": "tools",
             "titleValue": "START",
-            "textValue": "Group shot ",
+            "textValue": "Group shot to get started",
             "textSizing": "auto",
             "titleFontSize": 50,
             "bodyFontSize": 44,
@@ -908,5 +908,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T21:41:17.943Z"
+  "updatedAt": "2026-08-26T21:41:26.784Z"
 }
