@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787785626420,
+      "updatedAt": 1787785633399,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 229.00140000000002,
-          "spawnHeight": 229.4976,
+          "spawnWidth": 300.5844,
+          "spawnHeight": 303.8208,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ACTION",
-            "textValue": "Pick \npt",
+            "titleValue": "Finish!!!",
+            "textValue": "Drink 10\nGive 5",
             "textSizing": "auto",
-            "titleFontSize": 46.588012799999994,
-            "bodyFontSize": 36.145872,
+            "titleFontSize": 50,
+            "bodyFontSize": 44,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#1d8b67",
+              "surface": "#400080",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 229.00140000000002,
-            "height": 229.4976
+            "width": 300.5844,
+            "height": 303.8208
           },
           "start": {
             "shape": "roundedRect",
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T23:07:07.937Z"
+  "updatedAt": "2026-08-26T23:07:14.886Z"
 }
