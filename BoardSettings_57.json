@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787780527506,
+      "updatedAt": 1787780530200,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -629,7 +629,7 @@
           }
         },
         "quickPresetDefaults": {
-          "shape": "rect",
+          "shape": "pill",
           "spawnWidth": 300,
           "spawnHeight": 281.914430169144,
           "colorMode": "tools",
@@ -790,7 +790,7 @@
             "height": 279.7693695433327
           },
           "action": {
-            "shape": "rect",
+            "shape": "pill",
             "colorMode": "tools",
             "titleValue": "ACTION",
             "textValue": "Pick \npt",
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T21:42:09.060Z"
+  "updatedAt": "2026-08-26T21:42:11.856Z"
 }
