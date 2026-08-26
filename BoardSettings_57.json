@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787780398692,
+      "updatedAt": 1787780405881,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -631,7 +631,7 @@
         "quickPresetDefaults": {
           "shape": "roundedRect",
           "spawnWidth": 300,
-          "spawnHeight": 281.914430169144,
+          "spawnHeight": 190,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -870,5 +870,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T21:40:00.282Z"
+  "updatedAt": "2026-08-26T21:40:07.487Z"
 }
