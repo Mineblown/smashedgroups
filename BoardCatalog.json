@@ -1,7 +1,9 @@
 {
   "schemaVersion": 2,
   "nextBoardId": 14,
-  "freeBoardIds": [],
+  "freeBoardIds": [
+    2
+  ],
   "boards": [
     {
       "id": 8,
@@ -20,24 +22,6 @@
       "sourceBoardId": 0,
       "createdAt": "2026-07-29T16:05:13.752Z",
       "updatedAt": "2026-07-31T08:33:18.057Z"
-    },
-    {
-      "id": 2,
-      "name": "Untitled board",
-      "ownerId": "66",
-      "ownerName": "Virtual Vixens",
-      "official": false,
-      "shareMode": "private",
-      "shared": false,
-      "allowCopy": false,
-      "listed": true,
-      "disabled": false,
-      "image": "Board_2.png",
-      "project": "Board_2.project.json",
-      "revision": 1,
-      "sourceBoardId": 0,
-      "createdAt": "2026-07-29T18:19:56.086Z",
-      "updatedAt": "2026-08-02T00:52:12.401Z"
     },
     {
       "id": 1,
