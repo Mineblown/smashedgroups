@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787781809519,
+      "updatedAt": 1787781812190,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -823,7 +823,7 @@
               "surfaceOpacity": 1
             },
             "surfaceOpacity": 1,
-            "styleLinkId": "rwwrw",
+            "styleLinkId": "",
             "width": 298.63700000000006,
             "height": 299.0496
           },
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T22:03:31.163Z"
+  "updatedAt": "2026-08-26T22:03:33.793Z"
 }
