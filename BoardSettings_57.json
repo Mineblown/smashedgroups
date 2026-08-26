@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787786362539,
+      "updatedAt": 1787786370997,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -20,10 +20,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 2182.723552174198,
-            "spawnHeight": 2080.0093168916587,
-            "spawnScaleX": 1,
-            "spawnScaleY": 1,
+            "spawnWidth": 2180.723552174198,
+            "spawnHeight": 2078.0093168916587,
+            "spawnScaleX": 12.1926611727894,
+            "spawnScaleY": 11.130696372942719,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -180,18 +180,18 @@
             "dashSpacing": 1
           },
           "hexagon": {
-            "fill": "#8000ff",
-            "stroke": "#8000ff",
+            "fill": "#8b5cf6",
+            "stroke": "#334155",
             "strokeWidth": 2,
             "opacity": 1,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 37.72443490709111,
-            "spawnHeight": 282.6687792929222,
-            "spawnScaleX": 0.42577148178777374,
-            "spawnScaleY": 2.7712625420874724,
+            "spawnWidth": 320,
+            "spawnHeight": 240,
+            "spawnScaleX": 1,
+            "spawnScaleY": 1,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 227.9849,
-          "spawnHeight": 229.8048,
+          "spawnWidth": 300.5844,
+          "spawnHeight": 303.8208,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ACTION",
-            "textValue": "Pick \npt",
+            "titleValue": "Finish!!!",
+            "textValue": "Drink 10\nGive 5",
             "textSizing": "auto",
-            "titleFontSize": 46.588012799999994,
-            "bodyFontSize": 36.145872,
+            "titleFontSize": 50,
+            "bodyFontSize": 44,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#1d8b67",
+              "surface": "#400080",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 227.9849,
-            "height": 229.8048
+            "width": 300.5844,
+            "height": 303.8208
           },
           "start": {
             "shape": "roundedRect",
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T23:19:24.059Z"
+  "updatedAt": "2026-08-26T23:19:32.504Z"
 }
