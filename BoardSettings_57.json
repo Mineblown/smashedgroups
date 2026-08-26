@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787788352726,
+      "updatedAt": 1787788357623,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "MOVE UP!!!",
-            "textValue": "",
+            "textValue": "Pick \npt",
             "textSizing": "auto",
             "titleFontSize": 46.71273599999999,
             "bodyFontSize": 36.24264,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T23:52:34.235Z"
+  "updatedAt": "2026-08-26T23:52:39.140Z"
 }
