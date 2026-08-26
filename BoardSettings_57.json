@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787780567411,
+      "updatedAt": 1787780574869,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -813,7 +813,7 @@
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#c43c3c",
+              "surface": "#e30af5",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#00008a",
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T21:42:48.969Z"
+  "updatedAt": "2026-08-26T21:42:56.413Z"
 }
