@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787780530200,
+      "updatedAt": 1787780534811,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -629,7 +629,7 @@
           }
         },
         "quickPresetDefaults": {
-          "shape": "pill",
+          "shape": "circle",
           "spawnWidth": 300,
           "spawnHeight": 281.914430169144,
           "colorMode": "tools",
@@ -790,13 +790,13 @@
             "height": 279.7693695433327
           },
           "action": {
-            "shape": "pill",
+            "shape": "circle",
             "colorMode": "tools",
             "titleValue": "ACTION",
             "textValue": "Pick \npt",
             "textSizing": "auto",
             "titleFontSize": 50,
-            "bodyFontSize": 44,
+            "bodyFontSize": 41.86429288011788,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T21:42:11.856Z"
+  "updatedAt": "2026-08-26T21:42:16.401Z"
 }
