@@ -7,7 +7,7 @@
       "id": "sp_mt98ddzd_6b0rf3",
       "name": "Default",
       "createdAt": 1787696555017,
-      "updatedAt": 1787705055282,
+      "updatedAt": 1787705068396,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -580,10 +580,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 201.61099233752483,
-            "spawnHeight": 201.61099233752483,
-            "spawnScaleX": 0.18667684475696744,
-            "spawnScaleY": 0.18667684475696744,
+            "spawnWidth": 194.4,
+            "spawnHeight": 194.4,
+            "spawnScaleX": 0.18,
+            "spawnScaleY": 0.18,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -718,5 +718,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T00:44:14.101Z"
+  "updatedAt": "2026-08-26T00:44:27.278Z"
 }
