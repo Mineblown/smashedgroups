@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1786988970069,
+      "updatedAt": 1787780309293,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -564,7 +564,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 2,
+            "nextNumber": 3,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -712,6 +712,44 @@
             "styleLinkId": "",
             "width": 300,
             "height": 190
+          },
+          "reroll": {
+            "shape": "roundedRect",
+            "colorMode": "tools",
+            "titleValue": "ROLL AGAIN",
+            "textValue": "Take another turn",
+            "textSizing": "auto",
+            "titleFontSize": 40.773999999999994,
+            "bodyFontSize": 31.634999999999998,
+            "titleFontWeight": "bold",
+            "titleFontStyle": "normal",
+            "titleUnderline": false,
+            "titleLinethrough": false,
+            "titleLineHeight": 1,
+            "titleCharSpacing": 0,
+            "bodyFontWeight": "bold",
+            "bodyFontStyle": "normal",
+            "bodyUnderline": false,
+            "bodyLinethrough": false,
+            "bodyLineHeight": 1.06,
+            "bodyCharSpacing": 0,
+            "showNumber": true,
+            "badgePosition": "bottomRight",
+            "badgeShape": "circle",
+            "styleOverrides": {
+              "surface": "#0000ff",
+              "border": "#b8b8ff",
+              "borderWidth": 3,
+              "badge": "#00008a",
+              "titleFill": "#ffffff",
+              "textFill": "#ffffff",
+              "numberFill": "#ffffff",
+              "surfaceOpacity": 1
+            },
+            "surfaceOpacity": 1,
+            "styleLinkId": "",
+            "width": 300,
+            "height": 190
           }
         },
         "connectorSettings": {
@@ -756,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-26T21:37:39.955Z"
+  "updatedAt": "2026-08-26T21:38:30.858Z"
 }
