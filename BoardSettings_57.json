@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787795859396,
+      "updatedAt": 1787795877256,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "FRIENDS?",
-            "textValue": "FRIENDS TAKE 2\nNON-FRIENDS TAKE4",
+            "textValue": "FRIENDS TAKE 2\nNON-FRIENDS TAKE 4",
             "textSizing": "custom",
             "titleFontSize": 39,
             "bodyFontSize": 35,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:57:40.831Z"
+  "updatedAt": "2026-08-27T01:57:58.683Z"
 }
