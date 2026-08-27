@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787793903633,
+      "updatedAt": 1787793908775,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "DRINK 4",
-            "textValue": "MOVE 2x YOUR ",
+            "textValue": "MOVE 2x YOUR NEXT ROLL",
             "textSizing": "auto",
             "titleFontSize": 46.71273599999999,
             "bodyFontSize": 36.24264,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:25:05.089Z"
+  "updatedAt": "2026-08-27T01:25:10.244Z"
 }
