@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787794462404,
+      "updatedAt": 1787794464504,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,9 +793,9 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "GROUP!!!",
-            "textValue": "FEMALE AVATARS DRINK 3",
+            "textValue": "MALE AVATARS DRINK 2",
             "textSizing": "custom",
-            "titleFontSize": 42,
+            "titleFontSize": 44,
             "bodyFontSize": 36,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#1d8b67",
+              "surface": "#ff8000",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:34:23.820Z"
+  "updatedAt": "2026-08-27T01:34:25.889Z"
 }
