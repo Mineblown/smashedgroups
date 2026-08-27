@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787791302070,
+      "updatedAt": 1787791306774,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -796,7 +796,7 @@
             "textValue": "WATERFALL",
             "textSizing": "custom",
             "titleFontSize": 47,
-            "bodyFontSize": 14,
+            "bodyFontSize": 23,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T00:41:43.490Z"
+  "updatedAt": "2026-08-27T00:41:48.226Z"
 }
