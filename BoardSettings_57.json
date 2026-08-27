@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787795222605,
+      "updatedAt": 1787795247269,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "DOOM!!!",
-            "textValue": "UNTILL YOUR NEXT TURN DRINK ",
+            "textValue": "UNTILL YOUR NEXT TURN DRINK E",
             "textSizing": "auto",
             "titleFontSize": 46.8355104,
             "bodyFontSize": 36.337896,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:47:03.989Z"
+  "updatedAt": "2026-08-27T01:47:28.714Z"
 }
