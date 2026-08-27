@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787794519111,
+      "updatedAt": 1787794521049,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "GROUP !!!",
-            "textValue": "FURRY AVATARS ",
+            "textValue": "FURRY AVATARS DRIN",
             "textSizing": "auto",
             "titleFontSize": 46.77509759999999,
             "bodyFontSize": 36.29102399999999,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:35:20.530Z"
+  "updatedAt": "2026-08-27T01:35:22.492Z"
 }
