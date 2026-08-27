@@ -25,20 +25,6 @@
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/57",
-  "boardGames": {
-    "enabled": true,
-    "defaultBoardId": 4,
-    "activeBoardIds": [
-      4
-    ],
-    "activeBoards": [
-      {
-        "id": 4,
-        "name": "Mischief",
-        "image": "Board_4.png"
-      }
-    ]
-  },
   "billboardData": {
     "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/57_billboard_atlas.png?v=1786989295880",
     "images": [
@@ -81,6 +67,20 @@
     ]
   },
   "groupPhotosEnabled": true,
+  "boardGames": {
+    "enabled": true,
+    "defaultBoardId": 4,
+    "activeBoardIds": [
+      4
+    ],
+    "activeBoards": [
+      {
+        "id": 4,
+        "name": "Mischief 1.0",
+        "image": "Board_4.png"
+      }
+    ]
+  },
   "spinbottle": {
     "categories": [
       {
