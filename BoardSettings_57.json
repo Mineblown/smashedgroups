@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787789701076,
+      "updatedAt": 1787789704940,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "ROLL DICE!!!",
-            "textValue": "1 MOVE BACK1\n2-5 DRINK 3\n6 MOVE UP 3",
+            "textValue": "",
             "textSizing": "custom",
             "titleFontSize": 47,
             "bodyFontSize": 20,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T00:15:02.645Z"
+  "updatedAt": "2026-08-27T00:15:06.502Z"
 }
