@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787791605174,
+      "updatedAt": 1787791607100,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "Drink 3",
+            "titleValue": "",
             "textValue": "Drink 3\nGive 1",
             "textSizing": "auto",
             "titleFontSize": 46.8355104,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T00:46:46.631Z"
+  "updatedAt": "2026-08-27T00:46:48.525Z"
 }
