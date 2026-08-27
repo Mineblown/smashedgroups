@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787791864504,
+      "updatedAt": 1787791866985,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "GROUP!!!",
-            "textValue": "Ask eve",
+            "textValue": "Ask everyone ",
             "textSizing": "custom",
             "titleFontSize": 45,
             "bodyFontSize": 36,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T00:51:06.045Z"
+  "updatedAt": "2026-08-27T00:51:08.533Z"
 }
