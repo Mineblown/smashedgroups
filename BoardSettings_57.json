@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787795736468,
+      "updatedAt": 1787795739943,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -796,7 +796,7 @@
             "textValue": "FRIENDS TAKE 2\nNON FRIENDS TAKE4",
             "textSizing": "custom",
             "titleFontSize": 39,
-            "bodyFontSize": 30,
+            "bodyFontSize": 35,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:55:37.901Z"
+  "updatedAt": "2026-08-27T01:55:41.363Z"
 }
