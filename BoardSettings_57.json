@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787792432434,
+      "updatedAt": 1787792434186,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "SWITCH",
-            "textValue": "PLACES WITH P",
+            "textValue": "PLACES WITH ",
             "textSizing": "custom",
             "titleFontSize": 33,
             "bodyFontSize": 36,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:00:33.915Z"
+  "updatedAt": "2026-08-27T01:00:35.696Z"
 }
