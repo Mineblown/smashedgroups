@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787794146001,
+      "updatedAt": 1787794149107,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "SWITCH",
-            "textValue": "TAKE 4 WITH CLOSEST BEHIND YOU",
+            "textValue": "TAKE 4WITH CLOSEST BEHIND YOU",
             "textSizing": "auto",
             "titleFontSize": 46.77509759999999,
             "bodyFontSize": 36.29102399999999,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:29:07.474Z"
+  "updatedAt": "2026-08-27T01:29:10.541Z"
 }
