@@ -131,7 +131,7 @@
     },
     {
       "id": 4,
-      "name": "Mischief",
+      "name": "Mischief 1.0",
       "ownerId": "57",
       "ownerName": "The Mischief Makers",
       "official": false,
@@ -142,10 +142,10 @@
       "disabled": false,
       "image": "Board_4.png",
       "project": "Board_4.project.json",
-      "revision": 9,
+      "revision": 10,
       "sourceBoardId": 0,
       "createdAt": "2026-08-04T20:49:18.828Z",
-      "updatedAt": "2026-08-17T17:50:46.030Z"
+      "updatedAt": "2026-08-27T02:19:08.856Z"
     },
     {
       "id": 11,
