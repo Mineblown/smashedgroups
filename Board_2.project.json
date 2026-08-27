@@ -3,8 +3,8 @@
   "schemaVersion": 1,
   "boardId": 2,
   "boardName": "MISHIEF 2.0",
-  "revision": 16,
-  "savedAt": "2026-08-27T02:03:24.706Z",
+  "revision": 17,
+  "savedAt": "2026-08-27T02:05:32.749Z",
   "project": {
     "version": 23,
     "width": 2048,
@@ -629,8 +629,8 @@
     },
     "quickPresetDefaults": {
       "shape": "hexagon",
-      "spawnWidth": 225.9090999999999,
-      "spawnHeight": 230.4192,
+      "spawnWidth": 299.10780000000005,
+      "spawnHeight": 302.784,
       "colorMode": "tools",
       "badgePosition": "bottomLeft",
       "badgeShape": "circle"
@@ -791,11 +791,11 @@
       "action": {
         "shape": "hexagon",
         "colorMode": "tools",
-        "titleValue": "",
-        "textValue": "EVERYONE BEHIND YOU TAKES 4",
+        "titleValue": "Finish!!!",
+        "textValue": "Drink 10\nGive 10",
         "textSizing": "auto",
-        "titleFontSize": 46.77509759999999,
-        "bodyFontSize": 36.29102399999999,
+        "titleFontSize": 50,
+        "bodyFontSize": 44,
         "titleFontWeight": "bold",
         "titleFontStyle": "normal",
         "titleUnderline": false,
@@ -812,7 +812,7 @@
         "badgePosition": "bottomLeft",
         "badgeShape": "circle",
         "styleOverrides": {
-          "surface": "#1d8b67",
+          "surface": "#400080",
           "border": "#b8b8ff",
           "borderWidth": 3,
           "badge": "#ff0000",
@@ -823,8 +823,8 @@
         },
         "surfaceOpacity": 1,
         "styleLinkId": "",
-        "width": 225.9090999999999,
-        "height": 230.4192
+        "width": 299.10780000000005,
+        "height": 302.784
       },
       "start": {
         "shape": "roundedRect",
