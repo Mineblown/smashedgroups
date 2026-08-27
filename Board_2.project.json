@@ -3,8 +3,8 @@
   "schemaVersion": 1,
   "boardId": 2,
   "boardName": "Untitled board",
-  "revision": 11,
-  "savedAt": "2026-08-27T01:03:44.359Z",
+  "revision": 12,
+  "savedAt": "2026-08-27T01:22:48.781Z",
   "project": {
     "version": 23,
     "width": 2048,
@@ -629,8 +629,8 @@
     },
     "quickPresetDefaults": {
       "shape": "hexagon",
-      "spawnWidth": 226.95770000000005,
-      "spawnHeight": 230.112,
+      "spawnWidth": 227.98489999999998,
+      "spawnHeight": 229.8048,
       "colorMode": "tools",
       "badgePosition": "bottomLeft",
       "badgeShape": "circle"
@@ -791,11 +791,11 @@
       "action": {
         "shape": "hexagon",
         "colorMode": "tools",
-        "titleValue": "ACTION",
-        "textValue": "",
+        "titleValue": "",
+        "textValue": "BUDDYSHOT",
         "textSizing": "auto",
-        "titleFontSize": 46.71273599999999,
-        "bodyFontSize": 36.24264,
+        "titleFontSize": 46.6503744,
+        "bodyFontSize": 36.194256,
         "titleFontWeight": "bold",
         "titleFontStyle": "normal",
         "titleUnderline": false,
@@ -823,8 +823,8 @@
         },
         "surfaceOpacity": 1,
         "styleLinkId": "",
-        "width": 226.95770000000005,
-        "height": 230.112
+        "width": 227.98489999999998,
+        "height": 229.8048
       },
       "start": {
         "shape": "roundedRect",
