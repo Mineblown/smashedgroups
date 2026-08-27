@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787796475977,
+      "updatedAt": 1787796478335,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "BUDDY",
+            "titleValue": "BUDDY?",
             "textValue": "BUDDYSHOT\nX 5",
             "textSizing": "custom",
             "titleFontSize": 38,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T02:07:57.409Z"
+  "updatedAt": "2026-08-27T02:07:59.761Z"
 }
