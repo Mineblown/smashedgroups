@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787796099924,
+      "updatedAt": 1787796102862,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,10 +630,10 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 226.9512,
-          "spawnHeight": 230.7168,
+          "spawnWidth": 225.9090999999999,
+          "spawnHeight": 230.4192,
           "colorMode": "tools",
-          "badgePosition": "topLeft",
+          "badgePosition": "bottomLeft",
           "badgeShape": "circle"
         },
         "quickPresetTemplates": {
@@ -793,10 +793,10 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "TAKE 4",
+            "textValue": "TAKE 6",
             "textSizing": "auto",
-            "titleFontSize": 46.8355104,
-            "bodyFontSize": 36.337896,
+            "titleFontSize": 46.77509759999999,
+            "bodyFontSize": 36.29102399999999,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -810,7 +810,7 @@
             "bodyLineHeight": 1.06,
             "bodyCharSpacing": 0,
             "showNumber": true,
-            "badgePosition": "topLeft",
+            "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
               "surface": "#1d8b67",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 226.9512,
-            "height": 230.7168
+            "width": 225.9090999999999,
+            "height": 230.4192
           },
           "start": {
             "shape": "roundedRect",
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T02:01:41.347Z"
+  "updatedAt": "2026-08-27T02:01:44.270Z"
 }
