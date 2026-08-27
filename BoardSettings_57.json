@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787795891879,
+      "updatedAt": 1787795929468,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,10 +630,10 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 226.9512,
-          "spawnHeight": 230.7168,
+          "spawnWidth": 225.9091,
+          "spawnHeight": 230.4192,
           "colorMode": "tools",
-          "badgePosition": "topLeft",
+          "badgePosition": "bottomLeft",
           "badgeShape": "circle"
         },
         "quickPresetTemplates": {
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "FRIENDS?",
-            "textValue": "FRIENDS TAKE 2\nNON-FRIENDS\n TAKE 4",
-            "textSizing": "custom",
-            "titleFontSize": 39,
-            "bodyFontSize": 27,
+            "titleValue": "ACTION",
+            "textValue": "",
+            "textSizing": "auto",
+            "titleFontSize": 46.71273599999999,
+            "bodyFontSize": 36.24264,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -810,7 +810,7 @@
             "bodyLineHeight": 1.06,
             "bodyCharSpacing": 0,
             "showNumber": true,
-            "badgePosition": "topLeft",
+            "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
               "surface": "#1d8b67",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 226.9512,
-            "height": 230.7168
+            "width": 225.9091,
+            "height": 230.4192
           },
           "start": {
             "shape": "roundedRect",
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:58:13.293Z"
+  "updatedAt": "2026-08-27T01:58:50.916Z"
 }
