@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787791133555,
+      "updatedAt": 1787791136380,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "BAD START ",
-            "textValue": "DRINK 8\n",
+            "textValue": "DRINK 8\nMOV",
             "textSizing": "auto",
             "titleFontSize": 46.6503744,
             "bodyFontSize": 36.194256,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T00:38:55.005Z"
+  "updatedAt": "2026-08-27T00:38:57.828Z"
 }
