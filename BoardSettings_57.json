@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787795194144,
+      "updatedAt": 1787795201003,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "DOOM!!!",
-            "textValue": "UNTILL ",
+            "textValue": "UNTILL YOUR NEXT TURN ",
             "textSizing": "auto",
             "titleFontSize": 46.8355104,
             "bodyFontSize": 36.337896,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:46:35.537Z"
+  "updatedAt": "2026-08-27T01:46:42.411Z"
 }
