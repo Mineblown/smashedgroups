@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787796438760,
+      "updatedAt": 1787796475977,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -633,7 +633,7 @@
           "spawnWidth": 226.9512,
           "spawnHeight": 230.7168,
           "colorMode": "tools",
-          "badgePosition": "bottomLeft",
+          "badgePosition": "bottomRight",
           "badgeShape": "circle"
         },
         "quickPresetTemplates": {
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "Charitable!!",
-            "textValue": "GIVE 10",
+            "titleValue": "BUDDY",
+            "textValue": "BUDDYSHOT\nX 5",
             "textSizing": "custom",
-            "titleFontSize": 34,
-            "bodyFontSize": 36,
+            "titleFontSize": 38,
+            "bodyFontSize": 28,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -810,7 +810,7 @@
             "bodyLineHeight": 1.06,
             "bodyCharSpacing": 0,
             "showNumber": true,
-            "badgePosition": "bottomLeft",
+            "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
               "surface": "#1d8b67",
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T02:07:20.184Z"
+  "updatedAt": "2026-08-27T02:07:57.409Z"
 }
