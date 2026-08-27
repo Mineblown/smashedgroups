@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787796770432,
+      "updatedAt": 1787796772089,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "OPENHANDED",
+            "titleValue": "OPENHANDED!!",
             "textValue": "GIVE \n6",
             "textSizing": "auto",
             "titleFontSize": 46.77509759999999,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T02:12:51.827Z"
+  "updatedAt": "2026-08-27T02:12:53.496Z"
 }
