@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787791314005,
+      "updatedAt": 1787791319886,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "GROUP!!!",
-            "textValue": "WATERFALL",
+            "textValue": "WATERFALL\n",
             "textSizing": "custom",
             "titleFontSize": 47,
             "bodyFontSize": 23,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T00:41:55.454Z"
+  "updatedAt": "2026-08-27T00:42:01.364Z"
 }
