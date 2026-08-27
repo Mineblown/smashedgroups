@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787792511406,
+      "updatedAt": 1787792512916,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,7 +630,7 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 226.95770000000005,
+          "spawnWidth": 226.9577000000001,
           "spawnHeight": 230.112,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
@@ -793,10 +793,10 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "SWITCH",
-            "textValue": "PL",
-            "textSizing": "auto",
-            "titleFontSize": 46.71273599999999,
-            "bodyFontSize": 36.24264,
+            "textValue": "PLACES WITH THE PLAYER CLOSEST TO YOU",
+            "textSizing": "custom",
+            "titleFontSize": 33,
+            "bodyFontSize": 36,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#1d8b67",
+              "surface": "#800000",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -824,7 +824,7 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 226.95770000000005,
+            "width": 226.9577000000001,
             "height": 230.112
           },
           "start": {
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T01:01:52.852Z"
+  "updatedAt": "2026-08-27T01:01:54.463Z"
 }
