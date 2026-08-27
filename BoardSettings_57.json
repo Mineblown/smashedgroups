@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787796499220,
+      "updatedAt": 1787796504984,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 225.9091,
-          "spawnHeight": 231.01439999999997,
+          "spawnWidth": 241.436,
+          "spawnHeight": 230.7168,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,8 +792,8 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "MOVE DOWN!!!",
-            "textValue": "DRINK 3",
+            "titleValue": "BUDDY?",
+            "textValue": "BUDDYSHOT\nX2",
             "textSizing": "auto",
             "titleFontSize": 46.8355104,
             "bodyFontSize": 36.337896,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ff0000",
+              "surface": "#1d8b67",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 225.9091,
-            "height": 231.01439999999997
+            "width": 241.436,
+            "height": 230.7168
           },
           "start": {
             "shape": "roundedRect",
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-27T02:08:20.650Z"
+  "updatedAt": "2026-08-27T02:08:26.395Z"
 }
