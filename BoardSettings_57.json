@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1787947965433,
+      "updatedAt": 1787947968555,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "Finish!!!",
-            "textValue": "Drink 10\nGive ",
+            "textValue": "Drink 10\nGive 20",
             "textSizing": "auto",
             "titleFontSize": 50,
             "bodyFontSize": 44,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-08-28T20:12:47.313Z"
+  "updatedAt": "2026-08-28T20:12:50.406Z"
 }
