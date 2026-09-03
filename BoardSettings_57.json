@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788463928423,
+      "updatedAt": 1788463955366,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 226.9512,
-          "spawnHeight": 230.7168,
+          "spawnWidth": 225.90909999999997,
+          "spawnHeight": 231.5904,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,17 +792,17 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "TAKE 3\nTO\nMOVE UP 3",
-            "textSizing": "auto",
-            "titleFontSize": 46.8355104,
-            "bodyFontSize": 36.337896,
+            "titleValue": "TRIPLE T",
+            "textValue": "HOW MANY TUNGS BEFORE SAHUR\nROLL DICE!!!\n1-3 TAKE 3 \n4-6 TAKE 9",
+            "textSizing": "custom",
+            "titleFontSize": 23,
+            "bodyFontSize": 15,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
             "titleLinethrough": false,
             "titleLineHeight": 1,
-            "titleCharSpacing": 0,
+            "titleCharSpacing": 10,
             "bodyFontWeight": "bold",
             "bodyFontStyle": "normal",
             "bodyUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#1d8b67",
+              "surface": "#ff8000",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 226.9512,
-            "height": 230.7168
+            "width": 225.90909999999997,
+            "height": 231.5904
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:32:09.704Z"
+  "updatedAt": "2026-09-03T19:32:36.678Z"
 }
