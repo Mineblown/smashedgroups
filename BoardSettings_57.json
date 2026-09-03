@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788463858002,
+      "updatedAt": 1788463865804,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -631,7 +631,7 @@
         "quickPresetDefaults": {
           "shape": "hexagon",
           "spawnWidth": 226.9512,
-          "spawnHeight": 231.30239999999995,
+          "spawnHeight": 230.7168,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,17 +792,17 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "TRIPLE T",
-            "textValue": "HOW MANY TUNGS BEFORE SAHUR\nROLL DICE!!!\n1-3 TAKE 3 \n4-6 TAKE 9",
-            "textSizing": "custom",
-            "titleFontSize": 23,
-            "bodyFontSize": 15,
+            "titleValue": "",
+            "textValue": "TAKE 3\nTO\nMOVE UP 3",
+            "textSizing": "auto",
+            "titleFontSize": 46.77509759999999,
+            "bodyFontSize": 36.29102399999999,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
             "titleLinethrough": false,
             "titleLineHeight": 1,
-            "titleCharSpacing": 10,
+            "titleCharSpacing": 0,
             "bodyFontWeight": "bold",
             "bodyFontStyle": "normal",
             "bodyUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#408080",
+              "surface": "#1d8b67",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -825,7 +825,7 @@
             "surfaceOpacity": 1,
             "styleLinkId": "",
             "width": 226.9512,
-            "height": 231.30239999999995
+            "height": 230.7168
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:30:59.297Z"
+  "updatedAt": "2026-09-03T19:31:07.125Z"
 }
