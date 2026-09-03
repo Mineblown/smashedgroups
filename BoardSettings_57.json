@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788465064670,
+      "updatedAt": 1788465067453,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "SWITCH",
-            "textValue": "WITH CLOSEST  INFRONT OF YOU AND TAKE 4",
+            "textValue": "WITH CLOSEST PLAYER INFRONT OF YOU AND TAKE 4",
             "textSizing": "auto",
             "titleFontSize": 46.8355104,
             "bodyFontSize": 36.337896,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:51:05.995Z"
+  "updatedAt": "2026-09-03T19:51:08.816Z"
 }
