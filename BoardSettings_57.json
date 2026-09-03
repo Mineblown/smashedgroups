@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788464731471,
+      "updatedAt": 1788464742489,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 226.95120000000006,
-          "spawnHeight": 230.7168,
+          "spawnWidth": 226.95770000000002,
+          "spawnHeight": 230.112,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "SWITCH",
-            "textValue": "WITH PLAYER BEHIND YOU AND TAKE 4",
-            "textSizing": "custom",
-            "titleFontSize": 47,
-            "bodyFontSize": 19,
+            "titleValue": "MOVE DOWN!!!",
+            "textValue": "DRINK 3",
+            "textSizing": "auto",
+            "titleFontSize": 46.6503744,
+            "bodyFontSize": 36.194256,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#800000",
+              "surface": "#ff0000",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 226.95120000000006,
-            "height": 230.7168
+            "width": 226.95770000000002,
+            "height": 230.112
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:45:32.733Z"
+  "updatedAt": "2026-09-03T19:45:43.746Z"
 }
