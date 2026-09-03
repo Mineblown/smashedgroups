@@ -172,6 +172,20 @@
     ]
   },
   "groupPhotosEnabled": true,
+  "boardGames": {
+    "enabled": true,
+    "defaultBoardId": 10,
+    "activeBoardIds": [
+      10
+    ],
+    "activeBoards": [
+      {
+        "id": 10,
+        "name": "OG Liver Killer",
+        "image": "Board_10.png"
+      }
+    ]
+  },
   "spinbottle": {
     "categories": [
       {
