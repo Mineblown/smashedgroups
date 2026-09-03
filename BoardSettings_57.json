@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788463898746,
+      "updatedAt": 1788463902013,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -580,9 +580,9 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 116.37115738338706,
+            "spawnWidth": 144.49325137462236,
             "spawnHeight": 113.39999999999999,
-            "spawnScaleX": 0.3694322456615462,
+            "spawnScaleX": 0.45870873452261063,
             "spawnScaleY": 0.36,
             "fontFamily": "Inter",
             "fontSize": 84,
@@ -792,8 +792,8 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "TAKE 3\nTO\nMOVE UP 3",
+            "titleValue": "GROUP !!!",
+            "textValue": "FURRY AVATARS DRINK 3",
             "textSizing": "auto",
             "titleFontSize": 46.77509759999999,
             "bodyFontSize": 36.29102399999999,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#1d8b67",
+              "surface": "#ff8000",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:31:40.072Z"
+  "updatedAt": "2026-09-03T19:31:43.281Z"
 }
