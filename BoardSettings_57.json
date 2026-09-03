@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788463969328,
+      "updatedAt": 1788463987512,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -580,10 +580,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 118.236440211155,
-            "spawnHeight": 110.50300523738703,
-            "spawnScaleX": 0.37535377844811113,
-            "spawnScaleY": 0.3508031912298001,
+            "spawnWidth": 113.39999999999999,
+            "spawnHeight": 113.39999999999999,
+            "spawnScaleX": 0.36,
+            "spawnScaleY": 0.36,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "TRIPLE T",
+            "titleValue": "",
             "textValue": "HOW MANY TUNGS BEFORE SAHUR\nROLL DICE!!!\n1-3 TAKE 3 \n4-6 TAKE 9",
             "textSizing": "custom",
             "titleFontSize": 23,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:32:50.601Z"
+  "updatedAt": "2026-09-03T19:33:08.839Z"
 }
