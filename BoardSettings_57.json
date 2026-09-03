@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788464694230,
+      "updatedAt": 1788464700280,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,10 +793,10 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "SWITCH",
-            "textValue": "WITH PLAYER CLOSEST TO YOU AND TAKE 4",
-            "textSizing": "custom",
-            "titleFontSize": 33,
-            "bodyFontSize": 36,
+            "textValue": "WITH CLOSEST BEHIND YOU AND TAKE 4",
+            "textSizing": "auto",
+            "titleFontSize": 46.8355104,
+            "bodyFontSize": 36.337896,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:44:55.491Z"
+  "updatedAt": "2026-09-03T19:45:01.594Z"
 }
