@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788464721102,
+      "updatedAt": 1788464725557,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -794,9 +794,9 @@
             "colorMode": "tools",
             "titleValue": "SWITCH",
             "textValue": "WITH PLAYER BEHIND YOU AND TAKE 4",
-            "textSizing": "auto",
-            "titleFontSize": 46.8355104,
-            "bodyFontSize": 36.337896,
+            "textSizing": "custom",
+            "titleFontSize": 47,
+            "bodyFontSize": 32,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:45:22.391Z"
+  "updatedAt": "2026-09-03T19:45:26.818Z"
 }
