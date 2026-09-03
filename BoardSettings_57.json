@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788463987512,
+      "updatedAt": 1788463990686,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "TUNG ",
             "textValue": "HOW MANY TUNGS BEFORE SAHUR\nROLL DICE!!!\n1-3 TAKE 3 \n4-6 TAKE 9",
             "textSizing": "custom",
             "titleFontSize": 23,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:33:08.839Z"
+  "updatedAt": "2026-09-03T19:33:11.960Z"
 }
