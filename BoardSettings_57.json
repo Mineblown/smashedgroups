@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788463066289,
+      "updatedAt": 1788463067993,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "TRIPLE",
+            "titleValue": "TRIPLE T",
             "textValue": "GIVE\n 2",
             "textSizing": "custom",
             "titleFontSize": 23,
@@ -946,5 +946,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-03T19:17:47.562Z"
+  "updatedAt": "2026-09-03T19:17:49.300Z"
 }
