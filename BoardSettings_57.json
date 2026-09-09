@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788985625750,
+      "updatedAt": 1788985634520,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 225.90909999999997,
-          "spawnHeight": 231.5904,
+          "spawnWidth": 226.9512,
+          "spawnHeight": 231.30239999999998,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,10 +792,10 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "LAVISH!!!",
-            "textValue": "DRINK 5\nGIVE 10",
+            "titleValue": "GENEROUS!!!",
+            "textValue": "TAKE 3\nGIVE 6",
             "textSizing": "custom",
-            "titleFontSize": 28,
+            "titleFontSize": 25,
             "bodyFontSize": 36,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 225.90909999999997,
-            "height": 231.5904
+            "width": 226.9512,
+            "height": 231.30239999999998
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:27:07.459Z"
+  "updatedAt": "2026-09-09T20:27:16.353Z"
 }
