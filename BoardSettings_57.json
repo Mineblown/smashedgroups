@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788986076649,
+      "updatedAt": 1788986084372,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "ROLL DICE!!!",
-            "textValue": "TO LEAVE THIS SPOT ROLL A 6\n1-2 DRINK 4\n3-5 DRINK 2\n6 MOVE 1 SPACE AHEAD\n",
+            "textValue": "TO LEAVE THIS SPOT ROLL \n1-2 DRINK 4\n3-5 DRINK 2\n6 MOVE 1 SPACE AHEAD\n",
             "textSizing": "auto",
             "titleFontSize": 46.89592319999999,
             "bodyFontSize": 36.384767999999994,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:34:38.364Z"
+  "updatedAt": "2026-09-09T20:34:46.062Z"
 }
