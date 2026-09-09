@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788986842270,
+      "updatedAt": 1788986849723,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -629,7 +629,7 @@
           }
         },
         "quickPresetDefaults": {
-          "shape": "roundedRect",
+          "shape": "octagon",
           "spawnWidth": 255.3646457460097,
           "spawnHeight": 161.73094230580614,
           "colorMode": "tools",
@@ -870,5 +870,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:47:23.923Z"
+  "updatedAt": "2026-09-09T20:47:31.353Z"
 }
