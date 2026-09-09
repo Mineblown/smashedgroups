@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "nextBoardId": 14,
+  "nextBoardId": 15,
   "freeBoardIds": [],
   "boards": [
     {
@@ -236,6 +236,24 @@
       "sourceBoardId": 0,
       "createdAt": "2026-08-26T21:34:47.657Z",
       "updatedAt": "2026-09-09T20:38:10.649Z"
+    },
+    {
+      "id": 14,
+      "name": "Untitled board",
+      "ownerId": "57",
+      "ownerName": "The Mischief Makers",
+      "official": false,
+      "shareMode": "private",
+      "shared": false,
+      "allowCopy": false,
+      "listed": true,
+      "disabled": false,
+      "image": "Board_14.png",
+      "project": "Board_14.project.json",
+      "revision": 0,
+      "sourceBoardId": 0,
+      "createdAt": "2026-09-09T20:42:12.438Z",
+      "updatedAt": "2026-09-09T20:42:12.438Z"
     }
   ]
 }
