@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788986778217,
+      "updatedAt": 1788986793833,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -564,7 +564,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 7,
+            "nextNumber": 4,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -629,9 +629,9 @@
           }
         },
         "quickPresetDefaults": {
-          "shape": "octagon",
-          "spawnWidth": 217.7952,
-          "spawnHeight": 198.33599999999998,
+          "shape": "roundedRect",
+          "spawnWidth": 255.3646457460097,
+          "spawnHeight": 161.73094230580614,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -713,10 +713,10 @@
             "width": 300,
             "height": 190
           },
-          "start": {
+          "action": {
             "shape": "roundedRect",
             "colorMode": "tools",
-            "titleValue": "START",
+            "titleValue": "ACTION",
             "textValue": "Add instruction",
             "textSizing": "auto",
             "titleFontSize": 34.70746021882599,
@@ -733,14 +733,14 @@
             "bodyLinethrough": false,
             "bodyLineHeight": 1.06,
             "bodyCharSpacing": 0,
-            "showNumber": false,
+            "showNumber": true,
             "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
               "surface": "#0000ff",
               "border": "#b8b8ff",
               "borderWidth": 3,
-              "badge": "#14532d",
+              "badge": "#00008a",
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
@@ -750,82 +750,6 @@
             "styleLinkId": "",
             "width": 255.3646457460097,
             "height": 161.73094230580614
-          },
-          "number": {
-            "shape": "diamond",
-            "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "Add instruction",
-            "textSizing": "auto",
-            "titleFontSize": 15.659999999999998,
-            "bodyFontSize": 12.15,
-            "titleFontWeight": "bold",
-            "titleFontStyle": "normal",
-            "titleUnderline": false,
-            "titleLinethrough": false,
-            "titleLineHeight": 1,
-            "titleCharSpacing": 0,
-            "bodyFontWeight": "bold",
-            "bodyFontStyle": "normal",
-            "bodyUnderline": false,
-            "bodyLinethrough": false,
-            "bodyLineHeight": 1.06,
-            "bodyCharSpacing": 0,
-            "showNumber": true,
-            "badgePosition": "bottomRight",
-            "badgeShape": "circle",
-            "styleOverrides": {
-              "surface": "#8b5cf6",
-              "border": "#334155",
-              "borderWidth": 3,
-              "badge": "#312e81",
-              "titleFill": "#ffffff",
-              "textFill": "#ffffff",
-              "numberFill": "#ffffff",
-              "surfaceOpacity": 1
-            },
-            "surfaceOpacity": 1,
-            "styleLinkId": "",
-            "width": 120,
-            "height": 90
-          },
-          "action": {
-            "shape": "octagon",
-            "colorMode": "tools",
-            "titleValue": "ACTION",
-            "textValue": "Add instruction",
-            "textSizing": "auto",
-            "titleFontSize": 40.126501781847274,
-            "bodyFontSize": 31.132630692812544,
-            "titleFontWeight": "bold",
-            "titleFontStyle": "normal",
-            "titleUnderline": false,
-            "titleLinethrough": false,
-            "titleLineHeight": 1,
-            "titleCharSpacing": 0,
-            "bodyFontWeight": "bold",
-            "bodyFontStyle": "normal",
-            "bodyUnderline": false,
-            "bodyLinethrough": false,
-            "bodyLineHeight": 1.06,
-            "bodyCharSpacing": 0,
-            "showNumber": true,
-            "badgePosition": "bottomRight",
-            "badgeShape": "circle",
-            "styleOverrides": {
-              "surface": "#8b5cf6",
-              "border": "#334155",
-              "borderWidth": 3,
-              "badge": "#4b3285",
-              "titleFill": "#ffffff",
-              "textFill": "#ffffff",
-              "numberFill": "#ffffff",
-              "surfaceOpacity": 1
-            },
-            "surfaceOpacity": 1,
-            "styleLinkId": "",
-            "width": 217.7952,
-            "height": 198.33599999999998
           }
         },
         "connectorSettings": {
@@ -870,5 +794,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:46:19.835Z"
+  "updatedAt": "2026-09-09T20:46:35.501Z"
 }
