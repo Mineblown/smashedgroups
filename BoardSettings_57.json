@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788985616297,
+      "updatedAt": 1788985619727,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "CHARITABLE!!",
-            "textValue": "TAKE 4\nGIVE 8",
+            "textValue": "DRINK 4\nGIVE 8",
             "textSizing": "custom",
             "titleFontSize": 28,
             "bodyFontSize": 36,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:26:58.034Z"
+  "updatedAt": "2026-09-09T20:27:01.404Z"
 }
