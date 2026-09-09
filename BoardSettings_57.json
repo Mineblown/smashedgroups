@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788985400682,
+      "updatedAt": 1788985523154,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 226.9512,
-          "spawnHeight": 230.7168,
+          "spawnWidth": 226.95770000000005,
+          "spawnHeight": 230.112,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "SWITCH",
-            "textValue": "WITH CLOSEST INFRONT OF YOU AND TAKE 4",
+            "titleValue": "NOT SO FAST",
+            "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 46.77509759999999,
-            "bodyFontSize": 36.29102399999999,
+            "titleFontSize": 46.71273599999999,
+            "bodyFontSize": 36.24264,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#800000",
+              "surface": "#1d8b67",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 226.9512,
-            "height": 230.7168
+            "width": 226.95770000000005,
+            "height": 230.112
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:23:22.305Z"
+  "updatedAt": "2026-09-09T20:25:24.880Z"
 }
