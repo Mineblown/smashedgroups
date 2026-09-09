@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788985573145,
+      "updatedAt": 1788985575080,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "ROLL DICE!!!",
-            "textValue": "DRINK WHAT IT LANDS ON  AGIVE OUT DOUBLE",
+            "textValue": "DRINK WHAT IT LANDS ON  AND GIVE OUT DOUBLE",
             "textSizing": "auto",
             "titleFontSize": 46.71273599999999,
             "bodyFontSize": 36.24264,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:26:14.795Z"
+  "updatedAt": "2026-09-09T20:26:16.755Z"
 }
