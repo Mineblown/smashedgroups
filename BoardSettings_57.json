@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788987213689,
+      "updatedAt": 1788987215911,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -833,8 +833,8 @@
             "titleValue": "PENALTY",
             "textValue": "Add instruction",
             "textSizing": "auto",
-            "titleFontSize": 35.531165364475775,
-            "bodyFontSize": 27.567283472438103,
+            "titleFontSize": 35.345547999999994,
+            "bodyFontSize": 27.423269999999995,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -908,5 +908,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:53:35.342Z"
+  "updatedAt": "2026-09-09T20:53:37.568Z"
 }
