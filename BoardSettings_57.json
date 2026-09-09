@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788985622818,
+      "updatedAt": 1788985625750,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,7 +630,7 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 225.9091,
+          "spawnWidth": 225.90909999999997,
           "spawnHeight": 231.5904,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "LAVISH!!!",
-            "textValue": "TAKE 5\nGIVE 10",
+            "textValue": "DRINK 5\nGIVE 10",
             "textSizing": "custom",
             "titleFontSize": 28,
             "bodyFontSize": 36,
@@ -824,7 +824,7 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 225.9091,
+            "width": 225.90909999999997,
             "height": 231.5904
           },
           "start": {
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:27:04.468Z"
+  "updatedAt": "2026-09-09T20:27:07.459Z"
 }
