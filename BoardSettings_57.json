@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788986719185,
+      "updatedAt": 1788986721084,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -564,7 +564,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 5,
+            "nextNumber": 6,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -788,6 +788,44 @@
             "styleLinkId": "",
             "width": 120,
             "height": 90
+          },
+          "action": {
+            "shape": "octagon",
+            "colorMode": "tools",
+            "titleValue": "ACTION",
+            "textValue": "Add instruction",
+            "textSizing": "auto",
+            "titleFontSize": 32.83138128807864,
+            "bodyFontSize": 25.472623413164467,
+            "titleFontWeight": "bold",
+            "titleFontStyle": "normal",
+            "titleUnderline": false,
+            "titleLinethrough": false,
+            "titleLineHeight": 1,
+            "titleCharSpacing": 0,
+            "bodyFontWeight": "bold",
+            "bodyFontStyle": "normal",
+            "bodyUnderline": false,
+            "bodyLinethrough": false,
+            "bodyLineHeight": 1.06,
+            "bodyCharSpacing": 0,
+            "showNumber": true,
+            "badgePosition": "bottomRight",
+            "badgeShape": "circle",
+            "styleOverrides": {
+              "surface": "#8b5cf6",
+              "border": "#334155",
+              "borderWidth": 3,
+              "badge": "#4b3285",
+              "titleFill": "#ffffff",
+              "textFill": "#ffffff",
+              "numberFill": "#ffffff",
+              "surfaceOpacity": 1
+            },
+            "surfaceOpacity": 1,
+            "styleLinkId": "",
+            "width": 255.3646457460097,
+            "height": 161.73094230580614
           }
         },
         "connectorSettings": {
@@ -832,5 +870,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:45:20.899Z"
+  "updatedAt": "2026-09-09T20:45:22.732Z"
 }
