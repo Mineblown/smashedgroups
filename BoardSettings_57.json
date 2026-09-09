@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788985813795,
+      "updatedAt": 1788985817117,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "CAN'T LEAVE THIS SPACE",
+            "textValue": "CAN'T LEAVE THIS SPA",
             "textSizing": "auto",
             "titleFontSize": 46.89592319999999,
             "bodyFontSize": 36.384767999999994,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:30:15.552Z"
+  "updatedAt": "2026-09-09T20:30:18.757Z"
 }
