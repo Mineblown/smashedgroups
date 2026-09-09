@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788986636535,
+      "updatedAt": 1788986654025,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -564,7 +564,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 2,
+            "nextNumber": 3,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -756,5 +756,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:43:58.169Z"
+  "updatedAt": "2026-09-09T20:44:15.728Z"
 }
