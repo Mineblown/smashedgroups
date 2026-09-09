@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788986725113,
+      "updatedAt": 1788986727867,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "octagon",
-          "spawnWidth": 177.83699916342812,
-          "spawnHeight": 161.73094230580614,
+          "spawnWidth": 365.0499493656988,
+          "spawnHeight": 331.98868951530716,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -795,8 +795,8 @@
             "titleValue": "ACTION",
             "textValue": "Add instruction",
             "textSizing": "auto",
-            "titleFontSize": 32.83138128807864,
-            "bodyFontSize": 25.472623413164467,
+            "titleFontSize": 50,
+            "bodyFontSize": 44,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 177.83699916342812,
-            "height": 161.73094230580614
+            "width": 365.0499493656988,
+            "height": 331.98868951530716
           }
         },
         "connectorSettings": {
@@ -870,5 +870,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:45:26.766Z"
+  "updatedAt": "2026-09-09T20:45:29.471Z"
 }
