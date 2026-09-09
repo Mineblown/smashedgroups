@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1788986849723,
+      "updatedAt": 1788986853470,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -564,7 +564,7 @@
             "fontStyle": "normal",
             "underline": false,
             "linethrough": false,
-            "nextNumber": 11,
+            "nextNumber": 12,
             "gradientEnabled": false,
             "gradientColor": "#ec4899",
             "gradientAngle": 0,
@@ -629,7 +629,7 @@
           }
         },
         "quickPresetDefaults": {
-          "shape": "octagon",
+          "shape": "roundedRect",
           "spawnWidth": 255.3646457460097,
           "spawnHeight": 161.73094230580614,
           "colorMode": "tools",
@@ -826,6 +826,44 @@
             "styleLinkId": "",
             "width": 255.3646457460097,
             "height": 161.73094230580614
+          },
+          "penalty": {
+            "shape": "octagon",
+            "colorMode": "tools",
+            "titleValue": "PENALTY",
+            "textValue": "Add instruction",
+            "textSizing": "auto",
+            "titleFontSize": 32.83138128807864,
+            "bodyFontSize": 25.472623413164467,
+            "titleFontWeight": "bold",
+            "titleFontStyle": "normal",
+            "titleUnderline": false,
+            "titleLinethrough": false,
+            "titleLineHeight": 1,
+            "titleCharSpacing": 0,
+            "bodyFontWeight": "bold",
+            "bodyFontStyle": "normal",
+            "bodyUnderline": false,
+            "bodyLinethrough": false,
+            "bodyLineHeight": 1.06,
+            "bodyCharSpacing": 0,
+            "showNumber": true,
+            "badgePosition": "bottomRight",
+            "badgeShape": "circle",
+            "styleOverrides": {
+              "surface": "#8b5cf6",
+              "border": "#334155",
+              "borderWidth": 3,
+              "badge": "#4b3285",
+              "titleFill": "#ffffff",
+              "textFill": "#ffffff",
+              "numberFill": "#ffffff",
+              "surfaceOpacity": 1
+            },
+            "surfaceOpacity": 1,
+            "styleLinkId": "",
+            "width": 255.3646457460097,
+            "height": 161.73094230580614
           }
         },
         "connectorSettings": {
@@ -870,5 +908,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-09T20:47:31.353Z"
+  "updatedAt": "2026-09-09T20:47:35.126Z"
 }
