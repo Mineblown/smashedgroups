@@ -44,7 +44,7 @@
   "active": true,
   "posterEnabled": true,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/46_billboard_atlas.png?v=1789178457017",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/46_billboard_atlas.png?v=1789247783426",
     "images": [
       {
         "name": "SND Basic Poster.png",
@@ -56,7 +56,7 @@
         ]
       },
       {
-        "name": "HBD Skyese.png",
+        "name": "TOT NEW POSTER.png",
         "uv": [
           0.5,
           0,
