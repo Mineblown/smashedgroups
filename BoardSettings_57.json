@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1789303373359,
+      "updatedAt": 1789303432187,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,10 +630,10 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 225.9090999999999,
-          "spawnHeight": 231.01439999999997,
+          "spawnWidth": 226.9512,
+          "spawnHeight": 231.87839999999997,
           "colorMode": "tools",
-          "badgePosition": "bottomRight",
+          "badgePosition": "bottomLeft",
           "badgeShape": "circle"
         },
         "quickPresetTemplates": {
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "DOUBLE!!!",
-            "textValue": "DRINKS GIVEN TO YOU ON THIS SPACE ARE X2",
+            "titleValue": "LAVISH!!!",
+            "textValue": "DRINK 5\nGIVE 9",
             "textSizing": "custom",
-            "titleFontSize": 36,
-            "bodyFontSize": 33,
+            "titleFontSize": 28,
+            "bodyFontSize": 36,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -810,7 +810,7 @@
             "bodyLineHeight": 1.06,
             "bodyCharSpacing": 0,
             "showNumber": true,
-            "badgePosition": "bottomRight",
+            "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
               "surface": "#1d8b67",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 225.9090999999999,
-            "height": 231.01439999999997
+            "width": 226.9512,
+            "height": 231.87839999999997
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-13T12:42:54.554Z"
+  "updatedAt": "2026-09-13T12:43:53.381Z"
 }
