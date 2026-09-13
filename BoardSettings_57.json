@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1789303127604,
+      "updatedAt": 1789303129492,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "DOÜLE",
+            "titleValue": "DO",
             "textValue": "",
             "textSizing": "custom",
             "titleFontSize": 47,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-13T12:38:48.761Z"
+  "updatedAt": "2026-09-13T12:38:50.646Z"
 }
