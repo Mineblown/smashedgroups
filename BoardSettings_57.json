@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1789303197018,
+      "updatedAt": 1789303204719,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "DOUBLE!!!",
-            "textValue": "DRINKS G",
+            "textValue": "DRINKS GIVEN TO YOU ARE ",
             "textSizing": "custom",
             "titleFontSize": 36,
             "bodyFontSize": 33,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-13T12:39:58.203Z"
+  "updatedAt": "2026-09-13T12:40:05.915Z"
 }
