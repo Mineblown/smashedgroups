@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "nextBoardId": 16,
+  "nextBoardId": 17,
   "freeBoardIds": [],
   "boards": [
     {
@@ -272,6 +272,24 @@
       "sourceBoardId": 0,
       "createdAt": "2026-09-17T08:02:16.659Z",
       "updatedAt": "2026-09-17T08:02:16.659Z"
+    },
+    {
+      "id": 16,
+      "name": "Untitled board",
+      "ownerId": "1",
+      "ownerName": "Clean up Crew",
+      "official": false,
+      "shareMode": "private",
+      "shared": false,
+      "allowCopy": false,
+      "listed": true,
+      "disabled": false,
+      "image": "Board_16.png",
+      "project": "Board_16.project.json",
+      "revision": 0,
+      "sourceBoardId": 0,
+      "createdAt": "2026-09-17T08:02:22.973Z",
+      "updatedAt": "2026-09-17T08:02:22.973Z"
     }
   ]
 }
