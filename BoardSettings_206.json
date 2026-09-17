@@ -7,7 +7,7 @@
       "id": "sp_mu58rn97_hkt40j",
       "name": "Default",
       "createdAt": 1789632137851,
-      "updatedAt": 1789632278459,
+      "updatedAt": 1789632305569,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -160,10 +160,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 320,
-            "spawnHeight": 240,
-            "spawnScaleX": 1,
-            "spawnScaleY": 1,
+            "spawnWidth": 536.1484431515032,
+            "spawnHeight": 572.3742078854425,
+            "spawnScaleX": 5.521289792658581,
+            "spawnScaleY": 6.191118952683626,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -679,5 +679,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-17T08:04:40.831Z"
+  "updatedAt": "2026-09-17T08:05:07.946Z"
 }
