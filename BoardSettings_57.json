@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184810408,
+      "updatedAt": 1790184819253,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "UNLUCKY",
-            "textValue": "IF YOU DIDNT ROLL A 5 OR 6 TO LAND ON THIS SPOT ",
+            "textValue": "IF YOU DIDNT ROLL A 5 OR 6 TO LAND ON THIS SPOT MOVE BACK ",
             "textSizing": "custom",
             "titleFontSize": 40,
             "bodyFontSize": 36,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:33:32.737Z"
+  "updatedAt": "2026-09-23T17:33:41.564Z"
 }
