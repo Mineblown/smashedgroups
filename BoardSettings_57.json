@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184212664,
+      "updatedAt": 1790184215978,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "DOUBLE!!!",
-            "textValue": "DRINKS G X2 ",
+            "textValue": "DRINKS GIVEN TO  X2 ",
             "textSizing": "custom",
             "titleFontSize": 25,
             "bodyFontSize": 36,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:23:35.000Z"
+  "updatedAt": "2026-09-23T17:23:38.323Z"
 }
