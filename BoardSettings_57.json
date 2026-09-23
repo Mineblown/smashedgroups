@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184518057,
+      "updatedAt": 1790184555092,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -631,9 +631,9 @@
         "quickPresetDefaults": {
           "shape": "hexagon",
           "spawnWidth": 226.9512,
-          "spawnHeight": 231.30239999999998,
+          "spawnHeight": 231.87839999999997,
           "colorMode": "tools",
-          "badgePosition": "bottomRight",
+          "badgePosition": "bottomLeft",
           "badgeShape": "circle"
         },
         "quickPresetTemplates": {
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "HOW MUCH ?!!!",
-            "textValue": "ROLL DICE!!! \nDRINKS GIVEN TO YOU ARE \n1-2 X2\n3-4 X4\n5-6 X6",
+            "titleValue": "QUADRUPLE!!!",
+            "textValue": "DRINKS GIVEN TO YOU  ARE X4",
             "textSizing": "custom",
-            "titleFontSize": 20,
-            "bodyFontSize": 19,
+            "titleFontSize": 25,
+            "bodyFontSize": 36,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -810,7 +810,7 @@
             "bodyLineHeight": 1.06,
             "bodyCharSpacing": 0,
             "showNumber": true,
-            "badgePosition": "bottomRight",
+            "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
               "surface": "#1d8b67",
@@ -825,7 +825,7 @@
             "surfaceOpacity": 1,
             "styleLinkId": "",
             "width": 226.9512,
-            "height": 231.30239999999998
+            "height": 231.87839999999997
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:28:40.399Z"
+  "updatedAt": "2026-09-23T17:29:17.425Z"
 }
