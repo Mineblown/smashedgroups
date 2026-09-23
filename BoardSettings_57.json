@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184797689,
+      "updatedAt": 1790184806343,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "UNLUCKY",
-            "textValue": "IF YOU DIDNT ROLL A 5 OR 6",
+            "textValue": "IF YOU DIDNT ROLL A 5 OR 6 TO LAND ON TH",
             "textSizing": "custom",
             "titleFontSize": 40,
             "bodyFontSize": 36,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:33:20.012Z"
+  "updatedAt": "2026-09-23T17:33:28.690Z"
 }
