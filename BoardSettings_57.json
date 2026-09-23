@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184431092,
+      "updatedAt": 1790184433528,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "HOW MUCH ?!!",
-            "textValue": "ROLL DICE \nDRINKS GIVEN TO YOU ARE \n1-2 X2\n3_",
+            "textValue": "ROLL DICE \nDRINKS GIVEN TO YOU ARE \n1-2 X2\n3-4",
             "textSizing": "custom",
             "titleFontSize": 36,
             "bodyFontSize": 19,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:27:13.421Z"
+  "updatedAt": "2026-09-23T17:27:15.869Z"
 }
