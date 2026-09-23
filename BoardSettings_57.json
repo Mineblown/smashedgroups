@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184120825,
+      "updatedAt": 1790184125141,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 225.9090999999999,
-          "spawnHeight": 231.5904,
+          "spawnWidth": 226.9512,
+          "spawnHeight": 231.87839999999997,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "DOUBLE!!!",
-            "textValue": "",
+            "textValue": "DRINKS GIVEN TO YOU ARE X3",
             "textSizing": "custom",
             "titleFontSize": 25,
             "bodyFontSize": 36,
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 225.9090999999999,
-            "height": 231.5904
+            "width": 226.9512,
+            "height": 231.87839999999997
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:22:03.248Z"
+  "updatedAt": "2026-09-23T17:22:07.476Z"
 }
