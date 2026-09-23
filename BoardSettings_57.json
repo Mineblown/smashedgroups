@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790185019016,
+      "updatedAt": 1790185187672,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -631,9 +631,9 @@
         "quickPresetDefaults": {
           "shape": "hexagon",
           "spawnWidth": 226.9512,
-          "spawnHeight": 231.30239999999998,
+          "spawnHeight": 230.7168,
           "colorMode": "tools",
-          "badgePosition": "bottomRight",
+          "badgePosition": "bottomLeft",
           "badgeShape": "circle"
         },
         "quickPresetTemplates": {
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "HOW MUCH ?!!!",
-            "textValue": "ROLL DICE!!! \nDRINKS GIVEN TO YOU ARE \n1-2 X2\n3-4 X4\n5-6 X6",
+            "titleValue": "UNLUCKY",
+            "textValue": "IF YOU DIDN'T ROLL A 3 OR 6 TO LAND ON THIS SPOT MOVE BACK 1",
             "textSizing": "custom",
-            "titleFontSize": 20,
-            "bodyFontSize": 19,
+            "titleFontSize": 40,
+            "bodyFontSize": 36,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -810,10 +810,10 @@
             "bodyLineHeight": 1.06,
             "bodyCharSpacing": 0,
             "showNumber": true,
-            "badgePosition": "bottomRight",
+            "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#46d1ff",
+              "surface": "#1d8b67",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -825,7 +825,7 @@
             "surfaceOpacity": 1,
             "styleLinkId": "",
             "width": 226.9512,
-            "height": 231.30239999999998
+            "height": 230.7168
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:37:01.366Z"
+  "updatedAt": "2026-09-23T17:39:49.999Z"
 }
