@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184237169,
+      "updatedAt": 1790184240091,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "TRIPPLE!!!",
-            "textValue": "DRINKS GIVEN TO YOU ARE X3",
+            "textValue": "DRINKS GIVEN TO YOU ON THIS SPACE ARE X2 ",
             "textSizing": "custom",
             "titleFontSize": 28,
             "bodyFontSize": 36,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:23:59.507Z"
+  "updatedAt": "2026-09-23T17:24:02.454Z"
 }
