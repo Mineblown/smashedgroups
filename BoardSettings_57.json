@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184190313,
+      "updatedAt": 1790184193285,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "DOUBLE!!!",
-            "textValue": "DRINK X2",
+            "textValue": "DRINK X2 ON",
             "textSizing": "custom",
             "titleFontSize": 25,
             "bodyFontSize": 36,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:23:12.678Z"
+  "updatedAt": "2026-09-23T17:23:15.622Z"
 }
