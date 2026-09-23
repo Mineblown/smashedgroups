@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184923615,
+      "updatedAt": 1790184946583,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -631,9 +631,9 @@
         "quickPresetDefaults": {
           "shape": "hexagon",
           "spawnWidth": 226.9512,
-          "spawnHeight": 230.7168,
+          "spawnHeight": 231.30239999999998,
           "colorMode": "tools",
-          "badgePosition": "bottomLeft",
+          "badgePosition": "bottomRight",
           "badgeShape": "circle"
         },
         "quickPresetTemplates": {
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "CHUG!!!",
-            "textValue": "GROUP DECIDES  (max.15s)",
-            "textSizing": "auto",
-            "titleFontSize": 46.8355104,
-            "bodyFontSize": 36.337896,
+            "titleValue": "HOW MUCH ?!!!",
+            "textValue": "ROLL DICE!!! \nDRINKS GIVEN TO YOU ARE \n1-2 X2\n3-4 X4\n5-6 X6",
+            "textSizing": "custom",
+            "titleFontSize": 20,
+            "bodyFontSize": 19,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -810,10 +810,10 @@
             "bodyLineHeight": 1.06,
             "bodyCharSpacing": 0,
             "showNumber": true,
-            "badgePosition": "bottomLeft",
+            "badgePosition": "bottomRight",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#1d8b67",
+              "surface": "#c0c0c0",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#ff0000",
@@ -825,7 +825,7 @@
             "surfaceOpacity": 1,
             "styleLinkId": "",
             "width": 226.9512,
-            "height": 230.7168
+            "height": 231.30239999999998
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:35:25.923Z"
+  "updatedAt": "2026-09-23T17:35:48.910Z"
 }
