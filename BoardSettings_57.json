@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184555092,
+      "updatedAt": 1790184557201,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "QUADRUPLE!!!",
-            "textValue": "DRINKS GIVEN TO YOU  ARE X4",
+            "textValue": "DRINKS GIVEN TO YOU ARE X4",
             "textSizing": "custom",
             "titleFontSize": 25,
             "bodyFontSize": 36,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:29:17.425Z"
+  "updatedAt": "2026-09-23T17:29:19.571Z"
 }
