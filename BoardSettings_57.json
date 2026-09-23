@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790184100635,
+      "updatedAt": 1790184104132,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "OPENHANDED!!",
-            "textValue": "TAKE 3\nGIVE 4",
+            "textValue": "TAKE 3\nGIVE 6",
             "textSizing": "custom",
             "titleFontSize": 24,
             "bodyFontSize": 36,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-23T17:21:43.010Z"
+  "updatedAt": "2026-09-23T17:21:46.501Z"
 }
