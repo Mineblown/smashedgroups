@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790442680266,
+      "updatedAt": 1790442682394,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "JAIL",
-            "textValue": "ROLL DICE \n!",
+            "textValue": "ROLL DICE \n1",
             "textSizing": "auto",
             "titleFontSize": 42.69625919999999,
             "bodyFontSize": 33.126408,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:11:22.352Z"
+  "updatedAt": "2026-09-26T17:11:24.589Z"
 }
