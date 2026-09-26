@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790447441832,
+      "updatedAt": 1790447448250,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -580,10 +580,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 1228.8,
-            "spawnHeight": 691.2,
-            "spawnScaleX": 0.64,
-            "spawnScaleY": 0.64,
+            "spawnWidth": 3193.6440249376988,
+            "spawnHeight": 1796.4247640274555,
+            "spawnScaleX": 1.6633562629883847,
+            "spawnScaleY": 1.6633562629883847,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -630,10 +630,10 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 207.328,
-          "spawnHeight": 210.3264,
+          "spawnWidth": 207.88900000000004,
+          "spawnHeight": 210.85439999999997,
           "colorMode": "tools",
-          "badgePosition": "bottomRight",
+          "badgePosition": "bottomLeft",
           "badgeShape": "circle"
         },
         "quickPresetTemplates": {
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "GIVE 3",
+            "titleValue": "TRIPLE T!!!",
+            "textValue": "ROLL DICE \n1-3 TAKE/GIVE 3\n4-6 TAKE/GIVE 9\n",
             "textSizing": "auto",
-            "titleFontSize": 42.58907519999999,
-            "bodyFontSize": 33.04324799999999,
+            "titleFontSize": 42.80344319999999,
+            "bodyFontSize": 33.209568,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -810,7 +810,7 @@
             "bodyLineHeight": 1.06,
             "bodyCharSpacing": 0,
             "showNumber": false,
-            "badgePosition": "bottomRight",
+            "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
               "surface": "#400080",
@@ -820,12 +820,12 @@
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
-              "surfaceOpacity": 1
+              "surfaceOpacity": 0.55
             },
-            "surfaceOpacity": 1,
+            "surfaceOpacity": 0.55,
             "styleLinkId": "",
-            "width": 207.328,
-            "height": 210.3264
+            "width": 207.88900000000004,
+            "height": 210.85439999999997
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T18:30:44.178Z"
+  "updatedAt": "2026-09-26T18:30:50.611Z"
 }
