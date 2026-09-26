@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790443624757,
+      "updatedAt": 1790443627635,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 240.8346102457231,
-          "spawnHeight": 244.3827575499762,
+          "spawnWidth": 230.7671865664781,
+          "spawnHeight": 233.8316307205073,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -795,8 +795,8 @@
             "titleValue": "JAIL",
             "textValue": "ROLL DICE \n1-2 DRINK 1\n3 CHUG 1s\n4-5 DRINK 3\n6 GET OUT OF JAIL",
             "textSizing": "auto",
-            "titleFontSize": 49.609699782645166,
-            "bodyFontSize": 38.490284314121254,
+            "titleFontSize": 47.46782103626297,
+            "bodyFontSize": 36.828481838479895,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 240.8346102457231,
-            "height": 244.3827575499762
+            "width": 230.7671865664781,
+            "height": 233.8316307205073
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:27:06.993Z"
+  "updatedAt": "2026-09-26T17:27:10.040Z"
 }
