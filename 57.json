@@ -68,18 +68,10 @@
   },
   "groupPhotosEnabled": true,
   "boardGames": {
-    "enabled": true,
-    "defaultBoardId": 4,
-    "activeBoardIds": [
-      4
-    ],
-    "activeBoards": [
-      {
-        "id": 4,
-        "name": "Mischief 1.0",
-        "image": "Board_4.png"
-      }
-    ]
+    "enabled": false,
+    "defaultBoardId": null,
+    "activeBoardIds": [],
+    "activeBoards": []
   },
   "spinbottle": {
     "categories": [
