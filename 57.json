@@ -68,10 +68,18 @@
   },
   "groupPhotosEnabled": true,
   "boardGames": {
-    "enabled": false,
-    "defaultBoardId": null,
-    "activeBoardIds": [],
-    "activeBoards": []
+    "enabled": true,
+    "defaultBoardId": 14,
+    "activeBoardIds": [
+      14
+    ],
+    "activeBoards": [
+      {
+        "id": 14,
+        "name": "Pink Bitch",
+        "image": "Board_14.png"
+      }
+    ]
   },
   "spinbottle": {
     "categories": [
