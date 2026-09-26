@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790442317781,
+      "updatedAt": 1790442321429,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 218.01091393501144,
-          "spawnHeight": 220.90596275309915,
+          "spawnWidth": 229.782396764585,
+          "spawnHeight": 232.83376352491598,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -795,8 +795,8 @@
             "titleValue": "Finish!!!",
             "textValue": "YOU WON!!!\nDrink 10\nGive 20",
             "textSizing": "auto",
-            "titleFontSize": 44.84391043887912,
-            "bodyFontSize": 34.792689133613116,
+            "titleFontSize": 47.265253995557934,
+            "bodyFontSize": 36.671317755174265,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 218.01091393501144,
-            "height": 220.90596275309915
+            "width": 229.782396764585,
+            "height": 232.83376352491598
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:05:20.014Z"
+  "updatedAt": "2026-09-26T17:05:23.644Z"
 }
