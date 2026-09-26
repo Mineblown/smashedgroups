@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790445929475,
+      "updatedAt": 1790445972740,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 207.57,
-          "spawnHeight": 210.3264,
+          "spawnWidth": 206.99800000000002,
+          "spawnHeight": 209.7984,
           "colorMode": "tools",
           "badgePosition": "bottomRight",
           "badgeShape": "circle"
@@ -793,10 +793,10 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "GIVE 5",
+            "textValue": "DRINK6",
             "textSizing": "auto",
-            "titleFontSize": 42.69625919999999,
-            "bodyFontSize": 33.126408,
+            "titleFontSize": 42.58907519999999,
+            "bodyFontSize": 33.04324799999999,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 207.57,
-            "height": 210.3264
+            "width": 206.99800000000002,
+            "height": 209.7984
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T18:05:32.660Z"
+  "updatedAt": "2026-09-26T18:06:16.050Z"
 }
