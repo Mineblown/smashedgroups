@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790443636793,
+      "updatedAt": 1790443651733,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 231.14784125858216,
-          "spawnHeight": 234.5532761709844,
+          "spawnWidth": 207.57000000000008,
+          "spawnHeight": 210.3264,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "JAIL",
-            "textValue": "ROLL DICE \n1-2 DRINK 1\n3 CHUG 1s\n4-5 DRINK 3\n6 GET OUT OF JAIL",
-            "textSizing": "auto",
-            "titleFontSize": 47.61431506270983,
-            "bodyFontSize": 36.94214099693004,
+            "titleValue": "HE'S REACHING",
+            "textValue": "GO TO JAIL",
+            "textSizing": "custom",
+            "titleFontSize": 30,
+            "bodyFontSize": 29,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -820,12 +820,12 @@
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
-              "surfaceOpacity": 1
+              "surfaceOpacity": 0.56
             },
-            "surfaceOpacity": 1,
+            "surfaceOpacity": 0.56,
             "styleLinkId": "",
-            "width": 231.14784125858216,
-            "height": 234.5532761709844
+            "width": 207.57000000000008,
+            "height": 210.3264
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:27:19.222Z"
+  "updatedAt": "2026-09-26T17:27:34.132Z"
 }
