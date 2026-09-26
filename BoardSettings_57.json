@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790444371153,
+      "updatedAt": 1790444373782,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DICE",
+            "titleValue": "ROLL DICE!!!",
             "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 42.80344319999999,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:39:33.360Z"
+  "updatedAt": "2026-09-26T17:39:36.023Z"
 }
