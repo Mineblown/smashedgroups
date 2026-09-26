@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790446471971,
+      "updatedAt": 1790446488908,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,10 +793,10 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "",
+            "textValue": "DRINK FOR EVERY LIGHT ON ",
             "textSizing": "auto",
-            "titleFontSize": 42.58907519999999,
-            "bodyFontSize": 33.04324799999999,
+            "titleFontSize": 42.69625919999999,
+            "bodyFontSize": 33.126408,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T18:14:34.348Z"
+  "updatedAt": "2026-09-26T18:14:52.443Z"
 }
