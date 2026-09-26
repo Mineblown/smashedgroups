@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790443068915,
+      "updatedAt": 1790443073177,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -794,9 +794,9 @@
             "colorMode": "tools",
             "titleValue": "HES REACHING",
             "textValue": "GO TO JAIL",
-            "textSizing": "auto",
-            "titleFontSize": 42.69625919999999,
-            "bodyFontSize": 33.126408,
+            "textSizing": "custom",
+            "titleFontSize": 43,
+            "bodyFontSize": 29,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:17:51.297Z"
+  "updatedAt": "2026-09-26T17:17:55.619Z"
 }
