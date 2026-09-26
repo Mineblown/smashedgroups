@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790444750082,
+      "updatedAt": 1790444754360,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 208.197,
-          "spawnHeight": 211.3728,
+          "spawnWidth": 207.889,
+          "spawnHeight": 210.85439999999997,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "DOUBLE",
-            "textValue": "DRINK 6 AND EVERY DRINK GIVEN TO YOU IS X2",
-            "textSizing": "auto",
-            "titleFontSize": 42.9086784,
-            "bodyFontSize": 33.291216,
+            "titleValue": "TRIPLE!!!",
+            "textValue": "DRINK 6 AND EVERY DRINK GIVEN TO YOU IS X6",
+            "textSizing": "custom",
+            "titleFontSize": 41,
+            "bodyFontSize": 33,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 208.197,
-            "height": 211.3728
+            "width": 207.889,
+            "height": 210.85439999999997
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:45:52.464Z"
+  "updatedAt": "2026-09-26T17:45:56.750Z"
 }
