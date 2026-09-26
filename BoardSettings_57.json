@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790447006359,
+      "updatedAt": 1790447009636,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -820,9 +820,9 @@
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
-              "surfaceOpacity": 0.78
+              "surfaceOpacity": 0.55
             },
-            "surfaceOpacity": 0.78,
+            "surfaceOpacity": 0.55,
             "styleLinkId": "",
             "width": 207.88900000000004,
             "height": 210.85439999999997
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T18:23:28.546Z"
+  "updatedAt": "2026-09-26T18:23:31.974Z"
 }
