@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790446267202,
+      "updatedAt": 1790446272793,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -794,9 +794,9 @@
             "colorMode": "tools",
             "titleValue": "",
             "textValue": "EVERYBODY\nTAKES 2",
-            "textSizing": "auto",
-            "titleFontSize": 42.69625919999999,
-            "bodyFontSize": 33.126408,
+            "textSizing": "custom",
+            "titleFontSize": 43,
+            "bodyFontSize": 26,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T18:11:09.862Z"
+  "updatedAt": "2026-09-26T18:11:14.987Z"
 }
