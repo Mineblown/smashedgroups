@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790445284256,
+      "updatedAt": 1790445289248,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "ROLL DICE!!!",
-            "textValue": "1-2 TAKE 2\n3-4 GIVE 2\n5-6 BUDDYSHOT",
+            "textValue": "1-2 TAKE 2\n3-4 GIVE 2\n5-6 ",
             "textSizing": "auto",
             "titleFontSize": 42.69625919999999,
             "bodyFontSize": 33.126408,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:54:46.596Z"
+  "updatedAt": "2026-09-26T17:54:51.583Z"
 }
