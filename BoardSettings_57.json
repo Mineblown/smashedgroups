@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790442995824,
+      "updatedAt": 1790442998049,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "GOT CAUGHT",
-            "textValue": "G",
+            "textValue": "GO TO ",
             "textSizing": "auto",
             "titleFontSize": 42.69625919999999,
             "bodyFontSize": 33.126408,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:16:38.086Z"
+  "updatedAt": "2026-09-26T17:16:40.266Z"
 }
