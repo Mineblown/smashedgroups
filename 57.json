@@ -68,10 +68,18 @@
   },
   "groupPhotosEnabled": true,
   "boardGames": {
-    "enabled": false,
-    "defaultBoardId": null,
-    "activeBoardIds": [],
-    "activeBoards": []
+    "enabled": true,
+    "defaultBoardId": 2,
+    "activeBoardIds": [
+      2
+    ],
+    "activeBoards": [
+      {
+        "id": 2,
+        "name": "MISHIEF 2.0",
+        "image": "Board_2.png"
+      }
+    ]
   },
   "spinbottle": {
     "categories": [
