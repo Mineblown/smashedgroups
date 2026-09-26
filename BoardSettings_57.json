@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1790442936177,
+      "updatedAt": 1790442940393,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -796,7 +796,7 @@
             "textValue": "ROLL DICE \n1-2 DRINK 1\n3 CHUG 1s\n4-5 DRINK 3\n6 GET OUT OF JAIL",
             "textSizing": "auto",
             "titleFontSize": 50,
-            "bodyFontSize": 41.904424214613144,
+            "bodyFontSize": 41.888448,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-09-26T17:15:38.564Z"
+  "updatedAt": "2026-09-26T17:15:42.832Z"
 }
