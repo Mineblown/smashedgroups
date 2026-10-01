@@ -173,9 +173,15 @@
     "enabled": true,
     "defaultBoardId": 10,
     "activeBoardIds": [
+      8,
       10
     ],
     "activeBoards": [
+      {
+        "id": 8,
+        "name": "LuckyBastard",
+        "image": "Board_8.png"
+      },
       {
         "id": 10,
         "name": "OG Liver Killer",
