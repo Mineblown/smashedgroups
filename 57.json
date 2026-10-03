@@ -89,13 +89,19 @@
     "enabled": true,
     "defaultBoardId": 2,
     "activeBoardIds": [
-      2
+      2,
+      4
     ],
     "activeBoards": [
       {
         "id": 2,
         "name": "MISHIEF 2.0",
         "image": "Board_2.png"
+      },
+      {
+        "id": 4,
+        "name": "Mischief 1.0",
+        "image": "Board_4.png"
       }
     ]
   },
