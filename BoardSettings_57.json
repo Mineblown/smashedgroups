@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791038431869,
+      "updatedAt": 1791038441139,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -796,7 +796,7 @@
             "textValue": "WATERFALL!!!",
             "textSizing": "custom",
             "titleFontSize": 43,
-            "bodyFontSize": 23,
+            "bodyFontSize": 16,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T14:40:33.746Z"
+  "updatedAt": "2026-10-03T14:40:42.837Z"
 }
