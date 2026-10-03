@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791040363116,
+      "updatedAt": 1791040367791,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -794,9 +794,9 @@
             "colorMode": "tools",
             "titleValue": "ROLL DICE !!!",
             "textValue": "",
-            "textSizing": "auto",
-            "titleFontSize": 30.024816499999993,
-            "bodyFontSize": 23.295116249999996,
+            "textSizing": "custom",
+            "titleFontSize": 26,
+            "bodyFontSize": 23,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T15:12:45.993Z"
+  "updatedAt": "2026-10-03T15:12:50.557Z"
 }
