@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791041142611,
+      "updatedAt": 1791041148279,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -516,7 +516,7 @@
             "dashSpacing": 1
           },
           "text": {
-            "fill": "#80ff00",
+            "fill": "#0080c0",
             "stroke": "#334155",
             "strokeWidth": 2,
             "opacity": 1,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T15:25:44.694Z"
+  "updatedAt": "2026-10-03T15:25:49.908Z"
 }
