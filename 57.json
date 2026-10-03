@@ -91,6 +91,7 @@
     "activeBoardIds": [
       2,
       4,
+      8,
       10,
       14
     ],
@@ -104,6 +105,11 @@
         "id": 4,
         "name": "Mischief 1.0",
         "image": "Board_4.png"
+      },
+      {
+        "id": 8,
+        "name": "LuckyBastard",
+        "image": "Board_8.png"
       },
       {
         "id": 10,
