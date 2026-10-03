@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791038885428,
+      "updatedAt": 1791038886857,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -948,7 +948,7 @@
         },
         "grid": {
           "size": 12,
-          "snapObjectsTogether": false,
+          "snapObjectsTogether": true,
           "opacity": 15,
           "guideOpacity": 100
         },
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T14:48:07.093Z"
+  "updatedAt": "2026-10-03T14:48:08.562Z"
 }
