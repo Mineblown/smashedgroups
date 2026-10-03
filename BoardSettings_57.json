@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791038454807,
+      "updatedAt": 1791038471966,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,10 +793,10 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "WATERFALL!!!",
-            "textSizing": "custom",
-            "titleFontSize": 43,
-            "bodyFontSize": 16,
+            "textValue": "FOLLOW RED ARROW\nAND TAKE 1",
+            "textSizing": "auto",
+            "titleFontSize": 30.162684844037905,
+            "bodyFontSize": 23.4020830686501,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T14:40:56.643Z"
+  "updatedAt": "2026-10-03T14:41:13.623Z"
 }
