@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791040097946,
+      "updatedAt": 1791040099487,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "ROLL DICE!!!",
-            "textValue": "1-2 GO LEFT\n3 DRINK 3\n4-5 GO RIGHT\n6 GO UÜ OR RIGHT\n",
+            "textValue": "1-2 GO LEFT\n3 DRINK 3\n4-5 GO RIGHT\n6 GO UP OR RIGHT\n",
             "textSizing": "auto",
             "titleFontSize": 30.0908524,
             "bodyFontSize": 23.346351000000002,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T15:08:19.611Z"
+  "updatedAt": "2026-10-03T15:08:21.182Z"
 }
