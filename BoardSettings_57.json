@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791040314777,
+      "updatedAt": 1791040328272,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -525,7 +525,7 @@
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
             "spawnWidth": 530.36,
-            "spawnHeight": 207.0272,
+            "spawnHeight": 427.2416,
             "spawnScaleX": 1,
             "spawnScaleY": 1,
             "fontFamily": "Rubik",
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 146.16910000000001,
-          "spawnHeight": 148.23080000000002,
+          "spawnWidth": 146.0709,
+          "spawnHeight": 147.9055,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DICE!!!",
-            "textValue": "1-2 UP\n3 DRINK 3\n4-5 GO DOWN\n6 GO UP OR DOWN\n",
+            "titleValue": "",
+            "textValue": "FOLLOW RED ARROW\nAND TAKE 1",
             "textSizing": "auto",
-            "titleFontSize": 30.0908524,
-            "bodyFontSize": 23.346351000000002,
+            "titleFontSize": 30.092314,
+            "bodyFontSize": 23.347485,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 146.16910000000001,
-            "height": 148.23080000000002
+            "width": 146.0709,
+            "height": 147.9055
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T15:11:56.379Z"
+  "updatedAt": "2026-10-03T15:12:10.087Z"
 }
