@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791038471966,
+      "updatedAt": 1791038489511,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 146.3522236209018,
-          "spawnHeight": 148.58465440412763,
+          "spawnWidth": 146.1357148101349,
+          "spawnHeight": 148.22024476938228,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "FOLLOW RED ARROW\nAND TAKE 1",
-            "textSizing": "auto",
-            "titleFontSize": 30.162684844037905,
-            "bodyFontSize": 23.4020830686501,
+            "titleValue": "HE'S REACHING",
+            "textValue": "GO TO JAIL",
+            "textSizing": "custom",
+            "titleFontSize": 30,
+            "bodyFontSize": 29,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -820,12 +820,12 @@
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
-              "surfaceOpacity": 1
+              "surfaceOpacity": 0.56
             },
-            "surfaceOpacity": 1,
+            "surfaceOpacity": 0.56,
             "styleLinkId": "",
-            "width": 146.3522236209018,
-            "height": 148.58465440412763
+            "width": 146.1357148101349,
+            "height": 148.22024476938228
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T14:41:13.623Z"
+  "updatedAt": "2026-10-03T14:41:31.547Z"
 }
