@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791038506078,
+      "updatedAt": 1791038526368,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 146.13571481013489,
-          "spawnHeight": 148.22024476938228,
+          "spawnWidth": 146.3522236209018,
+          "spawnHeight": 148.58465440412763,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "HE'S REACHING",
-            "textValue": "GO TO JAIL",
+            "titleValue": "",
+            "textValue": "BUDDYSHOT\nX5",
             "textSizing": "custom",
-            "titleFontSize": 30,
-            "bodyFontSize": 29,
+            "titleFontSize": 43,
+            "bodyFontSize": 16,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -820,12 +820,12 @@
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
-              "surfaceOpacity": 0.56
+              "surfaceOpacity": 1
             },
-            "surfaceOpacity": 0.56,
+            "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 146.13571481013489,
-            "height": 148.22024476938228
+            "width": 146.3522236209018,
+            "height": 148.58465440412763
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T14:41:47.904Z"
+  "updatedAt": "2026-10-03T14:42:08.207Z"
 }
