@@ -90,7 +90,8 @@
     "defaultBoardId": 2,
     "activeBoardIds": [
       2,
-      4
+      4,
+      14
     ],
     "activeBoards": [
       {
@@ -102,6 +103,11 @@
         "id": 4,
         "name": "Mischief 1.0",
         "image": "Board_4.png"
+      },
+      {
+        "id": 14,
+        "name": "Pink Bitch",
+        "image": "Board_14.png"
       }
     ]
   },
