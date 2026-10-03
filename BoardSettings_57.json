@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791039338740,
+      "updatedAt": 1791039342630,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "FOLLOW GREEN LINE ",
+            "textValue": "FOLLOW GREEN LINE \n",
             "textSizing": "auto",
             "titleFontSize": 29.882107499999993,
             "bodyFontSize": 23.184393749999995,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-03T14:55:40.898Z"
+  "updatedAt": "2026-10-03T14:55:44.543Z"
 }
