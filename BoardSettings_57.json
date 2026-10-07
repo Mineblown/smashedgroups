@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791415327206,
+      "updatedAt": 1791415331663,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -796,7 +796,7 @@
             "textValue": "1-3 DRINK 5\n4-6 GIVE 5",
             "textSizing": "custom",
             "titleFontSize": 43,
-            "bodyFontSize": 23,
+            "bodyFontSize": 15,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-07T23:22:09.270Z"
+  "updatedAt": "2026-10-07T23:22:13.715Z"
 }
