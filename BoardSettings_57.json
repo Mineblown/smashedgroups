@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791409997735,
+      "updatedAt": 1791410005130,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -794,9 +794,9 @@
             "colorMode": "tools",
             "titleValue": "",
             "textValue": "MOVING UP GIVE 3\nMOVING DOWN TAKE 3",
-            "textSizing": "auto",
-            "titleFontSize": 29.818467,
-            "bodyFontSize": 23.1350175,
+            "textSizing": "custom",
+            "titleFontSize": 30,
+            "bodyFontSize": 10,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-07T21:53:19.871Z"
+  "updatedAt": "2026-10-07T21:53:27.271Z"
 }
