@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791415770764,
+      "updatedAt": 1791415780297,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "ROLL DICE !!!",
-            "textValue": "1-5 TAKE 2\n6 FOLLOW RED ARROW",
+            "textValue": "1-5 TAKE 2\n6 MOBV",
             "textSizing": "custom",
             "titleFontSize": 26,
             "bodyFontSize": 23,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-07T23:29:32.824Z"
+  "updatedAt": "2026-10-07T23:29:42.380Z"
 }
