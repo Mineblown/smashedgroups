@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791416106021,
+      "updatedAt": 1791416109351,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "TAKE",
+            "titleValue": "TAKE 4",
             "textValue": "FOLLOW RED ARROW",
             "textSizing": "auto",
             "titleFontSize": 29.756755,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-07T23:35:08.069Z"
+  "updatedAt": "2026-10-07T23:35:11.515Z"
 }
