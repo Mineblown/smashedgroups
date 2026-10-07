@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791414263149,
+      "updatedAt": 1791414287644,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -461,17 +461,17 @@
           },
           "line": {
             "fill": "#8b5cf6",
-            "stroke": "#ff0000",
+            "stroke": "#00ff40",
             "strokeWidth": 12,
             "opacity": 1,
             "fillOpacity": 1,
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 49.649389073334426,
-            "spawnHeight": 5.16,
-            "spawnScaleX": 0.27,
-            "spawnScaleY": 0.43,
+            "spawnWidth": 55.05078436151694,
+            "spawnHeight": 6.839999999999998,
+            "spawnScaleX": 0.3,
+            "spawnScaleY": 0.5699999999999998,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -489,7 +489,7 @@
           },
           "arrow": {
             "fill": "#8b5cf6",
-            "stroke": "#ff0000",
+            "stroke": "#00ff40",
             "strokeWidth": 12,
             "opacity": 1,
             "fillOpacity": 1,
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DICE!!!",
+            "titleValue": "MOVE DOWN!!!",
             "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 29.756755,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#0000ff",
+              "surface": "#ff0000",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-07T23:04:25.201Z"
+  "updatedAt": "2026-10-07T23:04:49.775Z"
 }
