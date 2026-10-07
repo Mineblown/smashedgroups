@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791414242649,
+      "updatedAt": 1791414249826,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "MOVE DOWN!!!",
+            "titleValue": "ROLL DICE!!!",
             "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 29.756755,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#ff0000",
+              "surface": "#0000ff",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-07T23:04:04.718Z"
+  "updatedAt": "2026-10-07T23:04:11.910Z"
 }
