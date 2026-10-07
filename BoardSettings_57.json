@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791410840738,
+      "updatedAt": 1791410852811,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,8 +792,8 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "MOVE DOWN!!!",
-            "textValue": "",
+            "titleValue": "",
+            "textValue": "DRINK 3",
             "textSizing": "auto",
             "titleFontSize": 29.818467,
             "bodyFontSize": 23.1350175,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-07T22:07:22.929Z"
+  "updatedAt": "2026-10-07T22:07:34.942Z"
 }
