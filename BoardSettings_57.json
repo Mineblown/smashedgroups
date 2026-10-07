@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791410715805,
+      "updatedAt": 1791410731778,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -468,10 +468,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 50.43857153425353,
-            "spawnHeight": 5.242018763460065,
-            "spawnScaleX": 0.2742916794833755,
-            "spawnScaleY": 0.43683489695500544,
+            "spawnWidth": 49.649389073334426,
+            "spawnHeight": 5.16,
+            "spawnScaleX": 0.27,
+            "spawnScaleY": 0.43,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -496,10 +496,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 9.925781506635403,
-            "spawnHeight": 17.669999999999998,
-            "spawnScaleX": 0.08000000000000003,
-            "spawnScaleY": 0.31,
+            "spawnWidth": 11.42943442628064,
+            "spawnHeight": 16.529999999999994,
+            "spawnScaleX": 0.08,
+            "spawnScaleY": 0.28999999999999987,
             "fontFamily": "Inter",
             "fontSize": 84,
             "lineHeight": 1.16,
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.35150000000002,
-          "spawnHeight": 146.585,
+          "spawnWidth": 145.47140000000002,
+          "spawnHeight": 146.889,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DICE!!!",
+            "titleValue": "",
             "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 29.756755,
-            "bodyFontSize": 23.0871375,
+            "titleFontSize": 29.882107499999993,
+            "bodyFontSize": 23.184393749999995,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#0000ff",
+              "surface": "#400080",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 145.35150000000002,
-            "height": 146.585
+            "width": 145.47140000000002,
+            "height": 146.889
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-07T22:05:17.955Z"
+  "updatedAt": "2026-10-07T22:05:33.963Z"
 }
