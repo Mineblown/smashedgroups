@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791927074573,
+      "updatedAt": 1791927078733,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL",
+            "titleValue": "ROLL DICE",
             "textValue": "GIVE OUT WHAT IT LANDS ON X2",
             "textSizing": "auto",
             "titleFontSize": 29.818467,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:31:14.900Z"
+  "updatedAt": "2026-10-13T21:31:19.097Z"
 }
