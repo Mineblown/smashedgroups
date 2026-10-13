@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791924391142,
+      "updatedAt": 1791924392581,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "DRINK 4X F WHAT THE PREVIOUS PLAYER ROLLED",
+            "textValue": "DRINK 4X WHAT THE PREVIOUS PLAYER ROLLED",
             "textSizing": "auto",
             "titleFontSize": 29.756755,
             "bodyFontSize": 23.0871375,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T20:46:31.509Z"
+  "updatedAt": "2026-10-13T20:46:32.974Z"
 }
