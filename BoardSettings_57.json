@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791925251644,
+      "updatedAt": 1791925255158,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DICE!!!",
+            "titleValue": "ROLL DIE!!!",
             "textValue": "ROLL TWICE MOVE ONLY IF BOTH ARE ODD OR BOTH EVEN OTHERWISE DRINK 4",
             "textSizing": "custom",
             "titleFontSize": 30,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:00:52.044Z"
+  "updatedAt": "2026-10-13T21:00:55.552Z"
 }
