@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791921485949,
+      "updatedAt": 1791921490144,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,10 +793,10 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "DOUBLE",
-            "textValue": "DRINK 2 AND EVERY DRINK GIVEN TO YOU IS X2",
+            "textValue": "X2",
             "textSizing": "auto",
-            "titleFontSize": 30.0187671,
-            "bodyFontSize": 23.290422750000005,
+            "titleFontSize": 29.951533499999996,
+            "bodyFontSize": 23.23825875,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T19:58:06.444Z"
+  "updatedAt": "2026-10-13T19:58:10.646Z"
 }
