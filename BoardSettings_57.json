@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791927086975,
+      "updatedAt": 1791927121802,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,8 +792,8 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DICE!!!",
-            "textValue": "GIVE OUT WHAT IT LANDS ON X2",
+            "titleValue": "ROLL DICE!",
+            "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 29.818467,
             "bodyFontSize": 23.1350175,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#0000ff",
+              "surface": "#400080",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:31:27.368Z"
+  "updatedAt": "2026-10-13T21:32:02.239Z"
 }
