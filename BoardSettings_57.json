@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791925891544,
+      "updatedAt": 1791925894917,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -796,7 +796,7 @@
             "textValue": "CHUG TILL NEXT PLAYER ROLLS THE DICE",
             "textSizing": "custom",
             "titleFontSize": 30,
-            "bodyFontSize": 22,
+            "bodyFontSize": 17,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:11:32.953Z"
+  "updatedAt": "2026-10-13T21:11:35.278Z"
 }
