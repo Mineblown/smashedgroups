@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791925058560,
+      "updatedAt": 1791925060088,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "DOOM!!!",
-            "textValue": "",
+            "textValue": "UNTIL YOUR NEXT TURN: MATCH EVERY DRINK GIVEN OR TAKEN",
             "textSizing": "auto",
             "titleFontSize": 29.946681799999997,
             "bodyFontSize": 23.2344945,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T20:57:38.962Z"
+  "updatedAt": "2026-10-13T20:57:40.449Z"
 }
