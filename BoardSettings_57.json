@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791925531860,
+      "updatedAt": 1791925535220,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "DRINK  FOR EVERY PLAYER AHEAD OF YOU",
+            "textValue": "DRINK 1 FOR EVERY PLAYER AHEAD OF YOU",
             "textSizing": "auto",
             "titleFontSize": 29.756755,
             "bodyFontSize": 23.0871375,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:05:32.302Z"
+  "updatedAt": "2026-10-13T21:05:35.870Z"
 }
