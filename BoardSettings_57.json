@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791926324460,
+      "updatedAt": 1791926329219,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "ROLL DICE!!!",
-            "textValue": "ROLL TWICE IF YOU ROLLE ",
+            "textValue": "ROLL TWICE IF YOU ROLLED ",
             "textSizing": "auto",
             "titleFontSize": 29.818467,
             "bodyFontSize": 23.1350175,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:18:44.871Z"
+  "updatedAt": "2026-10-13T21:18:51.701Z"
 }
