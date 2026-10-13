@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791923467393,
+      "updatedAt": 1791923470823,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "ROLL DICE!!!",
-            "textValue": "ODD FINISH 25% \n",
+            "textValue": "ODD FINISH 25% \nEVEN",
             "textSizing": "custom",
             "titleFontSize": 30,
             "bodyFontSize": 16,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T20:31:07.787Z"
+  "updatedAt": "2026-10-13T20:31:11.229Z"
 }
