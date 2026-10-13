@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791921018522,
+      "updatedAt": 1791921025711,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -525,7 +525,7 @@
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
             "spawnWidth": 397.77,
-            "spawnHeight": 54.12975,
+            "spawnHeight": 37.561125000000004,
             "spawnScaleX": 0.75,
             "spawnScaleY": 0.75,
             "fontFamily": "Rubik",
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.47140000000002,
-          "spawnHeight": 146.889,
+          "spawnWidth": 146.0273,
+          "spawnHeight": 147.896,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "",
+            "titleValue": "ROLL DICE!!!",
+            "textValue": "1-2 UP\n3 DRINK 3\n4-5 GO DOWN\n6 GO UP OR DOWN\n",
             "textSizing": "auto",
-            "titleFontSize": 29.882107499999993,
-            "bodyFontSize": 23.184393749999995,
+            "titleFontSize": 30.0908524,
+            "bodyFontSize": 23.346351000000002,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#400080",
+              "surface": "#ffff00",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 145.47140000000002,
-            "height": 146.889
+            "width": 146.0273,
+            "height": 147.896
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T19:50:18.968Z"
+  "updatedAt": "2026-10-13T19:50:26.150Z"
 }
