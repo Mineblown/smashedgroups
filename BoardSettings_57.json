@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791926091116,
+      "updatedAt": 1791926100992,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,10 +793,10 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "",
+            "textValue": "NO SPEAKING UNTIL YOUR NEXT TURN. EACH WORD 1 SHOT",
             "textSizing": "auto",
-            "titleFontSize": 29.882107499999993,
-            "bodyFontSize": 23.184393749999995,
+            "titleFontSize": 29.818467,
+            "bodyFontSize": 23.1350175,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:14:51.466Z"
+  "updatedAt": "2026-10-13T21:15:01.360Z"
 }
