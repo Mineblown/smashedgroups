@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791926392485,
+      "updatedAt": 1791926396227,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "ROLL DICE!!!",
-            "textValue": "ROLL TWICE IF YOU ROLLED THE SAME NUMBER GIVE OUT THE SUM DRINK THE SUM IF TWO ",
+            "textValue": "ROLL TWICE IF YOU ROLLED THE SAME NUMBER GIVE OUT THE SUM DRINK THE SUM IF TWO DIFFER",
             "textSizing": "auto",
             "titleFontSize": 29.818467,
             "bodyFontSize": 23.1350175,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:19:52.803Z"
+  "updatedAt": "2026-10-13T21:19:56.585Z"
 }
