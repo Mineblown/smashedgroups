@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791926799819,
+      "updatedAt": 1791926828161,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.5223,
-          "spawnHeight": 147.1588,
+          "spawnWidth": 145.23160000000001,
+          "spawnHeight": 146.28099999999998,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "DOUBLE!!!",
-            "textValue": "X2",
+            "titleValue": "ROLL DICE!!!",
+            "textValue": "ROLL TWICE MOVE ONLY IF BOTH ARE ODD OR BOTH EVEN OTHERWISE DRINK 4",
             "textSizing": "custom",
-            "titleFontSize": 21,
-            "bodyFontSize": 23,
+            "titleFontSize": 30,
+            "bodyFontSize": 18,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,8 +813,8 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#800040",
-              "border": "#b8b8ff",
+              "surface": "#ffff00",
+              "border": "#c0c0c0",
               "borderWidth": 3,
               "badge": "#1e3a8a",
               "titleFill": "#ffffff",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 145.5223,
-            "height": 147.1588
+            "width": 145.23160000000001,
+            "height": 146.28099999999998
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:26:40.192Z"
+  "updatedAt": "2026-10-13T21:27:08.548Z"
 }
