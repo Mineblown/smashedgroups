@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791927030758,
+      "updatedAt": 1791927061744,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DICE!!!",
+            "titleValue": "",
             "textValue": "GIVE OUT WHAT IT LANDS ON",
             "textSizing": "auto",
             "titleFontSize": 29.818467,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#0000ff",
+              "surface": "#400080",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:30:31.091Z"
+  "updatedAt": "2026-10-13T21:31:02.205Z"
 }
