@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791921444867,
+      "updatedAt": 1791921464650,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,10 +792,10 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "QUINTUPLE!!!",
-            "textValue": "X5",
+            "titleValue": "QUADRUPLE!!!!",
+            "textValue": "X4",
             "textSizing": "custom",
-            "titleFontSize": 16,
+            "titleFontSize": 22,
             "bodyFontSize": 33,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T19:57:25.292Z"
+  "updatedAt": "2026-10-13T19:57:45.119Z"
 }
