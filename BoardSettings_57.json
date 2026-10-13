@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791925255158,
+      "updatedAt": 1791925271784,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,8 +792,8 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DIE!!!",
-            "textValue": "ROLL TWICE MOVE ONLY IF BOTH ARE ODD OR BOTH EVEN OTHERWISE DRINK 4",
+            "titleValue": "ROLL DICE!!!",
+            "textValue": "ROLL TWICE MOVE ONLY IF BOTH ARE ODD OR BOTH EVEN OTHERWISE DRINK 2",
             "textSizing": "custom",
             "titleFontSize": 30,
             "bodyFontSize": 18,
@@ -814,7 +814,7 @@
             "badgeShape": "circle",
             "styleOverrides": {
               "surface": "#ffff00",
-              "border": "#c0c0c0",
+              "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
               "titleFill": "#ffffff",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:00:55.552Z"
+  "updatedAt": "2026-10-13T21:01:12.238Z"
 }
