@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791926126824,
+      "updatedAt": 1791926282606,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,8 +792,8 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "NO SPEAKING UNTIL YOUR NEXT TURN EACH WORD 2 DRINKS",
+            "titleValue": "ROLL DICE",
+            "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 29.818467,
             "bodyFontSize": 23.1350175,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:15:27.164Z"
+  "updatedAt": "2026-10-13T21:18:03.040Z"
 }
