@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791925232044,
+      "updatedAt": 1791925239217,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "UNTIL YOUR NEXT TURN: MATCH EVERY DRINK ",
+            "titleValue": "",
             "textValue": "",
             "textSizing": "auto",
             "titleFontSize": 29.818467,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T21:00:32.461Z"
+  "updatedAt": "2026-10-13T21:00:39.650Z"
 }
