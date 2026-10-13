@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791923282552,
+      "updatedAt": 1791923284280,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DICE!!!",
-            "textValue": "ROLL 2 TIMES MOVE TO NEXT TILE IF BOTH ARE ODD OR EVEN\nIF BOTH ARENT ODD OR EVEN DRINK 4",
+            "titleValue": "",
+            "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 29.756755,
-            "bodyFontSize": 23.0871375,
+            "titleFontSize": 29.818467,
+            "bodyFontSize": 23.1350175,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -814,7 +814,7 @@
             "badgeShape": "circle",
             "styleOverrides": {
               "surface": "#ffff00",
-              "border": "#c0c0c0",
+              "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
               "titleFill": "#ffffff",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T20:28:02.988Z"
+  "updatedAt": "2026-10-13T20:28:04.676Z"
 }
