@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1791921468521,
+      "updatedAt": 1791921472385,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,10 +792,10 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "QUADRUPLE!!!!",
-            "textValue": "X4",
+            "titleValue": "TRIPLE!!!",
+            "textValue": "DRINK 3 AND EVERY DRINK GIVEN TO YOU IS X3",
             "textSizing": "custom",
-            "titleFontSize": 10,
+            "titleFontSize": 41,
             "bodyFontSize": 33,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-13T19:57:48.956Z"
+  "updatedAt": "2026-10-13T19:57:52.866Z"
 }
