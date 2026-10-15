@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792051687758,
+      "updatedAt": 1792051877806,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -516,7 +516,7 @@
             "dashSpacing": 1
           },
           "text": {
-            "fill": "#004000",
+            "fill": "#0080c0",
             "stroke": "#000000",
             "strokeWidth": 2,
             "opacity": 1,
@@ -524,10 +524,10 @@
             "strokeGradientEnabled": false,
             "strokeGradientColor": "#38bdf8",
             "strokeGradientAngle": 0,
-            "spawnWidth": 399.77,
-            "spawnHeight": 50.081500000000005,
-            "spawnScaleX": 1,
-            "spawnScaleY": 1,
+            "spawnWidth": 269.5008,
+            "spawnHeight": 63.157215,
+            "spawnScaleX": 0.67,
+            "spawnScaleY": 0.67,
             "fontFamily": "Rubik",
             "fontSize": 23,
             "lineHeight": 0.85,
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.47140000000002,
-          "spawnHeight": 146.889,
+          "spawnWidth": 145.35150000000002,
+          "spawnHeight": 146.585,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -795,8 +795,8 @@
             "titleValue": "",
             "textValue": "",
             "textSizing": "auto",
-            "titleFontSize": 29.882107499999993,
-            "bodyFontSize": 23.184393749999995,
+            "titleFontSize": 29.818467,
+            "bodyFontSize": 23.1350175,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 145.47140000000002,
-            "height": 146.889
+            "width": 145.35150000000002,
+            "height": 146.585
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-15T08:08:07.972Z"
+  "updatedAt": "2026-10-15T08:11:18.996Z"
 }
