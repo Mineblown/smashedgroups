@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792051422029,
+      "updatedAt": 1792051442526,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "HONORROUND!!!",
-            "textValue": "ROLL DICE AGAIN IF YOU ROLL THE SAME NUMBER YOU ROLLED TO GET HERE GO BACK TO START",
-            "textSizing": "custom",
-            "titleFontSize": 12,
-            "bodyFontSize": 23,
+            "titleValue": "",
+            "textValue": "DRINK 1 FOR EVERY PLAYER AHEAD OF YOU",
+            "textSizing": "auto",
+            "titleFontSize": 29.818467,
+            "bodyFontSize": 23.1350175,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-15T08:03:42.250Z"
+  "updatedAt": "2026-10-15T08:04:03.743Z"
 }
