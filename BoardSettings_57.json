@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792052410964,
+      "updatedAt": 1792052414233,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -529,7 +529,7 @@
             "spawnScaleX": 1,
             "spawnScaleY": 1,
             "fontFamily": "Rubik",
-            "fontSize": 17,
+            "fontSize": 15,
             "lineHeight": 0.85,
             "charSpacing": 0,
             "fontWeight": "bold",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-15T08:20:11.143Z"
+  "updatedAt": "2026-10-15T08:20:14.433Z"
 }
