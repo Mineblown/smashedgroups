@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792052702177,
+      "updatedAt": 1792052706545,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "I SEE DOUBLE",
-            "textValue": "TAKE 2X THE PLAYERS",
+            "textValue": "TAKE 2X THE PLAYER COUNT",
             "textSizing": "custom",
             "titleFontSize": 24,
             "bodyFontSize": 23,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-15T08:25:02.453Z"
+  "updatedAt": "2026-10-15T08:25:06.898Z"
 }
