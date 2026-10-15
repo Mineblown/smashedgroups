@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792051256851,
+      "updatedAt": 1792051259723,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "ROLL DICE AGAIN IF YOU ROLL THE SAME NUMBER YOU ROLLED",
+            "textValue": "ROLL DICE AGAIN IF YOU ROLL THE SAME NUMBER YOU ROLLED TO ",
             "textSizing": "auto",
             "titleFontSize": 29.756755,
             "bodyFontSize": 23.0871375,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-15T08:00:57.074Z"
+  "updatedAt": "2026-10-15T08:00:59.975Z"
 }
