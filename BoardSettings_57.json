@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792053034262,
+      "updatedAt": 1792053035950,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,10 +793,10 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "MAKE FRANCIS PROUD",
-            "textValue": "",
-            "textSizing": "auto",
-            "titleFontSize": 29.818467,
-            "bodyFontSize": 23.1350175,
+            "textValue": "TAKE 1 FOR EACH PAIR OF EXPOSED ASS CHEEKS IN THIS ROOM",
+            "textSizing": "custom",
+            "titleFontSize": 23,
+            "bodyFontSize": 20,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-15T08:30:34.386Z"
+  "updatedAt": "2026-10-15T08:30:36.143Z"
 }
