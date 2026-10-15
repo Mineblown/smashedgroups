@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792053078984,
+      "updatedAt": 1792053083235,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -793,7 +793,7 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "GIVE 1 FOR EVERY PLAYER BEHIND YOU",
+            "textValue": "GIVE 2 FOR EVERY PLAYER BEHIND YOU",
             "textSizing": "auto",
             "titleFontSize": 29.818467,
             "bodyFontSize": 23.1350175,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-15T08:31:19.158Z"
+  "updatedAt": "2026-10-15T08:31:23.371Z"
 }
