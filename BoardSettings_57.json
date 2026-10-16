@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792137511095,
+      "updatedAt": 1792137515945,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.35150000000002,
-          "spawnHeight": 146.585,
+          "spawnWidth": 145.23160000000001,
+          "spawnHeight": 146.28099999999998,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,10 +792,10 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "MR. OFFFICER",
-            "textValue": "SEND SOMEONE TO JAIL",
+            "titleValue": "MR. OFFICER",
+            "textValue": "SEND SOMEONE TO JAIL ",
             "textSizing": "custom",
-            "titleFontSize": 22,
+            "titleFontSize": 25,
             "bodyFontSize": 23,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
@@ -820,12 +820,12 @@
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
-              "surfaceOpacity": 0.7
+              "surfaceOpacity": 1
             },
-            "surfaceOpacity": 0.7,
+            "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 145.35150000000002,
-            "height": 146.585
+            "width": 145.23160000000001,
+            "height": 146.28099999999998
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T07:58:32.536Z"
+  "updatedAt": "2026-10-16T07:58:37.389Z"
 }
