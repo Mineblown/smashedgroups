@@ -19,5 +19,20 @@
   "owners": [],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/202",
-  "active": true
+  "active": true,
+  "billboardData": {
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/202_billboard_atlas.png?v=1792138062841",
+    "images": [
+      {
+        "name": "Round Table Banner PNG.png",
+        "uv": [
+          0,
+          0,
+          0.5,
+          1
+        ]
+      }
+    ]
+  },
+  "groupPhotosEnabled": true
 }
