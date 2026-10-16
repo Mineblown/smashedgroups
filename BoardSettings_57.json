@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792135563131,
+      "updatedAt": 1792135569854,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.5223,
-          "spawnHeight": 147.1588,
+          "spawnWidth": 145.35150000000002,
+          "spawnHeight": 146.585,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "HE'S REACHING",
-            "textValue": "GO TO JAIL",
+            "titleValue": "MAKE FRANCIS PROUD",
+            "textValue": "TAKE 2 FOR EACH PAIR OF EXPOSED ASS CHEEKS IN THIS ROOM",
             "textSizing": "custom",
-            "titleFontSize": 30,
-            "bodyFontSize": 29,
+            "titleFontSize": 23,
+            "bodyFontSize": 20,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -820,12 +820,12 @@
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
-              "surfaceOpacity": 0.56
+              "surfaceOpacity": 1
             },
-            "surfaceOpacity": 0.56,
+            "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 145.5223,
-            "height": 147.1588
+            "width": 145.35150000000002,
+            "height": 146.585
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T07:26:04.658Z"
+  "updatedAt": "2026-10-16T07:26:11.385Z"
 }
