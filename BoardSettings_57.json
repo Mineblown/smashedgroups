@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792136328940,
+      "updatedAt": 1792136386513,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.47140000000002,
-          "spawnHeight": 146.889,
+          "spawnWidth": 145.35150000000002,
+          "spawnHeight": 146.585,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -793,18 +793,18 @@
             "shape": "hexagon",
             "colorMode": "tools",
             "titleValue": "",
-            "textValue": "PICK SOMEONE TO MOVE BACK 3 YOU BOTH DO WHAT THEY LAND ON ",
-            "textSizing": "custom",
-            "titleFontSize": 23,
-            "bodyFontSize": 15,
+            "textValue": "E",
+            "textSizing": "auto",
+            "titleFontSize": 29.756755,
+            "bodyFontSize": 23.0871375,
             "titleFontWeight": "bold",
-            "titleFontStyle": "italic",
+            "titleFontStyle": "normal",
             "titleUnderline": false,
             "titleLinethrough": false,
             "titleLineHeight": 1,
             "titleCharSpacing": 0,
             "bodyFontWeight": "bold",
-            "bodyFontStyle": "italic",
+            "bodyFontStyle": "normal",
             "bodyUnderline": false,
             "bodyLinethrough": false,
             "bodyLineHeight": 1.06,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#400080",
+              "surface": "#004000",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 145.47140000000002,
-            "height": 146.889
+            "width": 145.35150000000002,
+            "height": 146.585
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T07:38:50.398Z"
+  "updatedAt": "2026-10-16T07:39:47.965Z"
 }
