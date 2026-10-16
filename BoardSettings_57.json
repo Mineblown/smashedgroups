@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792136938317,
+      "updatedAt": 1792136944551,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.47140000000002,
-          "spawnHeight": 146.889,
+          "spawnWidth": 145.23160000000001,
+          "spawnHeight": 146.28099999999998,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "WATERFALL",
-            "textSizing": "custom",
-            "titleFontSize": 30,
-            "bodyFontSize": 21,
+            "titleValue": "DOOM!!!",
+            "textValue": "UNTIL YOUR NEXT TURN: MATCH EVERY DRINK GIVEN OR TAKEN",
+            "textSizing": "auto",
+            "titleFontSize": 29.69504299999999,
+            "bodyFontSize": 23.039257499999998,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,19 +813,19 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#400080",
+              "surface": "#000000",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
-              "surfaceOpacity": 1
+              "surfaceOpacity": 0.41
             },
-            "surfaceOpacity": 1,
+            "surfaceOpacity": 0.41,
             "styleLinkId": "",
-            "width": 145.47140000000002,
-            "height": 146.889
+            "width": 145.23160000000001,
+            "height": 146.28099999999998
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T07:48:59.840Z"
+  "updatedAt": "2026-10-16T07:49:06.094Z"
 }
