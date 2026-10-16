@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792135810022,
+      "updatedAt": 1792135815644,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -795,7 +795,7 @@
             "titleValue": "I SEE DOUBLE",
             "textValue": "TAKE 2X THE PLAYER COUNT",
             "textSizing": "custom",
-            "titleFontSize": 30,
+            "titleFontSize": 23,
             "bodyFontSize": 15,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T07:30:11.477Z"
+  "updatedAt": "2026-10-16T07:30:17.148Z"
 }
