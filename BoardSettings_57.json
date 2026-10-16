@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792135856484,
+      "updatedAt": 1792135860792,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,19 +792,19 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "I SEE DOUBLE",
             "textValue": "",
-            "textSizing": "auto",
-            "titleFontSize": 29.818467,
-            "bodyFontSize": 23.1350175,
+            "textSizing": "custom",
+            "titleFontSize": 23,
+            "bodyFontSize": 15,
             "titleFontWeight": "bold",
-            "titleFontStyle": "normal",
+            "titleFontStyle": "italic",
             "titleUnderline": false,
             "titleLinethrough": false,
             "titleLineHeight": 1,
             "titleCharSpacing": 0,
             "bodyFontWeight": "bold",
-            "bodyFontStyle": "normal",
+            "bodyFontStyle": "italic",
             "bodyUnderline": false,
             "bodyLinethrough": false,
             "bodyLineHeight": 1.06,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T07:30:57.931Z"
+  "updatedAt": "2026-10-16T07:31:02.347Z"
 }
