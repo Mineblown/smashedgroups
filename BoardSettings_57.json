@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792136034019,
+      "updatedAt": 1792136041751,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -794,9 +794,9 @@
             "colorMode": "tools",
             "titleValue": "BUDDY?",
             "textValue": "BUDDYSHOT X5",
-            "textSizing": "auto",
-            "titleFontSize": 29.818467,
-            "bodyFontSize": 23.1350175,
+            "textSizing": "custom",
+            "titleFontSize": 30,
+            "bodyFontSize": 18,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T07:33:55.628Z"
+  "updatedAt": "2026-10-16T07:34:03.206Z"
 }
