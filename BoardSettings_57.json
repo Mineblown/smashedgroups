@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792135794993,
+      "updatedAt": 1792135798202,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -792,7 +792,7 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
+            "titleValue": "I SEE ",
             "textValue": "TAKE 2X THE PLAYER COUNT",
             "textSizing": "custom",
             "titleFontSize": 30,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T07:29:56.455Z"
+  "updatedAt": "2026-10-16T07:29:59.686Z"
 }
