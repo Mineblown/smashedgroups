@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792137526553,
+      "updatedAt": 1792137535177,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.23160000000001,
-          "spawnHeight": 146.28099999999998,
+          "spawnWidth": 145.52229999999997,
+          "spawnHeight": 147.1588,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "MR. OFFICER",
-            "textValue": "SEND SOMEONE TO JAIL ",
+            "titleValue": "HE'S REACHING",
+            "textValue": "GO TO JAIL",
             "textSizing": "custom",
-            "titleFontSize": 25,
-            "bodyFontSize": 23,
+            "titleFontSize": 30,
+            "bodyFontSize": 29,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,19 +813,19 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#0080c0",
+              "surface": "#400080",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
               "titleFill": "#ffffff",
               "textFill": "#ffffff",
               "numberFill": "#ffffff",
-              "surfaceOpacity": 0.7
+              "surfaceOpacity": 0.63
             },
-            "surfaceOpacity": 0.7,
+            "surfaceOpacity": 0.63,
             "styleLinkId": "",
-            "width": 145.23160000000001,
-            "height": 146.28099999999998
+            "width": 145.52229999999997,
+            "height": 147.1588
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-16T07:58:47.996Z"
+  "updatedAt": "2026-10-16T07:58:56.633Z"
 }
