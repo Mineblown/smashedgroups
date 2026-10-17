@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792259086833,
+      "updatedAt": 1792259114727,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.23160000000001,
-          "spawnHeight": 146.28099999999998,
+          "spawnWidth": 144.8828,
+          "spawnHeight": 145.41649999999998,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "",
-            "textValue": "EVERYONE TAKES 2",
-            "textSizing": "auto",
-            "titleFontSize": 29.756755,
-            "bodyFontSize": 23.0871375,
+            "titleValue": "ROLL DICE!!!",
+            "textValue": "1 MOVE UP\n2-3 GIVE 3\n4-5 DRINK 3\n6 GIVE 5",
+            "textSizing": "custom",
+            "titleFontSize": 30,
+            "bodyFontSize": 21,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -813,7 +813,7 @@
             "badgePosition": "bottomLeft",
             "badgeShape": "circle",
             "styleOverrides": {
-              "surface": "#004000",
+              "surface": "#0000ff",
               "border": "#b8b8ff",
               "borderWidth": 3,
               "badge": "#1e3a8a",
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 145.23160000000001,
-            "height": 146.28099999999998
+            "width": 144.8828,
+            "height": 145.41649999999998
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-17T17:44:49.589Z"
+  "updatedAt": "2026-10-17T17:45:17.897Z"
 }
