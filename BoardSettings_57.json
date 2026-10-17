@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792259432553,
+      "updatedAt": 1792259435659,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -796,7 +796,7 @@
             "textValue": "ROLL TWICE MOVE ONLY IF BOTH ARE ODD OR BOTH EVEN OTHERWISE DRINK 2",
             "textSizing": "custom",
             "titleFontSize": 30,
-            "bodyFontSize": 19,
+            "bodyFontSize": 18,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-17T17:50:35.118Z"
+  "updatedAt": "2026-10-17T17:50:38.043Z"
 }
