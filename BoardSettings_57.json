@@ -7,7 +7,7 @@
       "id": "sp_msf4slyr_xdqfwy",
       "name": "Default",
       "createdAt": 1785876561459,
-      "updatedAt": 1792259466296,
+      "updatedAt": 1792259480164,
       "settings": {
         "version": 1,
         "toolStyles": {
@@ -630,8 +630,8 @@
         },
         "quickPresetDefaults": {
           "shape": "hexagon",
-          "spawnWidth": 145.8856,
-          "spawnHeight": 147.5635,
+          "spawnWidth": 145.6676,
+          "spawnHeight": 146.9365,
           "colorMode": "tools",
           "badgePosition": "bottomLeft",
           "badgeShape": "circle"
@@ -792,11 +792,11 @@
           "action": {
             "shape": "hexagon",
             "colorMode": "tools",
-            "titleValue": "ROLL DICE!!!",
-            "textValue": "1-2 GO 1 UP\n3 DRINK 3\n4-5 GO 1 DOWN\n6 GO 1 UP OR DOWN\n",
+            "titleValue": "ROLL DICE !!!",
+            "textValue": "1-4 TAKE 2\n5-6 MOVE 1 DOWN",
             "textSizing": "custom",
-            "titleFontSize": 30,
-            "bodyFontSize": 37,
+            "titleFontSize": 26,
+            "bodyFontSize": 15,
             "titleFontWeight": "bold",
             "titleFontStyle": "normal",
             "titleUnderline": false,
@@ -824,8 +824,8 @@
             },
             "surfaceOpacity": 1,
             "styleLinkId": "",
-            "width": 145.8856,
-            "height": 147.5635
+            "width": 145.6676,
+            "height": 146.9365
           },
           "start": {
             "shape": "roundedRect",
@@ -984,5 +984,5 @@
       }
     }
   ],
-  "updatedAt": "2026-10-17T17:51:08.715Z"
+  "updatedAt": "2026-10-17T17:51:22.717Z"
 }
