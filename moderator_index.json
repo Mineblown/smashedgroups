@@ -525,10 +525,6 @@
     {
       "id": 3,
       "name": "Smashed Official"
-    },
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
     }
   ],
   "WJgames": [
@@ -2822,6 +2818,12 @@
     }
   ],
   "♡Jinnie♡": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "SpookySummoner": [
     {
       "id": 75,
       "name": "Zero Sobriety"
