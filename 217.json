@@ -16,8 +16,13 @@
   "patreon": "",
   "rules": "",
   "infoBoard": "",
-  "moderators": [],
-  "owners": [],
+  "moderators": [
+    "Ethereal_Nyx",
+    "Queenofdemons29"
+  ],
+  "owners": [
+    "Ethereal_Nyx"
+  ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/217"
 }
