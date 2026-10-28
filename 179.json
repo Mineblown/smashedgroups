@@ -16,15 +16,16 @@
   "infoBoard": "",
   "moderators": [
     "Mega_Anonymoose",
-    "ʚSproutsieɞ",
+    "DecaySchulz",
     "༒ Rеsolve ༒",
-    "Virgo4u",
     "zencat__",
     "~Kiska~",
+    "ʚSproutSchulzɞ",
+    "ʚSproutsieɞ",
+    "Virgo4u",
     "EpsiAI",
     "Komɪ",
     "KoffynQT",
-    "DecaySchulz",
     "Cʜᴀʀᴍʏ",
     "°ʚStrawberryɞ°",
     "Esmeräy"
@@ -32,7 +33,7 @@
   "owners": [
     "Mega_Anonymoose",
     "DecaySchulz",
-    "ʚSproutsieɞ"
+    "ʚSproutSchulzɞ"
   ],
   "coOwners": [],
   "landingPageUrl": "https://vrclink.com/u/179",
@@ -53,5 +54,6 @@
     ]
   },
   "groupPhotosEnabled": true,
-  "atlasApprovedOn": "2026-08-04"
+  "atlasApprovedOn": "2026-08-04",
+  "editorTheme": "default"
 }
