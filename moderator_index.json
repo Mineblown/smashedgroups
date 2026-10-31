@@ -387,12 +387,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 179,
-      "name": "Gxy for Decay"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "Dukeslice": [
@@ -1261,12 +1261,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 179,
-      "name": "Gxy for Decay"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "The OG TopRamen": [
@@ -1303,12 +1303,12 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
-      "id": 179,
-      "name": "Gxy for Decay"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "BurntUrSandwich": [
@@ -1847,12 +1847,12 @@
       "name": "Zero Sobriety"
     },
     {
-      "id": 179,
-      "name": "Gxy for Decay"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "TidSprinkls": [
@@ -2089,12 +2089,12 @@
       "name": "ZODIAC COMMUNITY"
     },
     {
-      "id": 179,
-      "name": "Gxy for Decay"
-    },
-    {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "pinky da duck": [
@@ -2295,12 +2295,6 @@
     {
       "id": 164,
       "name": "ZODIAC COMMUNITY"
-    }
-  ],
-  "Mega_Anonymoose": [
-    {
-      "id": 179,
-      "name": "Gxy for Decay"
     }
   ],
   "NaughteeNoodle": [
@@ -2735,6 +2729,42 @@
       "name": "Zero Sobriety"
     }
   ],
+  "༒ TωєякTacø ༒": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>SHxTTY</color>"
+    }
+  ],
+  "Cipherlicious": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>SHxTTY</color>"
+    }
+  ],
+  "Blazinn420": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>SHxTTY</color>"
+    }
+  ],
+  "༺༻°࿇ＫＹＲ Ø ࿇°༺༻": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>SHxTTY</color>"
+    }
+  ],
+  "༺ K A I D A ༻": [
+    {
+      "id": 13,
+      "name": "<color=#ff0000>SHxTTY</color>"
+    }
+  ],
+  "Mega_Anonymoose": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
   "ʚSproutSchulzɞ": [
     {
       "id": 179,
@@ -2775,36 +2805,6 @@
     {
       "id": 179,
       "name": "Gxy for Decay"
-    }
-  ],
-  "༒ TωєякTacø ༒": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>SHxTTY</color>"
-    }
-  ],
-  "Cipherlicious": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>SHxTTY</color>"
-    }
-  ],
-  "Blazinn420": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>SHxTTY</color>"
-    }
-  ],
-  "༺༻°࿇ＫＹＲ Ø ࿇°༺༻": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>SHxTTY</color>"
-    }
-  ],
-  "༺ K A I D A ༻": [
-    {
-      "id": 13,
-      "name": "<color=#ff0000>SHxTTY</color>"
     }
   ]
 }
