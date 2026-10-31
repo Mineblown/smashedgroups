@@ -3,5 +3,26 @@
   "tos": {
     "version": "1.2",
     "acceptedOn": "2026-10-31T01:08:15.291Z"
-  }
+  },
+  "groupName": "Drunken Haven",
+  "editorTheme": "default",
+  "tagline": "",
+  "discord": "",
+  "vrchat": "https://vrc.group/ALC420.7079",
+  "youtube": "",
+  "tiktok": "",
+  "instagram": "",
+  "x": "",
+  "patreon": "",
+  "rules": "",
+  "infoBoard": "",
+  "moderators": [
+    "ViggieVR",
+    "Carrick"
+  ],
+  "owners": [
+    "ViggieVR"
+  ],
+  "coOwners": [],
+  "landingPageUrl": "https://vrclink.com/u/222"
 }
