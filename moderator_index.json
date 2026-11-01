@@ -765,16 +765,16 @@
       "name": "Smashed Official"
     },
     {
-      "id": 66,
-      "name": "Virtual Vixens"
-    },
-    {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
     }
   ],
   "Shazik": [
@@ -2491,54 +2491,6 @@
       "name": "Spyco's Doofus Squad"
     }
   ],
-  "_Fluffles": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "Skyla-style8854": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "ღWickedkittenღ": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "ItzZombait": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "༒CookieMonster༒": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "~ Sylvie ~": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "~Ashtoria~": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
-  "sorceresstaco": [
-    {
-      "id": 66,
-      "name": "Virtual Vixens"
-    }
-  ],
   "Ethereal_Nyx": [
     {
       "id": 217,
@@ -2823,6 +2775,60 @@
     {
       "id": 222,
       "name": "Drunken Haven"
+    }
+  ],
+  "_Fluffles": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "Skyla-style8854": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "ღWickedkittenღ": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "ItzZombait": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "༒CookieMonster༒": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "~ Sylvie ~": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "~Ashtoria~": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "sorceresstaco": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
+    }
+  ],
+  "Blanketeer": [
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
     }
   ]
 }
