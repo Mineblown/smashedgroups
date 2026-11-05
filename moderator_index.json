@@ -769,12 +769,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 66,
-      "name": "Virtual Vixens"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 66,
+      "name": "Virtual Vixens"
     }
   ],
   "Shazik": [
@@ -2747,6 +2747,42 @@
       "name": "Drunken Haven"
     }
   ],
+  "Komreade": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "ˡᵉˢʰᵃ": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "Ashura Mikoto": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "༒WÈLÐZ༒": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "МΛLWΛЯ3": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
+  "Βlake": [
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
+    }
+  ],
   "_Fluffles": [
     {
       "id": 66,
@@ -2799,42 +2835,6 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
-    }
-  ],
-  "Komreade": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "ˡᵉˢʰᵃ": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "Ashura Mikoto": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "༒WÈLÐZ༒": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "МΛLWΛЯ3": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
-    }
-  ],
-  "Βlake": [
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
     }
   ]
 }
