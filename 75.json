@@ -69,12 +69,21 @@
   },
   "posterEnabled": false,
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/75_billboard_atlas.png?v=1764956832446",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/75_billboard_atlas.png?v=1794003493298",
     "images": [
       {
         "name": "COLLAB_1.png",
         "uv": [
           0,
+          0,
+          0.5,
+          1
+        ]
+      },
+      {
+        "name": "IMG_0527.jpg",
+        "uv": [
+          0.5,
           0,
           0.5,
           1
