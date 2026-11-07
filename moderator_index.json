@@ -387,12 +387,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 179,
-      "name": "Gxy for Decay"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "Dukeslice": [
@@ -1261,12 +1261,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 179,
-      "name": "Gxy for Decay"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "The OG TopRamen": [
@@ -1847,12 +1847,12 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     },
     {
-      "id": 179,
-      "name": "Gxy for Decay"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ],
   "TidSprinkls": [
@@ -2633,54 +2633,6 @@
       "name": "<color=#ff0000>SHxTTY</color>"
     }
   ],
-  "Mega_Anonymoose": [
-    {
-      "id": 179,
-      "name": "Gxy for Decay"
-    }
-  ],
-  "ʚSproutSchulzɞ": [
-    {
-      "id": 179,
-      "name": "Gxy for Decay"
-    }
-  ],
-  "ʚSproutsieɞ": [
-    {
-      "id": 179,
-      "name": "Gxy for Decay"
-    }
-  ],
-  "EpsiAI": [
-    {
-      "id": 179,
-      "name": "Gxy for Decay"
-    }
-  ],
-  "Komɪ": [
-    {
-      "id": 179,
-      "name": "Gxy for Decay"
-    }
-  ],
-  "Cʜᴀʀᴍʏ": [
-    {
-      "id": 179,
-      "name": "Gxy for Decay"
-    }
-  ],
-  "°ʚStrawberryɞ°": [
-    {
-      "id": 179,
-      "name": "Gxy for Decay"
-    }
-  ],
-  "Esmeräy": [
-    {
-      "id": 179,
-      "name": "Gxy for Decay"
-    }
-  ],
   "ʚᴍ3ʟᴛ3ᴅʙᴜɴɴ13ɞ": [
     {
       "id": 52,
@@ -2879,6 +2831,54 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    }
+  ],
+  "Mega_Anonymoose": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "ʚSproutSchulzɞ": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "ʚSproutsieɞ": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "EpsiAI": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "Komɪ": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "Cʜᴀʀᴍʏ": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "°ʚStrawberryɞ°": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
+    }
+  ],
+  "Esmeräy": [
+    {
+      "id": 179,
+      "name": "Gxy for Decay"
     }
   ]
 }
