@@ -25,7 +25,7 @@
   ],
   "coOwners": [],
   "billboardData": {
-    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png?v=1785396252299",
+    "atlasUrl": "https://raw.githubusercontent.com/Mineblown/smashedgroups/main/1_billboard_atlas.png?v=1794515519413",
     "images": [
       {
         "name": "hirulogo.png",
@@ -33,7 +33,7 @@
           0,
           0,
           0.5,
-          0.2
+          0.25
         ]
       },
       {
@@ -42,70 +42,61 @@
           0.5,
           0,
           0.5,
-          0.2
+          0.25
         ]
       },
       {
         "name": "sansabar_txt.png",
         "uv": [
           0,
-          0.2,
+          0.25,
           0.5,
-          0.2
+          0.25
         ]
       },
       {
         "name": "AELA_txt.png",
         "uv": [
           0.5,
-          0.2,
+          0.25,
           0.5,
-          0.2
+          0.25
         ]
       },
       {
         "name": "AELA_logo.png",
         "uv": [
           0,
-          0.4,
           0.5,
-          0.2
+          0.5,
+          0.25
         ]
       },
       {
         "name": "difluxs_logo.png",
         "uv": [
           0.5,
-          0.4,
           0.5,
-          0.2
+          0.5,
+          0.25
         ]
       },
       {
         "name": "easdd.png",
         "uv": [
           0,
-          0.6000000000000001,
+          0.75,
           0.5,
-          0.2
+          0.25
         ]
       },
       {
         "name": "1417e91a-57d7-4fbf-8d84-d4ba1383a148.png",
         "uv": [
           0.5,
-          0.6000000000000001,
+          0.75,
           0.5,
-          0.2
-        ]
-      },
-      {
-        "name": "ChatGPT Image Mar 30, 2026, 03_11_02 PM.png",
-        "uv": [
-          0,
-          0.8,
-          0.5,
-          0.2
+          0.25
         ]
       }
     ]
