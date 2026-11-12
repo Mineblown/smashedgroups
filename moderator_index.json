@@ -59,12 +59,12 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
-      "id": 1,
-      "name": "Clean up Crew"
-    },
-    {
       "id": 52,
       "name": "Shot's Before Thot's"
+    },
+    {
+      "id": 1,
+      "name": "Clean up Crew"
     }
   ],
   "༒ＲＥＳＯＬＶＥ༒": [
@@ -363,10 +363,6 @@
       "name": "<b><color=#981DF5>ZENTAKA</color> <color=#ebeb04>CYBERNETICS</color>"
     },
     {
-      "id": 1,
-      "name": "Clean up Crew"
-    },
-    {
       "id": 51,
       "name": "Haven't seen you in a while"
     },
@@ -393,6 +389,10 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    },
+    {
+      "id": 1,
+      "name": "Clean up Crew"
     }
   ],
   "Dukeslice": [
@@ -1415,16 +1415,16 @@
   ],
   "NoWayDude96": [
     {
-      "id": 1,
-      "name": "Clean up Crew"
-    },
-    {
       "id": 3,
       "name": "Smashed Official"
     },
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
+    },
+    {
+      "id": 1,
+      "name": "Clean up Crew"
     }
   ],
   "Biology~": [
@@ -2321,18 +2321,6 @@
       "name": "Sloshed"
     }
   ],
-  "Eebu": [
-    {
-      "id": 1,
-      "name": "Clean up Crew"
-    }
-  ],
-  "aaaa": [
-    {
-      "id": 1,
-      "name": "Clean up Crew"
-    }
-  ],
   "Lord Bodhi": [
     {
       "id": 180,
@@ -2875,6 +2863,18 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
+    }
+  ],
+  "Eebu": [
+    {
+      "id": 1,
+      "name": "Clean up Crew"
+    }
+  ],
+  "aaaa": [
+    {
+      "id": 1,
+      "name": "Clean up Crew"
     }
   ]
 }
