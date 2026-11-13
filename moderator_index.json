@@ -387,12 +387,12 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     },
     {
-      "id": 75,
-      "name": "Zero Sobriety"
-    },
-    {
       "id": 1,
       "name": "Clean up Crew"
+    },
+    {
+      "id": 75,
+      "name": "Zero Sobriety"
     }
   ],
   "Dukeslice": [
@@ -419,10 +419,6 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
     }
   ],
   "․Skittles․": [
@@ -1853,10 +1849,6 @@
     {
       "id": 12,
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
-    },
-    {
-      "id": 75,
-      "name": "Zero Sobriety"
     }
   ],
   "TidSprinkls": [
@@ -2841,6 +2833,18 @@
       "name": "<b><color=purple>Moxxxi - Strip Club / Drinking"
     }
   ],
+  "Eebu": [
+    {
+      "id": 1,
+      "name": "Clean up Crew"
+    }
+  ],
+  "aaaa": [
+    {
+      "id": 1,
+      "name": "Clean up Crew"
+    }
+  ],
   "Komreade": [
     {
       "id": 75,
@@ -2863,18 +2867,6 @@
     {
       "id": 75,
       "name": "Zero Sobriety"
-    }
-  ],
-  "Eebu": [
-    {
-      "id": 1,
-      "name": "Clean up Crew"
-    }
-  ],
-  "aaaa": [
-    {
-      "id": 1,
-      "name": "Clean up Crew"
     }
   ]
 }
