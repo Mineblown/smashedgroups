@@ -1369,6 +1369,10 @@
     {
       "id": 13,
       "name": "<color=#ff0000>SHxTTY</color>"
+    },
+    {
+      "id": 224,
+      "name": "Don’t Think Just DRINK"
     }
   ],
   "slayerofmen": [
@@ -2597,15 +2601,9 @@
   ],
   "BigTruth": [
     {
-      "id": 224,
-      "name": "Don’t Think Just DRINK"
-    },
-    {
       "id": 75,
       "name": "Zero Sobriety"
-    }
-  ],
-  "Putrid fetus": [
+    },
     {
       "id": 224,
       "name": "Don’t Think Just DRINK"
@@ -2659,38 +2657,14 @@
       "name": "Gxy for Decay"
     }
   ],
-  "༒ƙıɛŋŋą༒ʂɧąɖơῳ༒": [
-    {
-      "id": 224,
-      "name": "Don’t Think Just DRINK"
-    }
-  ],
-  "Undead_Crypt": [
-    {
-      "id": 224,
-      "name": "Don’t Think Just DRINK"
-    }
-  ],
-  "candybubblesVT": [
-    {
-      "id": 224,
-      "name": "Don’t Think Just DRINK"
-    }
-  ],
-  "༒ Resolve ༒": [
-    {
-      "id": 224,
-      "name": "Don’t Think Just DRINK"
-    }
-  ],
   "pocketasian": [
-    {
-      "id": 224,
-      "name": "Don’t Think Just DRINK"
-    },
     {
       "id": 229,
       "name": "Bong Water Bandits"
+    },
+    {
+      "id": 224,
+      "name": "Don’t Think Just DRINK"
     }
   ],
   "｜мοԝ｜": [
@@ -2865,6 +2839,36 @@
     {
       "id": 66,
       "name": "Virtual Vixens"
+    }
+  ],
+  "Putrid fetus": [
+    {
+      "id": 224,
+      "name": "Don’t Think Just DRINK"
+    }
+  ],
+  "༒ƙıɛŋŋą༒ʂɧąɖơῳ༒": [
+    {
+      "id": 224,
+      "name": "Don’t Think Just DRINK"
+    }
+  ],
+  "Undead_Crypt": [
+    {
+      "id": 224,
+      "name": "Don’t Think Just DRINK"
+    }
+  ],
+  "candybubblesVT": [
+    {
+      "id": 224,
+      "name": "Don’t Think Just DRINK"
+    }
+  ],
+  "༒ Resolve ༒": [
+    {
+      "id": 224,
+      "name": "Don’t Think Just DRINK"
     }
   ]
 }
